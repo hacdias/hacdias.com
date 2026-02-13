@@ -11,6 +11,7 @@ tags:
   - life
   - university
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqn2gsb4h24
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfbp3de2q
 aliases:
   - /2020/10/01/september-2020/

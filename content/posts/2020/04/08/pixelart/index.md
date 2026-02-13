@@ -13,6 +13,7 @@ tags:
   - creative
   - pixel art
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqmyrsbjb2y
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseyk6o32g
 ---
 

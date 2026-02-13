@@ -8,6 +8,7 @@ tags:
   - privacy
   - reflections
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqmwzafsc26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseotc242q
 thumbnail: https://media.hacdias.com/2019-12-24-data-computer.jpeg
 ---
