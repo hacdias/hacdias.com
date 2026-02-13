@@ -1,7 +1,6 @@
 ---
 title: Drawing Experiments
 date: 2021-04-14T12:00:00Z
-thumbnail: image:2021-04-14-starry-sky
 categories:
   - writings
 tags:
@@ -9,7 +8,9 @@ tags:
   - creative
   - drawing
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merafgfabf2q
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseizu4x2d
+thumbnail: image:2021-04-14-starry-sky
 ---
 
 Sometimes I like trying to do something more creative, even if it doesn't work out. A few years ago, I decided that *thing* would be drawing. Since I was into using an iPad at the time, I decided installing [Procreate](https://procreate.com/) and trying some things.
