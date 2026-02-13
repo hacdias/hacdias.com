@@ -20,6 +20,8 @@ syndication:
 
 A [few months ago](/2025/03/03/recently/), I added the possibility to [POSSE](https://indieweb.org/POSSE "Publish (on your) Own Site, Syndicate Elsewhere") posts to Mastodon. Now, I just added Bluesky. At the time, I mentioned the API not being as simple, and that's why I put it off for so long. Looking in retrospect, it wasn't that bad, I think I was a bit intimidated.
 
+<!--more-->
+
 Bluesky and Mastodon have a lot of differences, and the fundamental way Bluesky works (the ATProtocol) makes it such that the essence of creating a post is very different. On Mastodon - or almost any other social media - you just call the API with the text and the server automatically detects links, mentions, etc. If needed, the server embeds a preview of the links in the post.
 
 However, on Bluesky, you need to manually configure all this things. The text is just plain text. You need to indicate where the URL is in the text, where it points to, which mentions exist, whether to embed a website, and if so, the thumbnail, the title, the description, etc.

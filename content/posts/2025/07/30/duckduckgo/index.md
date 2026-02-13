@@ -21,6 +21,8 @@ syndication:
 
 A few days ago, I [wrote](/2025/07/26/search-engines/) about my quest for a better search engine. For the past few months, I had been using Kagi, but I have since canceled the subscription. As a consequence, I returned back to DuckDuckGo. However, I felt it wasn't able to satisfy my needs... but was I right?
 
+<!--more-->
+
 I have received a few answer e-mails and I decided to give DuckDuckGo one more chance. In one of this e-mails, there was a tip, which revealed to be very useful: [Christof](https://chdorner.com/) suggested turning on the country toggle in order to improve the local results.
 
 I have no idea how I missed the existence of such toggle, since it's a very in the UI, but it seems to do the trick. Fortunately, it doesn't seem to affect more generic searches, so I can just keep it on the whole time.
