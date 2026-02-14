@@ -8,6 +8,7 @@ tags:
   - masters
   - university
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merb4oeur723
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsex7k7i2h
 ---
 

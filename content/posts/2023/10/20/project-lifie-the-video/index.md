@@ -9,6 +9,7 @@ tags:
   - milestones
   - personal growth
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merb5becdt2k
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsptkek324
   - https://fosstodon.org/@hacdias/111266075579921337
 feedContentWarning: true

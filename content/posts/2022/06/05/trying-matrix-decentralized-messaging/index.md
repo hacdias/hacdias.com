@@ -13,6 +13,7 @@ tags:
   - decentralization
   - matrix
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merb4wwbzi2q
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medso2pa2r2e
 ---
 
