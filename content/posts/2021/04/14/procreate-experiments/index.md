@@ -9,7 +9,7 @@ tags:
   - drawing
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merafgfabf2q
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseizu4x2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hzxpyblo22ct
 thumbnail: image:2021-04-14-starry-sky
 ---
 

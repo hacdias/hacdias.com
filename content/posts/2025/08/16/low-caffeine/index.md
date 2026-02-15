@@ -14,7 +14,7 @@ tags:
   - espresso coffee
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lwjxtpqaww23
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7vupsn26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lwjxowzk62f4
   - https://fosstodon.org/@hacdias/115039794249238012
 thumbnail: image:2025-08-08-latte-art
 ---

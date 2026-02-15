@@ -8,7 +8,7 @@ tags:
   - reviews
   - book reviews
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnmzaaa26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3iqaflxnsnqct
 rating: 5
 read:
   author: TJ Klune

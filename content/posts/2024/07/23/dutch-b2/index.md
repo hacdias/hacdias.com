@@ -9,7 +9,7 @@ tags:
   - milestones
   - personal growth
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszqsask2h
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kxxp2modo2f4
   - https://fosstodon.org/@hacdias/112837460150479515
 thumbnail: image:2024-07-23-staatsexamen-nt2-b2
 ---

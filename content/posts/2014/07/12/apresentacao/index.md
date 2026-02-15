@@ -8,7 +8,7 @@ tags:
   - meta
   - portugues
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsbuwoo42e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3bxzyb2dds2ct
 ---
 
 Olá!

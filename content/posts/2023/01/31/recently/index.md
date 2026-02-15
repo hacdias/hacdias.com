@@ -9,7 +9,7 @@ tags:
   - personal website
   - life
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsoyvzzz2h
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jnmp45cdxhln
 aliases:
   - /2023/01/31/january-23/
 ---

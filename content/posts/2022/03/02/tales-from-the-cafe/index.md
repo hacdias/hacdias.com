@@ -8,7 +8,7 @@ tags:
   - reviews
   - book reviews
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnw2oaa2y
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3itcgrsjlexct
 rating: 5
 read:
   author: Toshikazu Kawaguchi

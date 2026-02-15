@@ -6,7 +6,7 @@ categories:
 tags:
   - meta
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnnswtg26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3iqhdiruii7ct
 ---
 
 Lately, I have been [reading](/readings/) a bit more. Therefore, I wanted to be able to post more about it and track the progress. This is something I used to do before with Goodreads, but I have since stopped using it. The logical solution? Implement more features on my website. Why not?

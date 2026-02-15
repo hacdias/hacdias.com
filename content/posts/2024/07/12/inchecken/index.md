@@ -7,7 +7,7 @@ tags:
   - inchecken
   - nederlands
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszpyzrc2y
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kx33eytxtrf4
 ---
 
 Welkom bij de achtste deel van deze serie: vergeet niet om in te checken. In deze serie schrijf ik een beetje over mijn leven in het Nederlands. Vandaag ga ik het hebben over de afgelopen maand en ook een beetje over de laatste dagen.

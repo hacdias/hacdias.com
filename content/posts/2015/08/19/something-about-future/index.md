@@ -7,7 +7,7 @@ categories:
 tags:
   - reflections
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdtp6uh2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cxorfmhgk2ct
 ---
 
 A word can be a very powerful thing. A word can change lifes, a [word can destroy worlds][4], a word can lead us to other words, a word can make us stop breathing, a word can make us lively, a word can kill us. As you can see, each word is a very special thing. But I'm not here to talk about words, am I? No, I'm not, but I'm going to start with a word: **[time][0]**.

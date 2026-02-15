@@ -8,7 +8,7 @@ tags:
   - travel
   - personal website
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspmsnlx2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3k3t73zuv425c
 aliases:
   - /2023/07/31/july-23/
 ---

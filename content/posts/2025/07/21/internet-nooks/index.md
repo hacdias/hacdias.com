@@ -17,7 +17,7 @@ tags:
   - links
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3luibmfjgzp2x
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7fkeyv26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3luibjw5ns2f4
   - https://fosstodon.org/@hacdias/114891862996814585
   - https://news.indieweb.org/en
 ---

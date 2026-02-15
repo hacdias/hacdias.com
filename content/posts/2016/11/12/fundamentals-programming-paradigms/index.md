@@ -7,7 +7,7 @@ tags:
   - computer science
   - fundamentals of programming
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medse6zuzn26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3e33x6uvs22ct
 ---
 
 Every single programming language has its own characteristics

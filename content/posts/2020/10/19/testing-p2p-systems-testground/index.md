@@ -9,7 +9,7 @@ tags:
   - web3
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqn2m6f4i26
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfgsz4w2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hm24ouuj22ct
 ---
 
 "Test, test, test" is a well known sentence right now due to the current circumstances. However, it does not apply only to Covid-19 or other diseases. Testing is one word that all of us have dreamt - or had nightmares - about in the past. It is also one crucial part and step in the Software Engineering and Development process, as it allows to verify and ensure that a certain system behaves as expected. At least, for known cases!

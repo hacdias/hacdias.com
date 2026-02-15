@@ -8,7 +8,7 @@ tags:
   - sports
   - tracking
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspqjtod24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kbi5qmpmm25c
   - https://fosstodon.org/@hacdias/111218079645039127
 ---
 

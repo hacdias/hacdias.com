@@ -8,7 +8,7 @@ tags:
   - blog engine
   - meta
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfovw3i26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hul77oonk2ct
 ---
 
 Today I have been thinking about the possibility of writing my own CMS. A very simple CMS. I even hinted that on a small micro post today. This is not a new idea. I'm not going to look at the previous posts where I talked about this, but it's definitely at least 2 or 3.

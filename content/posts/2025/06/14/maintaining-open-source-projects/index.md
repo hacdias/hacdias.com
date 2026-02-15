@@ -14,7 +14,7 @@ tags:
   - reflections
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lrl3uuk5nj2v
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7632pk23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lrl3upoodtf4
   - https://fosstodon.org/@hacdias/114682042082736759
   - https://news.indieweb.org/en
 ---

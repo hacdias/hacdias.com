@@ -14,7 +14,7 @@ tags:
   - matrix
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merb4wwbzi2q
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medso2pa2r2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3j2raf7sfcdct
 ---
 
 Today I had quite some adventures with Matrix and decentralised messaging protocols. I thought about self-hosting an instance so I tried [Synapse](https://github.com/matrix-org/synapse), which is the _de facto_ Matrix implementation with all the features available. Quickly I understood that Synapse was too slow for a very tiny VPS so I tried [Dendrite](https://github.com/matrix-org/dendrite) which claims to be much more efficient.

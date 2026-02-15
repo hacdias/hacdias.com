@@ -6,7 +6,7 @@ categories:
 tags:
   - cycling
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszdfaev23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kpzka5kzwbf4
 ---
 
 The maximum temperature today - which means now - is around 24C and clear skies ☀️. I just got the not so unexpected urge to write something about biking. I say unexpected because I am back from a 40km ride from Eindhoven, to Oirschot, through Middelbeers and back.

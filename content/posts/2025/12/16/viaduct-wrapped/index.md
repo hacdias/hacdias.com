@@ -9,7 +9,7 @@ tags:
   - transit
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3ma3skxqon22o
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebyaeybam2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ma3sfr32u2f4
 ---
 
 This year, I discovered [viaduct](https://viaduct.world) , a service to track train rides. Since then, I've [been tracking](/2025/07/19/tracking-train-rides/) my train rides and I've imported most of the train rides I could remember or had some registry of. They now came up with a "wrapped" of this year and it's quite nice to look at!

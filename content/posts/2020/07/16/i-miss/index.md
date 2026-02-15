@@ -8,7 +8,7 @@ tags:
   - poetry
   - reflections
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsf4mkxn2s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hembyaruq2ct
 ---
 
 Last night before going to sleep... well actually while falling asleep I thought about writing this. It's such a basic poem, but lemme just share it here.

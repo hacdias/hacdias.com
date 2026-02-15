@@ -10,7 +10,7 @@ tags:
   - educational
   - language
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2mcjat2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lyrprx4ug2f4
 rating: 5
 read:
   author: Marco Neves

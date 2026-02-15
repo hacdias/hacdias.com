@@ -11,7 +11,7 @@ tags:
   - milestones
   - life
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsocyvm324
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jdzepzbbu3ln
 aliases:
   - /2022/10/01/september-22/
 ---

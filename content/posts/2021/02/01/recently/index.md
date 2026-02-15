@@ -10,7 +10,7 @@ tags:
   - covid19
   - life
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfnznxe2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hucaytik22ct
 aliases:
   - /2021/02/01/lessons-moving-during-pandemic/
 ---

@@ -6,7 +6,7 @@ categories:
 tags:
   - spotify wrapped
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt24cdms2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lcngvqo2i2f4
 ---
 
 It's that time of the year again, and Spotify Wrapped is back. Just like I did [last year](/2023/11/30/spotify-wrapped/), and the [year before](/2023/01/02/year-in-music/#spotify-wrapped), I decided to share the "results" from one year of listening to music here. As usual, I will do a better analysis at the beginning of next year with all the data from Last.fm.

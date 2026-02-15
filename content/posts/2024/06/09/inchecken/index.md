@@ -7,7 +7,7 @@ tags:
   - inchecken
   - nederlands
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszksei326
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kuihhr5do2f4
 ---
 
 Welkom bij de zevende deel van deze serie: vergeet niet om in te checken. In deze serie schrijf ik een beetje over mijn leven in het Nederlands. Vandaag gaan we het over mei en een beetje van het begin van juni hebben.

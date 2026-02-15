@@ -7,7 +7,7 @@ categories:
 tags:
   - portugal
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdhjpjw2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cbuyacv242ct
 ---
 
 Searching, exploring, walking, running, seeing, knowing, watching, meeting, taking photos, etc. All are verbs related with travelling which is one of the most amazing and *important* things in life.

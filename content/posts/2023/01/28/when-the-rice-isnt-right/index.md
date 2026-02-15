@@ -14,7 +14,7 @@ tags:
   - story time
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merb56to7g24
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsoxzwpl24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jndwhq4jhwln
 ---
 
 In the beginning of the month, I [wrote](/2023/01/06/when-you-dont-know-the-ingredients) about being a foreigner in the country you're living in, and the struggles we have to find ingredients to make dishes from our home country. It can be so frustrating! And well... it happened again!

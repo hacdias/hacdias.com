@@ -9,7 +9,7 @@ tags:
   - indieweb
   - open source
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspvstym2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kdtnzmifi25c
   - https://fosstodon.org/@hacdias/111461634857760294
   - https://news.indieweb.org/en
 ---

@@ -8,7 +8,7 @@ tags:
   - php
   - portugues
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdldkmf26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ceqw2rzoc2ct
 ---
 
 A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este maravilhoso (ou não) modelo MVC utilizando a linguagem de programação PHP.

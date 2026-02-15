@@ -6,7 +6,7 @@ categories:
 tags:
   - year in music
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnljvih2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3iokgs74v22ct
 aliases:
   - /2022/01/01/year-in-music-21/
 ---

@@ -15,7 +15,7 @@ tags:
   - links
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lunhvib5ro2w
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7hojbg24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lunhulglq2f4
   - https://fosstodon.org/@hacdias/114903564184021793
 ---
 

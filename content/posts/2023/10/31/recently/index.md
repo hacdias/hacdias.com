@@ -9,7 +9,7 @@ tags:
   - life
   - people
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspudis626
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kd2kwtina25c
   - https://fosstodon.org/@hacdias/111330175944628078
 aliases:
   - /2023/10/31/october-23/

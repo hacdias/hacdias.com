@@ -16,7 +16,7 @@ tags:
   - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lvahv4f4zc2d
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7m7soo24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lvahh2gq22f4
   - https://fosstodon.org/@hacdias/114946347646920360
 rating: 5
 thumbnail: image:2025-07-31-standart

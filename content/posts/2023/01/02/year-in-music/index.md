@@ -7,7 +7,7 @@ tags:
   - spotify wrapped
   - year in music
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsovsxbq26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jlcf3mbyllln
 aliases:
   - /2023/01/02/year-in-music-22/
 ---

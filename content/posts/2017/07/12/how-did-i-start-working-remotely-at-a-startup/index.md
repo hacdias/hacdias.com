@@ -7,7 +7,7 @@ categories:
 tags:
   - reflections
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsee3gmi26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3eo5olikzk2ct
 ---
 
 On 18th June 2015 I went to Lisbon to attend the [Landing

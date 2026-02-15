@@ -10,7 +10,7 @@ tags:
   - people
   - christmas
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsomsma626
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jiqdszqaguln
 aliases:
   - /2022/11/30/november-22/
 ---

@@ -6,7 +6,7 @@ categories:
 tags:
   - now
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnksxk626
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3iodnkt5p5dct
 aliases:
   - /2021/12/29/december-2021/
 ---

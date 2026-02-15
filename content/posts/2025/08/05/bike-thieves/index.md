@@ -14,7 +14,7 @@ tags:
   - theft
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lvnzjlfewd2k
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7qsd5w24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lvnzicjww2f4
   - https://fosstodon.org/@hacdias/114976862152780574
 thumbnail: image:2025-08-05-gazelle-esprit-t3
 ---

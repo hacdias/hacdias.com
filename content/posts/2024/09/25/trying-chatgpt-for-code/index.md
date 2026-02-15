@@ -8,7 +8,7 @@ tags:
   - machine learning
   - tools
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszvcbol2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l4ygdcxds2f4
 ---
 
 Yesterday I used ChatGPT for the first time. Well, that's not true. Let's rephrase: yesterday I used ChatGPT for the first time *to actually help me complete a task*. A boring tedious task. It did help me complete the task, but I'm still not very convinced on whether it was faster than doing it manually.

@@ -9,7 +9,7 @@ tags:
   - personal website
   - work
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspassyn23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3juo2vcfkc25c
 aliases:
   - /2023/05/01/april-23/
 ---

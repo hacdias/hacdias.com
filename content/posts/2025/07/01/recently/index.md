@@ -16,7 +16,7 @@ tags:
   - work
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lsvwdnmnsz2c
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7cc3232e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lsvwdijw6cf4
   - https://fosstodon.org/@hacdias/114778479714957652
 ---
 

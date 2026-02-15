@@ -16,7 +16,7 @@ tags:
   - netherlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lvpyi73vjc2q
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7shmlv26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lvpyeu5yk2f4
   - https://fosstodon.org/@hacdias/114981287847870042
 thumbnail: image:2025-08-06-rovisco-pais
 ---

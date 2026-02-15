@@ -9,7 +9,7 @@ tags:
   - sql
   - portugues
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medscwcy652b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3byenwnrqq2ct
 ---
 
 O sistema de base de dados **MySQL** é dos mais conhecidos mundialmente devido à sua facilidade, tanto de utilização como de implantação e ao facto de ser extremamente versátil.

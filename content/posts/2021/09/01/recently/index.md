@@ -9,7 +9,7 @@ tags:
   - covid19
   - life
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnesrgq2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3iex3arlif5ct
 aliases:
   - /2021/09/01/august-2021/
 ---

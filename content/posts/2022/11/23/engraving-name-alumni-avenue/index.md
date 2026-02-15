@@ -20,7 +20,7 @@ tags:
   - masters
   - university
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsokvydv2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ji5v5fsiw6ln
 ---
 
 My university has this thing called "Alumni Avenue". It's one of the air bridges between buildings, but this one is special. On this one, old masters students can engrave their names in the glass. On Monday, it was my turn, right before the graduation ceremony.

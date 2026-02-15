@@ -7,7 +7,7 @@ tags:
   - e mail
   - infrastructure
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsq5ddvj2q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3khz7ht76635c
 ---
 
 Some months ago, I dabbled with the idea of changing from [Migadu](https://migadu.com/) to a more generic e-mail solution that includes official support for CalDAV and CardDAV. After quite some time procrastinating, I have finally settled on trying out [Fastmail](https://www.fastmail.com/).

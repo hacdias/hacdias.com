@@ -9,7 +9,7 @@ tags:
   - php
   - portugues
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsczdav42q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3byw4a377a2ct
 ---
 
 É habitual utilizarem-se diversos operadores quando o assunto é programação. Existem vários até: aritméticos, comparativos e outros.

@@ -8,7 +8,7 @@ tags:
   - reflections
   - society
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdgooyt2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cbdenw4wa2ct
 ---
 
 Presently, the people love the objects. Sometimes, more than they love the people. Is this good? Or not?

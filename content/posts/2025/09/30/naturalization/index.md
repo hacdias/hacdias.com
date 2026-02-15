@@ -10,7 +10,7 @@ tags:
   - politics
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m22rovzvt22a
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya4e46624
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3m22rnicnm2f4
   - https://fosstodon.org/@hacdias/115293814184767508
 ---
 

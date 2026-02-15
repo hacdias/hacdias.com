@@ -8,7 +8,7 @@ tags:
   - javascript
   - nodejs
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdptcaf2b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cmncmty7u2ct
 ---
 
 Nowadays, **[node.js](https://nodejs.org/)** is one of the technologies which is always talked about when the subject is related with real-time applications or even [CLI ](http://en.wikipedia.org/wiki/Command-line_interface)(Command-line interface) apps.

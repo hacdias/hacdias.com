@@ -9,7 +9,7 @@ tags:
   - reviews
   - book reviews
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsopvmei2q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jkolj63y5gln
 rating: 4
 read:
   author: Elif Shafak

@@ -9,7 +9,7 @@ tags:
   - personal growth
   - reflections
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsqeotzr2q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kinfe4xc4m5c
   - https://fosstodon.org/@hacdias/111732926348776375
 thumbnail: image:2024-01-10-sun-bench
 ---

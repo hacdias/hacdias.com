@@ -7,7 +7,7 @@ categories:
 tags:
   - reflections
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdqkpvm2q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cn4jcv75y2ct
 ---
 
 If you've been following me through the past time,  you probably know I want to go further in technology field (if you didn't know, read my [about page](/about)). But it is not the unique thing I would like to be because there are 3 things I would like to be.

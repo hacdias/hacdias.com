@@ -7,7 +7,7 @@ tags:
   - year in music
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mecdqljhgc26
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mecdqlvybr26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mc4xbdaz22f4
 ---
 
 ![](https://media.hacdias.com/2021-05-01-vibing-music.gif "Cute entity listening to music")

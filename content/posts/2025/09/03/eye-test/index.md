@@ -13,7 +13,7 @@ tags:
   - health
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lxw24gkpmp2v
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya2drgg2q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lxw24bny7jf4
   - https://fosstodon.org/@hacdias/115139033263963574
 ---
 

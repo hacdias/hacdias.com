@@ -10,7 +10,7 @@ tags:
   - travel
   - life
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsz66u7z2b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kmkkthbyo2f4
 thumbnail: image:2024-02-29-vienna-inception
 ---
 

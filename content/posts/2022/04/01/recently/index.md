@@ -9,7 +9,7 @@ tags:
   - entertainment
   - artificial intelligence
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnxkkiw2s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ivmkic66n2ct
 aliases:
   - /2022/04/01/march-22/
 ---

@@ -9,7 +9,7 @@ tags:
   - workshops
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3l5y6tws3eg24
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6w5lf72b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l5y4wuei62f4
   - https://fosstodon.org/@hacdias/113270246172223056
 thumbnail: image:2024-10-08-cupping
 ---

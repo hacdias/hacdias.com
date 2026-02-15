@@ -9,7 +9,7 @@ tags:
   - life
   - people
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszwschr2b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l5febs7go2f4
 ---
 
 September is now almost gone and we're diving deeper and deeper into the autumn. Despite a few problems here and there, I think it was quite a nice month, and it's important to always try seeing things for their positive side, despite that now always being very easy.

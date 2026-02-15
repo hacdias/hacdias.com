@@ -9,7 +9,7 @@ tags:
   - people
   - milestones
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsogsunq2q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jgeqlildnxln
 aliases:
   - /2022/10/31/october-22/
 ---

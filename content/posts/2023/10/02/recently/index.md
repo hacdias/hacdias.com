@@ -9,7 +9,7 @@ tags:
   - people
   - life
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsppsmgb2h
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kaque4sds25c
 aliases:
   - /2023/10/02/september-23/
 ---

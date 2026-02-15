@@ -10,7 +10,7 @@ tags:
   - personal website
   - security
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseudc7526
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gyjgxs35k2ct
 ---
 
 For quite some time, I have been getting more and more into the IndieWeb world and trying to own my own data. I have started publishing more to my website and using it as a place to store most of my public data, i.e., data I already published on other social media and platforms.

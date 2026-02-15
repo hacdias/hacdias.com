@@ -8,7 +8,7 @@ tags:
   - meta
   - personal website
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspgvzhz2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jym5cdcysn5c
   - https://fosstodon.org/@hacdias/110597732852786375
 thumbnail: image:2023-06-20-small-elements-website-inspired-others-01
 ---

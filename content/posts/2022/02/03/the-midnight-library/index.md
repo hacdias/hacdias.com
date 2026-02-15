@@ -8,7 +8,7 @@ tags:
   - reviews
   - book reviews
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnrpoln2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ir6jjgk7gict
 rating: 3
 read:
   author: Matt Haig

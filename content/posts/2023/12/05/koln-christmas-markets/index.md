@@ -7,7 +7,7 @@ tags:
   - christmas
   - travel
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspz235g2s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kfscaom6az5c
   - https://fosstodon.org/@hacdias/111527722896952176
 thumbnail: image:2023-12-05-koln-rudolfplatz
 ---

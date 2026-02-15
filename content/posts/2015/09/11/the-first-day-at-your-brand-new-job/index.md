@@ -10,7 +10,7 @@ tags:
   - reflections
   - tips
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdvcvou2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3czikh5h222ct
 ---
 
 You got a job! And today’s the first day, what are you going to do? Let’s make a party and make everyone dance! What? No… wait! You’re nervous, you don’t have to be. Let’s talk.

@@ -9,7 +9,7 @@ tags:
   - art
   - christmas
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt23jdjp2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lcavey7262f4
 thumbnail: image:2024-12-01-weesperzijde
 ---
 

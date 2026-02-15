@@ -10,7 +10,7 @@ tags:
   - reflections
   - meta
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medse3zvoo2y
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3dhdemhjxs2ct
 ---
 
 Hello, world!

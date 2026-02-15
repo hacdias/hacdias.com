@@ -9,7 +9,7 @@ tags:
   - reviews
   - book reviews
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsntyomq26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3isivxiu4ifct
 rating: 3
 read:
   author: Robert Louis Stevenson

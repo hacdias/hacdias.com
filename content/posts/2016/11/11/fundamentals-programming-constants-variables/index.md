@@ -8,7 +8,7 @@ tags:
   - computers
   - fundamentals of programming
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medse6driv26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3e2zgpxh222ct
 ---
 
 Today we are going to discuss about constants and variables,

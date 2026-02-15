@@ -9,7 +9,7 @@ tags:
   - mathematics
   - portugues
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdp2rpu2q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cle7bvixq2ct
   - https://www.youtube.com/watch?v=AtwPGZ9VioE
 aliases:
   - /2015/03/15/pi-day-2015/

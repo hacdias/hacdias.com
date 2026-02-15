@@ -7,7 +7,7 @@ tags:
   - app defaults
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merb5k4myf2b
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt25sru52u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lelonqfl22f4
 ---
 
 Just like last year, a lot of "[App Defaults](https://defaults.rknight.me/)" posts have started popping up in my RSS feed. So, I decided to join with an updated list, featuring more categories than [last year](/2023/11/08/app-defaults/).

@@ -7,7 +7,7 @@ tags:
   - school
   - story time
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsp5ocba2b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jrtoiiv3g75c
   - https://fosstodon.org/@hacdias/110089813295606267
 thumbnail: image:2023-03-26-bsod
 ---

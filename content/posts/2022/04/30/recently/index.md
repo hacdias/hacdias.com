@@ -10,7 +10,7 @@ tags:
   - entertainment
   - portugal
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnz2ty52e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ixwkww35czct
 aliases:
   - /2022/04/30/april-22/
 ---

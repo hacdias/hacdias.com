@@ -8,7 +8,7 @@ tags:
   - keyboards
   - reviews
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszvzgae2q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l5bxykokk2f4
 coverPhoto: image:2024-09-29-nuphy-air96
 rating: 5
 ---

@@ -9,7 +9,7 @@ tags:
   - transit
   - travel
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsp42ysj26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jpn27kwhozln
   - https://fosstodon.org/@hacdias/109932662144169291
 ---
 

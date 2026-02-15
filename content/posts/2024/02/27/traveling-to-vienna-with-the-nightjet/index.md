@@ -8,7 +8,7 @@ tags:
   - transit
   - travel
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsz5fhpi26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kmg3wxvjy2f4
   - https://fosstodon.org/@hacdias/112004673006559756
 thumbnail: image:2024-02-27-nightjet
 ---

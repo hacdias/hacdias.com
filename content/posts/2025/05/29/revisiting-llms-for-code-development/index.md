@@ -15,7 +15,7 @@ tags:
   - tools
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqcyr7bytn23
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby72typm2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lqcyr2aijlf4
   - https://fosstodon.org/@hacdias/114591750868199511
 ---
 

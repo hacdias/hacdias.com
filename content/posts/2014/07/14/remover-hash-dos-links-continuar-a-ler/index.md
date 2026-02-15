@@ -8,7 +8,7 @@ tags:
   - php
   - portugues
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medscvgr6w2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3by6xkqd3g2ct
 ---
 
 O **WordPress** é um dos CMS (Sistema de Gestão de Conteúdo, em português) mais conhecidos do mundo, porque é muito simples de utilizar e tem milhares de temas e *plugins* gratuitos e pagos à disposição do utilizador.

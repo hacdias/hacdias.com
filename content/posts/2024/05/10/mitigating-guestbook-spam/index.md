@@ -7,7 +7,7 @@ tags:
   - meta
   - personal website
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszgf2nf2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ks4vnrjo22f4
 ---
 
 Four years ago, I wrote a [post](/2020/05/31/back-90s/) about bringing back the web of the 90s, which is somewhat ironic since I don't remember the web of the 90s. Therefore, I'm probably not the best to write that. Anyways, I introduced my [guestbook](/guestbook/) on that same day. Today I want to talk a bit about avoiding all the inevitable spam that I get there.

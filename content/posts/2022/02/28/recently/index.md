@@ -10,7 +10,7 @@ tags:
   - thesis
   - life
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnuyyny2b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3it42kw7qwxct
 aliases:
   - /2022/02/28/february-22/
 ---

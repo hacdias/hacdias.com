@@ -9,7 +9,7 @@ tags:
   - php
   - portugues
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsd22fuw2y
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3bzbveinx22ct
 ---
 
 Há alguns dias publiquei um artigo onde expliquei as [diferenças entre os operadores `==` e `===`](/2014/07/23/diferencas-entre-igual-identico-php). Depois de partilhar esse artigo no Google Plus, a comunidade PHP Brasil sugeriu-me que falasse sobre as diferenças entre os operadores `&&`/`||` e `AND`/`OR`.

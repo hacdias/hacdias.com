@@ -17,7 +17,7 @@ tags:
   - travel
   - trains
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2dvjkn2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3li2ef2ehg2f4
   - https://fosstodon.org/@hacdias/113995841954613221
 ---
 

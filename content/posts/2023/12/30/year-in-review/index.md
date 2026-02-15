@@ -10,7 +10,7 @@ tags:
   - travel
   - life
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsq4j3hi2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3khr2kf7qw25c
   - https://fosstodon.org/@hacdias/111669062516638383
 ---
 

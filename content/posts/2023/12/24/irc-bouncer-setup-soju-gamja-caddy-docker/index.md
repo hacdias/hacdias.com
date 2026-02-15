@@ -9,7 +9,7 @@ tags:
   - docker
   - irc
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsq3odgo2s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3khc4o33i425c
   - https://fosstodon.org/@hacdias/111635436784320724
 ---
 

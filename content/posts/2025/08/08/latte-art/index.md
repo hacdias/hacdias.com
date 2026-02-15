@@ -16,7 +16,7 @@ tags:
   - creative
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lvvdsuf2bg2o
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7tnsjo2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lvvcngpp22f4
   - https://fosstodon.org/@hacdias/114993348876419742
 thumbnail: image:2025-08-08-latte-art
 ---

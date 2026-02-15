@@ -9,7 +9,7 @@ tags:
   - data types
   - fundamentals of programming
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsebcype2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3e3fz2kqs22ct
 ---
 
 In our beginning articles, we mentioned that there are some

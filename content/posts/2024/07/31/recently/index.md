@@ -9,7 +9,7 @@ tags:
   - milestones
   - life
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszrievn23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kym47hp2f4f4
 ---
 
 July is coming to an end and the sun is shining. This was a month with quite some events for me, both on the good side of the spectrum, as well as on the bad side of the spectrum. But mostly good. Let's dive into it!

@@ -14,7 +14,7 @@ tags:
   - personal website
   - life
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2g5wwv2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ljiidmvhutf4
   - https://fosstodon.org/@hacdias/114099703066951894
 ---
 
