@@ -7,7 +7,7 @@ tags:
   - inchecken
   - nederlands
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszcpbs42s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kpscwyvyk2f4
 ---
 
 Welkom bij de vijfde deel van deze serie: vergeet niet om in te checken. Vandaag ga ik een beetje praten over mijn nieuwe en toekomstige Nederlandse lessen, Nederlands schrijven, en ietsjes anders.

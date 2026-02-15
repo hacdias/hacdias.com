@@ -6,7 +6,7 @@ categories:
 tags:
   - year in popcorn
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsowjw562s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jld2ve3ms2ln
 aliases:
   - /2023/01/02/year-in-popcorn-22/
 ---

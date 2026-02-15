@@ -14,7 +14,7 @@ tags:
   - espresso coffee
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3ltjsajoj7u2w
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7di6qv2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ltjs34gw42f4
   - https://fosstodon.org/@hacdias/114823227303735096
 thumbnail: image:2025-07-09-coffee-station
 ---

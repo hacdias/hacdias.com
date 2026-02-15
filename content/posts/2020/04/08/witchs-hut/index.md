@@ -14,7 +14,7 @@ tags:
   - pixel art
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqmyrsbjb2y
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseyk6o32g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3h4sggey4c2ct
 ---
 
 Some years ago, I dabbled a bit with [pixel art](/2019/04/18/trying-pixel-art/). Yesterday, I decided to try something out again, so now I decided to publish this simple house I made yesterday. Certainly has a lot of problems, but I'm proud of it. I'll be using it for my 404 page.

@@ -8,7 +8,7 @@ tags:
   - reflections
   - work
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszojlvt26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kwuosukxy2f4
   - https://fosstodon.org/@hacdias/112758171014792096
 ---
 

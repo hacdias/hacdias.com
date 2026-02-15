@@ -7,7 +7,7 @@ tags:
   - inchecken
   - nederlands
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsz4o2in2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kkve7qj722f4
 aliases:
   - /2024/02/08/vergeet-niet-om-in-te-checken-nieuwe-lessen/
 ---

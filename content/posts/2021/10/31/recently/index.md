@@ -11,7 +11,7 @@ tags:
   - life
   - art
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnhsvr324
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ijpagdyunlct
 aliases:
   - /2021/10/31/october-2021/
 ---

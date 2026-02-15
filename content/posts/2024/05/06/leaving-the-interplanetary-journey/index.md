@@ -9,7 +9,7 @@ tags:
   - reflections
   - work
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszew4tf23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3krtdwsigo2f4
 ---
 
 After almost 7 years working on projects surrounding [IPFS](https://ipfs.tech/), the InterPlanetary File System, I am now saying goodbye. It's been an incredible journey at [Protocol Labs](https://protocol.ai/), and more recently at the [Interplanetary Shipyard](https://ipshipyard.com/). However, I feel like it's finally time for a change for me.

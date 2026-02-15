@@ -9,7 +9,7 @@ tags:
   - reviews
   - book reviews
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspcpfhv23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jwa2mcnxyh5c
 rating: 5
 read:
   author: Erin Meyer

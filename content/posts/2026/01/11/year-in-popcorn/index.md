@@ -7,7 +7,7 @@ tags:
   - year in popcorn
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mecdqmsxbt2e
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mecdqn5ls52g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mc5kemzl22f4
 ---
 
 ![](https://media.hacdias.com/2021-02-01-popcorn.gif "Popcorn")

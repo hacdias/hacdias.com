@@ -11,7 +11,7 @@ tags:
   - life
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3l7xgqj5nal2l
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6xl5tp2s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l7xgmeqba2f4
   - https://fosstodon.org/@hacdias/113412791482682134
 thumbnail: image:2024-11-02-fuengirola
 ---

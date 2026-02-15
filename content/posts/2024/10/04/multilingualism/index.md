@@ -9,7 +9,7 @@ tags:
   - multilingualism
   - indieweb carnival
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszxjpbv2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l5o5wz4uo4f4
   - https://news.indieweb.org/en
 ---
 

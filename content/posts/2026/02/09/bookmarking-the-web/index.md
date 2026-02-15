@@ -15,7 +15,7 @@ tags:
   - links
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meggiy2dss2v
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3megguihf742d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meggfq5ghgf4
 ---
 
 Yesterday I [shared](/2026/02/08/atmosphere/) some atmospheric thoughts. One of the ideas was seeing which services do I use now that could be replaced. One of those is bookmarking. There's two main contenders: [Margin](https://margin.at) and [Semble](https://semble.so/).

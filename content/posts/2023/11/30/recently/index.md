@@ -9,7 +9,7 @@ tags:
   - entertainment
   - life
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspxftbo26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kfg3spbjky5c
 aliases:
   - /2023/11/30/november-23/
 ---

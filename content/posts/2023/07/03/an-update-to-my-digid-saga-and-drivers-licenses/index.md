@@ -9,7 +9,7 @@ tags:
   - government
   - infrastructure
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsplp7gl24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jzmsipivw25c
   - https://fosstodon.org/@hacdias/110651139023843183
 ---
 

@@ -8,7 +8,7 @@ tags:
   - creative
   - portugues
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsqgzgqr2q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kisojvrc22f4
 ---
 
 Às vezes encontro com cada coisa entre os meus documentos. Aqui está um poema que escrevi a 23 de janeiro de 2013 sobre o mar.

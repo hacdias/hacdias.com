@@ -10,7 +10,7 @@ tags:
   - university
   - life
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfqko772u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hwiizokmk2ct
 aliases:
   - /2021/03/01/february-2021/
 ---

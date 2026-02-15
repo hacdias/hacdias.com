@@ -10,7 +10,7 @@ tags:
   - papers
   - publications
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsp2izxn23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jotwgll522ln
   - https://doi.org/10.1007/978-981-99-0272-9_22
 ---
 

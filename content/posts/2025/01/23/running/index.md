@@ -7,7 +7,7 @@ tags:
   - running
   - sports
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2bikfv2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lgg7gxira2f4
 ---
 
 A few months ago, I [hinted](/2024/09/02/recently/) at the fact that I wanted to try out going for a run. And even though I didn't share more about it, I did it. Back in September, I decided to try going for an interval running session. However, I had absolutely no running equipment at the time, so I just put on some gym clothes and my sneakers, and went.

@@ -8,7 +8,7 @@ tags:
   - meta
   - personal website
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspf7far26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jy32tddp7u5c
 ---
 
 In April, I squeezed into my monthly [article](/2023/05/01/recently/) that I had come back to Hugo. However, I did not give much context about it. And to continue the "farewell" post saga, here it is. Why did I move back to Hugo? What caused that decision, and how hard was it?

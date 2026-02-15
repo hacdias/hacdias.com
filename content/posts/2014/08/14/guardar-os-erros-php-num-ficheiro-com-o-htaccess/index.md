@@ -8,7 +8,7 @@ tags:
   - php
   - portugues
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsd5t24w2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3c2mmadzr62ct
 ---
 
 Quando os programadores de soluções web estão a programar alguma aplicação é normal que possam surgir erros durante o desenvolvimento e a linguagem de programação, por norma, mostra-os no browser.

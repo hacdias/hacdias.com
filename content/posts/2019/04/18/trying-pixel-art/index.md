@@ -10,7 +10,7 @@ tags:
   - creative
   - pixel art
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseggcwv26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gaserir222ct
 ---
 
 Recently I've been wanting to try out more things in my life. Perhaps not recently,

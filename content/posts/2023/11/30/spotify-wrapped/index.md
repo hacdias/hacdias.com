@@ -6,7 +6,7 @@ categories:
 tags:
   - spotify wrapped
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspya4li26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kff7noj4425c
   - https://fosstodon.org/@hacdias/111498275850620866
 ---
 

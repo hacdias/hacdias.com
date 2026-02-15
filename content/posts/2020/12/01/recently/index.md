@@ -9,7 +9,7 @@ tags:
   - university
   - work
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsflkeoi26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hpgbua3u22ct
 aliases:
   - /2020/12/01/november-2020/
 ---

@@ -7,7 +7,7 @@ categories:
 tags:
   - computers
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseddazv2b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3e44natvk22ct
 ---
 
 Nowadays, we are used to hear about bits and bytes and sometimes, in the advertising, we see that the Internet speed is about 100 Mbps. Is that 100 megabytes per second? No, it isn't. There are some differences between bits and bytes. Let's see.

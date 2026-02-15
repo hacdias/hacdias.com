@@ -9,7 +9,7 @@ tags:
   - creative
   - javascript
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsphozpt2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jyvfokzho25c
   - https://fosstodon.org/@hacdias/110598001232151147
 aliases:
   - /minisites/mapgen

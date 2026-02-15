@@ -6,7 +6,7 @@ categories:
 tags:
   - fun
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsq7sulz2y
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kiawjx45kq5c
   - https://fosstodon.org/@hacdias/111704795704782212
 thumbnail: image:2024-01-05-snowman-model
 ---

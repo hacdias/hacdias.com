@@ -8,7 +8,7 @@ tags:
   - museums
   - trains
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspbtyjd24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jv3kojhrm25c
   - https://fosstodon.org/@hacdias/110323610429118818
 feedContentWarning: true
 thumbnail: image:2023-05-06-spoorwegmuseum

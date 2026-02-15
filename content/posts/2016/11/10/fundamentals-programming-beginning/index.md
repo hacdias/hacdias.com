@@ -10,7 +10,7 @@ tags:
   - computers
   - fundamentals of programming
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medse5m6ce2q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3e2wwazyc22ct
 ---
 
 This is the first article of The Fundamentals of Programming Using

@@ -9,7 +9,7 @@ tags:
   - life
   - travel
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsouctvi2q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jl3lxtfghvln
 aliases:
   - /2022/12/30/december-22/
 ---

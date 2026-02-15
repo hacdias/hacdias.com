@@ -9,7 +9,7 @@ tags:
   - people
   - cultures
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2ccf522e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lh2fuhcku2f4
 ---
 
 January is coming to an end, meaning that around 8% of 2025 has already passed. It felt like a slower month, definitely slower than the previous months in the sense that there was nothing *big* happening. However, the things that happened, I'm very glad with.

@@ -9,7 +9,7 @@ tags:
   - creative
   - portugues
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdnjiqy2h
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ck72f2mpg2ct
 ---
 
 Por vezes, a vontade de escrever é tanta que até a tinta desliza pelo papel sem qualquer esforço. Letra a letra. Partícula a partícula. Tudo se compõe.

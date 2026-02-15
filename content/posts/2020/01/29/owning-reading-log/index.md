@@ -10,7 +10,7 @@ tags:
   - personal website
   - security
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsetjanp2y
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gxdzzttqk2ct
 ---
 
 As [Tom](https://macwright.org/2017/12/11/indieweb-reading.html) once said, it is now time to own my own reading log. Why? Despite all the reasons mentioned on Tom's post, I also got bored of Goodreads and I ended up not using it as much as I should have.

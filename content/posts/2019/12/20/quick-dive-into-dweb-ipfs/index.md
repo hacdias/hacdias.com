@@ -9,7 +9,7 @@ tags:
   - talk
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqmwscggz2e
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsenzd6a2h
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gu6jrckr22ct
   - https://www.youtube.com/watch?v=EmxUyuCD37Q
 feedContentWarning: true
 ---

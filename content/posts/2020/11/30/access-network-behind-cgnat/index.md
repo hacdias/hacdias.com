@@ -8,7 +8,7 @@ tags:
   - networking
   - wireguard
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfktd7n26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hpdtmthc22ct
 ---
 
 I recently moved from the place where I was staying at to my own studio. In addition, since I was building a computer, I wanted to be able to access remotely to its capabitities, as well as any other device I have at home. Thus, I thought: let's set up a VPN!

@@ -16,7 +16,7 @@ tags:
   - netherlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m4pzzsuvva2d
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebyac2djs23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3m4pzznrcerf4
   - https://fosstodon.org/@hacdias/115485804703774414
 ---
 

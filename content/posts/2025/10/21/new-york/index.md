@@ -9,7 +9,7 @@ tags:
   - united states
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m3op7jydqi2x
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya5i5do2q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3m3onokaa22f4
   - https://fosstodon.org/@hacdias/115410733907000984
 thumbnail: image:2025-10-21-new-york-02
 ---

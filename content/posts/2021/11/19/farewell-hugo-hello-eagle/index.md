@@ -8,7 +8,7 @@ tags:
   - meta
   - personal website
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnjd6s42e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3il5vhbakp5ct
 ---
 
 In 2015, I posted an [article](/2015/08/12/farewell-wordpress-hello-hugo) with a very similar name to this one. At the time, I was saying goodbye to WordPress and welcoming Hugo. As with everything in life, there are cycles and things change. It's time to turn a new page on this website's life cycle.

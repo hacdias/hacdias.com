@@ -7,7 +7,7 @@ tags:
   - decentralization
   - telemetry
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsp7557v23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jtnvctgwk25c
   - https://fosstodon.org/@hacdias/110224097052796658
 ---
 

@@ -9,7 +9,7 @@ tags:
   - reviews
   - sports
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medszlifhp2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kvg36vnzc2f4
 rating: 3
 ---
 

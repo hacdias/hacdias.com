@@ -8,7 +8,7 @@ tags:
   - computer science
   - fundamentals of programming
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medse7titv26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3e3ay4ptc22ct
 ---
 
 The years between 1969 and 1973 were very exciting for the

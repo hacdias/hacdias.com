@@ -8,7 +8,7 @@ tags:
   - php
   - portugues
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsd2tbo42k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3bzgo5uhss2ct
 ---
 
 Como deve saber, PHP é umas das linguagens de servidor mais utilizadas no mundo. Hoje vou mostrar-vos uma fantástica forma de gerar **IDs (identificadores) únicos**.

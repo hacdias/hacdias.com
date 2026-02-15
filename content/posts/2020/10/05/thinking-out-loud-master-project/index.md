@@ -11,7 +11,7 @@ tags:
   - university
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqn2jkz4x2u
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfchhbm2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hkww5yfz22ct
 ---
 
 I'm now in my first year of my Master's degree in Computer Science and Engineering which means that next year I am supposed to start (and hopefully finish) my Master's project and thesis. As a consequence of that, I have been thinking a lot about it lately. I don't want to make a rushed choice that will make me work on something I don't enjoy for over half an year.

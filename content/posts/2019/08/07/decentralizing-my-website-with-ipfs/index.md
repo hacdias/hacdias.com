@@ -10,7 +10,7 @@ tags:
   - meta
   - web3
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsehyyee2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gjlhfdwss2ct
 ---
 
 It was about two years ago, in 2017, that I got to know IPFS through [David Dias][0]. This is not the first time I talk about IPFS here, in my website, but here's a brief description of what it is: IPFS stands for InterPlanetary File System and it is a peer-to-peer, content-addressed and decentralized protocol.

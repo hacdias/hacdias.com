@@ -8,7 +8,7 @@ tags:
   - language learning
   - personal growth
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspstasb2y
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kbyy4fcxu25c
   - https://fosstodon.org/@hacdias/111254553482769587
 ---
 

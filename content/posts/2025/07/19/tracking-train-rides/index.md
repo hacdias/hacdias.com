@@ -15,7 +15,7 @@ tags:
   - transit
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lud2hmfjnp2k
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7eigy72b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lud2e34ou2f4
   - https://fosstodon.org/@hacdias/114880100894708306
 ---
 

@@ -16,7 +16,7 @@ tags:
   - life
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqd7ktsbec27
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6ynfff2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lm2ufrts42f4
   - https://fosstodon.org/@hacdias/114285212069038533
 ---
 

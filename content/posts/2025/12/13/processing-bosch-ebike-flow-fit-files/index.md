@@ -8,7 +8,7 @@ tags:
   - sports
   - tracking
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2sotxy26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3m7uaovfe62f4
 ---
 
 Over two years ago, I wrote [an article](/2023/10/11/processing-bosch-ebike-flow-fit-files/) where I laid out a few issues with Bosch's eBike Flow app. The first one being that their Apple Health integration is lacking, and does not synchronize information about power and cadence. The second was that their exported FIT files are malformed and cannot be properly imported anywhere. Sadly, it's still the case.

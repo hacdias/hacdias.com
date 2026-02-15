@@ -9,7 +9,7 @@ tags:
   - open source
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me2lw26g7k2z
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meawsqr3ub2b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3me2lqhtoy2f4
   - https://fosstodon.org/@hacdias/116013985338780310
 ---
 

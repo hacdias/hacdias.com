@@ -8,7 +8,7 @@ tags:
   - mathematics
   - portugues
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdm3sy526
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3chkfcwjs22ct
 ---
 
 Todos os anos os professores costumam relembrar os alunos do facto de terem de estudar mais visto o nível de dificuldade ser superior ao do ano anterior. Quando os alunos chegam a anos de Prova Final como, por exemplo, o 9º e 12º anos, os professores tendem a relembrar os alunos que devem estudar mais nesse ano e que o exame se avizinha.

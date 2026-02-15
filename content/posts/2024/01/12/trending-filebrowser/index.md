@@ -9,7 +9,7 @@ tags:
   - open source
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merb5h76cm2e
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsqm4l4z2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kislhfuoy2f4
 ---
 
 In July 2017, something unexpected happened: I opened the trending page on the GitHub interface, under the Go language and saw my own project there. [File Browser](https://github.com/filebrowser/filebrowser) - then still called File Manager -, was trending in first place under the Go language!

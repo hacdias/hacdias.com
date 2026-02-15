@@ -6,7 +6,7 @@ categories:
 tags:
   - year in music
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2aslhy26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3leubvstrw2f4
 ---
 
 ![](https://media.hacdias.com/2021-05-01-vibing-music.gif "Cute entity listening to music")

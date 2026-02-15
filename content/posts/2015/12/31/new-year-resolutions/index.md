@@ -8,7 +8,7 @@ tags:
   - goals
   - reflections
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdydcsn2s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3dca3mijg22ct
 aliases:
   - /2015/12/31/new-year-resolutions-2016/
 ---

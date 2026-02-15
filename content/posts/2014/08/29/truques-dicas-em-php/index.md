@@ -8,7 +8,7 @@ tags:
   - php
   - portugues
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdb4rvu2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3c3sxo3hpk2ct
 ---
 
 A linguagem de programação PHP é das mais utilizadas atualmente do lado do servidor quando o assunto são páginas web.

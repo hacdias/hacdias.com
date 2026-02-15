@@ -17,7 +17,7 @@ tags:
   - indieweb carnival
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m4ulttodjk2s
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meaxzjeviq23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3m4sumzsq22f4
   - https://fosstodon.org/@hacdias/115492193831359929
   - https://news.indieweb.org/en
 thumbnail: image:2025-11-04-cycles-and-fluctuations

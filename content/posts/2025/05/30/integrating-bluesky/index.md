@@ -13,7 +13,7 @@ tags:
   - meta
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqftbiddfi2x
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby73ugbf2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lqftbcwh6kf4
   - https://fosstodon.org/@hacdias/114598119919028065
   - https://news.indieweb.org/en
 ---

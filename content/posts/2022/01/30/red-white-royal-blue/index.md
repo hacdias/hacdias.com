@@ -8,7 +8,7 @@ tags:
   - reviews
   - book reviews
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnpebgy26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3iqujkejjg6ct
 rating: 4
 read:
   author: Casey McQuiston

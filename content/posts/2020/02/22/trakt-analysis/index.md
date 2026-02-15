@@ -10,7 +10,7 @@ tags:
   - year in popcorn
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqmyexrv42b
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseuyzoa26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gza7e6qys2ct
 ---
 
 Today, I decided to readd a watches page, but this time it isn't built from hundreds of

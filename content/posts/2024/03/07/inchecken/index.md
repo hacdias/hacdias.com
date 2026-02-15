@@ -7,7 +7,7 @@ tags:
   - inchecken
   - nederlands
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsz6vp222e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kn3ycwz5s2f4
   - https://fosstodon.org/@hacdias/112053960697460057
 aliases:
   - /2024/03/07/vergeet-niet-om-in-te-checken-deel-try-lingual/

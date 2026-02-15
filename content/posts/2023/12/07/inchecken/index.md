@@ -8,7 +8,7 @@ tags:
   - nederlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meltwnwcro26
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspzu64g26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kfxolle4k25c
   - https://fosstodon.org/@hacdias/111550570083991986
 aliases:
   - /2023/12/07/vergeet-niet-om-in-te-checken-het-begin/

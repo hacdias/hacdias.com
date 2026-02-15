@@ -8,7 +8,7 @@ tags:
   - meta
   - personal website
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsf26d2n2s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3h7eekszd22ct
 ---
 
 I decided to make a few updates on my website - again. However, this are a bit more than visuals and I'm mostly reinventing the way I manage IndieWeb posts, namely likes, reposts, notes and replies.

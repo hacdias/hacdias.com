@@ -15,7 +15,7 @@ tags:
   - government
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mecdqnw5wr23
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mecdqrw3jr2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mcabgyqt4qf4
 ---
 
 In just under a week, Portugal will be undergoing this year's Presidential Elections, in which the next president will be chosen. And what a ridiculous spectacle - to not say the other word that is in my mind - they are already.

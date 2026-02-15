@@ -7,7 +7,7 @@ tags:
   - reviews
   - book reviews
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2ifu5i26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lv3mvf55q2f4
 rating: 4
 read:
   author: Kaliane Bradley

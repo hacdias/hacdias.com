@@ -11,7 +11,7 @@ tags:
   - thesis
   - university
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsobyrff2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jc4ycrxfjnln
   - https://research.tue.nl/en/studentTheses/04a5f7e4-7782-4f26-a864-a49d04f82966
 ---
 

@@ -14,7 +14,7 @@ tags:
   - sports
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mecdqspydq2s
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mecdqszjhz23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mckjxhw2hif4
 ---
 
 It feels good to be back in a swimming pool. After a lot of hiccups in the process of starting the swimming lessons, I finally had my first one last week, and yesterday my second one. It's been quite a blast.

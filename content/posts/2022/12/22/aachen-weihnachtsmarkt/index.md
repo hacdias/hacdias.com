@@ -14,7 +14,7 @@ tags:
   - christmas
   - travel
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsop6vn626
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jkh4trc6kjln
 thumbnail: image:2022-12-22-aachen-weihnachtsmarkt-01
 ---
 

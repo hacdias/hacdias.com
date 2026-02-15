@@ -8,7 +8,7 @@ tags:
   - php
   - portugues
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdegtvx2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3c4xvibns22ct
 ---
 
 No [último artigo](/2014/09/09/php-interpolacao-concatenacao) sugeriram-me falar sobre as funções printf  e  sprintf  que são utilizadas em massa no Wordpress e é isso que vou fazer! Vamos analisar cada uma das funções.

@@ -15,7 +15,7 @@ tags:
   - software
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lutwto7ywc2x
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7ir4zd2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lutwrvtuxjf4
   - https://fosstodon.org/@hacdias/114918126429921635
 ---
 

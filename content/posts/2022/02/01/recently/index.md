@@ -9,7 +9,7 @@ tags:
   - entertainment
   - covid19
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsnq6l3z2h
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3iqy22lbmiyct
 aliases:
   - /2022/02/01/january-22/
 ---

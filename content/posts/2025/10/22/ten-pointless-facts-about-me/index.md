@@ -13,7 +13,7 @@ tags:
   - fun
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m3rjiqxgao2g
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mebya6hptb2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3m3rjeuyxs2f4
   - https://fosstodon.org/@hacdias/115417079173815803
 ---
 

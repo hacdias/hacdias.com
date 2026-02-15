@@ -10,7 +10,7 @@ tags:
   - personal website
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqmx6n5ie2e
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseqdjo72d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3guym27zak2ct
 ---
 
 This is going to be a quick post — I hope. 

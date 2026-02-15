@@ -8,7 +8,7 @@ tags:
   - reflections
   - work
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2mzrg22e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lz4jbvfwg2f4
 ---
 
 Three and a half months ago, I started a new job. I haven't talked much about it yet on this website, except for a very brief note in my June's ["Recently"](/2025/07/01/recently/) article. I've been wanting to write a little bit more about it, and I feel like now is the right moment.

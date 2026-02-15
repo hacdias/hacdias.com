@@ -7,7 +7,7 @@ categories:
 tags:
   - reflections
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdoda5n2b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cl7e5uqkw2ct
 ---
 
 Hello everyone! Today I'm going to talk a little bit about technology and if it is a good or a bad thing. This article is, of course, according to my point of view. The main question, for now, is "is the technology a good or a bad thing?".

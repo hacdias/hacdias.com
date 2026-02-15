@@ -7,7 +7,7 @@ tags:
   - ipfs
   - talk
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsp7ztci2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jtqrjb76225c
   - https://www.youtube.com/watch?v=vQVnjEIPuCE
 feedContentWarning: true
 ---

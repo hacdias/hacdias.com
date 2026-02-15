@@ -8,7 +8,7 @@ tags:
   - ipfs
   - web3
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medseh74tk24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ggy7vor522ct
 ---
 
 As many of you probably know, xkcd is a web comic created in 2005 by Randall Munroe. Its tagline is "A webcomic of romance, sarcasm, math, and language". You can read more about the web comic itself on their [website](https://xkcd.com/about/).

@@ -9,7 +9,7 @@ tags:
   - fantasy
   - literature
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2hpaed2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lucwaoeos2f4
 rating: 4
 read:
   author: Susanna Clarke

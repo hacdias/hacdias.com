@@ -9,7 +9,7 @@ tags:
   - open source
   - personal website
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspwp5zz2h
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kehecggx225c
   - https://fosstodon.org/@hacdias/111431044010749799
 thumbnail: image:2023-11-18-noisy-glow
 ---

@@ -9,7 +9,7 @@ tags:
   - php
   - portugues
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medscxsqdi2h
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3bynqkjqzy2ct
 ---
 
 A biblioteca [jQuery](http://jquery.com/) é das mais conhecidas e utilizadas em JavaScript. Com esta biblioteca podemos proceder a chamadas **ajax** muito facilmente através de poucas linhas de código.

@@ -7,7 +7,7 @@ tags:
   - reflections
   - second brain
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsp3cjiv2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jphxt7e4ynln
 ---
 
 Some time ago, I decided to buy a gratitude journal 📓. I have been writing on and off on it for quite some time, definitely over a year and maybe two. Over this time, I think I can say that this has been beneficial for me. And I wanted to share this experience with others.

@@ -9,7 +9,7 @@ tags:
   - milestones
   - university
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsolyyfq26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jidqmq2po2ln
 feedContentWarning: true
 thumbnail: image:2022-11-25-msc-ceremony-group
 ---

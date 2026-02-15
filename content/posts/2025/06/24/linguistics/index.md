@@ -15,7 +15,7 @@ tags:
   - educational
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lsdxrmnh3723
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7ab7w526
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lsdxri4txvf4
   - https://fosstodon.org/@hacdias/114738048472917182
 ---
 

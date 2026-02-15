@@ -9,7 +9,7 @@ tags:
   - trains
   - museums
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspdj25x2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jx27n6slie5c
 aliases:
   - /2023/05/31/may-23/
 ---

@@ -7,7 +7,7 @@ tags:
   - app defaults
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merb5e2u4f2h
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medspv2yfz26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kdocesoma25c
   - https://fosstodon.org/@hacdias/111374608169041824
 aliases:
   - /2023/11/08/app-defaults-late-2023/

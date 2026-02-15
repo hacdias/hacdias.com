@@ -14,7 +14,7 @@ tags:
   - personal website
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lvcxwqzr4j2k
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7nedwx2b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lvcxvxvi22f4
   - https://fosstodon.org/@hacdias/114951980630802096
 thumbnail: image:2025-08-01-website-search
 ---

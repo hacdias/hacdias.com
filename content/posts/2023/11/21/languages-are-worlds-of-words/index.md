@@ -9,7 +9,7 @@ tags:
   - reflections
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3kepw7xuld52q
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6tulxo2q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kepw5z2g425c
   - https://fosstodon.org/@hacdias/111450310800798049
 ---
 

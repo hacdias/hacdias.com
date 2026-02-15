@@ -8,7 +8,7 @@ tags:
   - pudding
   - cooking
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2rxs6q26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3m7cjraehu2f4
 thumbnail: image:2024-12-31-arroz-doce-4
 ---
 

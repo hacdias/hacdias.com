@@ -8,7 +8,7 @@ tags:
   - meta
   - personal website
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsdmtarp2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ciuxn6aps2ct
 ---
 
 I have moved, again. From now until the end of the times, **coxpe.com** and **henriquedias.com/blog** are gone, and **henriquedias.com** is the unified version of both.

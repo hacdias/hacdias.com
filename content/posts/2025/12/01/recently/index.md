@@ -8,7 +8,7 @@ tags:
   - health
   - life
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2qyvl326
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3m6wp337va2f4
 thumbnail: image:2025-12-01-recently
 ---
 

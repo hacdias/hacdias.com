@@ -9,7 +9,7 @@ tags:
   - life
   - school
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfrd5kk24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hywe4wmlk2ct
 aliases:
   - /2021/04/01/march-2021/
 ---

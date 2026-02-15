@@ -9,7 +9,7 @@ tags:
   - meta
   - personal website
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsqmvygj26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kiu45w22hgf4
   - https://news.indieweb.org/en
 ---
 

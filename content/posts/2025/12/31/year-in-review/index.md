@@ -10,7 +10,7 @@ tags:
   - work
   - goals
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medt2u6itc2y
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mbbywt2462f4
 ---
 
 December has been a somewhat calmer month, which maybe is a good way to end such an eventful year. At the risk of [repeating myself](/2024/12/31/year-in-review/), I would say that 2025 has been a year full of change, new challenges and adventures. I am, generally, quite happy with how this year has developed: from moving to a new apartment, to getting a new job, to traveling.

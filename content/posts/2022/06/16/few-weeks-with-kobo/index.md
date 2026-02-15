@@ -9,7 +9,7 @@ tags:
   - life
   - books
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medso56wxo2s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3j3mg2zgyinct
 rating: 4
 ---
 

@@ -15,7 +15,7 @@ tags:
   - reflections
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lvipskdies27
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby7ohosc23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lvipsejifgf4
   - https://fosstodon.org/@hacdias/114964919259561217
 ---
 

@@ -8,7 +8,7 @@ tags:
   - life
   - portugal
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3medsfid6kp2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hn2w453k22ct
 aliases:
   - /2020/11/01/october-2020/
 ---

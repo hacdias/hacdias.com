@@ -10,7 +10,7 @@ tags:
   - web
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3kezies55uv2u
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meby6uuhaj2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3keziavkoi25c
   - https://fosstodon.org/@hacdias/111471854269467060
 ---
 
