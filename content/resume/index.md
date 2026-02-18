@@ -117,7 +117,7 @@ Software Engineer passionate about open source, user agency, decentralization, i
 {{< resume-position
   title="Technical Mentor"
   location="HackYourFuture" href="https://www.hackyourfuture.net"
-  from="07/2024" to="present" >}}
+  from="07/2024" to="02/2026" >}}
 
 - Helping train people with limited access to education to become web developers, by reviewing assignments and answering questions in the topics of JavaScript, Browsers, Node.js, APIs and Databases.
 
