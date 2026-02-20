@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: The Threesome
+  date: 2026-02-20T18:40:00+01:00
+  rating: 4
+  location: Natlab
+  room: 2
+  row: F
+  seat: 5
 - name: Wuthering Heights (2026)
   date: 2026-02-14T16:30:00+01:00
   rating: 3
