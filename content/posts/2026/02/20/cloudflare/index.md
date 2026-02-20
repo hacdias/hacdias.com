@@ -49,4 +49,4 @@ It went well, until I started getting some SSL errors. I had forgotten to update
 
 In the meanwhile, all the domains have been updated. A nice bonus with al of this is Bunny's interface: it is incredibly simple and easy to navigate. Cloudflare's interface is an authentic maze and I will never understand how that happened.
 
-In the meanwhile, Cloudflare has started automatically deleting my old domains from their dashboard. I actually didn't know that was a thing, but I guess I'm fine with it. Maybe the next step is to try an European alternative to Let's Encrypt, which I recently [learned](/micro/2026/02/2026-02-19-jniml) exists!
+In the meanwhile, Cloudflare has started automatically deleting my old domains from their dashboard. I actually didn't know that was a thing, but I guess I'm fine with it. Maybe the next step is to try an European alternative to Let's Encrypt, which I recently [learned](https://janlukas.blog/micro/2026/02/2026-02-19-jniml) exists!
