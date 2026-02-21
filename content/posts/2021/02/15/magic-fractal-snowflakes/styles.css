@@ -4,25 +4,26 @@
   --c-l: 65%;
 }
 
-@media screen and not (max-width: 50rem) {
-  body {
-    background: var(--fg) url(snowflake.svg);
-    background-size: 49px;
-    background-attachment: fixed;
-    background-position: center;
-  }
+body {
+  background: var(--fg) url(snowflake.svg);
+  background-size: 49px;
+  background-attachment: fixed;
+  background-position: center;
+}
 
-  #navbar {
-    border-radius: 0;
-    border-left: none;
-    border-right: none;
-  }
+#header,
+#sidebar,
+#navbar,
+#main,
+#footer {
+  background: var(--bg);
 }
 
 .snowflakes {
   background: radial-gradient(#4b7bec, #3867d6);
-  height: 25rem;
   position: relative;
+  border-radius: var(--radius);
+  aspect-ratio: 4 / 2;
 }
 
 .snowflakes canvas {
@@ -35,22 +36,16 @@
 
 #controls {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px,1fr));
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   text-align: center;
   margin: 1rem auto;
 }
 
 #controls label {
   font-weight: 700;
-  display:block;
+  display: block;
 }
 
 #controls input {
   width: 80%;
-}
-
-@media screen and (max-width: 30rem) {
-  .snowflakes {
-    height: 20rem;
-  }
 }

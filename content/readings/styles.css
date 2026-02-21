@@ -1,3 +1,7 @@
+.tb {
+  grid-template-columns: auto max-content max-content;
+}
+
 .tb li {
-  grid-template-columns: auto 5rem min-content;
+  grid-column: span 3;
 }

@@ -1,0 +1,5 @@
+<nav id='navbar'>
+  {{ range .Site.Menus.main -}}
+    <a href='{{ .Page.RelPermalink }}' {{ if $.IsMenuCurrent .Menu . }} aria-current='page'{{ end }}>{{ .Name }}</a>
+  {{ end }}
+</nav>

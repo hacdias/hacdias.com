@@ -22,10 +22,10 @@ Over the past months, I have been reading more and more posts where people are [
 <div style="display: flex; justify-content: center">
 
 ![](https://media.hacdias.com/2020-05-31-netscape.gif)
-{.pixelated .netscape}
+{.pixelated style="margin-right: 1rem; width: 100%; max-width: 10rem"}
 
 ![](https://media.hacdias.com/2020-05-31-iexplorer.gif)
-{.pixelated .iexplore}
+{.pixelated style="width: 100%; max-width: 10rem"}
 
 </div>
 
@@ -38,7 +38,7 @@ I barely remember when I first created this website, but I believe it was by han
 On his [essay][small-web], Parimal talks about how today's websites are mainly built towards product selling or marketing. It's a really good post and I recommend you all to read it.
 
 ![](https://media.hacdias.com/2020-05-31-bulb.gif)
-{.left .pixelated .bulb}
+{.left .pixelated style="max-width: 5rem"}
 
 With all of thing being said, I have been tweaking my website. ["Again?"][meta], you ask. "Yes, again", I say. My website has changed a lot over the few years since it exists (5 years I believe), but mostly on the past months, probably due to my discovery of the [IndieWeb][indieweb] and the pandemic we're living right now. 
 
@@ -53,7 +53,7 @@ With this update, I'm hoping to make this website more alive. Even though the mo
 A more subtle change I made was to change the dates on this website to use the [Holocene Calendar](https://en.wikipedia.org/wiki/Holocene_calendar) which adds exactly 10 000 years to the current year, being the first year placed in the beginning of the Holocene era.
 
 ![](https://media.hacdias.com/2020-05-31-guestbook.gif "Writing on a guestbook")
-{.right .pixelated .guestbook}
+{.right .pixelated style="max-width: 10rem; margin: 0 0 0 1rem"}
 
 **Let's bring the web more personality, more presence, more uniqueness. Let's be the painters 🎨 of our own identity.**
 

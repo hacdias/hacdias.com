@@ -3,8 +3,6 @@ title: About
 thumbnail: image:2024-09-01-stratumse-heide
 ---
 
-<span id='greetings'>**<span id='hello'>Hi, I'm</span> <span style="color: var(--c)">Henrique</span>! 👋**</span>
-
 I come from a little town in the countryside of Portugal 🇵🇹, and I've been living The Netherlands 🇳🇱 for over five years. I'm a software engineer who cares open source, user agency, decentralization, identity, and building impactful tools and products. In my spare time, I enjoy staying active, programming, photography, and a nice cup of coffee or tea.
 
 <!--more-->
@@ -24,7 +22,7 @@ After finishing university, in 2022, I joined Protocol Labs full-time. About a y
 
 Now, I work at [Animo Solutions](https://animo.id), where I get to work on open-source projects in the decentralized identity space. On the side, I work on multiple [open source](https://github.com/hacdias) projects, usually related to the IndieWeb, or just contributions here and there. 
 
-## 🛠️ Colophon {#colophon}
+## Colophon {#colophon}
 
 I [started](/2014/07/12/apresentacao/) this website back in 2014, when I was just 14. At the time, I was running multiple blogs, in multiple languages. After a while, motivated by the idea of improving my English skills and reduce the amount of websites I was running, I [unified](/2015/02/11/i-have-moved-again/) all of them under a single roof. The website has also seen quite a [few](/2022/03/25/my-website-before-indieweb) [redesigns](/2022/06/18/my-website-after-indieweb) over the years, but that has not changed as often in the recent times.
 

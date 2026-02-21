@@ -12,7 +12,7 @@
       {{ $year := . }}
       {{ $logs := index $groups.map $year }}
 
-      <h3 class='tbh' id='{{ $year }}'>{{ if eq $year "past" }}Past{{ else }}{{ $year }}{{ end }} <small class='lg'>({{ len $logs }} entries)</small></h3>
+      <h3 class='tbh' id='{{ $year }}'>{{ if eq $year "0" }}Past{{ else }}{{ $year }}{{ end }} <small class='lg'>({{ len $logs }} entries)</small></h3>
 
       {{ template "logs/ul" (dict "Logs" $logs "WithMicroformats" $.WithMicroformats "WithRating" $.WithRating) }}
     </section>
@@ -29,7 +29,7 @@
   <ul class='tb'>
     {{ range $logs }}
       <li{{if $mf2 }} class='h-entry'{{ end }}>
-          {{- with .url -}}<a href='{{ relURL . }}' class='nl lh {{if $mf2 }}u-url{{ end }}'>{{- else -}}<span>{{- end -}}
+          {{- with .url -}}<a href='{{ relURL . }}' class='nl {{if $mf2 }}u-url{{ end }}'>{{- else -}}<span>{{- end -}}
             {{- if $mf2 }}<span class='p-name'>{{ end -}}
               {{- .name -}}{{ with .season }} (Season {{. }}){{- end -}}
             {{- if $mf2 }}</span>{{- end -}}

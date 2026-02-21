@@ -7,12 +7,23 @@
   {{ partialCached "assets/js.html" . }}
 
   <a href="#main" id='skip-to-content'>Skip to content</a>
-  <div class='container'>
+
+  <div id='container'>
     {{ partial "base/header" . }}
+    {{ partial "base/navigation" . }}
+    {{ partial "base/sidebar" . }}
     <main id='main'>
       {{ block "main" . }}{{ end }}
     </main>
-    {{ partialCached "base/footer" . }}
+    {{ partial "base/footer" . }}
   </div>
+
+  {{ with sort (.Resources.Match "*.js") }}
+    <script>
+    {{ range . }}
+      {{ .Content | safeJS }}
+    {{ end }}
+    </script>
+  {{ end }}
 </body>
 </html>

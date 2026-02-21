@@ -1,4 +1,28 @@
 {{ define "main" }}
+  <style>{{ (resources.Get "css/home.css").Content | safeCSS }}</style>
+
+  <header>
+    <h1><span id='hello'>Hi, I'm <span style="color: var(--c)">Henrique</span>!</span> 👋</h1>
+  </header>
+
+  <div class='intro'>
+    {{- partialCached "post/content" . .Permalink -}}
+  </div>
+
+  <div class='h-feed'>
+    <div>
+      {{- $writings := .Site.GetPage "/categories/writings" -}}
+      <h2 id="freshly-planted"><a href='{{ $writings.RelPermalink }}' class='nl' title='Or at least once upon a time fresh...'>🌿 Freshly Planted <span class='lg'>⇢</span></a></h2>
+      {{- partial "logs" (dict "Pages" (first 25 $writings.Pages) "WithMicroformats" true) -}}
+    </div>
+
+    <div>
+      {{- $photos := .Site.GetPage "/categories/photos" -}}
+      <h2 id="freshly-captured"><a href='{{ $photos.RelPermalink }}' class='nl'>📸 Freshly Captured <span class='lg'>⇢</span></a></h2>
+      {{- template "index.photos" (dict "pages" (first 20 $photos.Pages) "feed" true) -}}
+    </div>
+  </div>
+
   <div class='h-card' hidden>
     <a href='{{ absURL "/" }}' class='u-uid u-url p-name'>{{ .Site.Params.author.name }}</a>
     <a class='u-photo' href='{{ .Site.Params.author.photo }}'>(Photo)</a>
@@ -7,38 +31,14 @@
     <div class='p-note'>{{ .Site.Params.site.description }}</div>
   </div>
 
-  {{- partialCached "post/content" . .Permalink -}}
-
-  <div class='h-feed'>
-    {{- $writings := .Site.GetPage "/categories/writings" -}}
-    <h2 id="freshly-planted"><a href='{{ $writings.RelPermalink }}' class='nl lh'>🪴 Freshly Planted <span class='lg'>⇢</span></a></h2>
-    {{- partial "logs" (dict "Pages" (first 8 $writings.Pages) "WithMicroformats" true) -}}
-
-    {{- $photos := .Site.GetPage "/categories/photos" -}}
-    <h2 id="freshly-captured"><a href='{{ $photos.RelPermalink }}' class='nl lh'>🎞️ Freshly Captured <span class='lg'>⇢</span></a></h2>
-    {{- template "index.photos" (dict "pages" (first 8 $photos.Pages) "feed" true) -}}
-  </div>
-
-  <h2 id="favourite-articles">🌟 Favourite Writings</h2>
-  {{- $favoritePosts := slice -}}
-  {{- range .Params.favoritePosts -}}
-  {{- $favoritePosts = $favoritePosts | append ($.GetPage .) -}}
-  {{- end -}}
-  {{- partial "logs" (dict "Pages" (first 4 $favoritePosts)) -}}
-
-  <h2 id="favourite-captures">📸 Favourite Captures</h2>
-  {{- $favoritePhotos := slice -}}
-  {{- range .Params.favoriteCaptures -}}
-  {{- $favoritePhotos = $favoritePhotos | append ($.GetPage .) -}}
-  {{- end }}
-  {{- template "index.photos" (dict "pages" (first 4 $favoritePhotos) "feed" false) -}}
+  <script>{{ (resources.Get "js/home.js").Content | safeJS }}</script>
 {{ end }}
 
 {{- define "index.photos" }}
 <div class='fg'>
   {{ range .pages }}
   <div class='br{{ if $.feed }} h-entry{{ end }}'>
-    <a href='{{ .RelPermalink }}' class='nl lh {{ if $.feed }} u-url{{ end }}'>
+    <a href='{{ .RelPermalink }}' class='nl {{ if $.feed }} u-url{{ end }}'>
       {{ $imageUrl := or .Params.thumbnail (index (index .Params.photos 0) "url") }}
       {{ partial "helpers/figure" (dict
         "Destination" $imageUrl

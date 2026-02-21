@@ -1,48 +1,24 @@
-{{- $isListing := .Listing -}}
 {{- with .Page -}}
-  {{- $hasDate := or (not .Date.IsZero) (not .Lastmod.IsZero) -}}
-  {{- $rating := index .Params "rating" -}}
-  {{- $read := index .Params "read" -}}
-  {{- $header := "1" -}}
-  {{- if $isListing }}{{ $header = "2"  }}{{ end -}}
   <header>
-    {{- if $read -}}
-      <h{{ $header }} class='smaller'>
-        {{- if $isListing -}}
-          <a href="{{ .RelPermalink }}" title="{{ .Title }}" class="nl">
-            <span class="h-cite p-read-of">
-              <span class='p-name'>{{- .Title -}}</span>
-              <span class='lg wn'>by <span class='p-author'>{{ .Params.read.author }}</span></span>
-            </span>
-          </a>
-        {{ else }}
-          <span class='p-name'>{{- .Title -}}</span>
-          <span class='lg wn'>by {{ .Params.read.author }}</span>
-        {{ end }}
-      </h{{ $header }}>
-    {{- else if .Title -}}
-      {{ $isLong := strings.Contains .RawContent "<!--more-->" }}
-      <h{{ $header }} class='p-name{{ if not $isLong }} smaller{{ end }}'>
-        {{- if $isListing -}}<a href="{{ .RelPermalink }}" title="{{ .Title }}" class="nl">{{ end }}
-          {{- .Title -}}
-        {{- if $isListing -}}</a>{{end }}
-      </h{{ $header }}>
+    {{- if not .Date.IsZero -}}
+    <p class='lg small'>
+      {{- if not .Date.IsZero -}}
+        <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+          {{- .Date.Format "2 January 2006" -}}
+        </time>
+      {{- end -}}
+    </p>
     {{- end -}}
 
-    {{- if $hasDate -}}
-    <p class='lg small'>
-      <a href="{{ .RelPermalink }}" class="nl">
-        {{- if not .Date.IsZero -}}
-          <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-            {{ if $rating }}Reviewed
-            {{ else if $read }}Read
-            {{ else }}Published
-            {{ end }}
-            on {{ .Date.Format "2 January 2006" }}
-          </time>
-        {{- end -}}
-      </a>
-    </p>
+    {{- if index .Params "read" -}}
+      <h1>
+        <span class='p-name'>{{- .Title -}}</span>
+        <span class='lg wn'>by {{ .Params.read.author }}</span>
+      </h1>
+    {{- else if .Title -}}
+      <h1 class='p-name'>
+        {{- .Title -}}
+      </h1>
     {{- end -}}
 
     <a href="{{ .Permalink }}" class="u-url" hidden>Permalink</a>

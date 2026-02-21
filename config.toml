@@ -4,7 +4,7 @@ title = 'Henrique Dias'
 pluralizeListTitles = false
 removePathAccents = true
 capitalizeListTitles = true
-summaryLength = 300
+summaryLength = 100
 printPathWarnings = true
 
 [pagination]
@@ -40,25 +40,55 @@ printPathWarnings = true
   pageRef = '/about'
   weight = 1
 [[menu.main]]
-  name = '✉️ Contact'
-  pageRef = '/contact'
-  weight = 2
-[[menu.main]]
   name = '✏️ Writings'
   pageRef = '/categories/writings'
-  weight = 3
+  weight = 2
 [[menu.main]]
   name = '📷 Photos'
   pageRef = '/categories/photos'
-  weight = 5
+  weight = 3
 [[menu.main]]
   name = '📖 Guestbook'
   pageRef = '/guestbook'
-  weight = 6
+  weight = 4
+[[menu.main]]
+  name = '🔎 Search'
+  pageRef = '/search'
+  weight = 5
 [[menu.main]]
   name = '🌈 More'
   pageRef = '/more'
-  weight = 7
+  weight = 6
+
+[[menu.contact]]
+  name = '✉️ Email'
+  url = 'mailto:mail@hacdias.com'
+  weight = 1
+[[menu.contact]]
+  name = '💬 Signal'
+  url = 'https://signal.me/#eu/NpDa7rvcj4CAXsiOpHqM2ADYyxXXmGTKr3HBXNPZXDPJ2JEgvBVPyJJah27RJe66'
+  weight = 2
+
+[[menu.elsewhere]]
+  name = '🦋 Bluesky'
+  url = 'https://bsky.app/profile/hacdias.com'
+  weight = 1
+[[menu.elsewhere]]
+  name = '🐙 GitHub'
+  url = 'https://github.com/hacdias'
+  weight = 2
+[[menu.elsewhere]]
+  name = '📷 Instagram'
+  url = 'https://instagram.com/hacdias'
+  weight = 3
+[[menu.elsewhere]]
+  name = '🐘 Mastodon'
+  url = 'https://fosstodon.org/@hacdias'
+  weight = 4
+[[menu.elsewhere]]
+  name = '💼 LinkedIn'
+  url = 'https://linkedin.com/in/hacdias'
+  weight = 5
 
 [params]
   [params.site]

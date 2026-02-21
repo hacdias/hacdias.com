@@ -26,9 +26,9 @@
 .resume-position > div {
   display: grid;
   grid-template-columns: max-content auto max-content;
-  grid-gap: 0 var(--hms);
+  grid-gap: 0 var(--s1);
   align-items: baseline;
-  margin: var(--hls) 0 var(--hms);
+  margin: var(--s2) 0 var(--s1);
 }
 
 .resume-position h4 {
@@ -42,10 +42,10 @@
 }
 
 .resume-position ul {
-  margin-top: var(--hms);
+  margin-top: var(--s1);
 }
 
-@media screen and (max-width: 50rem) {
+@media screen and (max-width: 60rem) {
   .resume-position > div {
     grid-template-columns: auto max-content;
   }

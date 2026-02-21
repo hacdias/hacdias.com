@@ -1,19 +1,19 @@
 {{ define "main" }}
-  <header>
-    <h1>{{ partialCached "fns/title" . .Title .Data.Singular }}</h1>
-  </header>
-
-  <style>
-  .h-feed li {
-    grid-template-columns: auto  min-content;
-  }
-  </style>
-
-  {{- partialCached "post/content" . .Permalink }}
   {{- $page := . }}
   {{- if .Params.layoutPage }}
     {{- $page = .Site.GetPage .Params.layoutPage }}
   {{- end }}
+
+  <header>
+    {{- if .Params.layoutPage }}
+      <p class='lg small'><a href='{{ $page.RelPermalink }}' class='nl'>← {{ $page.Title }}</a></p>
+      <h1>Archive</h1>
+    {{ else }}
+      <h1>{{ partialCached "fns/title" . .Title .Data.Singular }}</h1>
+    {{ end }}
+  </header>
+
+  {{- partialCached "post/content" . .Permalink }}
 
   <div class='h-feed'>
     {{- partial "logs" (dict

@@ -66,6 +66,7 @@ function setupPreview() {
 
   const images = document.querySelectorAll('article figure img')
   Array.from(images).forEach((img) => {
+    if (img.closest('.card')) return
     img.style.cursor = 'zoom-in'
     img.addEventListener('click', () => {
       preview.classList.remove('dn')

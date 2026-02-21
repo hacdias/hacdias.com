@@ -1,6 +1,6 @@
 {{- $pageTitle := partialCached "fns/title" . .Title .Data.Singular }}
 {{- $pages := .Pages }}
-{{ if .IsHome }}{{ $pages = partialCached "fns/pages" . .Permalink }}{{ end }}
+{{- if .IsHome }}{{ $pages = partialCached "fns/pages" . .Permalink }}{{ end -}}
 {{- $pages = $pages | first .Site.Config.Services.RSS.Limit }}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>" | safeHTML }}
 {{- printf "<?xml-stylesheet href=\"%s\" type=\"text/xsl\"?>" (relURL "/feed.xsl") | safeHTML }}

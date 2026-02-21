@@ -24,7 +24,7 @@
 @media (prefers-color-scheme: dark) {
   .plot {
     background-color: white;
-    padding: var(--hms) var(--ms);
+    padding: var(--s1) var(--s2);
     border-radius: var(--radius);
   }
 

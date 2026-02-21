@@ -1,6 +1,6 @@
 {{ if eq .Section "posts" }}
   <footer>
-    <ul class='tb box small'>
+    <ul class='tb small'>
       {{ if .Lastmod.After .Date }}
       <li>
         <strong>🖊️ Updated</strong>
@@ -87,7 +87,7 @@
         <span>
         <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>E-Mail</a>,
         <a {{ with $bsky }}class='u-syndication' href="{{ . }}"{{ else }}href="https://bsky.app/profile/hacdias.com"{{ end }} rel='noopener noreferrer'>Bluesky</a>,
-        <a {{ with $fosstodon }}class='u-syndication' href="{{ . }}"{{ else }}href="https://fosstodon.org/@hacdias"{{ end }} rel='noopener noreferrer'>Mastodon</a>
+        <a {{ with $fosstodon }}class='u-syndication' href="{{ . }}"{{ else }}href="https://fosstodon.org/@hacdias"{{ end }} rel='noopener noreferrer'>Mastodon</a>,
         <a href="https://indieweb.org/Webmention" rel='noopener noreferrer'>Webmentions</a>
         </span>
       </li>
@@ -95,10 +95,3 @@
   </footer>
 {{ end }}
 
-{{ with sort (.Resources.Match "*.js") }}
-  <script>
-  {{ range . }}
-    {{ .Content | safeJS }}
-  {{ end }}
-  </script>
-{{ end }}

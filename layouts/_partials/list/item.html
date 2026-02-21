@@ -1,19 +1,62 @@
 {{ $isLong := strings.Contains .RawContent "<!--more-->" }}
-<article class='h-entry card'>
-  {{- partialCached "post/header" (dict "Listing" true "Page" .) .Permalink true -}}
-  {{- if $isLong }}
+<article class='h-entry'>
+  <a href='{{ .RelPermalink }}' class='u-url card'>
+    <header>
+      {{- if not .Date.IsZero -}}
+        <p class='lg small'>
+          {{- if not .Date.IsZero -}}
+            <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+              {{- .Date.Format "2 January 2006" -}}
+            </time>
+          {{- end -}}
+        </p>
+      {{- end -}}
+
+      {{- if index .Params "read" -}}
+        <h2>
+          <span class="h-cite p-read-of">
+            <span class='p-name'>{{- .Title -}}</span>
+            <span class='lg wn'>by <span class='p-author'>{{ .Params.read.author }}</span></span>
+          </span>
+        </h2>
+      {{- else if .Title -}}
+        <h2 class='p-name'>{{- .Title -}}</h2>
+      {{- end -}}
+    </header>
+
     {{- with .Summary }}
-      <div class='p-summary'>{{ . }}</div>
+      <div class='p-summary'><p>{{ . | plainify }}</p></div>
     {{- end }}
-  {{- else }}
-    {{- partialCached "post/content" . .Permalink }}
-  {{- end }}
-  <div class="h-card u-author" hidden>
-    Authored by
-    <a href="{{ absURL "/" }}" class="u-url p-name">{{ .Page.Site.Params.author.name }}</a>
-    <a class='u-photo' href="{{ .Page.Site.Params.author.photo }}">(Photo)</a>
-  </div>
-  {{- if $isLong }}
-    <a href='{{ .RelPermalink }}' class='button small'>Read More →</a>
-  {{- end }}
+
+    {{- if .Params.photos }}
+      {{ $photos := len .Params.photos }}
+      {{ if eq $photos 1 }}
+        {{ with index .Params.photos 0 }}
+          {{ partial "helpers/figure" (dict
+            "Destination" .url
+            "Title" .title
+            "IsBlock" true
+            "Width" .width
+            "Height" .height
+            "Page" $.Page
+          )}}
+        {{ end }}
+      {{ else }}
+      <div class='fg fg-{{ math.Min $photos 3 }}'>
+        {{ range $i, $p := (first 3 .Params.photos) }}
+          {{ if and (eq $i 2) (gt $photos 3) }}<div class='extra'><span>+{{ math.Max 0 (sub $photos 3) }}</span>{{ end }}
+          {{ partial "helpers/figure" (dict
+            "Destination" .url
+            "Title" .title
+            "IsBlock" true
+            "Width" .width
+            "Height" .height
+            "Page" $.Page
+          )}}
+          {{ if and (eq $i 2) (gt $photos 3) }}</div>{{ end }}
+        {{ end }}
+      </div>
+      {{ end }}
+    {{ end }}
+  </a>
 </article>

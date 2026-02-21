@@ -65,7 +65,7 @@ I would recommend checking both Derek's [blog post](https://darekkay.com/blog/rs
             <ul class='tb'>
               <xsl:for-each select="/atom:feed/atom:entry">
                 <li class='h-entry'>
-                  <a class='nl lh p-name u-url'>
+                  <a class='nl p-name u-url'>
                     <xsl:attribute name="href">
                       <xsl:value-of select="atom:link/@href" />
                     </xsl:attribute>
