@@ -1,9 +1,9 @@
 {{ $name := .Title }}
 
-{{ if and (eq .Kind "term") (ne .Data.Singular "category") }}
+{{/* {{ if and (eq .Kind "term") (ne .Data.Singular "category") }}
   {{ with .Data.Singular }}
     {{ $name = printf "%s: %s" (humanize .) $name }}
   {{ end }}
-{{ end }}
+{{ end }} */}}
 
 {{ return $name }}

@@ -1,3 +1,11 @@
+.tb {
+  grid-template-columns: auto max-content max-content;
+}
+
+.tb li {
+  grid-column: span 3;
+}
+
 :root {
   --c-h: 354;
   --c-s: 90%;
@@ -10,6 +18,18 @@
   }
 }
 
-.tb li {
-  grid-template-columns: auto 5rem min-content;
+@media screen and (min-width: 120rem) {
+  #main {
+    max-width: none;
+  }
+
+  #watches-intro {
+    max-width: calc(var(--max-width) - 2 * var(--s3));
+  }
+
+  #watches-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(40rem, 1fr));
+    grid-gap: var(--s3);
+  }
 }

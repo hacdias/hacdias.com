@@ -1,0 +1,93 @@
+#main {
+  max-width: 100%;
+  padding: 0;
+}
+
+#main header,
+#main .e-content {
+  max-width: calc(var(--max-width) + 10rem);
+  padding: 0 var(--s3);
+}
+
+#main .intro {
+  border-bottom: var(--border) solid var(--fg);
+}
+
+#main h1 {
+  font-size: clamp(var(--f3), 7.5vw, calc(var(--f1) + 1rem));
+}
+
+#main h2 a {
+  text-decoration: none;
+}
+
+#main .intro p {
+  font-size: clamp(var(--f4), 3vw, var(--f3));
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+#main .h-feed {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(20rem, var(--max-width)));
+}
+
+#main .h-feed > div {
+  padding: 0 var(--s3);
+}
+
+#main .h-feed > div:not(:last-child) {
+  border-right: var(--border) solid var(--fg);
+}
+
+#main .fg {
+  grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+}
+
+#main .fg figure img {
+  aspect-ratio: 1;
+}
+
+#main .fg > div {
+  background: var(--fg);
+  transition: 0.2s ease all;
+}
+
+#main .fg > div:hover {
+  padding: var(--s1);
+  transform: rotate(1deg) scale(1.02);
+}
+
+@media screen and (max-width: 90rem) {
+  #main {
+    max-width: var(--max-width);
+  }
+
+  #main .h-feed {
+    display: block;
+  }
+
+  #main .intro,
+  #main .h-feed .h-entry:nth-child(10) {
+    border-bottom: 0;
+  }
+
+  #main .h-feed .h-entry:nth-child(n + 13) {
+    display: none;
+  }
+
+  #main .h-feed > div:not(:last-child) {
+    border: none;
+  }
+}
+
+@media screen and (max-width: 60rem) {
+  #sidebar {
+    grid-row: initial;
+    border-top: none;
+  }
+
+  #sidebar p {
+    display: none;
+  }
+}

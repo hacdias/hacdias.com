@@ -10,24 +10,15 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         {{ partialCached "assets/css.html" . }}
-        <style>
-          .tb li {
-            grid-template-columns: auto min-content;
-          }
-
-          #styled {
-            background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #f9a825, #ff5722);
-            background-clip: text;
-            color: transparent;
-            font-weight: bold;
-          }
-        </style>
+        <style>{{ (resources.Get "css/xsl.css").Content | safeCSS }}</style>
       </head>
       <body>
         {{ partialCached "assets/js.html" . }}
-        <div class='container'>
+        <div id='container'>
           {{ partial "base/header" . }}
-          <main>
+          {{ partial "base/navigation" . }}
+          {{ partial "base/sidebar" . }}
+          <main id='main'>
             <header>
               <h1>RSS Feed Preview</h1>
             </header>
@@ -46,7 +37,7 @@
             <ul class='tb'>
               <xsl:for-each select="/atom:feed/atom:entry">
                 <li class='h-entry'>
-                  <a class='nl lh p-name u-url'>
+                  <a class='nl p-name u-url'>
                     <xsl:attribute name="href">
                       <xsl:value-of select="atom:link/@href" />
                     </xsl:attribute>

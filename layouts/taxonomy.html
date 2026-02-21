@@ -1,4 +1,6 @@
 {{ define "main" }}
+  <style>{{ (resources.Get "css/taxonomy.css").Content | safeCSS }}</style>
+
   <header>
     <h1>{{ .Title }}</h1>
   </header>

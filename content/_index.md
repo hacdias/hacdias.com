@@ -12,6 +12,8 @@ favoritePosts:
   - /posts/2020/05/31/back-90s
   - /posts/2019/04/18/trying-pixel-art
 thumbnail: image:2024-09-01-stratumse-heide
+aliases:
+  - /contact/
 ---
 
-**Hi, I’m Henrique 👋**, a software engineer born in Portugal 🇵🇹, living in The Netherlands 🇳🇱. I'm passionate about open source, digital identity, web technology, and user agency. In my free time, I enjoy staying active, programming, photography, and a tasty cup of coffee or tea. Welcome to my corner on the web!
+I'm a software engineer born in Portugal 🇵🇹, living in The Netherlands 🇳🇱. I'm passionate about open source, digital identity, web technology, and user agency. In my free time, I enjoy staying active, programming, photography, and a tasty cup of coffee or tea. Welcome to my corner on the web!

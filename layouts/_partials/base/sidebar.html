@@ -1,0 +1,15 @@
+<aside id='sidebar'>
+  <p><strong class='lg'>Contact</strong></p>
+  <ul>
+    {{ range .Site.Menus.contact -}}
+      <li><a href='{{ .URL }}'>{{ .Name }}</a></li>
+    {{ end }}
+  </ul>
+
+  <p><strong class='lg'>Elsewhere</strong></p>
+  <ul>
+    {{ range .Site.Menus.elsewhere -}}
+      <li><a href='{{ .URL }}'>{{ .Name }}</a></li>
+    {{ end }}
+  </ul>
+</aside>

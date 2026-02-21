@@ -164,6 +164,8 @@ Software Engineer passionate about open source, user agency, decentralization, i
 
 {{</ resume-position >}}
 
-<div class='box' id='printing-hint'>
-  🖨️ You can save or print the resume by going into the <a href="javascript:print()">printing menu</a>.
-</div>
+<p id='printing-hint' style='text-align: center'>
+  <a class='button' href="javascript:print()">
+    🖨️ Print Resume
+  </a>
+</p>

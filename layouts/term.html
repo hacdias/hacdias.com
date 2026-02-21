@@ -1,6 +1,6 @@
 {{ define "main" }}
   <header>
-    <h1>{{ partialCached "fns/title" . .Title .Data.Singular }}</h1>
+    <h1>{{ if eq .Data.Singular "tag" }}<span style='color: var(--c);'>#</span>{{ end }}{{ partialCached "fns/title" . .Title .Data.Singular }}</h1>
   </header>
 
   {{ partialCached "post/content" . .Permalink }}

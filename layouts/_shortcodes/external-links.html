@@ -1,15 +1,8 @@
 {{ $links := index .Site.Data "external-links" }}
 
-<style>
-.tb li {
-  grid-template-columns: auto min-content;
-}
-</style>
-
 <ul class='tb'>
   {{ range $links }}
     <li>
-      
       <small>{{ partialCached "favicon" .domain .domain }} {{ .domain }}</small>
       <small class='lg count'>{{ .count }}</small>
     </li>

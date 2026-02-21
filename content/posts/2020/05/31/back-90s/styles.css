@@ -1,38 +1,20 @@
-@media screen and not (max-width: 50rem) {
-  body {
-    background: #010d2a url(https://media.hacdias.com/image/600/2020-05-31-sea-pattern.jpeg);
-    background-size: 300px;
-    background-attachment: fixed;
-  }
-
-  #navbar {
-    border-radius: 0;
-    border-left: none;
-    border-right: none;
-  }
-}
-
 :root {
   --c-h: 256;
   --c-s: 25%;
   --c-l: 51%;
 }
 
-.netscape,
-.iexplore {
-  width: 100%;
-  max-width: 10rem;
+body {
+  background: #010d2a
+    url(https://media.hacdias.com/image/600/2020-05-31-sea-pattern.jpeg);
+  background-size: 300px;
+  background-attachment: fixed;
 }
 
-.netscape {
-  margin-right: 1rem;
-}
-
-.bulb {
-  max-width: 5rem !important;
-}
-
-.guestbook {
-  max-width: 10rem !important;
-  margin: 0 0 0 1rem !important;
+#header,
+#sidebar,
+#navbar,
+#main,
+#footer {
+  background: var(--bg);
 }

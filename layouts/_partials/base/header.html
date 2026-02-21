@@ -1,39 +1,13 @@
 <div id='header'>
-  <div id='home'>
-    <a class='avatar nl' href='{{ relURL "/" }}' title='This is me, kinda.'>
-      <picture>
-        <source type='image/webp' srcset='{{ relURL "/statue.webp" }}' />
-        <img alt='Avatar' src='{{ relURL "/statue.png" }}' width="100px" />
-      </picture>
-    </a>
-
+  <a class='nl' href='{{ relURL "/" }}'>
+    <div class='monogram'>H</div>
     <div>
       <p class='name'>
-        <a class='nl' href='{{ relURL "/" }}'>Henrique Dias</a>
+        Henrique Dias
       </p>
       <p class='lg'>
         known as <span title='My handle has nothing to do with hacking!'>@hacdias</span>
       </p>
     </div>
-  </div>
-
-  {{ if eq hugo.Environment "eagle" }}
-    <form action='{{ relURL "/search/" }}' method='get' class='inline-form'>
-      <input type='text' placeholder='Search…' id='query' name='query' />
-      <button alt='Search'>🔎</button>
-    </form>
-  {{ else }}
-    <form action="https://duckduckgo.com/html/" method="get" class='inline-form'>
-      <input type='search' placeholder="Search…" name='q' value="site:hacdias.com " />
-      <button alt='Search'>🔎</button>
-    </form>
-  {{ end }}
+  </a>
 </div>
-
-<input type='checkbox' id='toggler' hidden="hidden" />
-<nav id='navbar'>
-  <label for='toggler'>🍔 Menu</label>
-  {{ range .Site.Menus.main -}}
-    <a href='{{ .Page.RelPermalink }}' class='nl'{{ if $.IsMenuCurrent .Menu . }} aria-current='page'{{ end }}>{{ .Name }}</a>
-  {{ end }}
-</nav>

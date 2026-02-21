@@ -1,0 +1,19 @@
+#main {
+  max-width: 100%;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  grid-gap: var(--s3);
+}
+
+.grid figure {
+  margin: 0;
+}
+
+.grid img {
+  aspect-ratio: 1;
+  object-fit: scale-down;
+  border-radius: 0;
+}

@@ -21,7 +21,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 - **Auth Device** <span>YubiKeys for 2FA, GPG and SSH</span>
 - **Wallet** <span>Secrid</span>
 - **Keychain** <span>Orbitkey Key Organizer</span>
-{.box .tb}
+{.tb}
 
 ### ⌨️ Desk {#desk}
 
@@ -37,7 +37,7 @@ At home, we have two desks: one in our bedroom, and one in the guest bedroom. I 
 - **Mouse** <span>Asus Strix Impact, Logitech MX Vertical</span>
 - **Laptop Stand** <span>Roost V3</span>
 - **Wireless Charger** <span>Twelve South HiRise 3 Deluxe</span>
-{.box .tb}
+{.tb}
 
 ### 📷 Photography {#photography}
 
@@ -46,7 +46,7 @@ In the photography department, I currently own a Fuji X-T5. The pictures that co
 - **Camera** <span>Fujifilm X-T5</span>
 - **Lenses** <span>XF 16-50mm f/2.8-4.0, XF 27mm F/2.8, XF 23mm F2.0 R WR</span>
 - **Tripod** <span>Manfrotto Befree</span>
-{.box .tb}
+{.tb}
 
 ### ☕️ Coffee {#coffee}
 
@@ -67,7 +67,7 @@ Coffee - and also tea - are nowadays a part of my daily life. However, I am cons
 - **Grinder** <span>Eureka Mignon Oro Single Dose, Baratza Encore</span>
 - **Scale** <span>TIMEMORE Basic 2.0, Acaia Lunar 2021</span>
 - **Kettle** <span>Fellow Stagg ‎EKG Pro</span>
-{.box .tb}
+{.tb}
 
 ## 📀 Software {#software}
 
@@ -101,4 +101,4 @@ The list below contains some of my favorite software, or software that I use on 
 - **Web Server** <span>[Caddy](https://caddyserver.com/)</span>
 - **Hosting Provider** <span>[Hetzner](https://www.hetzner.com/)</span>
 - **Domain Registrars** <span>[Porkbun](https://porkbun.com)</span>
-{.box .tb}
+{.tb}

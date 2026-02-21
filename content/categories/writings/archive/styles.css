@@ -1,9 +1,0 @@
-@media screen and not (max-width: 50rem) {
-  body {
-    background-image: url(/writings/pencils.svg);
-    background-repeat: repeat-x;
-    background-position: bottom;
-    background-attachment: fixed;
-    background-size: 25rem;
-  }
-}

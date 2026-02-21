@@ -1,8 +1,7 @@
 <form id='search-form' class='inline-form'>
-  <input aria-label="Search terms" required type='text' name='query' placeholder="Search…" value="{{ .Query }}" />
+  <input {{ if eq (len .Query) 0 }}autofocus{{ end }} aria-label="Search terms" required type='text' name='query' placeholder="Search…" value="{{ .Query }}" />
   <button/>Search</button>
 </form>
-
 {{ if eq (len .Query) 0 }}
   <div class='box'>
     <p>ℹ️ You haven't searched for anything yet!</p>
@@ -14,43 +13,32 @@
     </div>
   {{ else }}
     {{ range .Entries }}
-      {{ $rating := index .Other "rating" }}
-      {{ $read := .Other.read }}
-      <div class='card'>
+      <a href='{{ .RelPermalink }}' class='card'>
         <header>
-          {{ if $read }}
-            <a href='{{ .RelPermalink }}' class='nl' rel='noopener noreferrer'>
-              <h2 class='smaller'>{{ .Title }} <span class='lg wn'>by {{ $read.author }}</span></h2>
-            </a>
-          {{ else }}
-            <a href='{{ .RelPermalink }}' class='nl'><h2>{{ .Title }}</h2></a>
-          {{ end }}
-
           {{ if not .Date.IsZero }}
             <p class='lg small'>
-              <a href='{{ .RelPermalink }}' class='nl'>
-                <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-                  {{ if $rating }}Reviewed
-                  {{ else if $read }}Read
-                  {{ else }}Published
-                  {{ end }}
-                  on {{ .Date.Format "2 January 2006" }}
-                </time>
-              </a>
+              <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+                {{- .Date.Format "2 January 2006" -}}
+              </time>
             </p>
           {{ end }}
+
+          {{ if .Other.read }}
+            <h2>{{ .Title }} <span class='lg wn'>by {{ .Other.read.author }}</span></h2>
+          {{ else }}
+            <h2>{{ .Title }}</h2>
+          {{ end }}
         </header>
-        <div class='copy'><p>{{ .Summary }}</p></div>
-        <a href='{{ .RelPermalink }}' class='button small'>Read More →</a>
-      </div>
+        <div><p>{{ .Summary }}</p></div>
+      </a>
     {{ end }}
   {{ end }}
 
-  <nav>
-    <a aria-label="Previous" class="page-link" role="button" {{ with .Previous }}href="{{ . }}"{{ else }}aria-disabled="true"{{ end }}>
+  <nav id="pagination">
+    <a aria-label="Previous" role="button" {{ with .Previous }}href="{{ . }}"{{ else }}aria-disabled="true"{{ end }}>
       <span aria-hidden="true">&laquo; Previous</span>
     </a>
-    <a aria-label="Next" class="page-link" role="button"  {{ with .Next }}href="{{ . }}"{{ else }}aria-disabled="true"{{ end }} >
+    <a aria-label="Next" role="button"  {{ with .Next }}href="{{ . }}"{{ else }}aria-disabled="true"{{ end }} >
       <span aria-hidden="true">Next &raquo;</span>
     </a>
   </nav>

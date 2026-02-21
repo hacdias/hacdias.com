@@ -3,5 +3,5 @@ title: Photos
 description: My photos.
 ---
 
-📷 These are my photos. Visit the [archive](/photos/archive/) for a gallery view.
+📷 The works of an occasional photographer. Visit the [archive](/photos/archive/) for a gallery view.
 {.box}

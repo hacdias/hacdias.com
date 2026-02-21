@@ -1,64 +1,4 @@
-<style>
-.trips ul,
-.trips li {
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-  line-height: 1.25;
-}
-
-.trips details[open] {
-  background: var(--mg);
-}
-
-.trips summary {
-  display: grid;
-  margin: 0;
-  grid-gap: 1rem;
-  grid-template-columns: auto 16rem max-content;
-  align-items: center;
-}
-
-.trips summary::marker, /* Latest Chrome, Edge, Firefox */
-.trips summary::-webkit-details-marker /* Safari */ {
-  display: none;
-}
-
-.trips details[open] summary,
-.trips li:not(:last-of-type),
-.trips li:last-of-type .legs li {
-  border-bottom: var(--border) solid var(--fg);
-}
-
-.trips li:hover {
-  background-color: var(--mg);
-}
-
-.trips summary > * {
-  display: block;
-  margin: var(--hms) 0;
-}
-
-.trips summary > *:first-child {
-  font-weight: 600;
-}
-
-.trips li:last-of-type .legs li {
-border-bottom: var(--border) solid var(--fg);
-}
-
-.legs li {
-  font-size: var(--f5);
-  padding: var(--hms) 0;
-}
-
-@media screen and (max-width: 50rem) {
-  .trips summary {
-    display: flow-root;
-  }
-}
-</style>
-
+<style>{{ (resources.Get "css/trips.css").Content | safeCSS }}</style>
 {{ $logs := partial "fns/group-date-year" .Site.Data.trips }}
 {{ range $logs.years }}
   <section class='trips'>
@@ -83,7 +23,7 @@ border-bottom: var(--border) solid var(--fg);
             </summary>
 
             {{ with $entry.itinerary }}
-              <ul class='legs'>
+              <ul>
                 {{ range . }}
                   <li>{{ template "leg" (dict "Itinerary" . "Site" $.Site) }}</li>
                 {{ end }}
@@ -97,21 +37,7 @@ border-bottom: var(--border) solid var(--fg);
   </section>
 {{ end }}
 
-<script>
-const details = document.querySelectorAll('.trips details')
-
-details.forEach(target => {
-  target.addEventListener('toggle', closeAll)
-})
-
-function closeAll (e) {
-  if (e.target.open) {
-    details.forEach(detail => {
-      if (detail != e.target && detail.open) detail.open=false
-    })
-  }
-}
-</script>
+<script>{{ (resources.Get "js/trips.js").Content | safeJS }}</script>
 
 {{ define "leg" }}
   {{ template "transit-type" .Itinerary.type }}

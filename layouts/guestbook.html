@@ -1,62 +1,66 @@
 {{ define "main" }}
+  <style>{{ (resources.Get "css/guestbook.css").Content | safeCSS }}</style>
+
   <article class='h-entry'>
     {{- partialCached "post/header" (dict "Listing" false "Page" .) .Permalink false -}}
     {{- partialCached "post/content" . .Permalink }}
 
     <div style='clear: both; text-align: center;'>
       {{ if eq hugo.Environment "eagle" }}
-        <a class='button' href='#guestbook-form'>
+        <a class='button' href='#leave-message'>
       {{ else }}
         <a class='button' href="mailto:{{ .Site.Params.author.email }}?subject=Re: Guestbook Entry&body=Name%3A%0AWebsite%3A%0AMessage%3A" rel='noopener noreferrer'>
       {{ end }}
         📖 Sign Guestbook
       </a>
     </div>
-
-    {{ with .Resources.Get "sidecar.json" | unmarshal -}}
-      <div class="entries">
-        {{- range .replies }}
-          <div class="entry box">
-            <p>
-              <strong>
-                {{- with .authorUrl }}<a rel="noopener noreferrer" href="{{ . }}">{{ end }}
-                {{- with .author }}{{ . }}{{ else }}Anonymous{{ end -}}
-                {{- with .authorUrl }}</a>{{ end -}}
-              </strong>
-              <br>
-              <small class='lg'>{{ dateFormat "2 January 2006" .date }}</small>
-            </p>
-
-            {{  .content | $.RenderString (dict "display" "block") }}
-          </div>
-        {{ end -}}
-      </div>
-    {{ end -}}
   </article>
 
-  {{ if eq hugo.Environment "eagle" }}
-  <form method='post' id="guestbook-form" action='/comments' class='box'>
-    <label for='gb-name'>Your Name<abbr title="required">*</abbr></label>
-    <input required type='text' maxlength='200' id='gb-name' name='name' placeholder='Mary Jane' value='' />
+  {{ with .Resources.Get "sidecar.json" | unmarshal -}}
+    <div class="entries">
+      {{- range .replies }}
+        <div class="entry">
+          <p>
+            <strong>
+              {{- with .authorUrl }}<a rel="noopener noreferrer" href="{{ . }}">{{ end }}
+              {{- with .author }}{{ . }}{{ else }}Anonymous{{ end -}}
+              {{- with .authorUrl }}</a>{{ end -}}
+            </strong>
+            <br>
+            <small class='lg'>{{ dateFormat "2 January 2006" .date }}</small>
+          </p>
 
-    <label for='gb-website'>Your Website</label>
-    <input type='url' maxlength='200' id='gb-website' name='website' placeholder='https://example.com' value='' />
+          {{  .content | $.RenderString (dict "display" "block") }}
+        </div>
+      {{ end -}}
+    </div>
+  {{ end -}}
 
-    <label for='gb-content'>Your Message<abbr title="required">*</abbr></label>
-    <textarea required maxlength='1000' rows='7' id='gb-content' name='content' placeholder='Type your message, *markdown* is allowed...'></textarea>
+    {{ if eq hugo.Environment "eagle" }}
+    <form method='post' id="guestbook-form" action='/comments'>
+      <h2 id='leave-message'>Leave a message</h2>
+      <label for='gb-name'>Name<abbr title="required">*</abbr></label>
+      <input required type='text' maxlength='200' id='gb-name' name='name' placeholder='Mary Jane' value='' />
 
-    <label for='gb-captcha'>
-      Anti-bot validation 🙃<br>
+      <label for='gb-website'>Website</label>
+      <input type='url' maxlength='200' id='gb-website' name='website' placeholder='https://example.com' value='' />
+
+      <label for='gb-content'>Message<abbr title="required">*</abbr></label>
+      <textarea required maxlength='1000' rows='7' id='gb-content' name='content' placeholder='Type your message, *markdown* is allowed...'></textarea>
+
+      <label for='gb-captcha'>
+        Anti-bot validation 🙃<br>
+      </label>
       <small>
         Unfortunately, spam is becoming increasingly harder to prevent.
         If you're human, please type down my most commonly seen @handle,
         which is also part of the domain name of this website.
       </small>
-    </label>
-    <input type='text' maxlength='100' id='gb-captcha' name='captcha' placeholder='ha...' />
+      <input type='text' maxlength='100' id='gb-captcha' name='captcha' placeholder='ha...' />
 
-    <input type='text' maxlength='300' name='target' value='/guestbook/' class='dn' hidden />
-    <button>Sign Guestbook</button>
-  </form>
-  {{ end }}
+      <input type='hidden' name='target' value='/guestbook/' />
+      <button type='submit'>✏️ Sign Guestbook</button>
+    </form>
+    {{ end }}
+  </article>
 {{ end }}

@@ -13,15 +13,18 @@ Here you can find a list of every page that did not fit in the main navigation b
 - [🌍 Trips](/trips/)
 - [🛠 Uses](/uses/)
 - [🎬 Watches](/watches/)
+- [💰 Support](/support/)
+- [🔑 PGP key](/pubkey.asc)
 {.buttons #more-list}
 
 ## 📡 Feeds {#feeds}
 
 If you're interested in following my content, there's Atom and JSON feeds available. You can choose to either get writings, photos, or both! Your feed reader should automatically pick up the feed from the page URL. If it doesn't, you can use the following URLs:
 
-- **Home**: [Atom](/feed.xml), [JSON](/feed.json).
-- **Writings**: [Atom](/writings/feed.xml), [JSON](/writings/feed.json).
-- **Photos**: [Atom](/photos/feed.xml), [JSON](/photos/feed.json).
+- **Home** <span>[Atom](/feed.xml), [JSON](/feed.json)</span>
+- **Writings** <span>[Atom](/writings/feed.xml), [JSON](/writings/feed.json)</span>
+- **Photos** <span>[Atom](/photos/feed.xml), [JSON](/photos/feed.json)</span>
+{.tb}
 
 ## 📦 Shoebox {#shoebox}
 
