@@ -9,6 +9,10 @@
   padding: 0 var(--s3);
 }
 
+#footer {
+  max-width: calc(2 * var(--max-width));
+}
+
 #main .intro {
   border-bottom: var(--border) solid var(--fg);
 }
@@ -59,6 +63,7 @@
 }
 
 @media screen and (max-width: 90rem) {
+  #footer,
   #main {
     max-width: var(--max-width);
   }
