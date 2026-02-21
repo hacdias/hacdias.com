@@ -1990,6 +1990,20 @@
     ]
   },
   {
+    "domain": "dnscontrol.org",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://dnscontrol.org/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/20/cloudflare/",
+        "targetUrl": "https://docs.dnscontrol.org/advanced-features/nameservers?q=cl#shadow-nameservers"
+      }
+    ]
+  },
+  {
     "domain": "eenbeetjenederlands.nl",
     "count": 2,
     "links": [
@@ -2966,16 +2980,6 @@
     ]
   },
   {
-    "domain": "dnscontrol.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
-        "targetUrl": "https://dnscontrol.org/"
-      }
-    ]
-  },
-  {
     "domain": "docker.com",
     "count": 1,
     "links": [
@@ -3492,6 +3496,16 @@
       {
         "sourceUrl": "https://hacdias.com/2023/11/30/spotify-wrapped/",
         "targetUrl": "https://jamesg.blog/2023/11/29/spotify-wrapped/"
+      }
+    ]
+  },
+  {
+    "domain": "janlukas.blog",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/20/cloudflare/",
+        "targetUrl": "https://janlukas.blog/micro/2026/02/2026-02-19-jniml"
       }
     ]
   },
