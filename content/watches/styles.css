@@ -19,8 +19,9 @@
 }
 
 @media screen and (min-width: 120rem) {
-  #main {
-    max-width: none;
+  #main,
+  #footer {
+    max-width: 100%;
   }
 
   #watches-intro {
