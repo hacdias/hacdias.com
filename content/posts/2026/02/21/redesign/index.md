@@ -63,7 +63,7 @@ With this in mind, I built my new homepage based on the old one, letting the pho
 
 But then it hit me: what if both exist? A grid layout like [Luke's](https://www.lkhrs.com/), but using the sidebar for the contact information. The contact page was becoming shorter and shorter and I also wanted to get rid of it. Two birds with one stone.
 
-This sidebar also adapts elegantly - I hope. On mobile, the contact links will float down to the bottom of the page, right above the footer, except for in the homepage, where they'll sit on top, below the navigation bar.
+This sidebar also adapts elegantly - I hope. On mobile, the contact links will float down to the bottom of the page, right above the footer, except for in the homepage, where they'll sit on top, below the navigation bar. The navigation bar scrolls horizontally on mobile. I do hope it's clear. I'm sure I'll make more tweaks with time.
 
 **Balancing personality, modernness and cleanliness.** Not even sure what that means, but I wanted the website to look a bit more modern, clean, and still exude the same feelings as before. That I can't judge, I think someone else needs to do it for me. I tried to keep as many elements as possible. After all, it's mostly a readjustment of positions. Font-types, colors, emojis, those things were kept. Pages that had custom backgrounds still got to keep them.
 
