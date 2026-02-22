@@ -15,6 +15,7 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mfe65da6q2cr
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mfe65da6q2cr
+  - https://fosstodon.org/@hacdias/116113088015592923
 thumbnail: image:2026-02-21-new-website-home
 ---
 
