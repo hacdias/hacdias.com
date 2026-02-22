@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 90,
+    "count": 89,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -356,10 +356,6 @@
         "targetUrl": "https://github.com/hacdias/eagle"
       },
       {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://github.com/hacdias"
-      },
-      {
         "sourceUrl": "https://hacdias.com/uses/",
         "targetUrl": "https://github.com/hacdias/dotfiles"
       }
@@ -625,7 +621,7 @@
   },
   {
     "domain": "indieweb.org",
-    "count": 24,
+    "count": 23,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2019/12/24/own-your-data/",
@@ -718,10 +714,6 @@
       {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://indieweb.org/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://indieweb.org/elsewhere"
       }
     ]
   },
@@ -1250,28 +1242,6 @@
     ]
   },
   {
-    "domain": "fosstodon.org",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/02/28/recently/",
-        "targetUrl": "https://fosstodon.org/@hacdias"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/11/10/updates-on-indieweb-go-libraries/",
-        "targetUrl": "https://fosstodon.org/@jle/111351505430671803"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/11/18/open-sourcering-my-website/",
-        "targetUrl": "https://fosstodon.org/@hacdias/111348601666828039"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://fosstodon.org/@hacdias"
-      }
-    ]
-  },
-  {
     "domain": "jlelse.blog",
     "count": 4,
     "links": [
@@ -1290,28 +1260,6 @@
       {
         "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
         "targetUrl": "https://jlelse.blog/thoughts/2024/10/multilingualism"
-      }
-    ]
-  },
-  {
-    "domain": "linkedin.com",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
-        "targetUrl": "https://www.linkedin.com/in/carrozo"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://www.linkedin.com/in/malikpiara/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
-        "targetUrl": "https://www.linkedin.com/in/fabiocferreira/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://linkedin.com/in/hacdias"
       }
     ]
   },
@@ -1564,24 +1512,6 @@
     ]
   },
   {
-    "domain": "bsky.app",
-    "count": 3,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2025/10/27/internet-phone-book/",
-        "targetUrl": "https://bsky.app/profile/kevin.woblick.com/post/3lqjdsheq7227"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
-        "targetUrl": "https://bsky.app/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://bsky.app/profile/hacdias.com"
-      }
-    ]
-  },
-  {
     "domain": "buienradar.nl",
     "count": 3,
     "links": [
@@ -1650,6 +1580,24 @@
       {
         "sourceUrl": "https://hacdias.com/2023/10/18/navigating-my-dutch-learning-journey/",
         "targetUrl": "https://www.dutchnews.nl/2023/04/theyll-just-throw-in-wvttkje-i-find-it-really-funny/"
+      }
+    ]
+  },
+  {
+    "domain": "fosstodon.org",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2023/02/28/recently/",
+        "targetUrl": "https://fosstodon.org/@hacdias"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/10/updates-on-indieweb-go-libraries/",
+        "targetUrl": "https://fosstodon.org/@jle/111351505430671803"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/11/18/open-sourcering-my-website/",
+        "targetUrl": "https://fosstodon.org/@hacdias/111348601666828039"
       }
     ]
   },
@@ -1726,6 +1674,24 @@
     ]
   },
   {
+    "domain": "linkedin.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2015/08/19/something-about-future/",
+        "targetUrl": "https://www.linkedin.com/in/carrozo"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "https://www.linkedin.com/in/malikpiara/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
+        "targetUrl": "https://www.linkedin.com/in/fabiocferreira/"
+      }
+    ]
+  },
+  {
     "domain": "manuelmoreale.com",
     "count": 3,
     "links": [
@@ -1758,6 +1724,24 @@
       {
         "sourceUrl": "https://hacdias.com/2017/07/12/how-did-i-start-working-remotely-at-a-startup/",
         "targetUrl": "https://medium.com/u/1e66c112f4ce"
+      }
+    ]
+  },
+  {
+    "domain": "metafluff.com",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
+        "targetUrl": "https://metafluff.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://metafluff.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/21/redesign/",
+        "targetUrl": "https://metafluff.com/"
       }
     ]
   },
@@ -1948,6 +1932,20 @@
     ]
   },
   {
+    "domain": "bsky.app",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/10/27/internet-phone-book/",
+        "targetUrl": "https://bsky.app/profile/kevin.woblick.com/post/3lqjdsheq7227"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://bsky.app/"
+      }
+    ]
+  },
+  {
     "domain": "ddw.nl",
     "count": 2,
     "links": [
@@ -2084,20 +2082,6 @@
       {
         "sourceUrl": "https://hacdias.com/2022/01/25/linking-reading-progress-together/",
         "targetUrl": "https://indiebookclub.biz/"
-      }
-    ]
-  },
-  {
-    "domain": "instagram.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
-        "targetUrl": "https://www.instagram.com/orlophe_interlingua/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://instagram.com/hacdias"
       }
     ]
   },
@@ -2256,20 +2240,6 @@
     ]
   },
   {
-    "domain": "metafluff.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/02/05/fosdem/",
-        "targetUrl": "https://metafluff.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
-        "targetUrl": "https://metafluff.com/"
-      }
-    ]
-  },
-  {
     "domain": "miljoenenlijn.nl",
     "count": 2,
     "links": [
@@ -2378,20 +2348,6 @@
       {
         "sourceUrl": "https://hacdias.com/2020/11/02/backing-up-email/",
         "targetUrl": "http://pyropus.ca/software/getmail/configuration.html#conf-retriever"
-      }
-    ]
-  },
-  {
-    "domain": "reddit.com",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
-        "targetUrl": "https://www.reddit.com/r/pihole/comments/bnihyz/guide_how_to_install_wireguard_on_a_raspberry_pi/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://reddit.com/u/hacdias"
       }
     ]
   },
@@ -3420,6 +3376,16 @@
     ]
   },
   {
+    "domain": "instagram.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
+        "targetUrl": "https://www.instagram.com/orlophe_interlingua/"
+      }
+    ]
+  },
+  {
     "domain": "ipfs-thing.io",
     "count": 1,
     "links": [
@@ -3616,6 +3582,16 @@
       {
         "sourceUrl": "https://hacdias.com/2014/07/17/listagem-web-de-uma-tabela-mysql/",
         "targetUrl": "http://pt.lipsum.com/"
+      }
+    ]
+  },
+  {
+    "domain": "lkhrs.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/21/redesign/",
+        "targetUrl": "https://www.lkhrs.com/"
       }
     ]
   },
@@ -4070,6 +4046,16 @@
     ]
   },
   {
+    "domain": "reddit.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
+        "targetUrl": "https://www.reddit.com/r/pihole/comments/bnihyz/guide_how_to_install_wireguard_on_a_raspberry_pi/"
+      }
+    ]
+  },
+  {
     "domain": "redis.io",
     "count": 1,
     "links": [
@@ -4186,16 +4172,6 @@
       {
         "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
         "targetUrl": "https://www.sigmdel.ca/michel/ha/wireguard/wireguard_02_en.html#installing_wg_raspbian"
-      }
-    ]
-  },
-  {
-    "domain": "signal.me",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/contact/",
-        "targetUrl": "https://signal.me/#eu/NpDa7rvcj4CAXsiOpHqM2ADYyxXXmGTKr3HBXNPZXDPJ2JEgvBVPyJJah27RJe66"
       }
     ]
   },
