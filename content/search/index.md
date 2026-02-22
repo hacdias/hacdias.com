@@ -1,5 +1,6 @@
 ---
 title: Search
+description: Search this website.
 noIndex: true
 ---
 
