@@ -881,7 +881,7 @@ figure,
   }
 
   #container {
-    grid-template-columns: auto;
+    grid-template-columns: 100%;
   }
 
   #header,
