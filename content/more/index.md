@@ -9,12 +9,12 @@ Here you can find a list of every page that did not fit in the main navigation b
 - [🚀 Impossible List](/impossible-list/)
 - [🗞️ Blogroll](/blogroll/)
 - [📚 Readings](/readings/)
-- [🎓 Resume](/resume/)
 - [🌍 Trips](/trips/)
-- [🛠 Uses](/uses/)
 - [🎬 Watches](/watches/)
+- [☕️ Coffee Log](/coffee/)
+- [🛠 Uses](/uses/)
 - [💰 Support](/support/)
-- [🔑 PGP key](/pubkey.asc)
+- [🔑 PGP Key](/pubkey.asc)
 {.buttons #more-list}
 
 ## 📡 Feeds {#feeds}
