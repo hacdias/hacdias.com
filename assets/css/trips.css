@@ -59,4 +59,8 @@
   .trips summary {
     display: flow-root;
   }
+
+  .trips summary > *:first-child {
+    text-decoration: underline;
+  }
 }
