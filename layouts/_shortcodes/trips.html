@@ -11,7 +11,7 @@
     {{ with $entries }}
       {{ range $entry := . }}
         <li>
-          <details>
+          <details name='trip'>
             <summary>
               <span>{{ .name }}</span>
               <span>{{ .place }}</span>
@@ -36,8 +36,6 @@
     </ul>
   </section>
 {{ end }}
-
-<script>{{ (resources.Get "js/trips.js").Content | safeJS }}</script>
 
 {{ define "leg" }}
   {{ template "transit-type" .Itinerary.type }}
