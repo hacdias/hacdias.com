@@ -33,4 +33,16 @@
     grid-template-columns: repeat(3, minmax(15rem, var(--max-width)));
     grid-gap: var(--s3);
   }
+
+  @supports (display: grid-lanes) {
+    #watches-grid {
+      grid-template-columns: repeat(auto-fill, minmax(20rem, var(--max-width)));
+      display: grid-lanes;
+    }
+  
+    .grid img {
+      aspect-ratio: auto;
+    }
+  }
 }
+
