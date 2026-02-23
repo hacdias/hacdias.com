@@ -1,7 +1,7 @@
 ---
 title: Coffee Log
-thumbnail: image:2025-08-08-latte-art
 description: A list of coffee bags I have purchased and drank.
+thumbnail: image:2025-08-08-latte-art
 ---
 
 ![](https://media.hacdias.com/2026-02-23-drip-coffee-maker.gif "Drip Coffee Maker")

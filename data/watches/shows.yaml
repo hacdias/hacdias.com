@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Trying
+  season: 1
+  rating: 4
+  date: 2026-02-23
 - name: How to Get to Heaven from Belfast
   season: 1
   rating: 4
