@@ -1,0 +1,11 @@
+:root {
+  --c-h: 24;
+  --c-s: 33%;
+  --c-l: 32%;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --c-l: 50%;
+  }
+}
