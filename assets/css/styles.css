@@ -937,6 +937,7 @@ figure,
     grid-column: auto;
   }
 
+  .tb,
   .tb li {
     display: flow-root;
   }
