@@ -1,0 +1,42 @@
+<style>{{ (resources.Get "css/coffee.css").Content | safeCSS }}</style>
+{{ $logs := partial "fns/group-date-year" .Site.Data.coffee }}
+{{ range $logs.years }}
+  <section class='coffee'>
+    {{ $year := . }}
+    {{ $entries := index $logs.map $year }}
+
+    <h3 class='tbh' id='{{ $year }}'>{{ $year }} <small class='lg'>({{ len $entries }} bean bags)</small></h3>
+
+    <ul>
+    {{ with $entries }}
+      {{ range $entry := . }}
+        <li>
+          <details name='coffee-bag'>
+            <summary>
+              <span>{{ .name }}</span>
+              <span>{{ .roaster.name }}</span>
+              {{ with .rating }}
+                <span>{{ partialCached "helpers/stars" (slice . 5) . 5 }}</span>
+              {{ else }}
+                <span class="ah" alt="No rating">☆☆☆☆☆</span>
+              {{ end }}
+              <span>
+                <small class='tab lg small'>{{ dateFormat "2006-01-02" .date }}</small>
+              </span>
+            </summary>
+
+            <ul class='tb'>
+              <li><strong>📍 Origin</strong> <span>{{ .origin }}</span></li>
+              <li><strong>🏭 Roaster</strong> <span><a href='{{ .roaster.website }}'>{{ .roaster.name }}</a> ({{ .roaster.location }})</span></li>
+              {{ with .roast }}<li><strong>🔥 Roast Level</strong> <span>{{ . }}</span></li>{{ end }}
+              {{ with .process }}<li><strong>🧪 Process</strong> <span>{{ . }}</span></li>{{ end }}
+              {{ with .variety }}<li><strong>🌱 Variety</strong> <span>{{ . }}</span></li>{{ end }}
+              {{ with .elevation }}<li><strong>🗻 Elevation</strong> <span>{{ . }}</span></li>{{ end }}
+            </ul>
+          </details>
+        </li>
+      {{ end }}
+    {{ end }}
+    </ul>
+  </section>
+{{ end }}

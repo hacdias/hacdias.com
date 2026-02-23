@@ -1,0 +1,64 @@
+.coffee > ul,
+.coffee > ul > li {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  line-height: 1.25;
+}
+
+.coffee > ul > li:not(:last-of-type) {
+  border-bottom: var(--border) solid var(--fg);
+}
+
+.coffee summary {
+  display: grid;
+  margin: 0;
+  grid-gap: 1rem;
+  grid-template-columns: 15rem auto max-content max-content;
+  align-items: center;
+  user-select: none;
+  transition: all 0.2s ease;
+}
+
+.coffee summary:hover {
+  background-color: var(--mg);
+  color: var(--c);
+}
+
+.coffee summary::marker, /* Latest Chrome, Edge, Firefox */
+.coffee summary::-webkit-details-marker /* Safari */ {
+  display: none;
+}
+
+.coffee summary > * {
+  display: block;
+  text-overflow: ellipsis;
+  text-wrap: nowrap;
+  overflow: hidden;
+  margin: var(--s1) 0;
+}
+
+.coffee summary > *:first-child {
+  font-weight: 600;
+}
+
+.coffee details .tb {
+  font-size: var(--f5);
+  background: var(--mg);
+  margin: 0;
+  grid-template-columns: max-content auto;
+}
+
+.coffee details .tb li:first-of-type {
+  border-top: var(--border) solid var(--fg);
+}
+
+@media screen and (max-width: 60rem) {
+  .coffee summary {
+    display: flow-root;
+  }
+
+  .coffee summary > *:first-child {
+    text-decoration: underline;
+  }
+}
