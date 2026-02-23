@@ -1,5 +1,6 @@
 ---
 title: Coffee Log
+thumbnail: image:2025-08-08-latte-art
 description: A list of coffee bags I have purchased and drank.
 ---
 
