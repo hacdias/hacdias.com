@@ -940,6 +940,7 @@ figure,
   .tb,
   .tb li {
     display: flow-root;
+    line-height: 1.5;
   }
 
   .tb li > * {
