@@ -21,11 +21,16 @@
   rating: 5
   date: 2026-01-27
   location: Ziggo Dome
+  supportingAct:
+    - Absolutely
+    - Amma
 - name: Ultrasound Tour
   author: Lorde
   rating: 5
   date: 2025-11-24
   location: AFAS Live
+  supportingAct:
+    - Nilüfer Yanya
 - name: The Mayhem Ball
   rating: 5
   date: 2025-11-09
@@ -35,6 +40,8 @@
   rating: 3
   date: 2025-10-15
   location: TivoliVredenburg
+  supportingAct:
+    - 9million
 - name: Wicked
   rating: 5
   date: 2025-10-07
@@ -84,6 +91,8 @@
   rating: 4
   date: 2024-11-01
   location: TivoliVredenburg
+  supportingAct:
+    - Luna Morgenstern
 - name: "Double Dutch: Live on Tour"
   rating: 4
   author: Derek Mitchell
