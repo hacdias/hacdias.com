@@ -2596,6 +2596,16 @@
     ]
   },
   {
+    "domain": "arabica.social",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/coffee/",
+        "targetUrl": "https://arabica.social"
+      }
+    ]
+  },
+  {
     "domain": "artemix.org",
     "count": 1,
     "links": [
