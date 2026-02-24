@@ -236,6 +236,11 @@
       "feed": "https://macwright.com/rss.xml"
     },
     {
+      "title": "V.H. Belvadi",
+      "site": "https://vhbelvadi.com",
+      "feed": "https://vhbelvadi.com/rss"
+    },
+    {
       "title": "Volker Mische",
       "site": "http://vmx.cx/cgi-bin/blog/index.cgi",
       "feed": "https://vmx.cx/cgi-bin/blog/index.cgi/feed/"
