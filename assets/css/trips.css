@@ -1,66 +1,13 @@
-.trips ul,
-.trips li {
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-  line-height: 1.25;
-}
-
-.trips li:not(:last-of-type) {
-  border-bottom: var(--border) solid var(--fg);
-}
-
-.trips summary {
-  display: grid;
-  margin: 0;
-  grid-gap: 1rem;
+.trips > .tb {
   grid-template-columns: 1fr 16rem max-content;
-  align-items: center;
-  user-select: none;
-  transition: all 0.2s ease;
 }
 
-.trips summary:hover {
-  background-color: var(--mg);
-  color: var(--c);
+.trips .tbi,
+.trips .tbm,
+.trips details::details-content {
+  grid-column: span 4;
 }
 
-.trips summary::marker, /* Latest Chrome, Edge, Firefox */
-.trips summary::-webkit-details-marker /* Safari */ {
-  display: none;
-}
-
-.trips summary > * {
-  display: block;
-  text-overflow: ellipsis;
-  text-wrap: nowrap;
-  overflow: hidden;
-  margin: var(--s1) 0;
-}
-
-.trips summary > *:first-child {
-  font-weight: 600;
-}
-
-.trips details ul {
-  background: var(--mg);
-}
-
-.trips details li:first-of-type {
-  border-top: var(--border) solid var(--fg);
-}
-
-.trips details li {
-  font-size: var(--f5);
-  padding: var(--s1) 0;
-}
-
-@media screen and (max-width: 60rem) {
-  .trips summary {
-    display: flow-root;
-  }
-
-  .trips summary > *:first-child {
-    text-decoration: underline;
-  }
+.trips > .tb details .tb {
+  grid-template-columns: 1fr;
 }
