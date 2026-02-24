@@ -2,7 +2,7 @@ const params = new URL(document.location).searchParams
 
 if (params.get('photo') === 'false') {
   const header = document.getElementById('resume-header')
-  header.style['grid-template-columns'] = 'auto max-content'
+  header.style['grid-template-columns'] = '1fr max-content'
   header.querySelector('figure').classList.add('dn')
 }
 

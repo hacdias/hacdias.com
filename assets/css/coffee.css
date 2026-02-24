@@ -14,7 +14,7 @@
   display: grid;
   margin: 0;
   grid-gap: 1rem;
-  grid-template-columns: 15rem auto max-content max-content;
+  grid-template-columns: 15rem 1fr max-content max-content;
   align-items: center;
   user-select: none;
   transition: all 0.2s ease;
@@ -46,7 +46,7 @@
   font-size: var(--f5);
   background: var(--mg);
   margin: 0;
-  grid-template-columns: max-content auto;
+  grid-template-columns: max-content 1fr;
 }
 
 .coffee details .tb li:first-of-type {

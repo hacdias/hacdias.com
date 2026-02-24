@@ -1,6 +1,6 @@
 #resume-header {
   display: none;
-  grid-template-columns: 4.5rem auto max-content;
+  grid-template-columns: 4.5rem 1fr max-content;
   grid-gap: .5rem;
   border-bottom: 1px dashed var(--c);
   padding-bottom: 1rem;
@@ -25,7 +25,7 @@
 
 .resume-position > div {
   display: grid;
-  grid-template-columns: max-content auto max-content;
+  grid-template-columns: max-content 1fr max-content;
   grid-gap: 0 var(--s1);
   align-items: baseline;
   margin: var(--s2) 0 var(--s1);
@@ -47,7 +47,7 @@
 
 @media screen and (max-width: 60rem) {
   .resume-position > div {
-    grid-template-columns: auto max-content;
+    grid-template-columns: 1fr max-content;
   }
 
   .resume-position > div a {
