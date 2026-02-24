@@ -754,7 +754,8 @@ main pre {
   margin: 0;
 }
 
-.tb li {
+ul.tb > li,
+.tb .tbi {
   display: grid;
   grid-template-columns: subgrid;
   grid-column: span 2;
@@ -763,15 +764,18 @@ main pre {
   transition: all 0.2s ease;
 }
 
-.tb li:not(:last-of-type) {
+ul.tb > li:not(:last-of-type),
+.tb > .tbm:not(:last-of-type) .tbi {
   border-bottom: var(--border) solid var(--fg);
 }
 
-.tb li:hover {
+ul.tb > li:hover,
+.tb .tbi:hover {
   background-color: var(--mg);
 }
 
-.tb li > * {
+ul.tb > li > *,
+.tb .tbi > * {
   display: block;
   margin: var(--s1) 0;
   text-overflow: ellipsis;
@@ -779,8 +783,32 @@ main pre {
   overflow: hidden;
 }
 
-.tb li > *:first-child {
+ul.tb > li > *:first-child,
+.tb .tbi > *:first-child {
   font-weight: 600;
+}
+
+.tb .tbm {
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-column: span 2;
+}
+
+.tb details::details-content {
+  grid-column: span 2;
+  display: block;
+  width: 100%;
+}
+
+.tb summary::marker, /* Latest Chrome, Edge, Firefox */
+.tb summary::-webkit-details-marker /* Safari */ {
+  display: none;
+}
+
+.tb details .tb {
+  font-size: var(--f5);
+  background: var(--mg);
+  margin: 0;
 }
 
 .tb,
@@ -939,13 +967,19 @@ figure,
   }
 
   .tb,
-  .tb li {
+  ul.tb > li,
+  .tb .tbi {
     display: flow-root;
     line-height: 1.5;
   }
 
-  .tb li > * {
+  ul.tb > li > *,
+  .tb .tbi > * {
     text-wrap: wrap;
+  }
+
+  .tb summary > *:first-child {
+    text-decoration: underline;
   }
 }
 
