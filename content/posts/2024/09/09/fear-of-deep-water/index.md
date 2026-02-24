@@ -7,7 +7,9 @@ tags:
   - fears
   - reflections
   - sports
+  - swimming
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3l3q7haldw2wk
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l3q7haldw2f4
 thumbnail: image:2024-09-09-swimming-pool
 ---
