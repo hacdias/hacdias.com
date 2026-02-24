@@ -7,53 +7,53 @@
 
     <h3 class='tbh' id='{{ $year }}'>{{ $year }} <small class='lg'>({{ len $entries }} entries)</small></h3>
 
-    <ul>
+    <div class='tb'>
     {{ with $entries }}
       {{ range $entry := . }}
-        <li>
-          <details name='trip'>
-            <summary>
-              <span>{{ .name }}</span>
-              <span>{{ .place }}</span>
-              <span>
-                <time class='tab lg small'>{{ dateFormat "2006-01-02" .start }}</time>
-                <small class='lg'>→</small>
-                <time class='tab lg small'>{{ dateFormat "2006-01-02" .date }}</time>
-              </span>
-            </summary>
+        <details name='trip' class='tbm'>
+          <summary class='tbi'>
+            <span>{{ .name }}</span>
+            <span>{{ .place }}</span>
+            <span>
+              <time class='tab lg small'>{{ dateFormat "2006-01-02" .start }}</time>
+              <small class='lg'>→</small>
+              <time class='tab lg small'>{{ dateFormat "2006-01-02" .date }}</time>
+            </span>
+          </summary>
 
-            {{ with $entry.itinerary }}
-              <ul>
-                {{ range . }}
-                  <li>{{ template "leg" (dict "Itinerary" . "Site" $.Site) }}</li>
-                {{ end }}
-              </ul>
-            {{ end }}
-          </details>
-        </li>
+          {{ with $entry.itinerary }}
+            <ul class='tb'>
+              {{ range . }}
+                <li>{{ template "leg" (dict "Itinerary" . "Site" $.Site) }}</li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </details>
       {{ end }}
     {{ end }}
-    </ul>
+    </div>
   </section>
 {{ end }}
 
 {{ define "leg" }}
-  {{ template "transit-type" .Itinerary.type }}
-  {{ $departure := time.AsTime .Itinerary.departure }}
-  {{ $arrival := time.AsTime .Itinerary.arrival }}
+  <span>
+    {{ template "transit-type" .Itinerary.type }}
+    {{ $departure := time.AsTime .Itinerary.departure }}
+    {{ $arrival := time.AsTime .Itinerary.arrival }}
 
-  <time class='tab lg'>{{ $departure.Format "2006-01-02 15:04" }}</time>
-  {{ .Itinerary.origin }}
-  →
-  <time class='tab lg'>
-    {{- $arrival.Format "15:04" -}}
-    {{- if ne $departure.Day $arrival.Day}}<sup>+1</sup>{{ end -}}
-  </time>
+    <time class='tab lg'>{{ $departure.Format "2006-01-02 15:04" }}</time>
+    {{ .Itinerary.origin }}
+    →
+    <time class='tab lg'>
+      {{- $arrival.Format "15:04" -}}
+      {{- if ne $departure.Day $arrival.Day}}<sup>+1</sup>{{ end -}}
+    </time>
 
-  {{ .Itinerary.destination }}
-  {{ if eq .Itinerary.type "air" -}}
-    <span class='lg'>({{ .Itinerary.operator }} {{.Itinerary.number}})</span>
-  {{- end }}
+    {{ .Itinerary.destination }}
+    {{ if eq .Itinerary.type "air" -}}
+      <span class='lg'>({{ .Itinerary.operator }} {{.Itinerary.number}})</span>
+    {{- end }}
+  </span>
 {{ end }}
 
 {{ define "transit-type" }}
