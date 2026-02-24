@@ -746,6 +746,7 @@ main pre {
   list-style-type: none;
   line-height: 1.25;
   display: grid;
+  column-gap: 1rem;
   grid-template-columns: auto min-content;
 }
 
@@ -758,7 +759,6 @@ main pre {
   grid-template-columns: subgrid;
   grid-column: span 2;
   margin: 0;
-  grid-gap: 1rem;
   align-items: center;
 }
 
