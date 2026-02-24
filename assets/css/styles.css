@@ -760,6 +760,7 @@ main pre {
   grid-column: span 2;
   margin: 0;
   align-items: center;
+  transition: all 0.2s ease;
 }
 
 .tb li:not(:last-of-type) {
