@@ -21,16 +21,16 @@
     {{- with .Content }}{{ . }}{{ end -}}
     {{- if .Params.read }}
       <ul class='p-read-of h-cite tb'>
-        <li><strong>Title</strong> <span class='p-name'>{{ .Title }}</span></li>
-        <li><strong>Author</strong> <span class='p-author'>{{ .Params.read.author }}</span></li>
-        {{ with .Params.read.pages }}<li><strong>Pages</strong> <span class='p-pages'>{{ . }}</span></li>{{ end }}
-        {{ with .Params.read.publisher }}<li><strong>Publisher</strong> <span class='p-publisher'>{{ . }}</span></li>{{ end }}
+        <li><strong>📕 Title</strong> <span class='p-name'>{{ .Title }}</span></li>
+        <li><strong>✍️ Author</strong> <span class='p-author'>{{ .Params.read.author }}</span></li>
+        {{ with .Params.read.pages }}<li><strong>📄 Pages</strong> <span class='p-pages'>{{ . }}</span></li>{{ end }}
+        {{ with .Params.read.publisher }}<li><strong>📚 Publisher</strong> <span class='p-publisher'>{{ . }}</span></li>{{ end }}
         {{ with .Params.read.uid }}
           {{ $parts := split . ":" }}
           {{ $type := index $parts 0 }}
           {{ $id := index $parts 1 }}
           <li>
-            <strong>{{ upper $type }}</strong>
+            <strong>🪪 {{ upper $type }}</strong>
             <a href='https://en.wikipedia.org/wiki/Special:BookSources?{{ $type }}={{ $id }}' rel='noopener noreferrer' class='p-uid'>
               {{- $id -}}
             </a>
