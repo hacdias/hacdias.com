@@ -1,8 +1,8 @@
-.tb {
+ul.tb {
   grid-template-columns: auto max-content max-content;
 }
 
-.tb li {
+ul.tb li {
   grid-column: span 3;
 }
 
