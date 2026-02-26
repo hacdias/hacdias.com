@@ -3,6 +3,11 @@
 #   rating:
 #   date:
 #   location:
+- name: 'Florence + The Machine'
+  rating: 5
+  date: 2026-02-26
+  location: Ziggo Dome
+  supportingAct: Paris Paloma
 - name: Magdalena Bay
   rating: 4
   date: 2026-02-14
