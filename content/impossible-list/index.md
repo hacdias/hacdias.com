@@ -133,8 +133,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - [x] Practice 🥊 kickboxing for 2 months <small>[June 2024]</small>
   - [ ] Practice 🥊 kickboxing for 4 months
 - [x] Go 🏃‍♂️ running for 1 month <small>[February 2025] [[August 2025](/2025/08/17/running/)]</small>
-  - [x] Go 🏃‍♂️ running for 2 months <small>[[March 2025](/2025/03/30/c25k-completed/)]</small>
-  - [ ] Go 🏃‍♂️ running for 4 months
+  - [x] Go 🏃‍♂️ running for 2 months <small>[[March 2025](/2025/03/30/c25k-completed/)] [September 2025]</small>
+  - [x] Go 🏃‍♂️ running for 4 months <small>[November 2025]</small>
 - [ ] Learn how to 🎿 cross-country ski
 - [ ] Learn how to ⛷️ ski or 🏂 snowboard
   - [ ] Ski or snowboard down a mountain
