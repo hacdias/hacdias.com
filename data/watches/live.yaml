@@ -3,16 +3,19 @@
 #   rating:
 #   date:
 #   location:
-- name: 'Florence + The Machine'
+- name: Everybody Scream Tour
+  author: "Florence + The Machine"
   rating: 5
   date: 2026-02-26
   location: Ziggo Dome
-  supportingAct: Paris Paloma
+  supportingAct:
+    - Paris Paloma
 - name: Magdalena Bay
   rating: 4
   date: 2026-02-14
   location: TivoliVredenburg
-  supportingAct: Allie X
+  supportingAct:
+    - Allie X
 - name: This Tour May Contain New Music
   author: RAYE
   rating: 5
@@ -133,10 +136,8 @@
   rating: 3
   date: 2023-06-04
   location: Ziggo Dome
-- name: RAYE (Pre-show)
-  rating: 5
-  date: 2023-06-04
-  location: Ziggo Dome
+  supportingAct:
+    - RAYE
 - name: Pieter de Graaf
   rating: 4
   date: 2023-05-28
