@@ -361,7 +361,8 @@ details summary {
 #container {
   display: grid;
   grid-template-columns: max-content 1fr;
-  grid-template-rows: max-content 1fr;
+  grid-template-rows: max-content 1fr max-content;
+  min-height: 100vh;
 }
 
 #header,
@@ -925,6 +926,7 @@ figure,
 
   #container {
     grid-template-columns: 100%;
+    grid-template-rows: max-content max-content 1fr max-content max-content;
   }
 
   #header,
