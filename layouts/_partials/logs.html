@@ -38,7 +38,7 @@
           {{- with .url }}</a>{{- else -}}</span>{{- end -}}
         {{- if $rating }}
           {{ with .rating }}
-            <span>{{ partialCached "helpers/stars" (slice . 5) . 5 }}</span>
+            <span>{{ partialCached "helpers/stars" . . }}</span>
           {{ else }}
             <span class="ah" alt="No rating">☆☆☆☆☆</span>
           {{ end }}

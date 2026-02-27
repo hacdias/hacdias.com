@@ -9,7 +9,7 @@ tags:
   - book reviews
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ir3njai7wgct
-rating: 2
+rating: 5
 read:
   author: Isaac Asimov
   pages: 416

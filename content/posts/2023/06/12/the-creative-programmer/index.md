@@ -10,7 +10,7 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jxxalmkvyw5c
   - https://fosstodon.org/@hacdias/110530107064412338
-rating: 4
+rating: 8
 read:
   author: Wouter Groeneveld
   cover:

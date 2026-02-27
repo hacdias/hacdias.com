@@ -11,7 +11,7 @@ tags:
   - language
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lyrprx4ug2f4
-rating: 5
+rating: 9
 read:
   author: Marco Neves
   cover:

@@ -9,7 +9,7 @@ tags:
   - book reviews
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3iqaflxnsnqct
-rating: 5
+rating: 9
 read:
   author: TJ Klune
   cover:

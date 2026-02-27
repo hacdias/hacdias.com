@@ -9,7 +9,7 @@ tags:
   - personal growth
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lxuhsr7gq2f4
-rating: 3
+rating: 6
 read:
   author: Thomas Erikson
   cover:

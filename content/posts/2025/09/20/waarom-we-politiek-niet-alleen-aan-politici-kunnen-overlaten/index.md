@@ -19,7 +19,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lzbdmtys7724
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lzbdj22s62f4
   - https://fosstodon.org/@hacdias/115236530157656715
-rating: 5
+rating: 10
 read:
   author: Eva Rovers
   cover:

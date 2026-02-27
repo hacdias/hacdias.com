@@ -9,7 +9,7 @@ tags:
   - book reviews
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3k5ngcojqu25c
-rating: 3
+rating: 6
 read:
   author: Italo Calvino
   cover:

@@ -9,7 +9,7 @@ tags:
   - book reviews
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3itcgrsjlexct
-rating: 5
+rating: 9
 read:
   author: Toshikazu Kawaguchi
   pages: 192

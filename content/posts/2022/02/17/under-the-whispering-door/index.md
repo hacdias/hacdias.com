@@ -9,7 +9,7 @@ tags:
   - book reviews
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3isbf24h72qct
-rating: 4
+rating: 8
 read:
   author: TJ Klune
   pages: 373

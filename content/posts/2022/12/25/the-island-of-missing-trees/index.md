@@ -10,7 +10,7 @@ tags:
   - book reviews
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jkolj63y5gln
-rating: 4
+rating: 8
 read:
   author: Elif Shafak
   cover:

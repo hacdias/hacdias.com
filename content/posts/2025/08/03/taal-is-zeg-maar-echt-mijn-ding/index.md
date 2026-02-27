@@ -19,7 +19,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lviica6wz62l
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lvii7hlhm2f4
   - https://fosstodon.org/@hacdias/114964390752590069
-rating: 5
+rating: 9
 read:
   author: Paulien Cornelisse
   cover:

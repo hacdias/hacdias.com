@@ -9,7 +9,7 @@ tags:
   - book reviews
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3irkrhn56ccct
-rating: 3
+rating: 5
 read:
   author: Amal El-Mohtar, Max Gladstone
   pages: 198
