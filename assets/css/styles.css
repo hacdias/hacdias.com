@@ -64,7 +64,6 @@ body {
   color: var(--text);
   background-color: var(--bg);
   background-attachment: fixed;
-  min-height: 100vh;
 }
 
 @view-transition {
@@ -362,7 +361,7 @@ details summary {
   display: grid;
   grid-template-columns: max-content 1fr;
   grid-template-rows: max-content 1fr max-content;
-  min-height: 100vh;
+  min-height: 100dvh;
 }
 
 #header,
