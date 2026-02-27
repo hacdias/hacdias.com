@@ -10,7 +10,7 @@ tags:
   - book reviews
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3iptelijiowct
-rating: 4
+rating: 7
 read:
   author: José Saramago
   cover:

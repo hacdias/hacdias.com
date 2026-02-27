@@ -9,7 +9,7 @@ tags:
   - book reviews
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ir6jjgk7gict
-rating: 3
+rating: 5
 read:
   author: Matt Haig
   cover:

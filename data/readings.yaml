@@ -1,43 +1,43 @@
 - name: Dit Is Fascisme
   author: Rosan Smits
   date: 2025-11-03
-  rating: 5
+  rating: 10
   publisher: De Correspondent
   uid: isbn:9789493254701
 - name: How to Bang a Billionaire
   author: Alexis Hall
   date: 2025-08-24
-  rating: 4
+  rating: 8
   publisher: Forever Yours
   uid: isbn:9781455571321
 - name: Waiting for the Flood
   author: Alexis Hall
   date: 2025-06-03
-  rating: 4
+  rating: 8
   publisher: Sourcebooks Casablanca
   uid: isbn:9781728251370
 - name: Glitterland
   author: Alexis Hall
   date: 2025-05-18
-  rating: 4
+  rating: 8
   publisher: Sourcebooks Casablanca
   uid: isbn:9781728265285
 - name: Dust
   author: Hugh Howey
   date: 2024-12-10
-  rating: 5
+  rating: 10
   publisher: Random House
   uid: isbn:9781448184071
 - name: Shift
   author: Hugh Howey
   date: 2024-11-22
-  rating: 5
+  rating: 10
   publisher: Random House
   uid: isbn:9781448150199
 - name: Wool
   author: Hugh Howey
   date: 2024-10-29
-  rating: 5
+  rating: 10
   publisher: Random House
   uid: isbn:9781448150205
 - name: Before Your Memory Fades
@@ -45,32 +45,32 @@
   date: 2024-10-23
   publisher: Picador
   pages: 224
-  rating: 3
+  rating: 6
   uid: isbn:9781529089431
 - name: Harry Potter en de Relieken van de Dood
   author: J.K. Rowling
   date: 2024-04-25
   uid: isbn:9781781103524
-  rating: 4
+  rating: 8
 - name: Harry Potter en de Halfbloed Prins
   author: J.K. Rowling
   date: 2024-04-21
-  rating: 4
+  rating: 8
   uid: isbn:9781781103517
 - name: Harry Potter en de Orde van de Feniks
   author: J.K. Rowling
   date: 2024-04-13
-  rating: 4
+  rating: 8
   uid: isbn:9781781103500
 - name: Harry Potter en de Vuurbeker
   author: J.K. Rowling
   date: 2024-04-05
-  rating: 4
+  rating: 8
   uid: isbn:9781781103494
 - name: Harry Potter en de Gevangene van Azkaban
   author: J.K. Rowling
   date: 2024-03-08
-  rating: 4
+  rating: 8
   uid: isbn:9781781103487
 - name: Het diner (Leeslicht)
   author: Herman Koch
@@ -81,55 +81,55 @@
 - name: Harry Potter en de Geheime Kamer
   author: J.K. Rowling
   date: 2024-02-17
-  rating: 4
+  rating: 8
   uid: isbn:9781781103470
 - name: Harry Potter en de Steen Der Wijzen
   author: J.K. Rowling
   date: 2023-12-23
-  rating: 4
+  rating: 8
   uid: isbn:9781781103326
 - name: Minoes
   author: Annie M.G. Schmidt
   pages: 160
-  rating: 4
+  rating: 8
   publisher: Querido
   uid: isbn:9789045124698
   date: 2023-08-08
 - name: Short Stories in Dutch for Beginners
   author: Olly Richards
   date: 2023-05-05
-  rating: 3
+  rating: 6
   uid: isbn:9781529302868
 - name: Hidden Systems
   author: Dan Nott
   date: 2023-05-02
   publisher: Random House Graphic
-  rating: 4
+  rating: 8
   uid: isbn:9780593125366
 - name: Sweet Bean Paste
   author: Durian Sukegawa
   publisher: Oneworld Publications
   uid: isbn:9781786071958
   date: 2023-01-20
-  rating: 5
+  rating: 10
 - author: Sayaka Murata
   name: Earthlings
   pages: 247
   publisher: Granta
   uid: isbn:9781783785698
   date: 2022-05-30
-  rating: 4
+  rating: 8
 - author: Sayaka Murata
   name: Convenience Store Woman
   pages: 176
   publisher: Granta
   date: 2022-05-04
   uid: isbn:9781846276842
-  rating: 4
+  rating: 8
 - name: The Alchemist
   author: Paulo Coelho
   uid: isbn:9780007155668
-  rating: 4
+  rating: 8
   date: 2022-04-10T11:12:19.18895568+02:00
 - name: Verschrikkelijke beestjes
   author: Elise Gravel
@@ -138,37 +138,37 @@
 - name: The Promise - Part 3
   author: Bryan Konietzko, Michael Dante DiMartino
   uid: isbn:9781595829412
-  rating: 4
+  rating: 8
   date: 2022-02-26T12:35:03.823679473+01:00
 - name: The Promise - Part 2
   author: Bryan Konietzko, Michael Dante DiMartino
   uid: isbn:9781595828750
-  rating: 4
+  rating: 8
   date: 2022-02-26T11:41:40.869966981+01:00
 - name: The Promise - Part 1
   author: Bryan Konietzko, Michael Dante DiMartino
   uid: isbn:9781595828118
-  rating: 4
+  rating: 8
   date: 2022-02-18T08:02:43.649069007+01:00
 - name: Heartstopper Volume Four
   author: Alice Oseman
   uid: isbn:9781444952797
-  rating: 4
+  rating: 8
   date: 2022-02-13T20:07:31.402412448+01:00
 - name: Heartstopper Volume Three
   author: Alice Oseman
   uid: isbn:9781444952773
-  rating: 4
+  rating: 8
   date: 2022-02-13T17:06:38.209991419+01:00
 - name: Heartstopper Volume Two
   author: Alice Oseman
   uid: isbn:9781444951400
-  rating: 4
+  rating: 8
   date: 2022-02-13T15:42:03.925747705+01:00
 - name: Heartstopper Volume One
   author: Alice Oseman
   uid: isbn:9781444951387
-  rating: 4
+  rating: 8
   date: 2022-02-13T12:32:14.58797801+01:00
 - name: Mensagem
   author: Fernando Pessoa

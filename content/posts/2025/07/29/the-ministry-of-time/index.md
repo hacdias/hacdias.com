@@ -8,7 +8,7 @@ tags:
   - book reviews
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lv3mvf55q2f4
-rating: 4
+rating: 8
 read:
   author: Kaliane Bradley
   cover:

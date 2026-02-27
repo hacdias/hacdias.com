@@ -12,7 +12,7 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kbpwts37e25c
   - https://fosstodon.org/@hacdias/111240325222416783
-rating: 4
+rating: 8
 ---
 
 Back in March, I [joined a gym](/2023/03/31/recently/) for the first time. My goal was to be able to overcome some issues I was having, as well as start consistently going to the gym. So I choose to work with a personal trainer to "force" me to go every week, and think of what exercises I have to do. That has worked out well, and I'm quite happy.

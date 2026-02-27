@@ -823,6 +823,20 @@ figure,
   margin: var(--s2) 0;
 }
 
+.half-star {
+  position: relative;
+}
+
+.half-star::before {
+  content: '★';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  overflow: hidden;
+  line-height: 1.2;
+}
+
 #pagination {
   margin: 1rem 0;
   display: flex;

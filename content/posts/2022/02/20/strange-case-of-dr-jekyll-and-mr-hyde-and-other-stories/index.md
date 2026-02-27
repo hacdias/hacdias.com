@@ -10,7 +10,7 @@ tags:
   - book reviews
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3isivxiu4ifct
-rating: 3
+rating: 6
 read:
   author: Robert Louis Stevenson
   cover:

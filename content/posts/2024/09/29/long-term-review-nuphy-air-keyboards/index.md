@@ -10,7 +10,7 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l5bxykokk2f4
 coverPhoto: image:2024-09-29-nuphy-air96
-rating: 5
+rating: 9
 ---
 
 I have been using the same two [NuPhy](https://nuphy.com/) keyboards for almost two years, and I've also been wanting to write something about them for quite some time. Why not just do it?
