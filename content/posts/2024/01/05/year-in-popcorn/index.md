@@ -6,6 +6,7 @@ categories:
 tags:
   - year in popcorn
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3ki7uo7qzqt3q
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ki7uo7qzqt5c
 ---
 
