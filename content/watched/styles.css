@@ -1,0 +1,38 @@
+.tb {
+  grid-template-columns: 1fr max-content max-content;
+}
+
+ul.tb > li {
+  grid-column: span 3;
+}
+
+:root {
+  --c-h: 354;
+  --c-s: 90%;
+  --c-l: 43%;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --c-l: 60%;
+  }
+}
+
+@media screen and (min-width: 80rem) {
+  #main,
+  #footer {
+    max-width: 100%;
+  }
+
+  #watches-intro {
+    max-width: calc(var(--max-width) - 2 * var(--s3));
+  }
+
+  #watches-grid {
+    display: grid;
+    width: 100%;
+    max-width: calc(2 * var(--max-width) + var(--s3));
+    grid-template-columns: 1fr 1fr;
+    grid-gap: var(--s3);
+  }
+}
