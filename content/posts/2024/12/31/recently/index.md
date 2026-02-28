@@ -10,6 +10,7 @@ tags:
   - entertainment
   - life
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lelwzxhrk23q
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lelwzxhrk2f4
 ---
 
