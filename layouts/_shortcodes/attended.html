@@ -1,4 +1,4 @@
-{{ $logs := partial "fns/group-date-year" .Site.Data.watches.live }}
+{{ $logs := partial "fns/group-date-year" .Site.Data.attended }}
 {{ range $logs.years }}
   <section>
     {{ $year := . }}
