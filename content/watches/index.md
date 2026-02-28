@@ -21,7 +21,7 @@ This is an extensive list of [live performances](#performances), [movies](#movie
 
 ## 🎤 Performances {#performances}
 
-{{< logs data="watches.live" >}}
+{{< performances >}}
 
 </div>
 

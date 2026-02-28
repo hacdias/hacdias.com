@@ -1,0 +1,35 @@
+{{ $logs := partial "fns/group-date-year" .Site.Data.watches.live }}
+{{ range $logs.years }}
+  <section>
+    {{ $year := . }}
+    {{ $entries := index $logs.map $year }}
+
+    <h3 class='tbh' id='{{ $year }}'>{{ $year }} <small class='lg'>({{ len $entries }} entries)</small></h3>
+
+    <div class='tb'>
+    {{ with $entries }}
+      {{ range $entry := . }}
+        <details name='performance' class='tbm'>
+          <summary class='tbi'>
+            <span>{{ if .name }}{{ .name }}{{- with .author }} <span class='lg wn'>by {{ . -}}</span>{{ end }}{{ else }}{{ .author }}{{ end }}</span>
+            {{ with .rating }}
+              <span>{{ partialCached "helpers/stars" . . }}</span>
+            {{ else }}
+              <span class="ah" alt="No rating">☆☆☆☆☆</span>
+            {{ end }}
+            <span>
+              <small class='tab lg small'>{{ dateFormat "2006-01-02" .date }}</small>
+            </span>
+          </summary>
+
+          <ul class='tb'>
+            <li><strong>📍 Venue</strong> <span>{{ .location }}</span></li>
+            {{ with .supportingAct }}<li><strong>🧑‍🎤 Supporting Act</strong> <span>{{ delimit . ", " }}</span></li>{{ end }}
+            {{ with .category }}<li><strong>📁 Type</strong> <span>{{ inflect.Humanize . }}</span></li>{{ end }}
+          </ul>
+        </details>
+      {{ end }}
+    {{ end }}
+    </div>
+  </section>
+{{ end }}

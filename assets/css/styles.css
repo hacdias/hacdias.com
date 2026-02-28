@@ -794,6 +794,10 @@ ul.tb > li > *:first-child,
   grid-column: span 2;
 }
 
+.tb details summary.tbi:hover > *:first-child {
+  color: var(--c);
+}
+
 .tb details::details-content {
   grid-column: span 2;
   display: block;
