@@ -12,7 +12,7 @@ Here you can find a list of every page that did not fit in the main navigation b
 - [🌍 Trips](/trips/)
 - [🎬 Watched](/watched/)
 - [🎸 Attended](/attended/)
-- [☕️ Coffee Log](/coffee/)
+- [☕️ Coffee Bags](/coffee/)
 - [🛠 Uses](/uses/)
 - [💰 Support](/support/)
 - [🔑 PGP Key](/pubkey.asc)
