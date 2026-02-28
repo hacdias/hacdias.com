@@ -65,9 +65,9 @@ Yes, there are differences, quite a lot of them. I'm very glad I read the book a
 
 When it comes to films, live shows and series, it was a packed month! I attended two live comedy shows. The first one was from 👑 drag queen *Bianca del Rio*. I've seen her multiple times and going to one of her shows is always a blast. The other one was *Double Dutch*. We've seen his "Work In Progress" show in the beginning of the year, and this was now the final version. So there were jokes that we already knew about. Overall, much better and much improved.
 
-When it comes to [🎬 movies](/watches/#movies), we watched a few of them. We went to the cinema three times: gotta make the subscription pay for itself! There, we watched *Joker: Folie à Deux*, *Strange Darling*, and *The Wild Robot*. The latter was, by far, my favorite of the month. Despite being a children's movie, it was heartwarming.
+When it comes to [🎬 movies](/watched/#movies), we watched a few of them. We went to the cinema three times: gotta make the subscription pay for itself! There, we watched *Joker: Folie à Deux*, *Strange Darling*, and *The Wild Robot*. The latter was, by far, my favorite of the month. Despite being a children's movie, it was heartwarming.
 
-Series... oh, so many [📺 series](/watches/#shows). I'm not going to mention everything, but I want to highlight two shows we've finished watching. The first one was *Agatha All Along*, which gave new depth to the character of Agatha Harkness. I found it to be a great, different kind of show, mostly protagonising women. And also the German *Das Signal*
+Series... oh, so many [📺 series](/watched/#shows). I'm not going to mention everything, but I want to highlight two shows we've finished watching. The first one was *Agatha All Along*, which gave new depth to the character of Agatha Harkness. I found it to be a great, different kind of show, mostly protagonising women. And also the German *Das Signal*
 
 We watched the last season of *Heartstopper*. It was nice, but not something I would rave about. We also watched *Agatha All Along*, which gave new depth to the character of Agatha Harkness. I found it to be quite a nice show. And I also want to mention *Das Signal*. According to Google, many people didn't really enjoy this show, but for me I considered it as a long movie. It's a very short series with a Sci-Fi and drama element.
 

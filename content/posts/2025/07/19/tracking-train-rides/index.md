@@ -19,7 +19,7 @@ syndication:
   - https://fosstodon.org/@hacdias/114880100894708306
 ---
 
-It is no secret that I enjoy tracking things, whether it is books I [read](/readings/), things I [watched](/watches/), or places I have [been](/trips/). When I travel, I track my flights, and that is, as far as I know, something a lot of people do. It also means that there are many tools out there for it. But when it comes to trains, I have never found a very reliable solution... until now!
+It is no secret that I enjoy tracking things, whether it is books I [read](/readings/), things I [watched](/watched/), or places I have [been](/trips/). When I travel, I track my flights, and that is, as far as I know, something a lot of people do. It also means that there are many tools out there for it. But when it comes to trains, I have never found a very reliable solution... until now!
 
 <!--more-->
 

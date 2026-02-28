@@ -34,11 +34,11 @@ Other than that, there's not a lot of updates, which is quite unfortunate. My wr
 
 ## 🍿 Entertainment {#entertainment}
 
-We watched a lot of [🎬 movies](/watches/#movies) this month. I think I say that every month - and probably that too. The biggest highlight of the month was *We Live in Time*. The movie was very well made, and the way the timeline was presented to the viewer definitely gave the story another dimension. It was extremely heavy and sad. I do recommend!
+We watched a lot of [🎬 movies](/watched/#movies) this month. I think I say that every month - and probably that too. The biggest highlight of the month was *We Live in Time*. The movie was very well made, and the way the timeline was presented to the viewer definitely gave the story another dimension. It was extremely heavy and sad. I do recommend!
 
 *Young Hearts* is also an *aanrader* (recommendation). It's a coming of age Flemish movie about two boys that fall for each other. The other movies were nice, but I don't have any highlights.
 
-When it comes to [📺 series](/watches/#shows), there's also a lot of stuff. Probably more stuff that I want to highlight here than in the movies. We finished the second season of *Silo*, and, having read the books, I think it's quite brilliant. Of course, there's differences here and there, but the whole concept and story are very well presented in this format as well.
+When it comes to [📺 series](/watched/#shows), there's also a lot of stuff. Probably more stuff that I want to highlight here than in the movies. We finished the second season of *Silo*, and, having read the books, I think it's quite brilliant. Of course, there's differences here and there, but the whole concept and story are very well presented in this format as well.
 
 We also started watching *Ted Lasso*. We just finished the second season and have already started the third. It's one of those cosy series to watch. I would also highlight *Bad Sisters*, which apparently is based on a Belgian series, but with more budget and better. They extended the story and made a second season too!
 
