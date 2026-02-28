@@ -1,8 +1,8 @@
 ---
-title: Movies and Shows That I Have Watched
+title: Movies and Shows That I Watched
 description: An extensive list of TV shows and movies I have watched.
 aliases:
-  - /watches/
+  - /watched/
 ---
 
 <div id="watches-intro">
