@@ -3,6 +3,10 @@
 #   rating:
 #   date:
 #   location:
+- name: Audrey Hobert
+  rating: 8
+  date: 2026-02-27
+  location: Melkweg, Amsterdam, NL
 - name: Everybody Scream Tour
   author: "Florence + The Machine"
   rating: 10
