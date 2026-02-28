@@ -19,7 +19,7 @@ Now that the last year has ended, I can finally collect all the data from the di
 
 ## 🎬 Movies
 
-According to my [watches](/watches/) page, I watched **32** different movies during 2025. That's 22 less than the year before. Despite still having a Cineville subscription, we ended up going less often to the cinema. Nevertheless, many of these movies were at the cinema, so that makes me happy!
+According to my [watches](/watched/) page, I watched **32** different movies during 2025. That's 22 less than the year before. Despite still having a Cineville subscription, we ended up going less often to the cinema. Nevertheless, many of these movies were at the cinema, so that makes me happy!
 
 <div class='fg plots'>
 

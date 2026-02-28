@@ -50,9 +50,9 @@ I've also tried doing a few Yoga workouts, by following some videos on YouTube. 
 
 This month, I've seen two artists life so far: IDER and Blanks. I say "so far", because there's a free music festival here in Eindhoven, "Hit the City", and there are quite a few nice artists playing today I also want to see. So today I'm still planning on going to Bente and Pommelien Thijs.
 
-When it comes to [🎬 movies](/watches/#movies), we didn't watch that many this month. We finally watched *Challengers*, which was in our list for quite some time, but we sadly missed the screenings at the cinema. And we also watched *My Oxford Year* and *Thursday Murder Club*.
+When it comes to [🎬 movies](/watched/#movies), we didn't watch that many this month. We finally watched *Challengers*, which was in our list for quite some time, but we sadly missed the screenings at the cinema. And we also watched *My Oxford Year* and *Thursday Murder Club*.
 
-When it comes to [📺 series](/watches/#series), however, we watched maybe too much: finished the last season of *The Buccaneers*, watched a few seasons of *Acapulco*, the latest season of *Dertigers* and *Ghosts*, as well as *Behind Her Eyes*, *The Society* and *Echoes*.
+When it comes to [📺 series](/watched/#series), however, we watched maybe too much: finished the last season of *The Buccaneers*, watched a few seasons of *Acapulco*, the latest season of *Dertigers* and *Ghosts*, as well as *Behind Her Eyes*, *The Society* and *Echoes*.
 
 <hr>
 

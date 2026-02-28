@@ -66,7 +66,7 @@ A more subtle change I made was to change the dates on this website to use the [
 [meta]: /tags/meta/
 [indieweb]: https://indieweb.org/
 [now]: /tags/now/
-[watches]: /watches/
+[watches]: /watched/
 [twemoji]: https://github.com/twitter/twemoji
 [guestbook]: /guestbook/
 [webmentions]: https://indieweb.org/Webmention
