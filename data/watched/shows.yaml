@@ -3,6 +3,14 @@
 #   date:
 #   rating:
 - name: Trying
+  season: 2
+  rating: 8
+  date: 2026-03-01
+- name: Bridgerton
+  season: 4
+  rating: 9
+  date: 2026-03-01
+- name: Trying
   season: 1
   rating: 8
   date: 2026-02-23
