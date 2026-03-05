@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 89,
+    "count": 91,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -348,6 +348,14 @@
         "targetUrl": "https://github.com/lexicon-community"
       },
       {
+        "sourceUrl": "https://hacdias.com/2026/03/04/standard-site/",
+        "targetUrl": "https://github.com/hacdias/eagle/blob/ede4543a66ef994e44dcc52c9e1fe227c8c7372c/plugins/atproto/standardsite.go#L16-L40"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/04/standard-site/",
+        "targetUrl": "https://github.com/hacdias/eagle/blob/ede4543a66ef994e44dcc52c9e1fe227c8c7372c/plugins/atproto/standardsite.go#L42-L103"
+      },
+      {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://github.com/hacdias"
       },
@@ -621,7 +629,7 @@
   },
   {
     "domain": "indieweb.org",
-    "count": 23,
+    "count": 24,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2019/12/24/own-your-data/",
@@ -709,6 +717,10 @@
       },
       {
         "sourceUrl": "https://hacdias.com/2025/05/30/integrating-bluesky/",
+        "targetUrl": "https://indieweb.org/POSSE"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/04/standard-site/",
         "targetUrl": "https://indieweb.org/POSSE"
       },
       {
@@ -1512,6 +1524,24 @@
     ]
   },
   {
+    "domain": "bsky.app",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2025/10/27/internet-phone-book/",
+        "targetUrl": "https://bsky.app/profile/kevin.woblick.com/post/3lqjdsheq7227"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://bsky.app/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/04/standard-site/",
+        "targetUrl": "https://bsky.app/profile/tunji.dev/post/3mg73n5hha2it"
+      }
+    ]
+  },
+  {
     "domain": "buienradar.nl",
     "count": 3,
     "links": [
@@ -1932,20 +1962,6 @@
     ]
   },
   {
-    "domain": "bsky.app",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2025/10/27/internet-phone-book/",
-        "targetUrl": "https://bsky.app/profile/kevin.woblick.com/post/3lqjdsheq7227"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
-        "targetUrl": "https://bsky.app/"
-      }
-    ]
-  },
-  {
     "domain": "ddw.nl",
     "count": 2,
     "links": [
@@ -2170,6 +2186,20 @@
     ]
   },
   {
+    "domain": "leaflet.pub",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
+        "targetUrl": "https://leaflet.pub/p/hacdias.com"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/04/standard-site/",
+        "targetUrl": "https://leaflet.pub/reader"
+      }
+    ]
+  },
+  {
     "domain": "logius.nl",
     "count": 2,
     "links": [
@@ -2376,6 +2406,20 @@
       {
         "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
         "targetUrl": "https://soju.im/doc/soju.1.html"
+      }
+    ]
+  },
+  {
+    "domain": "standard.site",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://standard.site/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/04/standard-site/",
+        "targetUrl": "https://standard.site/"
       }
     ]
   },
@@ -3256,6 +3300,16 @@
     ]
   },
   {
+    "domain": "greengale.app",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/04/standard-site/",
+        "targetUrl": "https://greengale.app/"
+      }
+    ]
+  },
+  {
     "domain": "gymbookapp.com",
     "count": 1,
     "links": [
@@ -3572,16 +3626,6 @@
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
         "targetUrl": "https://launchpad.net/php-gettext/"
-      }
-    ]
-  },
-  {
-    "domain": "leaflet.pub",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2026/02/08/atmosphere/",
-        "targetUrl": "https://leaflet.pub/p/hacdias.com"
       }
     ]
   },
@@ -3926,6 +3970,16 @@
     ]
   },
   {
+    "domain": "pckt.blog",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/04/standard-site/",
+        "targetUrl": "https://pckt.blog/read"
+      }
+    ]
+  },
+  {
     "domain": "personalsit.es",
     "count": 1,
     "links": [
@@ -4252,16 +4306,6 @@
       {
         "sourceUrl": "https://hacdias.com/2014/12/18/mvc-linguagem-php/",
         "targetUrl": "http://apple.stackexchange.com/questions/115646/how-can-i-create-a-symbolic-link-in-terminal"
-      }
-    ]
-  },
-  {
-    "domain": "standard.site",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
-        "targetUrl": "https://standard.site/"
       }
     ]
   },
