@@ -2,6 +2,14 @@
 #   season:
 #   date:
 #   rating:
+- name: Derry Girls
+  season: 2
+  rating: 7
+  date: 2026-03-07
+- name: Derry Girls
+  season: 1
+  rating: 7
+  date: 2026-03-07
 - name: Trying
   season: 4
   rating: 8
