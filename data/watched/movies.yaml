@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: Marty Supreme
+  date: 2026-03-08T16:00:00+01:00
+  rating: 5
+  location: Natlab
+  room: Auditorium
+  row: G
+  seat: 4
 - name: Saltburn
   date: 2026-02-21T21:20:00+01:00
   rating: 8
