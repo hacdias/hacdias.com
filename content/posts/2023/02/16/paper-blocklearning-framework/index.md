@@ -10,6 +10,7 @@ tags:
   - papers
   - publications
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3jotwgll522nj
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jotwgll522ln
   - https://doi.org/10.1007/978-981-99-0272-9_22
 publication: Ubiquitous Security
