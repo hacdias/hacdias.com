@@ -16,4 +16,4 @@ aliases:
   - /contact/
 ---
 
-I'm a software engineer born in Portugal 🇵🇹, living in The Netherlands 🇳🇱. I'm passionate about open source, digital identity, web technology, and user agency. In my free time, I enjoy staying active, programming, photography, and a tasty cup of coffee or tea. Welcome to my corner on the web!
+I'm a software engineer from Portugal 🇵🇹, living in The Netherlands 🇳🇱. Now working on digital identity at Animo Solutions, and maintaining several open source projects. I'm passionate about open source, web technology, and user agency. I enjoy staying active, photography, and a tasty cup of coffee or tea. Welcome to my corner on the web!
