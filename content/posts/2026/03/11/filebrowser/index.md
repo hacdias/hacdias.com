@@ -1,13 +1,16 @@
 ---
 title: Update On File Browser
 date: 2026-03-11T19:27:39+01:00
-thumbnail: image:2026-03-11-filebrowser
 categories:
-- writings
+  - writings
 tags:
-- reflections
-- open source
-- projects
+  - reflections
+  - open source
+  - projects
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mgsje5n76c2a
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mgsj7b3za2zg
+thumbnail: image:2026-03-11-filebrowser
 ---
 
 Last year, I [wrote a bit](/2025/06/14/maintaining-open-source-projects/) on maintaining open source projects. At the time, I was struggling with one of my most (unexpectedly) successful side projects, [File Browser](https://filebrowser.org/). Today, I want to give an update on it, since I never wrote again about it. I'm hoping that this post helps explaining the current status of the project.
@@ -49,5 +52,4 @@ I'm no longer 15. I'm 26, and interests change. My life priorities are different
 
 I've realized, over the past months, that I don't have enough bandwidth to review feature requests, ensure they are good and working, while at the same time reviewing bug fixes - there are quite many! With that being said, I'll be updating the README to make it much more clear that new features and the review of feature PRs is not planned.
 
-It's complicated. I understand your frustration, as a user. But just like you, I'm human. I have other interests in my life, other projects I want to dedicate my time to. If someone else wants to take the reins, I'm always up for a chat. It's important that you've contributed before, however!
-
+It's complicated. I understand your frustration, as a user. And I'm sorry if I haven't been the nicest in a reply here and there. But just like you, I'm human. I have other interests in my life, other projects I want to dedicate my time to. And this project is consuming more time than I wish it would. If someone else wants to take the reins, I'm always up for a chat. It's important that you've contributed before, however!
