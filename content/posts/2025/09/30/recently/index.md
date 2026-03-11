@@ -33,7 +33,7 @@ This month I kept focusing on my schedule: running, strength training and yoga. 
 
 ## 📚 Reading {#reading}
 
-I have been [reading](/readings/) more in general. I want to highlight a Dutch book I read last month about democracy, and how we could improve it: [*Waarom We Politiek Niet Alleen Aan Politici Kunnen Overlaten*](/2025/09/20/waarom-we-politiek-niet-alleen-aan-politici-kunnen-overlaten/) (*Why we can't leave politics to politicians alone*). It touches in very interesting topics and how we, as "normal" people, could have more say into what happens in our land.
+I have been [reading](/logs/readings/) more in general. I want to highlight a Dutch book I read last month about democracy, and how we could improve it: [*Waarom We Politiek Niet Alleen Aan Politici Kunnen Overlaten*](/2025/09/20/waarom-we-politiek-niet-alleen-aan-politici-kunnen-overlaten/) (*Why we can't leave politics to politicians alone*). It touches in very interesting topics and how we, as "normal" people, could have more say into what happens in our land.
 
 ## 🍿 Entertainment {#entertainment}
 

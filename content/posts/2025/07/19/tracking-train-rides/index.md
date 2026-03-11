@@ -19,7 +19,7 @@ syndication:
   - https://fosstodon.org/@hacdias/114880100894708306
 ---
 
-It is no secret that I enjoy tracking things, whether it is books I [read](/readings/), things I [watched](/watched/), or places I have [been](/trips/). When I travel, I track my flights, and that is, as far as I know, something a lot of people do. It also means that there are many tools out there for it. But when it comes to trains, I have never found a very reliable solution... until now!
+It is no secret that I enjoy tracking things, whether it is books I [read](/logs/readings/), things I [watched](/logs/movies/), or places I have [been](/logs/places/). When I travel, I track my flights, and that is, as far as I know, something a lot of people do. It also means that there are many tools out there for it. But when it comes to trains, I have never found a very reliable solution... until now!
 
 <!--more-->
 
@@ -39,6 +39,6 @@ Another nicety of viaduct is the statistics: the statistics come in many ways an
 
 It's very nice to see. My plan is, from now on, to just track my train rides as I take them. Considering I live in the Netherlands, and how reliable viaduct has been with the schedules, it's quite effortless. And maybe I should make it a goal to cover 100% of the Dutch railway network. I have a subscription for free train rides on the weekend, so... why not? Discover a bit more of the Netherlands.
 
-With all of this data, I am now also able to better generate my [trips](/trips/) page with better, and more reliable information. When you click on one of the trips, you see the flights, busses and trains I took. Now, it has been augmented to include everything coming out the exports of viaduct, and Flighty - the app I use to track my flights.
+With all of this data, I am now also able to better generate my [trips](/logs/places/) page with better, and more reliable information. When you click on one of the trips, you see the flights, busses and trains I took. Now, it has been augmented to include everything coming out the exports of viaduct, and Flighty - the app I use to track my flights.
 
 Just to say... I do recommend viaduct if you like to track things!

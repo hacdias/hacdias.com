@@ -1,5 +1,5 @@
 <style>{{ (resources.Get "css/trips.css").Content | safeCSS }}</style>
-{{ $logs := partial "fns/group-date-year" .Site.Data.trips }}
+{{ $logs := partial "fns/group-date-year" .Site.Data.logs.places }}
 {{ range $logs.years }}
   <section class='trips'>
     {{ $year := . }}

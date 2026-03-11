@@ -46,9 +46,9 @@ So... I finished reading the second book of the Silo trilogy: Shift. How amazing
 
 We attended two concerts this month, both from Dutch artists: MEROL and Eefje de Visser. It was very nice. We also had a third one planned, but unfortunately we both got sick with some flu-like thing, and I also had a stomach flu. Definitely won't recommend.
 
-When it comes to [🎬 movies](/watched/#movies), I only watched two this month. The first one was *Juror #2*. This movies depicts an American that has been summoned for jury duty for a crime that he may, or may not, have committed. It was very interesting to see, especially to learn more about what the jury duty encompasses. The second movie was *Here* and it was filmed in a very interesting way: the camera was fixed thorough the whole movie, while we saw the lives of many people in a specific area of the world.
+When it comes to [🎬 movies](/logs/movies/), I only watched two this month. The first one was *Juror #2*. This movies depicts an American that has been summoned for jury duty for a crime that he may, or may not, have committed. It was very interesting to see, especially to learn more about what the jury duty encompasses. The second movie was *Here* and it was filmed in a very interesting way: the camera was fixed thorough the whole movie, while we saw the lives of many people in a specific area of the world.
 
-This month in the series [📺 series](/watched/#shows) department, we have: *The Bear*, *The Empress* and *Abbott Elementary*. *The Bear* felt very stressful at the beginning, but it ended up being great, with a lot of character development from all characters. Then, I watched the second season of *The Empress*, which follows the life of Empress Elizabeth "Sissi" of Austria. And in between we watched a few episodes of *Abbott Elementary*.
+This month in the series [📺 series](/logs/shows/) department, we have: *The Bear*, *The Empress* and *Abbott Elementary*. *The Bear* felt very stressful at the beginning, but it ended up being great, with a lot of character development from all characters. Then, I watched the second season of *The Empress*, which follows the life of Empress Elizabeth "Sissi" of Austria. And in between we watched a few episodes of *Abbott Elementary*.
 
 <hr>
 

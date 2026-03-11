@@ -18,7 +18,7 @@ May was a loooong month in the sense that a lot happened. It is crazy to think t
 
 <!--more-->
 
-With time, I've been logging more and more things in this website, from [movies](/watches) I watch, to ~~places~~ I've been and even concerts. Sometimes I feel like it isn't worth it to write a "month in review" since everything is on my website already. However, here am I!
+With time, I've been logging more and more things in this website, from [movies](/logs/movies/) I watch, to ~~places~~ I've been and even concerts. Sometimes I feel like it isn't worth it to write a "month in review" since everything is on my website already. However, here am I!
 
 ## Movies
 

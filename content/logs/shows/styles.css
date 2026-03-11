@@ -1,0 +1,19 @@
+.tb {
+  grid-template-columns: 1fr max-content max-content;
+}
+
+ul.tb > li {
+  grid-column: span 3;
+}
+
+:root {
+  --c-h: 354;
+  --c-s: 90%;
+  --c-l: 43%;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --c-l: 60%;
+  }
+}

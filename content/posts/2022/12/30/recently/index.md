@@ -24,7 +24,7 @@ I made quite a few updates over the last month to this website, both in terms of
 
 In terms of content, I split the "Food & Drinks" section again. Now I have a section for 🥘 Food and a section for 🧋 Drinks. I think this was the right decision. I want those to be a gallery-like view of things I ate and drunk, but not together. I may change how they are displayed in the future in order to be a grid-like setting.
 
-Inspired by [Tim's Logs](https://timharek.no/logs/), I updated my [📚 Readings](/readings), [🎬 Watches](/watches) and [✏️ Articles](/writings/) pages. In addition, I created a new section, called [🚀 Trips](/trips). Each trip shows a listing of all the posts published during the trip. How neat is that?
+Inspired by [Tim's Logs](https://timharek.no/logs/), I updated my [📚 Readings](/logs/readings/), [🎬 Watches](/logs/movies/) and [✏️ Articles](/writings/) pages. In addition, I created a new section, called [🚀 Trips](/logs/places/). Each trip shows a listing of all the posts published during the trip. How neat is that?
 
 Finally, I updated the way the [🗞️ Blogroll](/blogroll) is displayed to include the favicon of each website that I follow. This was inspired by Jim's [External Links](https://blog.jim-nielsen.com/about/external-links) page. Sadly, it uses an API from Google. However, I may end up proxying it and caching the results in the future.
 
@@ -43,7 +43,7 @@ I finally finished reading "The Island of Missing Trees". I had started this boo
 
 ## 🍿 Watching {#watching}
 
-I [watched](/watches) quite a few things during December. However, I want to highlight a few. In the movies department, I went to the cinema twice. The first time, I watched *The Menu*. I had absolutely no clue what the movie was about, but apparently, according to Wikipedia, it's a "black comedy horror movie". I'm not exactly sure if I would call it that, but psychological horror, definitely. It was quite nice, in the sense that it was quite unexpected and the idea behind it is quite well executed in my opinion.
+I [watched](/logs/movies/) quite a few things during December. However, I want to highlight a few. In the movies department, I went to the cinema twice. The first time, I watched *The Menu*. I had absolutely no clue what the movie was about, but apparently, according to Wikipedia, it's a "black comedy horror movie". I'm not exactly sure if I would call it that, but psychological horror, definitely. It was quite nice, in the sense that it was quite unexpected and the idea behind it is quite well executed in my opinion.
 
 The second time I went to the cinema was to watch *Avatar: The Way of Water* and I absolutely loved it. I watched the first movie years ago when I was a kid, so I first had to watch a recap of the first movie. The second movie is a great continuation of the first. Of course, some will enjoy it more than others, but overall it was worth it.
 

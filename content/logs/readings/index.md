@@ -1,6 +1,8 @@
 ---
-title: Books That I Read
+title: Books That I've Read
 description: An extensive list of all the books I remember ever reading.
+aliases:
+- /readings/
 ---
 
 <style>
@@ -23,4 +25,4 @@ This is a list of all 📚 books I remember reading, as well as [some reviews](/
 
 <!--more-->
 
-{{< logs data="readings" page="/tags/book-reviews/" withRating=true >}}
+{{< logs data="logs.readings" page="/tags/book-reviews/" withRating=true >}}

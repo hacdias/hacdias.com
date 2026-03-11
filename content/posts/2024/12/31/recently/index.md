@@ -83,9 +83,9 @@ I finished the third and last book of the Silo trilogy: Dust. Just like the prev
 
 Just like last month, we attended one more concert, also from a Dutch artist: S10. S10 participated in the Eurovision two years ago, so maybe you've heard about her. It was a sort of theatrical concert, and we got to see one of the last shows here in Eindhoven, in the Muziekgebouw.
 
-When it comes to [🎬 movies](/watched/#movies), we watched way too many, so I'm just going to highlight a few good ones. We watched *Conclave* and *Heretic*, which are both related to religion, but in very different ways. The first one follows the story of a conclave after a pope has died, while the second is a holy horror movie. Both interesting and nice. I also want to highlight *Flow*, an animated, but mute, film, which follows a cat after a natural disaster.
+When it comes to [🎬 movies](/logs/movies/), we watched way too many, so I'm just going to highlight a few good ones. We watched *Conclave* and *Heretic*, which are both related to religion, but in very different ways. The first one follows the story of a conclave after a pope has died, while the second is a holy horror movie. Both interesting and nice. I also want to highlight *Flow*, an animated, but mute, film, which follows a cat after a natural disaster.
 
-This month in the series [📺 series](/watched/#shows) department, we have finished the first season of *Dwars door de Lage Landen*, which is a sort of documentary series, where the presenters walk from Ostende to Maastricht and then to the north of the Netherlands through the east side. On the second season they go back through the west side.
+This month in the series [📺 series](/logs/shows/) department, we have finished the first season of *Dwars door de Lage Landen*, which is a sort of documentary series, where the presenters walk from Ostende to Maastricht and then to the north of the Netherlands through the east side. On the second season they go back through the west side.
 
 We also finished the first season of *Dune: Prophecy*, which gives background information about the history of the Sisterhood. We've also watched the two first seasons of *Shrinking*, which was quite heartwarming.
 
