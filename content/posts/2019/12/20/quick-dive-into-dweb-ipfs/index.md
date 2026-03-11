@@ -1,6 +1,6 @@
 ---
-title: 'Talk: A Quick Dive Into the DWeb With IPFS'
-description: 'I gave my first talk ever on BarcampLX #4 and I gave an introduction to the dWeb world using IPFS as a gateway.'
+title: 'A Quick Dive Into the DWeb With IPFS'
+description: 'I gave my first talk ever at BarcampLX #4 and I gave an introduction to the dWeb world using IPFS as a gateway.'
 date: 2019-12-20T15:00:00Z
 categories:
   - writings
@@ -12,6 +12,12 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gu6jrckr22ct
   - https://www.youtube.com/watch?v=EmxUyuCD37Q
 feedContentWarning: true
+location:
+  name: BarcampLX
+  latitude: 38.7651135
+  longitude: -9.1009152
+  locality: Lisbon
+  country: Portugal
 ---
 
 A few days ago, on the 30th of November, I gave my first talk at [BarcampLX](https://www.meetup.com/BarcampLx/events/265593046/),
