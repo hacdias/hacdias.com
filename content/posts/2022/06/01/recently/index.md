@@ -9,6 +9,7 @@ tags:
   - life
   - entertainment
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3j2ghpzszbpnj
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3j2ghpzszbpct
 aliases:
   - /2022/06/01/may-22/

@@ -6,6 +6,7 @@ categories:
 tags:
   - now
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m22v4a5xu2nj
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3m22v4a5xu2f4
 thumbnail: image:2025-09-30-wielewaal
 ---
