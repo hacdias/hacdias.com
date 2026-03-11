@@ -27,9 +27,9 @@ With v2, I have feature parity with what I had with Hugo. I also added yearly, m
 
 More importantly, I brought back Micropub support, which I removed around a year ago for no reason. I also implemented IndieAuth and now I don't need to use [IndieAuth.com](https://indieauth.com/) to login anymore.
 
-If you look at my [more](/more) page, you'll notice that there's a lot of different content categories (or "sections") now. I brought back the ~~checkins~~ and [watches](/watches), which I had removed before because they were slowing down the Hugo build process.
+If you look at my [more](/more) page, you'll notice that there's a lot of different content categories (or "sections") now. I brought back the ~~checkins~~ and [watches](/logs/movies/), which I had removed before because they were slowing down the Hugo build process.
 
-Everything is stored as markdown files. However, there's a PostgreSQL instance running to index my posts and help me generate indexes and the [nice](/watches) [summaries](/readings) for some of the sections.
+Everything is stored as markdown files. However, there's a PostgreSQL instance running to index my posts and help me generate indexes and the [nice](/logs/movies/) [summaries](/logs/readings/) for some of the sections.
 
 And [a lot more](https://github.com/hacdias/eagle/issues/34)!
 

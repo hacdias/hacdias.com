@@ -19,9 +19,9 @@ As [Tom](https://macwright.org/2017/12/11/indieweb-reading.html) once said, it i
 
 With university, work and… life… I stop reading as much as I did before. But it's now time to get back to some reading. Even if it's not that much, I need to read something. I must do it.
 
-At my [reads](/readings/), you can visualize my reading logs: basically, it's just a big list of 'I want to read X', 'I finished reading Y' or 'I am now reading Z'. I will be primarily using the [indiebookclub](https://indiebookclub.biz/) service for now to create this kind of posts.
+At my [reads](/logs/readings/), you can visualize my reading logs: basically, it's just a big list of 'I want to read X', 'I finished reading Y' or 'I am now reading Z'. I will be primarily using the [indiebookclub](https://indiebookclub.biz/) service for now to create this kind of posts.
 
-On my [books](/readings/), you can find my bookshelf of the books I have read in the past. Of course, you won't be able to find _all_ the books I've read. That list's missing at least three hundred comic books I have in my hometown. I know, that's a lot.
+On my [books](/logs/readings/), you can find my bookshelf of the books I have read in the past. Of course, you won't be able to find _all_ the books I've read. That list's missing at least three hundred comic books I have in my hometown. I know, that's a lot.
 
 The bookshelf page is based on the logs from my reading logs. I think I will also add a want to read shelf and currently reading shelf. However, that will be a little challenging for me. I know how to do it. However, I don't know if that's the best way to do it.
 

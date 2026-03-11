@@ -23,7 +23,7 @@ The data is a bit fuzzy, because I only track episodes on Trakt, and sometimes I
 
 ## 🎬 Movies
 
-According to my [watches](/watched/) page, I watched **54** different movies during 2024. That's more than double of what I've watched in 2023. A reason that could explain this is the fact that I have a Cineville subscription, allowing me to go to the cinema every time I want. I think this was the main drive to watch (indie) films that I would otherwise not have watched.
+According to my [watches](/logs/movies/) page, I watched **54** different movies during 2024. That's more than double of what I've watched in 2023. A reason that could explain this is the fact that I have a Cineville subscription, allowing me to go to the cinema every time I want. I think this was the main drive to watch (indie) films that I would otherwise not have watched.
 
 <div class='fg plots'>
 

@@ -44,4 +44,4 @@ There's no official way to render watches as microformats so I just decided to g
 </p>
 ```
 
-You can see my watch log in my [Watches](/watches) page!
+You can see my watch log in my [movies](/logs/movies/) and [shows](/logs/shows/) pages!

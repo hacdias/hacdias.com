@@ -24,7 +24,7 @@ The Trakt API gives you so much information about every episode and every movie:
 to the rating, description, channel where it aired, when it aired first, the countries where it aired,
 etc, etc. I don't actually need all that information, but it's never too much to store.
 
-So, and about the [watches](/watches) page: I decided to build a simple thing. It's an exhaustive list,
+So, and about the [watches](/logs/movies/) page: I decided to build a simple thing. It's an exhaustive list,
 sorted by watch date with the most recent on top. I decided to put the series before the movies because
 it's what gets updated more.
 

@@ -20,7 +20,7 @@ August is almost gone, and with it the smells of summer. Day after day, the vibe
 
 ## ✍️ Website {#website}
 
-There haven't been major updates on this website over the past month. However, I have made a small update to the [🚆 Trips](/trips/) page. When you first look at it, it looks the same. Once you click on a certain trip however, you get a list of all of the legs within that trip and the transport method. This was reasonably easy to do as I had this data from my old itineraries section. And I think it's nice to see if a certain trip was train-only, a mix between trains and flights, or others. It also gives more insights about where I was during the trip.
+There haven't been major updates on this website over the past month. However, I have made a small update to the [🚆 Trips](/logs/places/) page. When you first look at it, it looks the same. Once you click on a certain trip however, you get a list of all of the legs within that trip and the transport method. This was reasonably easy to do as I had this data from my old itineraries section. And I think it's nice to see if a certain trip was train-only, a mix between trains and flights, or others. It also gives more insights about where I was during the trip.
 
 ![](image:2023-08-31-trips-expandable "Trips page with expanded section")
 

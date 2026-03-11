@@ -13,7 +13,7 @@ syndication:
 ![](https://media.hacdias.com/2021-02-01-popcorn.gif "Popcorn")
 {.right .pixelated style="max-width: 100px"}
 
-One year later, here am I [again](/2023/01/02/year-in-popcorn/) with my "Year in Popcorn" post. This year, it will look a bit different: there will be less graphics and data. I no longer use Trakt to track movies, only my [watches](/watched/) page. And even in Trakt, I have not religiously marked episodes as watched the same day as I watched them.
+One year later, here am I [again](/2023/01/02/year-in-popcorn/) with my "Year in Popcorn" post. This year, it will look a bit different: there will be less graphics and data. I no longer use Trakt to track movies, only my [watches](/logs/movies/) page. And even in Trakt, I have not religiously marked episodes as watched the same day as I watched them.
 
 <!--more-->
 
@@ -25,7 +25,7 @@ Due to my lack of religiousness at tracking the data during the last year, it al
 
 ## 🎬 Movies
 
-According to my [watches](/watched/) page, I watched **25** different movies during 2023. I'm certain I did not include all the Christmas movies I watched with my parents, so the real statistics would probably say 5 or 6 more. Nevertheless, I watched around half the amount of movies as last year. I don't have the data for genres, but I would bet the top 3 remains similar as last year: Comedy, Romance and Drama.
+According to my [watches](/logs/movies/) page, I watched **25** different movies during 2023. I'm certain I did not include all the Christmas movies I watched with my parents, so the real statistics would probably say 5 or 6 more. Nevertheless, I watched around half the amount of movies as last year. I don't have the data for genres, but I would bet the top 3 remains similar as last year: Comedy, Romance and Drama.
 
 ## 📺 Shows
 
@@ -56,6 +56,6 @@ It seems that during 2023, I watched episodes from **41** different shows (18 le
 
 ---
 
-I'm a bit sad that I don't have as good data as I had last year. Maybe I should put a bit more effort into tracking everything on Trakt again. Before, it was trivial: it was a single place. Since I started adding the shows and series to my website, I stopped being as religious about it. But maybe it doesn't need to be like that: I can keep using Trakt, and at the end of every month update my website [watches](/watched/) page. I should consider that.
+I'm a bit sad that I don't have as good data as I had last year. Maybe I should put a bit more effort into tracking everything on Trakt again. Before, it was trivial: it was a single place. Since I started adding the shows and series to my website, I stopped being as religious about it. But maybe it doesn't need to be like that: I can keep using Trakt, and at the end of every month update my website [watches](/logs/movies/) page. I should consider that.
 
 Anyways, all in all, I am happy with 2023. I did watch less shows and movies as I hoped for. In exchange, I have also spent a lot of time with language learning, work, and other hobbies of mine.

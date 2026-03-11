@@ -22,7 +22,7 @@ January, the infamous first month of the year, is reaching an end. It was a very
 
 During January, I did not made large changes to this website. In general, they were rather small even though they may seem large. In addition to fixing some bugs, as usual, I also removed by checkins 📍 and itineraries 🗺️. I decided to do so as I felt like they did not add much to the website.
 
-Finally, I made my [Trips 🚆](/trips) page better. I think it displays the trips in a better way and it is slightly inspired by [Tim's](https://timharek.no/) logs. I still want to backup my Swarm checkins and I still have to write a script to do so. I will probably try Deno 🦖, as I have been slightly curious about it for a while!
+Finally, I made my [Trips 🚆](/logs/places) page better. I think it displays the trips in a better way and it is slightly inspired by [Tim's](https://timharek.no/) logs. I still want to backup my Swarm checkins and I still have to write a script to do so. I will probably try Deno 🦖, as I have been slightly curious about it for a while!
 
 ## 🍄 Life {#life}
 

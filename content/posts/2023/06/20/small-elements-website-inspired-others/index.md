@@ -20,7 +20,7 @@ Today I bring something not as conventional: a post about certain elements of my
 
 ## Sticky Year Header
 
-The first element of my website I am going to go over is the sticky headers. These sticky headers can be found in different pages. Usually, these pages present chronologically ordered content grouped by year, such as [✏️ Articles](/writings/), [🚆 Trips](/trips/) and [🎬 Watches](/watched/).
+The first element of my website I am going to go over is the sticky headers. These sticky headers can be found in different pages. Usually, these pages present chronologically ordered content grouped by year, such as [✏️ Articles](/writings/), [🚆 Trips](/logs/places/) and [🎬 Watches](/logs/movies/).
 
 ![](image:2023-06-20-small-elements-website-inspired-others-02)
 

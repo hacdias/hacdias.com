@@ -29,7 +29,7 @@ The shortest month of the year is now ending, which means that two months of 202
 
 This was a big month for this website, full of changes and new things. From a technical perspective, I finally [ditched Cloudflare](/2026/02/20/cloudflare/) and moved completely to Bunny DNS. Later in the month, I also [introduced](/2026/02/21/redesign/) a completely new design, which made me a bit nervous, but now I'm more accustomed to it.
 
-I've also made a few other small updates here and there. Some I want to write about, so I will not bother you about them yet. But smaller things I introduced were the new [coffee bags](/coffee/) page, where I track the coffee bags I've bought, as well as a rating; and also the new [attended](/attended/) page, after extracting the live performances from the [watched](/watched/) page.
+I've also made a few other small updates here and there. Some I want to write about, so I will not bother you about them yet. But smaller things I introduced were the new [coffee bags](/logs/coffee/) page, where I track the coffee bags I've bought, as well as a rating; and also the new [attended](/attended/) page, after extracting the live performances from the [watched](/logs/movies/) page.
 
 ## 🍄 Life {#life}
 

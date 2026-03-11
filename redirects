@@ -61,3 +61,9 @@
 /readings/feed.xml /writings/feed.xml
 /fragments/feed.json /writings/feed.json
 /fragments/feed.xml /writings/feed.xml
+/readings/ /logs/readings/
+/attended/ /logs/performances/
+/watches/ /logs/movies/
+/watched/ /logs/movies/
+/trips/ /logs/places/
+/coffee/ /logs/coffee/
