@@ -12,7 +12,7 @@ I come from a little town in the countryside of Portugal 🇵🇹, and I've been
 
 I started playing with computers at an early age. When my father bought his first computer, I carved a monitor, keyboard and mouse out of the cardboard boxes and made my own "computer". As the years passed, I decided to learn programming. I spent hours researching which programming language to learn first and decided on C#. I bought a book, which I never read, and ended up learning PHP instead.
 
-During secondary school, I had the opportunity to write for [Pplware](https://pplware.sapo.pt/), which is one of the largest tech blogs in Portugal. At the same time, I had the opportunity to do some software development work for [Upframe](/2017/07/12/how-did-i-start-working-remotely-at-a-startup/), which was the time I started getting introduced to a bit more of the startup world.
+During secondary school, I had the opportunity to write for [Pplware](https://pplware.sapo.pt/), which is one of the largest tech blogs in Portugal. At the same time, I had the opportunity to do some software development work for [Upframe](/2017/07/12/how-did-i-start-working-remotely-at-a-startup/), which was the time I started getting introduced to a bit more of the startup world. On the side, I created [File Browser](https://filebrowser.org/), which turned to become very popular over the years.
 
 After graduating, in 2017, I moved to Lisbon to pursue a BSc in Computer Science and Engineering at [Técnico](https://tecnico.ulisboa.pt/pt/). A few months after, I got recruited by [Protocol Labs](https://protocol.ai/), where I had the opportunity to work on the decentralization of the web in a full open source manner. I am forever grateful for this [opportunity](/2018/10/27/working-at-protocol-labs/).
 
@@ -20,7 +20,7 @@ A few years later, in 2020, in the midst of the pandemic, I [moved](/2020/03/30/
 
 After finishing university, in 2022, I joined Protocol Labs full-time. About a year and a half in, I decided to say goodbye to the interplanetary journey, and join [Ver.iD](https://ver.id/), where I worked on building a platform to verify and issue verifiable credentials.
 
-Now, I work at [Animo Solutions](https://animo.id), where I get to work on open-source projects in the decentralized identity space. On the side, I work on multiple [open source](https://github.com/hacdias) projects, usually related to the IndieWeb, or just contributions here and there. 
+Now, I work at [Animo Solutions](https://animo.id), where I get to work on open-source projects in the decentralized identity space. On the side, I work on multiple [open source](https://github.com/hacdias) projects, usually related to the IndieWeb, AT Protocol, while maintaining File Browser.
 
 ## Colophon {#colophon}
 
