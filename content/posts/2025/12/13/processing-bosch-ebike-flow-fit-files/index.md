@@ -7,6 +7,7 @@ tags:
   - cycling
   - sports
   - tracking
+  - projects
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3m7uaovfe62f4
 ---
