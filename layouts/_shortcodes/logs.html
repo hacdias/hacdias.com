@@ -1,5 +1,5 @@
 {{- $args := dict
-  "WithRating" true
+  "WithRating" (.Get "withRating")
   "WithGroups" true
 }}
 
@@ -9,8 +9,12 @@
 {{- end }}
 
 {{- with .Get "page" }}
-  {{- $page := $.Site.GetPage . }}
-  {{- $args = $args | merge (dict "Pages" $page.Pages) }}
+  {{- $pages := slice }}
+  {{- range (strings.Split . ",") }}
+    {{- $page := $.Site.GetPage . }}
+    {{- $pages = $pages | append $page.Pages }}
+  {{- end }}
+  {{- $args = $args | merge (dict "Pages" $pages) }}
 {{- end }}
 
 {{- partial "logs" $args -}}

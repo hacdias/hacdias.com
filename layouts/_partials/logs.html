@@ -34,7 +34,8 @@
               {{- .name -}}{{ with .season }} (Season {{. }}){{- end -}}
             {{- if $mf2 }}</span>{{- end -}}
             {{- with .author }} <span class='lg wn'>by {{ . -}}</span>{{ end }}
-            {{- with .via }} <span class='lg wn'>via {{ . -}}</span>{{ end }}
+            {{- with .publication }} <span class='lg wn'>in {{ . -}}</span>{{ end }}
+            {{- with .location }} <span class='lg wn'>at {{ . -}}</span>{{ end }}
           {{- with .url }}</a>{{- else -}}</span>{{- end -}}
         {{- if $rating }}
           {{ with .rating }}

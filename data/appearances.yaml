@@ -1,0 +1,79 @@
+- name: "IPIP-0428: Allowing V2-Only Records in IPNS"
+  publication: IPFS Standards
+  date: 2023-07-25
+  url: https://specs.ipfs.tech/ipips/ipip-0428/
+
+- name: "IPIP-0417: Delegated Peer Routing HTTP API"
+  publication: IPFS Standards
+  date: 2023-05-29
+  url: https://specs.ipfs.tech/ipips/ipip-0417/
+
+- name: "IPIP-0410: Streaming NDJSON in Routing HTTP API"
+  publication: IPFS Standards
+  date: 2023-05-12
+  url: https://specs.ipfs.tech/ipips/ipip-0410/
+
+- name: Trustless Gateway Specification
+  publication: IPFS Standards
+  date: 2023-03-30
+  url: https://specs.ipfs.tech/http-gateways/trustless-gateway/
+
+- name: Delegated Routing V1 HTTP API
+  publication: IPFS Standards
+  date: 2023-03-22
+  url: https://specs.ipfs.tech/routing/http-routing-v1/
+
+- name: Spec for Specs
+  publication: IPFS Standards
+  date: 2023-03-17
+  url: https://specs.ipfs.tech/meta/spec-for-specs/
+
+- name: Path Gateway Specification
+  publication: IPFS Standards
+  date: 2023-02-27
+  url: https://specs.ipfs.tech/http-gateways/path-gateway/
+
+- name: "IPIP: Improvement Process for IPFS Specifications"
+  publication: IPFS Standards
+  date: 2023-02-23
+  url: https://specs.ipfs.tech/meta/ipip-process/
+
+- name: IPNS Record and Protocol
+  publication: IPFS Standards
+  date: 2023-02-13
+  url: https://specs.ipfs.tech/ipns/ipns-record/
+
+- name: "IPIP-0351: IPNS Signed Records Response Format on HTTP Gateways"
+  publication: IPFS Standards
+  date: 2022-11-29
+  url: https://specs.ipfs.tech/ipips/ipip-0351/
+
+- name: "IPIP-0328: JSON and CBOR Response Formats on HTTP Gateways"
+  publication: IPFS Standards
+  date: 2022-10-07
+  url: https://specs.ipfs.tech/ipips/ipip-0328/
+
+- name: "IPIP-0002: _redirects File Support on Web Gateways"
+  publication: IPFS Standards
+  date: 2022-06-15
+  url: https://specs.ipfs.tech/ipips/ipip-0002/
+
+- name: "IPIP-0288: TAR Response Format on HTTP Gateways"
+  publication: IPFS Standards
+  date: 2022-06-10
+  url: https://specs.ipfs.tech/ipips/ipip-0288/
+
+- name: Around 400 Tutorials and Technology Articles
+  publication: Pplware Kids
+  date: 2015-12-22
+  url: https://kids.pplware.sapo.pt/author/henrique_dias/
+
+- name: Around 40 Technology Articles
+  publication: Pplware
+  date: 2015-09-05
+  url: https://pplware.sapo.pt/author/henrique_dias/
+
+- name: 'Aprenda a Programar: Introdução Ilustrada Com A Linguagem C'
+  publication: Pplware
+  date: 2015-02-27
+  url: https://pplware.sapo.pt/tutoriais/aprenda-a-programar-o-e-book-gratuito-e-essencial/
