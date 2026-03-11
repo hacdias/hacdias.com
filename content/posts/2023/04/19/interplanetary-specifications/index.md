@@ -1,21 +1,22 @@
 ---
-title: 'InterPlanetary Specifications'
+title: InterPlanetary Specifications
 date: 2023-04-19T20:00:00Z
+location:
+  latitude: 50.8552019
+  longitude: 4.2928456
+  name: IPFS þing 2023
+  locality: Brussels
+  country: Belgium
 categories:
   - writings
 tags:
   - ipfs
   - talks
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3jtqrjb7622nj
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jtqrjb76225c
   - https://www.youtube.com/watch?v=vQVnjEIPuCE
 feedContentWarning: true
-location:
-  name: IPFS þing 2023
-  latitude: 50.8552019
-  longitude: 4.2928456
-  locality: Brussels
-  country: Belgium
 ---
 
 I gave a lightening talk ⚡️ at [IPFS þing 2023](https://blog.ipfs.tech/2023-ipfs-thing-recap/) on the 19th of April, about the progress we have made over the past months
