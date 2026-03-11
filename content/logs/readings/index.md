@@ -2,7 +2,7 @@
 title: Books That I've Read
 description: An extensive list of all the books I remember ever reading.
 aliases:
-- /readings/
+  - /readings/
 ---
 
 <style>

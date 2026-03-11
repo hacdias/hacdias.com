@@ -8,6 +8,7 @@ tags:
   - meta
   - personal website
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3il5vhbakp5nj
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3il5vhbakp5ct
 ---
 
