@@ -19,7 +19,7 @@
     <div>
       {{- $photos := .Site.GetPage "/categories/photos" -}}
       <h2 id="freshly-captured"><a href='{{ $photos.RelPermalink }}' class='nl'>📸 Freshly Captured <span class='lg'>⇢</span></a></h2>
-      {{- template "index.photos" (dict "pages" (first 20 $photos.Pages) "feed" true) -}}
+      {{- template "index.photos" (dict "pages" (first 20 $photos.Pages)) -}}
     </div>
   </div>
 
@@ -37,8 +37,8 @@
 {{- define "index.photos" }}
 <div class='fg'>
   {{ range .pages }}
-  <div class='br{{ if $.feed }} h-entry{{ end }}'>
-    <a href='{{ .RelPermalink }}' class='nl {{ if $.feed }} u-url{{ end }}'>
+  <div class='br h-entry'>
+    <a href='{{ .RelPermalink }}' class='nl u-url'>
       {{ $imageUrl := or .Params.thumbnail (index (index .Params.photos 0) "url") }}
       {{ partial "helpers/figure" (dict
         "Destination" $imageUrl
