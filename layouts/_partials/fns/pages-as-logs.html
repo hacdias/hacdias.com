@@ -2,17 +2,17 @@
 
 {{ range . }}
   {{ $log := dict
+    "name" .Title
     "url" .RelPermalink
     "date" (.Date.Format "2006-01-02T15:04:05Z07:00")
     "rating" .Params.rating
+    "publication" .Params.publication
   }}
-  {{ if .Params.read }}
-    {{ $log = $log | merge (dict
-      "name" .Title
-      "author" .Params.read.author
-    ) }}
-  {{ else }}
-    {{ $log = $log | merge (dict "name" .Title) }}
+  {{ if and .Params.location .Params.location.name }}
+    {{ $log = merge $log (dict "location" .Params.location.name ) }}
+  {{ end }}
+  {{  if .Params.read }}
+    {{ $log = merge $log .Params.read }}
   {{ end }}
   {{ $logs = $logs | append $log }}
 {{ end }}

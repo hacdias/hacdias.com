@@ -1,0 +1,7 @@
+ul.tb {
+  grid-template-columns: 1fr max-content;
+}
+
+ul.tb li {
+  grid-column: span 2;
+}

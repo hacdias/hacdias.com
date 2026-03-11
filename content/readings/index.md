@@ -23,4 +23,4 @@ This is a list of all 📚 books I remember reading, as well as [some reviews](/
 
 <!--more-->
 
-{{< logs data="readings" page="/tags/book-reviews/" >}}
+{{< logs data="readings" page="/tags/book-reviews/" withRating=true >}}

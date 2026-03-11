@@ -5,7 +5,7 @@ categories:
   - writings
 tags:
   - ipfs
-  - talk
+  - talks
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jtqrjb76225c
   - https://www.youtube.com/watch?v=vQVnjEIPuCE

@@ -22,7 +22,7 @@ This is an extensive list of [🎬 movies](#movies) and [📺 shows](#shows) tha
 
 ## 🎬 Movies {#movies}
 
-{{< logs data="watched.movies" >}}
+{{< logs data="watched.movies" withRating=true >}}
 
 </div>
 
@@ -30,7 +30,7 @@ This is an extensive list of [🎬 movies](#movies) and [📺 shows](#shows) tha
 
 ## 📺 Shows {#shows}
 
-{{< logs data="watched.shows" >}}
+{{< logs data="watched.shows" withRating=true >}}
 
 </div>
 
