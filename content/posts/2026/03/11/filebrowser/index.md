@@ -10,6 +10,7 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mgsje5n76c2a
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mgsj7b3za2zg
+  - https://fosstodon.org/@hacdias/116212583117789817
 thumbnail: image:2026-03-11-filebrowser
 ---
 
@@ -19,7 +20,7 @@ Last year, I [wrote a bit](/2025/06/14/maintaining-open-source-projects/) on mai
 
 As many of you know, I maintain several open source projects. Most of them are quite small, personal side projects, where I'm the main user. Those consume personal time. Others, are part of work, such as some of the [Open Wallet Foundation](https://github.com/openwallet-foundation) libraries, and previously [IPFS](https://github.com/ipfs). Those consume work time.
 
-![](image:2026-03-11-filebrowser)
+![Screenshot of File Browser](image:2026-03-11-filebrowser)
 {width="3541" height="2160"}
 
 Over the years, a new sort of project showed up: File Browser. It is in its own category. Back in [2017](/2024/01/12/trending-filebrowser/), it started getting some traction, and increased from 200 to 700 stars in a week. That was an amazing thing for an 17 year old kid. What I did not know is that that project would grow to millions of downloads and over 33k stars on GitHub.

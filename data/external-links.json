@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 91,
+    "count": 98,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -356,6 +356,34 @@
         "targetUrl": "https://github.com/hacdias/eagle/blob/ede4543a66ef994e44dcc52c9e1fe227c8c7372c/plugins/atproto/standardsite.go#L42-L103"
       },
       {
+        "sourceUrl": "https://hacdias.com/2026/03/11/filebrowser/",
+        "targetUrl": "https://github.com/openwallet-foundation"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/11/filebrowser/",
+        "targetUrl": "https://github.com/ipfs"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/11/filebrowser/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser/security"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/11/filebrowser/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser/discussions/4906"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/11/filebrowser/",
+        "targetUrl": "https://github.com/jniggemann"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/11/filebrowser/",
+        "targetUrl": "https://github.com/ramiresviana"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/11/filebrowser/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser/issues/5216"
+      },
+      {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://github.com/hacdias"
       },
@@ -629,7 +657,7 @@
   },
   {
     "domain": "indieweb.org",
-    "count": 24,
+    "count": 25,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2019/12/24/own-your-data/",
@@ -726,6 +754,10 @@
       {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://indieweb.org/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/more/",
+        "targetUrl": "https://indieweb.org/silo"
       }
     ]
   },
@@ -1232,6 +1264,28 @@
     ]
   },
   {
+    "domain": "caddyserver.com",
+    "count": 4,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/23/bye-filebrowser/",
+        "targetUrl": "https://caddyserver.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
+        "targetUrl": "https://caddyserver.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/11/filebrowser/",
+        "targetUrl": "https://caddyserver.com/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://caddyserver.com/"
+      }
+    ]
+  },
+  {
     "domain": "dekatemousa.nl",
     "count": 4,
     "links": [
@@ -1560,24 +1614,6 @@
     ]
   },
   {
-    "domain": "caddyserver.com",
-    "count": 3,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/23/bye-filebrowser/",
-        "targetUrl": "https://caddyserver.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
-        "targetUrl": "https://caddyserver.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://caddyserver.com/"
-      }
-    ]
-  },
-  {
     "domain": "cloudflare.com",
     "count": 3,
     "links": [
@@ -1664,6 +1700,24 @@
       {
         "sourceUrl": "https://hacdias.com/2020/10/19/testing-p2p-systems-testground/",
         "targetUrl": "https://golang.org/dl/"
+      }
+    ]
+  },
+  {
+    "domain": "ipfs.tech",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2022/10/31/recently/",
+        "targetUrl": "https://ipfs.tech"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2023/04/19/interplanetary-specifications/",
+        "targetUrl": "https://blog.ipfs.tech/2023-ipfs-thing-recap/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/05/30/integrating-bluesky/",
+        "targetUrl": "https://docs.ipfs.tech/concepts/content-addressing/"
       }
     ]
   },
@@ -2060,6 +2114,20 @@
     ]
   },
   {
+    "domain": "filebrowser.org",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/11/filebrowser/",
+        "targetUrl": "https://filebrowser.org/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/about/",
+        "targetUrl": "https://filebrowser.org/"
+      }
+    ]
+  },
+  {
     "domain": "gloweindhoven.nl",
     "count": 2,
     "links": [
@@ -2140,20 +2208,6 @@
       {
         "sourceUrl": "https://hacdias.com/2021/02/01/recently/",
         "targetUrl": "https://gateway.ipfs.io/ipns/daviddias.me/"
-      }
-    ]
-  },
-  {
-    "domain": "ipfs.tech",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2022/10/31/recently/",
-        "targetUrl": "https://ipfs.tech"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/05/30/integrating-bluesky/",
-        "targetUrl": "https://docs.ipfs.tech/concepts/content-addressing/"
       }
     ]
   },
@@ -2644,7 +2698,7 @@
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/coffee/",
+        "sourceUrl": "https://hacdias.com/logs/coffee/",
         "targetUrl": "https://arabica.social"
       }
     ]
@@ -3446,16 +3500,6 @@
       {
         "sourceUrl": "https://hacdias.com/2024/10/04/multilingualism/",
         "targetUrl": "https://www.instagram.com/orlophe_interlingua/"
-      }
-    ]
-  },
-  {
-    "domain": "ipfs-thing.io",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2023/04/19/interplanetary-specifications/",
-        "targetUrl": "https://2023.ipfs-thing.io/"
       }
     ]
   },
@@ -4344,7 +4388,7 @@
     "count": 1,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/trips/",
+        "sourceUrl": "https://hacdias.com/logs/places/",
         "targetUrl": "https://www.swarmapp.com/"
       }
     ]
