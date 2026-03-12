@@ -1,0 +1,251 @@
+[
+  {
+    "name": "Cool Cat",
+    "origin": "Cocatrel Cooperativa, Três Pontas, Sul de Minas, Brazil",
+    "roast": "Medium",
+    "process": "Natural",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "rating": 8,
+    "date": "2026-02-22"
+  },
+  {
+    "name": "Butter My Pineapples",
+    "origin": "Ethiopia (Lalesa, Gedeb, Ephtah Specialty Coffee)",
+    "roast": "Medium-Light",
+    "process": "Slow Dry Natural",
+    "variety": "Heirloom",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "rating": 8,
+    "date": "2026-02-12"
+  },
+  {
+    "name": "Bloody Boozy Orange",
+    "origin": "El Salvador (Jocoaitique, Morazán, ACALEM DE R.L.)",
+    "roast": "Medium-Light",
+    "process": "Anaerobic Natural",
+    "variety": "Cuscatleco",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "rating": 9,
+    "date": "2026-02-12"
+  },
+  {
+    "name": "Poppy Soda",
+    "origin": "Quindio, Colombia (Sebastian Ramirez)",
+    "roast": "Light",
+    "process": "Multi Stage Washed",
+    "variety": "Pink Bourbon",
+    "roaster": {
+      "name": "DAK Coffee Roasters",
+      "location": "Amsterdam, NL",
+      "website": "https://www.dakcoffeeroasters.com/"
+    },
+    "date": "2026-01-02"
+  },
+  {
+    "name": "Marumi",
+    "origin": "Murang'a County, Kenya",
+    "roast": "Light",
+    "process": "Washed",
+    "variety": "SL28",
+    "roaster": {
+      "name": "Giraffe Coffee Roasters",
+      "location": "Rotterdam, NL",
+      "website": "https://giraffecoffee.com/"
+    },
+    "date": "2025-12-03"
+  },
+  {
+    "name": "Cascavel Verde",
+    "origin": "Minas Gerais, Brazil (Smallholders)",
+    "roast": "Medium",
+    "process": "Honey",
+    "variety": "Yellow Bourbon",
+    "elevation": "800-1100m",
+    "roaster": {
+      "name": "Back to Black",
+      "location": "Amsterdam, NL",
+      "website": "https://backtoblackcoffee.nl/"
+    },
+    "date": "2025-12-02"
+  },
+  {
+    "name": "Lasso Lassi",
+    "origin": "Colombia (Finca El Diviso, Pitalito, Huila, Nestor Lasso)",
+    "roast": "Light",
+    "process": "Experimental",
+    "variety": "Various",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "rating": 9,
+    "date": "2025-11-13"
+  },
+  {
+    "name": "Tropical Hills",
+    "origin": "Rwanda (Gasharu Coffee, Nyamasheke, Valentin Kimenyi)",
+    "roast": "Medium-Light",
+    "process": "Anaerobic Natural",
+    "variety": "Bourbon",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "date": "2025-10-01"
+  },
+  {
+    "name": "La Pomarrosa",
+    "origin": "Colasay, Perú (Merci Fernandez)",
+    "roast": "Medium-Light",
+    "process": "Washed",
+    "variety": "Bourbon",
+    "elevation": "1700-1800 MASL",
+    "roaster": {
+      "name": "Prolog",
+      "location": "Copenhagen, DK",
+      "website": "https://www.prologcoffee.com/"
+    },
+    "date": "2025-09-18"
+  },
+  {
+    "name": "Father's x Standart",
+    "origin": "Lalesa, Ethiopia",
+    "roaster": {
+      "name": "Father's Coffee Roastery",
+      "location": "Prague, CZ",
+      "website": "https://fathers.cz/"
+    },
+    "date": "2025-09-14"
+  },
+  {
+    "name": "Sede",
+    "origin": "Gedeo Zone, Ethiopia (400 Smallholders)",
+    "process": "Natural",
+    "variety": "Heirloom",
+    "elevation": "1850-2010 MASL",
+    "roaster": {
+      "name": "Friedhats Coffee Roasters",
+      "location": "Amsterdam, NL",
+      "website": "https://friedhats.com/"
+    },
+    "date": "2025-08-31"
+  },
+  {
+    "name": "La Fábrica Natural",
+    "origin": "Tolima, Colombia (Indigenous Cooperatives)",
+    "process": "Natural Anaerobic",
+    "variety": "Geisha, Colombia, Cenicafe, Pacamara, Caturra",
+    "elevation": "1600-2000m",
+    "roaster": {
+      "name": "D·Origen Coffee Roasters",
+      "location": "Barcelona, ES",
+      "website": "https://dorigencoffee.es/"
+    },
+    "date": "2025-08-08"
+  },
+  {
+    "name": "Daterra",
+    "origin": "Minas Gerais, Brazil (Daterra)",
+    "process": "Natural",
+    "variety": "Laurina, Aramosa",
+    "elevation": "1149-1150 MASL",
+    "roaster": {
+      "name": "Friedhats Coffee Roasters",
+      "location": "Amsterdam, NL",
+      "website": "https://friedhats.com/"
+    },
+    "date": "2025-08-04"
+  },
+  {
+    "name": "Silvia Barretto",
+    "origin": "São Paulo, Brazil (Silvia Barretto)",
+    "process": "Natural",
+    "variety": "Arara",
+    "roaster": {
+      "name": "The Barn",
+      "location": "Berlin, DE",
+      "website": "https://thebarn.de/"
+    },
+    "date": "2025-07-21"
+  },
+  {
+    "name": "Lalesa",
+    "origin": "Ethiopia (Lalesa, Gedeb, Ephtah Specialty Coffee)",
+    "roast": "Light",
+    "process": "Anaerobic Natty",
+    "variety": "Heirloom",
+    "elevation": "2150-2200 MASL",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "date": "2025-07-21"
+  },
+  {
+    "name": "Qalaa",
+    "origin": "Haro Sorsa, Ethiopia (Glitter Trading \u0026 Logistics)",
+    "roast": "Medium-Light",
+    "process": "Natural",
+    "variety": "Heirloom",
+    "elevation": "2200-2400 MASL",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "date": "2025-07-11"
+  },
+  {
+    "name": "Adnan",
+    "origin": "Hamesho, Sidamo, Ethiopia (Adnan Premium)",
+    "roast": "Medium-Light",
+    "process": "Natural",
+    "variety": "74148, 74158",
+    "elevation": "2238-2300 MASL",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "date": "2025-06-18"
+  },
+  {
+    "name": "Ethiopia",
+    "origin": "Sidama, Keramo village, Ethiopia",
+    "process": "Natural",
+    "variety": "Heirloom",
+    "roaster": {
+      "name": "Lucifer Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://lucifercoffee.com/"
+    },
+    "date": "2022-09-24"
+  },
+  {
+    "name": "Costa Rica",
+    "origin": "Centre Valley, Costa Rica (Hacienda Sonora)",
+    "process": "Natural",
+    "variety": "Caturra",
+    "roaster": {
+      "name": "Lucifer Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://lucifercoffee.com/"
+    },
+    "date": "2022-09-01"
+  }
+]
