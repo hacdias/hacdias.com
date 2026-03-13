@@ -43,7 +43,7 @@
       <outline xmlUrl="https://blog.pesky.moe/index.xml" text="Pesky&#39;s Blog" htmlUrl="https://blog.pesky.moe/" type="rss"></outline>
       <outline xmlUrl="https://notes.eatonphil.com/rss.xml" text="Phil Eaton" htmlUrl="http://notes.eatonphil.com/" type="rss"></outline>
       <outline xmlUrl="https://pketh.org/feed.xml" text="Pketh" htmlUrl="https://pketh.org" type="rss"></outline>
-      <outline xmlUrl="https://rakhim.org/index.xml" text="Rakhim Davletkaliyev" htmlUrl="https://rakhim.org/" type="rss"></outline>
+      <outline xmlUrl="https://rakhim.exotext.com/rss.xml" text="Rakhim Davletkaliyev" htmlUrl="https://rakhim.exotext.com" type="rss"></outline>
       <outline xmlUrl="https://rknight.me/subscribe/posts/atom.xml" text="Robb Knight" htmlUrl="https://rknight.me/subscribe/posts/atom.xml" type="rss"></outline>
       <outline xmlUrl="https://berjon.com/feed.atom" text="Robin Berjon" htmlUrl="https://berjon.com/" type="rss"></outline>
       <outline xmlUrl="https://seirdy.one/atom.xml" text="Rohan Kumar" htmlUrl="https://seirdy.one" type="rss"></outline>
