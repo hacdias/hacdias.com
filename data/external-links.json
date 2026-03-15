@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 98,
+    "count": 99,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -384,6 +384,10 @@
         "targetUrl": "https://github.com/filebrowser/filebrowser/issues/5216"
       },
       {
+        "sourceUrl": "https://hacdias.com/2026/03/14/claude-code-improve-eagle/",
+        "targetUrl": "https://github.com/hacdias/eagle/tree/main?tab=readme-ov-file#features"
+      },
+      {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://github.com/hacdias"
       },
@@ -657,7 +661,7 @@
   },
   {
     "domain": "indieweb.org",
-    "count": 25,
+    "count": 26,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2019/12/24/own-your-data/",
@@ -750,6 +754,10 @@
       {
         "sourceUrl": "https://hacdias.com/2026/03/04/standard-site/",
         "targetUrl": "https://indieweb.org/POSSE"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/14/claude-code-improve-eagle/",
+        "targetUrl": "https://indieauth.spec.indieweb.org/"
       },
       {
         "sourceUrl": "https://hacdias.com/about/",
