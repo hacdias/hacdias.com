@@ -8,6 +8,7 @@ tags:
   - creative
   - reflections
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3d6k3tw46k2cz
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3d6k3kxyvs25g
 ---
 
