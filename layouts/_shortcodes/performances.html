@@ -1,4 +1,4 @@
-{{ $logs := partial "fns/group-date-year" .Site.Data.logs.performances }}
+{{ $logs := partial "fns/group-date-year" hugo.Data.logs.performances }}
 {{ range $logs.years }}
   <section>
     {{ $year := . }}

@@ -4,7 +4,7 @@
 }}
 
 {{- with .Get "data" }}
-  {{- $data := index $.Site.Data (strings.Split . ".") }}
+  {{- $data := index hugo.Data (strings.Split . ".") }}
   {{- $args = $args | merge (dict "Data" $data) }}
 {{- end }}
 

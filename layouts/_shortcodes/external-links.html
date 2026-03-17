@@ -1,4 +1,4 @@
-{{ $links := index .Site.Data "external-links" }}
+{{ $links := index hugo.Data "external-links" }}
 
 <ul class='tb'>
   {{ range $links }}
