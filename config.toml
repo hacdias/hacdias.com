@@ -1,5 +1,5 @@
 baseURL = 'https://hacdias.com/'
-languageCode = 'en'
+locale = 'en'
 title = 'Henrique Dias'
 pluralizeListTitles = false
 removePathAccents = true

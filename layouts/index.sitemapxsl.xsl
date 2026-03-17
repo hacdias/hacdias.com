@@ -2,7 +2,7 @@
 <xsl:stylesheet version="3.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:sitemap="http://www.sitemaps.org/schemas/sitemap/0.9">
   <xsl:output method="html" version="1.0" encoding="UTF-8" indent="yes" />
   <xsl:template match="/">
-    <html xmlns="http://www.w3.org/1999/xhtml" lang="{{ .Site.Language }}">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="{{ .Site.Language.Locale }}">
       <head>
         <title>Sitemap - {{ .Site.Title }}</title>
         <meta charset="utf-8" />
