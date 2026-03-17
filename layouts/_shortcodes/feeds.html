@@ -1,5 +1,5 @@
 <ul class='buttons'>
-  {{- range (index .Site.Data.feeds (.Get 0)) -}}
+  {{- range (index hugo.Data.feeds (.Get 0)) -}}
     <li>
       <a href='{{ .site }}' rel='noopener noreferrer'>
         {{- $domain := (urls.Parse .site).Host -}}
