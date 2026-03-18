@@ -1,9 +1,24 @@
 [
   {
+    "name": "Superpunch",
+    "origin": "Sergio Aranda, Finca Anaya, Acevedo, Huila, Colombia",
+    "roast": "Light",
+    "process": "Experimental",
+    "variety": "Ombligon",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "rating": 9,
+    "date": "2026-03-17"
+  },
+  {
     "name": "Cool Cat",
     "origin": "Cocatrel Cooperativa, Três Pontas, Sul de Minas, Brazil",
     "roast": "Medium",
     "process": "Natural",
+    "variety": "Catuai",
     "roaster": {
       "name": "Sprout Coffee Roasters",
       "location": "Eindhoven, NL",
