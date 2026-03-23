@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: Pillion
+  date: 2026-03-22T19:50:00+01:00
+  rating: 7
+  location: Lab-1
+  room: 5
+  row: 8
+  seat: 8
 - name: Marty Supreme
   date: 2026-03-08T16:00:00+01:00
   rating: 5
