@@ -1,5 +1,20 @@
 [
   {
+    "name": "Ethiopia Elto Coffee Sama Washed",
+    "origin": "Eliyas Dukamo \u0026 Atiklit Dejene, Elto Sama Station, Anasora, Guji, Ethiopia",
+    "roast": "Medium",
+    "process": "Washed",
+    "variety": "74158",
+    "elevation": "2350 MASL",
+    "roaster": {
+      "name": "Archers Coffee",
+      "location": "Sharjah, UAE",
+      "website": "https://archerscoffee.com"
+    },
+    "rating": 7,
+    "date": "2026-03-24"
+  },
+  {
     "name": "Superpunch",
     "origin": "Sergio Aranda, Finca Anaya, Acevedo, Huila, Colombia",
     "roast": "Light",
