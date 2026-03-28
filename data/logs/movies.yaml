@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: Joe Speedboot
+  date: 2026-03-27T20:30:00+01:00
+  rating: 7
+  location: Natlab
+  room: Cinema 2
+  row: H
+  seat: 4
 - name: Pillion
   date: 2026-03-22T19:50:00+01:00
   rating: 7
