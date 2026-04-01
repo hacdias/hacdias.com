@@ -1,5 +1,5 @@
 ---
-title: "Recently in March '26"
+title: Recently in March '26
 date: 2026-03-31T16:03:42+02:00
 location:
   latitude: 51.44592
@@ -7,14 +7,17 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
-thumbnail: image:2026-03-31-recently
 categories:
-- writings
+  - writings
 tags:
-- now
-- health
-- entertainment
-- life
+  - now
+  - health
+  - entertainment
+  - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3miedroy4w2qo
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3miedroy4w2qo
+thumbnail: image:2026-03-31-recently
 ---
 
 Now that I am looking back at what happened in March, I see it was quite of a calm month. Oddly enough, I didn't perceive it as so, since I feel like it went by so fast. Let's then take a look back together, but I'm sure this will be a shorter post than in the previous months.
