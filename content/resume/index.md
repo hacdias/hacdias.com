@@ -34,7 +34,7 @@ Software Engineer passionate about open source, user agency, decentralization, i
   from="06/2025" to="present" >}}
 
 - Integrating the latest verifiable credential standards in [Credo](https://credo.js.org/)'s TypeScript ecosystem of open source libraries, such as OpenID for Verifiable Credentials and W3C Verifiable Credentials.
-- Building digital identity and verifiable credential solutions, such as [Paradym](https://paradym.id/)'s SaaS platform for issuance and verification of digital credentials; and [Paradym Wallet](https://paradym.id/products/paradym-mobile-wallet), enabling users to store their own credentials.
+- Building digital identity and verifiable credential solutions, such as [Paradym](https://paradym.id/)'s SaaS platform for credential issuance and verification; and [Paradym Wallet](https://paradym.id/products/paradym-mobile-wallet) for user-held credential storage.
 
 {{</ resume-position >}}
 
@@ -43,8 +43,7 @@ Software Engineer passionate about open source, user agency, decentralization, i
   location="Ver.iD" href="https://ver.id/"
   from="06/2024" to="05/2025" >}}
 
-- Developed a platform to enable developers to retrieve verifiable credentials from multiple identity wallets into their online platforms using a single integration, using open standards, in TypeScript. 
-- Integrated verification of digital identity wallets built on both proprietary APIs, and on open standards, such as OpenID for Verifiable Presentations, SD-JWT and mDoc.
+- Built a TypeScript platform allowing developers to request verifiable credentials from users across multiple identity wallets via a single integration using open standards, abstracting over both proprietary and open wallet APIs (OpenID for Verifiable Presentations, SD-JWT, mDoc).
 
 {{</ resume-position >}}
 
@@ -53,21 +52,10 @@ Software Engineer passionate about open source, user agency, decentralization, i
   location="Protocol Labs"href="https://protocol.ai/"
   from="11/2017" to="05/2024" >}}
 
-- Led the development of new features for the largest and most widely used [implementation](https://github.com/ipfs/kubo) and set of [libraries](https://github.com/ipfs/boxo) of the [InterPlanetary File System (IPFS)](https://ipfs.tech/), a decentralized, P2P, and content-addressed network, in Go. Co-authored and maintained specialized services to bridge HTTP and P2P systems.
-- Co-authored and implemented [specifications](https://specs.ipfs.tech/) for different HTTP services in Go and TypeScript. Authored hundreds of implementation-agnostic conformance tests for several specifications.
-- Co-authored [Testground](http://testground.ai/), a testing, benchmarking and simulation platform for decentralized and P2P systems at scale, in Go. Led the JavaScript SDK and Go synchronization service development.
-- Revamped and shipped [IPFS Web UI](https://github.com/ipfs/ipfs-webui), a React-based web application used as a front-end for an IPFS node, where users can manage their files, explore linked data, and see their peers.
-- Led the development of [IPFS Desktop](https://github.com/ipfs/ipfs-desktop), an Electron-based desktop application for Windows, macOS and Linux. Owned the refactoring, redesign and feature development of the application.
-
-{{</ resume-position >}}
-
-{{< resume-position 
-  title="Student Teaching Assistant" 
-  location="Eindhoven University of Technology" href="https://tue.nl/" 
-  from="09/2021" to="06/2022" >}}
-
-- Prepared materials, gave practical classes and helped students in a Deep Learning course.
-- Mentored 12 new master students from different nationalities during their first semester.
+- Led the development of new features for [Kubo](https://github.com/ipfs/kubo), the reference Go implementation of [IPFS](https://ipfs.tech/), a decentralized, P2P, and content-addressed network; and co-authored and maintained specialized services bridging HTTP and P2P systems.
+- Designed and implemented [specifications](https://specs.ipfs.tech/) for HTTP services in Go and TypeScript, alongside hundreds of implementation-agnostic conformance tests.
+- Led the development of [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) (Electron, cross-platform) and revamped [IPFS Web UI](https://github.com/ipfs/ipfs-webui) (React), enabling users to interact with their IPFS node through a graphical interface.
+- Co-authored [Testground](http://testground.ai/), a Go-based testing and simulation platform for P2P systems at scale, leading the JavaScript SDK and Go synchronization service development.
 
 {{</ resume-position >}}
 
@@ -78,8 +66,8 @@ Software Engineer passionate about open source, user agency, decentralization, i
   location="Eindhoven University of Technology" href="https://tue.nl/"
   from="2020" to="2022" grade="8 out of 10" >}}
 
-- Thesis on [Impact of Different Algorithms in Blockchain-based Federated Learning Systems](/2022/09/07/thesis-blocklearning-framework/).
-- Paper on [BlockLearning: A Modular Framework for Blockchain-based Federated Learning](/2023/02/16/paper-blocklearning-framework/).
+- Thesis: [Impact of Different Algorithms in Blockchain-based Federated Learning Systems](/2022/09/07/thesis-blocklearning-framework/).
+- Published: [BlockLearning: A Modular Framework for Blockchain-based Federated Learning](/2023/02/16/paper-blocklearning-framework/).
 
 {{</ resume-position >}}
 
@@ -98,8 +86,8 @@ Software Engineer passionate about open source, user agency, decentralization, i
   title="Open Source Projects"
   from="01/2015" to="present" >}}
 
-- Author, maintainer and contributor of several open source projects.
-- Creator of [File Browser](https://github.com/filebrowser/filebrowser), a Go and Vue.js self-hosted file hosting service. It has more than 30K stars on GitHub and over 100M downloads across different platforms. Now community maintained.
+- Creator of [File Browser](https://github.com/filebrowser/filebrowser), a Go and Vue.js self-hosted file hosting service. It has more than 34K stars on GitHub and over 100M downloads across different platforms.
+- Author of several Go tools for self-hosting and the open web, including [webdav](https://github.com/hacdias/webdav) (5K+ stars) and [indielib](https://github.com/hacdias/indielib) , an IndieWeb toolkit implementing IndieAuth, Micropub, and Microformats.
 
 {{</ resume-position >}}
 
@@ -107,8 +95,8 @@ Software Engineer passionate about open source, user agency, decentralization, i
   title="Personal Website"
   from="07/2014" to="present" >}}
 
-- Building and maintaining my personal website, which receives over 10K unique visitors per month.
-- Built [Eagle](https://github.com/hacdias/eagle), a custom backend in Go, to experiment with different ideas over time, such as ActivityPub, Webmentions, Tailscale and other integrations with third party services, etc.
+- Building and maintaining my personal website for over a decade, where I publish photographs and write on topics, ranging from personal reflections to in-depth tutorials.
+- Built [Eagle](https://github.com/hacdias/eagle), a custom Go backend, to manage my statically generated website from the browser, and experiment with different integrations, such as AT Protocol, ActivityPub, and Webmentions.
 
 {{</ resume-position >}}
 
@@ -119,7 +107,7 @@ Software Engineer passionate about open source, user agency, decentralization, i
   location="HackYourFuture" href="https://www.hackyourfuture.net"
   from="07/2024" to="02/2026" >}}
 
-- Helping train people with limited access to education to become web developers, by reviewing assignments and answering questions in the topics of JavaScript, Browsers, Node.js, APIs and Databases.
+- Helped train people with limited access to education to become web developers, by reviewing assignments and answering questions about JavaScript, Browsers, Node.js, APIs and Databases.
 
 {{</ resume-position >}}
 
@@ -133,12 +121,22 @@ Software Engineer passionate about open source, user agency, decentralization, i
 
 {{</ resume-position >}}
 
+{{< resume-position 
+  title="Student Teaching Assistant" 
+  location="Eindhoven University of Technology" href="https://tue.nl/" 
+  from="09/2021" to="06/2022" >}}
+
+- Prepared materials, gave practical classes and helped students in a Deep Learning course.
+- Mentored 12 new master students from different nationalities during their first semester.
+
+{{</ resume-position >}}
+
 {{< resume-position
   title="Student Mentor"
   location="Instituto Superior Técnico" href="https://tecnico.ulisboa.pt/"
   from="09/2018" to="06/2020" >}}
 
-- Mentored groups of new students two years in a row, during their first weeks at the university.
+- Mentored groups of new students during their first weeks at the university, two years in a row.
 
 {{</ resume-position >}}
 
@@ -147,10 +145,7 @@ Software Engineer passionate about open source, user agency, decentralization, i
   location="Upframe" href="https://github.com/upframe" 
   from="09/2016" to="05/2018" >}}
 
-- Helped organize a mentorship-driven program to connect mentors with first-time entrepreneurs.
-- Built a REST API for managing e-mail transactions, newsletters and program enrollments, in Go.
-- Created a Slack integration for managing program enrollments directly from a Slack channel, in Go.
-- Built a web application for managing newsletter and program enrollments in React.
+- Built a Go REST API, Slack integration, and a React web application to manage newsletters and enrollments for a mentorship-driven program connecting mentors with first-time entrepreneurs.
 
 {{</ resume-position >}}
 
