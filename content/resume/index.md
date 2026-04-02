@@ -66,8 +66,8 @@ Software Engineer passionate about open source, user agency, decentralization, i
   location="Eindhoven University of Technology" href="https://tue.nl/"
   from="2020" to="2022" grade="8 out of 10" >}}
 
-- Thesis: [Impact of Different Algorithms in Blockchain-based Federated Learning Systems](/2022/09/07/thesis-blocklearning-framework/).
-- Published: [BlockLearning: A Modular Framework for Blockchain-based Federated Learning](/2023/02/16/paper-blocklearning-framework/).
+- Thesis on [Impact of Different Algorithms in Blockchain-based Federated Learning Systems](/2022/09/07/thesis-blocklearning-framework/).
+- Paper on [BlockLearning: A Modular Framework for Blockchain-based Federated Learning](/2023/02/16/paper-blocklearning-framework/).
 
 {{</ resume-position >}}
 
