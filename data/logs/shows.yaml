@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: 'The Man in the High Castle'
+  season: 1
+  rating: 8
+  date: 2026-04-01
 - name: 'Talamasca: The Secret Order'
   season: 1
   rating: 8
