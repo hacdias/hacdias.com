@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: Project Hail Mary
+  date: 2026-04-03T18:10:00+02:00
+  rating: 9
+  location: Lab-1
+  room: 3
+  row: 8
+  seat: 4
 - name: Joe Speedboot
   date: 2026-03-27T20:30:00+01:00
   rating: 7
