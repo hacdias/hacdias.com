@@ -11,6 +11,7 @@ location:
   locality: Guia
   region: Faro
   country: Portugal
+  countryCode: PT
 categories:
   - photos
 tags:

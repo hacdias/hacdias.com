@@ -11,6 +11,7 @@ location:
   locality: Lisbon
   region: Lisbon
   country: Portugal
+  countryCode: PT
 categories:
   - photos
 tags:

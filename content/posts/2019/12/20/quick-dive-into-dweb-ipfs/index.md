@@ -8,6 +8,7 @@ location:
   name: BarcampLX
   locality: Lisbon
   country: Portugal
+  countryCode: PT
 categories:
   - writings
 tags:

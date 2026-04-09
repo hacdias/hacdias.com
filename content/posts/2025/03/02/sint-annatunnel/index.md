@@ -15,6 +15,7 @@ location:
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
+  countryCode: NL
 categories:
   - photos
 tags:

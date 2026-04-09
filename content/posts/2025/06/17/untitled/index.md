@@ -17,6 +17,7 @@ location:
   locality: Santa Cruz
   region: Madeira
   country: Portugal
+  countryCode: PT
 categories:
   - photos
 tags:

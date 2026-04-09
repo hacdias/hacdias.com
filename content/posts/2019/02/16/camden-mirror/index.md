@@ -11,6 +11,7 @@ location:
   locality: London Borough of Camden
   region: England
   country: United Kingdom
+  countryCode: GB
 categories:
   - photos
 tags:

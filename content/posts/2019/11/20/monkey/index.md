@@ -11,6 +11,7 @@ location:
   locality: Liberia
   region: Provincia Guanacaste
   country: Costa Rica
+  countryCode: CR
 categories:
   - photos
 tags:

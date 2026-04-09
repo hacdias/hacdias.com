@@ -19,6 +19,7 @@ location:
   locality: New York
   region: New York
   country: United States
+  countryCode: US
 categories:
   - photos
 tags:

@@ -11,6 +11,7 @@ location:
   locality: London
   region: England
   country: United Kingdom
+  countryCode: GB
 categories:
   - writings
 tags:

@@ -11,6 +11,7 @@ location:
   locality: São Clemente
   region: Faro
   country: Portugal
+  countryCode: PT
 categories:
   - photos
 tags:

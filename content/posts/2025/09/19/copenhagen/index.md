@@ -14,6 +14,7 @@ location:
   locality: Copenhagen
   region: Capital Region of Denmark
   country: Denmark
+  countryCode: DK
 categories:
   - photos
 syndication:
