@@ -11,6 +11,7 @@ location:
   locality: Câmara de Lobos
   region: Madeira
   country: Portugal
+  countryCode: PT
 categories:
   - photos
 tags:

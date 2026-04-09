@@ -11,6 +11,7 @@ location:
   locality: Santana
   region: Madeira
   country: Portugal
+  countryCode: PT
 categories:
   - photos
 tags:

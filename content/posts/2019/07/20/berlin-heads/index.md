@@ -10,6 +10,7 @@ location:
   longitude: 13.3940921
   locality: Berlin
   country: Germany
+  countryCode: DE
 categories:
   - photos
 tags:

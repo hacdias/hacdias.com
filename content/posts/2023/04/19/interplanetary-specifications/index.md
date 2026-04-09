@@ -7,6 +7,7 @@ location:
   name: IPFS þing 2023
   locality: Brussels
   country: Belgium
+  countryCode: BE
 categories:
   - writings
 tags:

@@ -11,6 +11,7 @@ location:
   locality: Westminster
   region: England
   country: United Kingdom
+  countryCode: GB
 categories:
   - photos
 tags:

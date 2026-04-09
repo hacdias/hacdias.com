@@ -8,6 +8,7 @@ location:
   locality: Rotterdam
   region: South Holland
   country: Netherlands
+  countryCode: NL
 categories:
   - writings
 tags:

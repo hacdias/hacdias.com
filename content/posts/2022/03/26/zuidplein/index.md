@@ -12,6 +12,7 @@ location:
   locality: Amsterdam
   region: North Holland
   country: Netherlands
+  countryCode: NL
 categories:
   - photos
 tags:

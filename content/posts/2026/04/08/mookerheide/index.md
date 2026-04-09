@@ -20,6 +20,7 @@ location:
   locality: Mook
   region: Limburg
   country: Netherlands
+  countryCode: NL
 categories:
   - photos
 tags:
