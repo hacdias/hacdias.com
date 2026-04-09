@@ -29,7 +29,7 @@ read:
     width: 960
   pages: 219
   publisher: Atlas Contact
-  uid: isbn:9789045051925
+  uid: isbn:9789025438838
 ---
 
 *Taal Is Zeg Maar Echt Mijn Ding* is mijn eerste boek van Paulien Cornelisse. Het is eigenlijk het eerste "volwassene" Nederlands boek dat ik lees, laten we het zo zeggen. Het gaat over taal en dingen die mensen zeggen, niet per se expres, maar dingen die gewoon voorkomen.

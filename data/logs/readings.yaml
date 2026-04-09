@@ -1,301 +1,301 @@
 - name: 'Morele revolutie: De BBC Reith-lezingen'
-  author: 'Rutger Bregman'
-  date: 2026-03-11
+  author: Rutger Bregman
+  date: 2026-03-11T00:00:00Z
   rating: 7
   publisher: De Correspondent
   uid: isbn:9789493254787
 - name: Dit Is Fascisme
   author: Rosan Smits
-  date: 2025-11-03
+  date: 2025-11-03T00:00:00Z
   rating: 10
   publisher: De Correspondent
   uid: isbn:9789493254701
 - name: How to Bang a Billionaire
   author: Alexis Hall
-  date: 2025-08-24
+  date: 2025-08-24T00:00:00Z
   rating: 8
   publisher: Forever Yours
   uid: isbn:9781455571321
 - name: Waiting for the Flood
   author: Alexis Hall
-  date: 2025-06-03
+  date: 2025-06-03T00:00:00Z
   rating: 8
   publisher: Sourcebooks Casablanca
   uid: isbn:9781728251370
 - name: Glitterland
   author: Alexis Hall
-  date: 2025-05-18
+  date: 2025-05-18T00:00:00Z
   rating: 8
   publisher: Sourcebooks Casablanca
   uid: isbn:9781728265285
 - name: Dust
   author: Hugh Howey
-  date: 2024-12-10
+  date: 2024-12-10T00:00:00Z
   rating: 10
   publisher: Random House
   uid: isbn:9781448184071
 - name: Shift
   author: Hugh Howey
-  date: 2024-11-22
+  date: 2024-11-22T00:00:00Z
   rating: 10
   publisher: Random House
   uid: isbn:9781448150199
 - name: Wool
   author: Hugh Howey
-  date: 2024-10-29
+  date: 2024-10-29T00:00:00Z
   rating: 10
   publisher: Random House
   uid: isbn:9781448150205
 - name: Before Your Memory Fades
   author: Toshikazu Kawaguchi
-  date: 2024-10-23
+  date: 2024-10-23T00:00:00Z
+  rating: 6
   publisher: Picador
   pages: 224
-  rating: 6
   uid: isbn:9781529089431
 - name: Harry Potter en de Relieken van de Dood
   author: J.K. Rowling
-  date: 2024-04-25
-  uid: isbn:9781781103524
+  date: 2024-04-25T00:00:00Z
   rating: 8
+  uid: isbn:9781781103524
 - name: Harry Potter en de Halfbloed Prins
   author: J.K. Rowling
-  date: 2024-04-21
+  date: 2024-04-21T00:00:00Z
   rating: 8
   uid: isbn:9781781103517
 - name: Harry Potter en de Orde van de Feniks
   author: J.K. Rowling
-  date: 2024-04-13
+  date: 2024-04-13T00:00:00Z
   rating: 8
   uid: isbn:9781781103500
 - name: Harry Potter en de Vuurbeker
   author: J.K. Rowling
-  date: 2024-04-05
+  date: 2024-04-05T00:00:00Z
   rating: 8
   uid: isbn:9781781103494
 - name: Harry Potter en de Gevangene van Azkaban
   author: J.K. Rowling
-  date: 2024-03-08
+  date: 2024-03-08T00:00:00Z
   rating: 8
   uid: isbn:9781781103487
 - name: Het diner (Leeslicht)
   author: Herman Koch
+  date: 2024-02-29T00:00:00Z
   publisher: Eenvoudig Communiceren
-  uid: isbn:9789086966998
   pages: 152
-  date: 2024-02-29
+  uid: isbn:9789086966998
 - name: Harry Potter en de Geheime Kamer
   author: J.K. Rowling
-  date: 2024-02-17
+  date: 2024-02-17T00:00:00Z
   rating: 8
   uid: isbn:9781781103470
 - name: Harry Potter en de Steen Der Wijzen
   author: J.K. Rowling
-  date: 2023-12-23
+  date: 2023-12-23T00:00:00Z
   rating: 8
   uid: isbn:9781781103326
 - name: Minoes
   author: Annie M.G. Schmidt
-  pages: 160
+  date: 2023-08-08T00:00:00Z
   rating: 8
   publisher: Querido
+  pages: 160
   uid: isbn:9789045124698
-  date: 2023-08-08
 - name: Short Stories in Dutch for Beginners
   author: Olly Richards
-  date: 2023-05-05
+  date: 2023-05-05T00:00:00Z
   rating: 6
   uid: isbn:9781529302868
 - name: Hidden Systems
   author: Dan Nott
-  date: 2023-05-02
-  publisher: Random House Graphic
+  date: 2023-05-02T00:00:00Z
   rating: 8
+  publisher: Random House Graphic
   uid: isbn:9780593125366
 - name: Sweet Bean Paste
   author: Durian Sukegawa
+  date: 2023-01-20T00:00:00Z
+  rating: 10
   publisher: Oneworld Publications
   uid: isbn:9781786071958
-  date: 2023-01-20
-  rating: 10
-- author: Sayaka Murata
-  name: Earthlings
+- name: Earthlings
+  author: Sayaka Murata
+  date: 2022-05-30T00:00:00Z
+  rating: 8
+  publisher: Granta
   pages: 247
-  publisher: Granta
   uid: isbn:9781783785698
-  date: 2022-05-30
+- name: Convenience Store Woman
+  author: Sayaka Murata
+  date: 2022-05-04T00:00:00Z
   rating: 8
-- author: Sayaka Murata
-  name: Convenience Store Woman
-  pages: 176
   publisher: Granta
-  date: 2022-05-04
+  pages: 176
   uid: isbn:9781846276842
-  rating: 8
 - name: The Alchemist
   author: Paulo Coelho
-  uid: isbn:9780007155668
-  rating: 8
   date: 2022-04-10T11:12:19.18895568+02:00
+  rating: 8
+  uid: isbn:9780007155668
 - name: Verschrikkelijke beestjes
   author: Elise Gravel
-  uid: isbn:9789045127330
   date: 2022-03-30T20:32:49.387267805+02:00
+  uid: isbn:9789045127330
 - name: The Promise - Part 3
   author: Bryan Konietzko, Michael Dante DiMartino
-  uid: isbn:9781595829412
-  rating: 8
   date: 2022-02-26T12:35:03.823679473+01:00
+  rating: 8
+  uid: isbn:9781595829412
 - name: The Promise - Part 2
   author: Bryan Konietzko, Michael Dante DiMartino
-  uid: isbn:9781595828750
-  rating: 8
   date: 2022-02-26T11:41:40.869966981+01:00
+  rating: 8
+  uid: isbn:9781595828750
 - name: The Promise - Part 1
   author: Bryan Konietzko, Michael Dante DiMartino
-  uid: isbn:9781595828118
-  rating: 8
   date: 2022-02-18T08:02:43.649069007+01:00
+  rating: 8
+  uid: isbn:9781595828118
 - name: Heartstopper Volume Four
   author: Alice Oseman
-  uid: isbn:9781444952797
-  rating: 8
   date: 2022-02-13T20:07:31.402412448+01:00
+  rating: 8
+  uid: isbn:9781444952797
 - name: Heartstopper Volume Three
   author: Alice Oseman
-  uid: isbn:9781444952773
-  rating: 8
   date: 2022-02-13T17:06:38.209991419+01:00
+  rating: 8
+  uid: isbn:9781444952773
 - name: Heartstopper Volume Two
   author: Alice Oseman
-  uid: isbn:9781444951400
-  rating: 8
   date: 2022-02-13T15:42:03.925747705+01:00
+  rating: 8
+  uid: isbn:9781444951400
 - name: Heartstopper Volume One
   author: Alice Oseman
-  uid: isbn:9781444951387
-  rating: 8
   date: 2022-02-13T12:32:14.58797801+01:00
+  rating: 8
+  uid: isbn:9781444951387
 - name: Mensagem
   author: Fernando Pessoa
-  uid: isbn:9789898939531
   date: 2021-07-25T18:15:07.057199278Z
+  uid: isbn:9789898939531
 - name: O Principezinho
   author: Antoine de Saint-Exupéry
-  uid: isbn:9789895401970
   date: 2021-07-15T18:15:07.057199278Z
+  uid: isbn:9789895401970
 - name: Conventionally Yours
   author: Annabeth Albert
-  uid: isbn:9781728200293
   date: 2021-07-04T14:38:36.830961241Z
+  uid: isbn:9781728200293
 - name: Peer-to-Peer Systems and Applications
   author: Ralf Steinmetz
-  uid: isbn:9783540291923
   date: 2020-10-07T13:21:26Z
+  uid: isbn:9783540291923
 - name: 'Kubernetes: Up and Running'
   author: Brendan Burns
-  uid: isbn:9781492046530
   date: 2020-08-08T10:11:35Z
+  uid: isbn:9781492046530
 - name: Call Me By Your Name
   author: André Aciman
-  uid: isbn:9781786495259
   date: 2020-06-19T14:11:39Z
+  uid: isbn:9781786495259
 - name: Alice's Adventures in Wonderland and Through the Looking-Glass
   author: Lewis Carroll
-  uid: isbn:9780141439761
   date: 2020-01-31T08:00:00Z
+  uid: isbn:9780141439761
 - name: Electron in Action
   author: Steve Kinney
+  date: 2020-01-15T08:03:00Z
   uid: isbn:9781617294143
-  date: 2020-01-15T08:00:00Z
 - name: Permanent Record
   author: Edward Snowden
+  date: 2020-01-15T08:02:00Z
   uid: isbn:9781250237231
-  date: 2020-01-15T08:00:00Z
 - name: 'Presenting to Win: The Art of Telling Your Story'
   author: Jerry Weissman
+  date: 2020-01-15T08:01:00Z
   uid: isbn:9780130464132
-  date: 2020-01-15T08:00:00Z
 - name: 'Terraform: Up and Running'
   author: Yevgeniy Brikman
-  uid: isbn:9789352135462
   date: 2020-01-15T08:00:00Z
+  uid: isbn:9789352135462
 - name: The Practice of Programming
   author: Brian W. Kernighan
-  uid: isbn:9780201615869
   date: 2018-06-25T07:00:00Z
+  uid: isbn:9780201615869
 - name: The Perks of Being a Wallflower
   author: Stephen Chbosky
-  uid: isbn:9781847394071
   date: 2018-01-01T08:00:00Z
+  uid: isbn:9781847394071
 - name: Brave New World
   author: Aldous Huxley
-  uid: isbn:9781784870140
   date: 2017-12-30T08:00:00Z
+  uid: isbn:9781784870140
 - name: Animal Farm
   author: George Orwell
-  uid: isbn:9780141036137
   date: 2017-12-23T08:00:00Z
+  uid: isbn:9780141036137
 - name: Fahrenheit 451
   author: Ray Bradbury
-  uid: isbn:9780007181704
   date: 2017-12-08T08:00:00Z
+  uid: isbn:9780007181704
 - name: Memorial do Convento
   author: José Saramago
+  date: 2017-05-09T07:01:00Z
   uid: isbn:9789720046710
-  date: 2017-05-09T07:00:00Z
 - name: 'Zero to One: Notes on Start Ups, or How to Build the Future'
   author: Peter Thiel
-  uid: isbn:9780753555200
   date: 2017-05-09T07:00:00Z
+  uid: isbn:9780753555200
 - name: 'Fantastic Beasts and Where to Find Them: The Original Screenplay'
   author: J.K. Rowling
-  uid: isbn:9781408708989
   date: 2017-01-30T08:00:00Z
+  uid: isbn:9781408708989
 - name: Harry Potter and the Deathly Hallows
   author: J.K. Rowling
-  uid: isbn:9781408855713
   date: 2017-01-29T08:00:00Z
+  uid: isbn:9781408855713
 - name: Harry Potter and the Half-Blood Prince
   author: J.K. Rowling
-  uid: isbn:9781408855706
   date: 2017-01-26T08:00:00Z
+  uid: isbn:9781408855706
 - name: Harry Potter and the Order of the Phoenix
   author: J.K. Rowling
-  uid: isbn:9781408855690
   date: 2017-01-24T08:00:00Z
+  uid: isbn:9781408855690
 - name: Harry Potter and the Goblet of Fire
   author: J.K. Rowling
-  uid: isbn:9781408855683
   date: 2017-01-20T08:00:00Z
+  uid: isbn:9781408855683
 - name: Harry Potter and the Prisoner of Azkaban
   author: J.K. Rowling
-  uid: isbn:9781408855676
   date: 2017-01-14T08:00:00Z
+  uid: isbn:9781408855676
 - name: Harry Potter and the Chamber of Secrets
   author: J.K. Rowling
-  uid: isbn:9781408855669
   date: 2017-01-09T08:00:00Z
+  uid: isbn:9781408855669
 - name: Harry Potter and the Philosopher's Stone
   author: J.K. Rowling
-  uid: isbn:9781408855652
   date: 2017-01-01T08:00:00Z
+  uid: isbn:9781408855652
 - name: Nineteen Eighty-Four
   author: George Orwell
-  uid: isbn:9780141393049
   date: 2016-10-14T07:00:00Z
+  uid: isbn:9780141393049
 - name: Look Back in Anger
   author: John Osborne
-  uid: isbn:9780571322763
   date: 2016-09-23T07:00:00Z
+  uid: isbn:9780571322763
 - name: O Leão, a Feiticeira e o Guarda-Roupa
   author: C.S. Lewis
+  date: 2015-02-28T08:01:00Z
   uid: isbn:9789722330206
-  date: 2015-02-28T08:00:00Z
 - name: O Rodrick é Terrível
   author: Jeff Kinney
-  uid: isbn:9789896680060
   date: 2015-02-28T08:00:00Z
+  uid: isbn:9789896680060
 - name: A Fada Oriana
   author: Sophia de Mello Breyner Andresen
   uid: isbn:9789726611950
