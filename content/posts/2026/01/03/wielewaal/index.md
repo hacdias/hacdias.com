@@ -3,9 +3,17 @@ title: Snowy Wielewaal
 date: 2026-01-03T13:36:23+01:00
 photos:
   - url: image:2026-01-03-wielewaal-01
+    width: 3848
+    height: 2886
   - url: image:2026-01-03-wielewaal-02
+    width: 3024
+    height: 4032
   - url: image:2026-01-03-wielewaal-03
+    width: 3024
+    height: 4032
   - url: image:2026-01-03-wielewaal-04
+    width: 3024
+    height: 4032
 location:
   latitude: 51.44592
   longitude: 5.4616
