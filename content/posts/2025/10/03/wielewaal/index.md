@@ -3,8 +3,14 @@ title: Dreamy Wielewaal
 date: 2025-10-03T14:11:28+02:00
 photos:
   - url: image:2025-10-03-wielewaal-01
+    width: 5712
+    height: 4284
   - url: image:2025-10-03-wielewaal-02
+    width: 3024
+    height: 4032
   - url: image:2025-10-03-wielewaal-03
+    width: 3024
+    height: 4032
 location:
   latitude: 51.4555493
   longitude: 5.4221742
