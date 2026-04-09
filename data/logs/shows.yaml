@@ -3,6 +3,10 @@
 #   date:
 #   rating:
 - name: 'The Man in the High Castle'
+  season: 2
+  rating: 8
+  date: 2026-04-06
+- name: 'The Man in the High Castle'
   season: 1
   rating: 8
   date: 2026-04-01
