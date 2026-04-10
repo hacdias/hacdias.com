@@ -48,16 +48,20 @@
       {{ end }}
 
       {{- $bsky := "" }}
+      {{- $grain := "" }}
       {{- $fosstodon := "" }}
       {{- $syndication := slice }}
       {{- range $i, $s := .Page.Params.syndication -}}
         {{ if strings.HasPrefix $s "at://" }}
           {{ $parts := strings.Split $s "/" }}
+          {{ $did := index $parts 2 }}
           {{ $collection := index $parts 3 }}
           {{ $recordKey := index $parts 4 }}
 
           {{ if and (eq $collection "app.bsky.feed.post") (eq $bsky "") }}
             {{ $bsky = printf "https://bsky.app/profile/hacdias.com/post/%s" $recordKey }}
+          {{ else if and (eq $collection "social.grain.gallery") (eq $grain "") }}
+            {{ $grain = printf "https://grain.social/profile/%s/gallery/%s" $did $recordKey }}
           {{ end }}
         {{ else if strings.HasPrefix $s "https://fosstodon.org" }}
           {{ $fosstodon = $s }}
@@ -87,6 +91,7 @@
         <span>
         <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>E-Mail</a>,
         <a {{ with $bsky }}class='u-syndication' href="{{ . }}"{{ else }}href="https://bsky.app/profile/hacdias.com"{{ end }} rel='noopener noreferrer'>Bluesky</a>,
+        {{ with $grain }}<a class='u-syndication' href="{{ . }}" rel='noopener noreferrer'>Grain</a>,{{ end }}
         <a {{ with $fosstodon }}class='u-syndication' href="{{ . }}"{{ else }}href="https://fosstodon.org/@hacdias"{{ end }} rel='noopener noreferrer'>Mastodon</a>,
         <a href="https://indieweb.org/Webmention" rel='noopener noreferrer'>Webmentions</a>
         </span>
