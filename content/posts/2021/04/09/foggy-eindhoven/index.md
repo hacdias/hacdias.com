@@ -33,6 +33,7 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx4lszwu2u
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx4msbwi26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3hzjvg7kk22kz
 thumbnail: image:2021-04-09-foggy-morning-02
 ---
 

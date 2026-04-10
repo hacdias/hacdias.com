@@ -16,7 +16,8 @@ tags:
   - urban
   - street
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqfege2coo2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqfefffgpfgv
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lqfefffgpfgv
   - https://fosstodon.org/@hacdias/114597074912585982
 ---
 

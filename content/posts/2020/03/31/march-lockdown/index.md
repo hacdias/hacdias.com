@@ -44,6 +44,7 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqw3ydxkb2e
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqw3zd7a326
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3h46pbdvg22kz
 thumbnail: image:2020-03-31-hometown-cross
 ---
 

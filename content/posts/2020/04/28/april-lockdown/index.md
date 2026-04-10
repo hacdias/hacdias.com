@@ -38,6 +38,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx2kviii2u
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx2lst5h26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx2mpivj2h
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3h6f62bx6qckz
 thumbnail: image:2020-04-28-hometown-02
 ---
 

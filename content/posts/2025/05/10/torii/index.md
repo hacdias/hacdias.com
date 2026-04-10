@@ -13,6 +13,7 @@ tags:
   - architecture
   - cultures
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqd7hyiyih2z
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3losjn6jqy26h
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3losjn6jqy26h
   - https://fosstodon.org/@hacdias/114482601173705390
 ---

@@ -36,6 +36,7 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx43sr3a24
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx44mcz32e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3hu7p33soe2kz
   - https://www.instagram.com/p/COUnXtrrMQJ/
 thumbnail: image:2021-01-31-strijps
 ---

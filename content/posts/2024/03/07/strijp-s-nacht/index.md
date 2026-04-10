@@ -24,6 +24,7 @@ tags:
   - architecture
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rzgad2s2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3kn4s2rgky2kz
 thumbnail: image:2024-03-07-strijps-nacht-vershal
 ---
 

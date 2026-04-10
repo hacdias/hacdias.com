@@ -20,7 +20,8 @@ tags:
   - nature
   - travel
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lrj6rfzlhf2v
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lrj6qye3fmgv
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lrj6qye3fmgv
   - https://fosstodon.org/@hacdias/114677742154775516
 ---
 

@@ -14,5 +14,6 @@ tags:
   - transit
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rp5tkwu2s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3frudljpsq2kz
   - https://www.instagram.com/p/BoujX-FgPr7/
 ---

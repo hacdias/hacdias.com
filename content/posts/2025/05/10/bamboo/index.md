@@ -13,7 +13,8 @@ tags:
   - nature
   - forest
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqd7ivhuxe2m
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3losjj5rv226h
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3losjj5rv226h
   - https://fosstodon.org/@hacdias/114482592217927270
 ---
 

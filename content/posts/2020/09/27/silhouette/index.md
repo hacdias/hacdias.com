@@ -13,5 +13,6 @@ tags:
   - artistic
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rseztvk2q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3hkczf6rbs2kz
   - https://www.instagram.com/p/CFomCmWlT4d/
 ---

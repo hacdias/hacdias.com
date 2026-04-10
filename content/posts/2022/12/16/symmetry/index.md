@@ -19,5 +19,6 @@ tags:
   - abstract
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7snkhon52s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3jjywckfhnlkz
   - https://www.instagram.com/p/CmPZ_VBoXh7/
 ---

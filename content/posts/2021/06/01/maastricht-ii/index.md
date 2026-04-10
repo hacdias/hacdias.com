@@ -27,6 +27,7 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx6vfhoz2h
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx6wceel2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3i5p64yyc22kz
   - https://www.instagram.com/p/CO6P31uLDLN/
 thumbnail: image:2021-06-01-maastricht-07
 ---

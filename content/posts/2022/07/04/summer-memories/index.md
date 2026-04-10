@@ -21,6 +21,7 @@ tags:
   - netherlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rxfshxq24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3j4zv5i6o4okz
 thumbnail: image:2022-07-04-zeeland
 ---
 

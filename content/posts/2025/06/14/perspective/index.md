@@ -21,7 +21,8 @@ tags:
   - ocean
   - landscape
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lrl45flycf2x
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lrl452ki5qgv
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lrl452ki5qgv
   - https://fosstodon.org/@hacdias/114682060955543511
 ---
 

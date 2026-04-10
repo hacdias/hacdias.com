@@ -21,6 +21,7 @@ tags:
   - landscape
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rpq7hbt2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3gns4h2qxy2kz
   - https://www.instagram.com/p/B3Bx76glifj/
 thumbnail: image:2019-09-30-azores-01
 ---

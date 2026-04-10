@@ -13,4 +13,5 @@ tags:
   - united states
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7s3zpyvi2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3m4suqwfcfnkz
 ---

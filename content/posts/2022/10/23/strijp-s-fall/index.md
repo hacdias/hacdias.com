@@ -20,6 +20,7 @@ tags:
   - netherlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7snhblnl2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3jfq3akcdcpkz
   - https://www.instagram.com/p/CkDRZ2bIIfy/
 thumbnail: image:2022-10-23-strijp-s-fall-01
 ---

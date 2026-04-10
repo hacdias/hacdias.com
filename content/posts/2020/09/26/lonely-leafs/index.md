@@ -12,5 +12,6 @@ tags:
   - autumn
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rscveso2b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3hkbokrxie2kz
   - https://www.instagram.com/p/CFnOVZqlbKf/
 ---

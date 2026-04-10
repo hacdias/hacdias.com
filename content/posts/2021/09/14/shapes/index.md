@@ -18,6 +18,7 @@ tags:
   - netherlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rvlp4dt26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3ifydxtv522kz
   - https://www.instagram.com/p/CT0QpzQsPiZ/
 thumbnail: image:2021-09-14-the-student-hotel-ehv
 ---

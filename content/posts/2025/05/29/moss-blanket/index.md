@@ -13,6 +13,7 @@ tags:
   - nature
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqdbv6xca625
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lqdbuprjqydf
   - https://fosstodon.org/@hacdias/114592392890260693
 ---
 

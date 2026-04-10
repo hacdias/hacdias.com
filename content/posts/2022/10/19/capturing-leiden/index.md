@@ -41,6 +41,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxbtrzri2g
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxbupucm2e
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxbvi2gy26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3jfg2e2tgzvkz
   - https://www.instagram.com/p/Cj5DHBpIARA/
 thumbnail: image:2022-10-19-capturing-leiden-04
 ---

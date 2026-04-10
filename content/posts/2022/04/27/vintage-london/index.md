@@ -37,6 +37,7 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxapsp7f2q
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxaqprmg2k
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3ixnzjpem22kz
   - https://www.instagram.com/p/Cc2i0M2sAAf/
 thumbnail: image:2022-04-27-london-dara
 ---

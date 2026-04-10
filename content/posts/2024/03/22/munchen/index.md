@@ -27,6 +27,7 @@ tags:
   - long exposure
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7snqopml2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3koc3wkb342kz
 thumbnail: image:2024-03-22-munchen-way
 ---
 

@@ -14,4 +14,5 @@ tags:
   - slovakia
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7s27i5gh2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3l4ns5qtbm2kz
 ---

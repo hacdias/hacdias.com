@@ -20,4 +20,5 @@ tags:
   - urban
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7s2qeihm26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lhjwbbcgv3kz
 ---

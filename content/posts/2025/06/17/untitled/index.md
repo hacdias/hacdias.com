@@ -28,6 +28,7 @@ tags:
   - landscape
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lrrsnz57qu2w
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lrrsmzlzknkz
   - https://fosstodon.org/@hacdias/114697155979190094
 thumbnail: image:2025-06-17-untitled-03
 ---

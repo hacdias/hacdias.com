@@ -21,5 +21,6 @@ tags:
   - architecture
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rpabwer2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3frwud4p6g2kz
   - https://www.instagram.com/p/BoxIuVXAQVW/
 ---

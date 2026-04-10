@@ -22,5 +22,6 @@ tags:
   - ocean
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lrnolx5fxq2w
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lrnolk6d42kz
   - https://fosstodon.org/@hacdias/114687862957508435
 ---

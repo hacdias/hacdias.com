@@ -13,5 +13,6 @@ tags:
   - travel
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lry47dip6f2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lry46yghzekz
   - https://fosstodon.org/@hacdias/114711338376027371
 ---

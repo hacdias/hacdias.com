@@ -49,7 +49,10 @@ tags:
   - urban
   - united states
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m3n5zryqbb22
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m3n5skm4q255
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m3n5slknc255
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m3n5smj5u255
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3m3n5skm4q255
   - https://fosstodon.org/@hacdias/115407272842935553
   - https://www.instagram.com/p/DQCWMlejOLK/
 thumbnail: image:2025-10-20-new-york-09

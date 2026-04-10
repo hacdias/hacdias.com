@@ -13,7 +13,8 @@ tags:
   - aerial
   - nature
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqd7jkqdhv2v
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lnsgzamvi24q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lnsgzamvi24q
   - https://fosstodon.org/@hacdias/114410370954348885
 ---
 
