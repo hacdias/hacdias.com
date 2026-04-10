@@ -47,9 +47,7 @@
       </li>
       {{ end }}
 
-      {{- $bsky := "" }}
-      {{- $grain := "" }}
-      {{- $fosstodon := "" }}
+      {{- $hasBluesky := false }}
       {{- $syndication := slice }}
       {{- range $i, $s := .Page.Params.syndication -}}
         {{ if strings.HasPrefix $s "at://" }}
@@ -58,41 +56,28 @@
           {{ $collection := index $parts 3 }}
           {{ $recordKey := index $parts 4 }}
 
-          {{ if and (eq $collection "app.bsky.feed.post") (eq $bsky "") }}
-            {{ $bsky = printf "https://bsky.app/profile/hacdias.com/post/%s" $recordKey }}
-          {{ else if and (eq $collection "social.grain.gallery") (eq $grain "") }}
-            {{ $grain = printf "https://grain.social/profile/%s/gallery/%s" $did $recordKey }}
+          {{ if and (eq $collection "app.bsky.feed.post") (not $hasBluesky) }}
+            {{ $syndication = $syndication | append (printf "https://bsky.app/profile/%s/post/%s" $did $recordKey) }}
+            {{ $hasBluesky = true }}
+          {{ else if eq $collection "social.grain.gallery" }}
+            {{ $syndication = $syndication | append (printf "https://grain.social/profile/%s/gallery/%s" $did $recordKey) }}
           {{ end }}
-        {{ else if strings.HasPrefix $s "https://fosstodon.org" }}
-          {{ $fosstodon = $s }}
         {{ else }}
           {{ $syndication = $syndication | append $s }}
         {{ end }}
       {{- end -}}
 
-      {{ with $syndication }}
-      <li>
-        <strong>🌐 Also on</strong>
-        <span>
-        {{ range $i, $s := . -}}
-          {{- if ne $i 0 }}, {{ end -}}
-          {{ $url := urls.Parse $s }}
-          <a class='u-syndication' rel="noopener noreferrer" href="{{ . }}">
-            {{- $domain := (urls.Parse $s).Host -}}
-            {{ $domain -}}
-          </a>
-        {{- end -}}
-        </span>
-      </li>
-      {{ end }}
-
       <li>
         <strong>💬 Reply</strong>
         <span>
         <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>E-Mail</a>,
-        <a {{ with $bsky }}class='u-syndication' href="{{ . }}"{{ else }}href="https://bsky.app/profile/hacdias.com"{{ end }} rel='noopener noreferrer'>Bluesky</a>,
-        {{ with $grain }}<a class='u-syndication' href="{{ . }}" rel='noopener noreferrer'>Grain</a>,{{ end }}
-        <a {{ with $fosstodon }}class='u-syndication' href="{{ . }}"{{ else }}href="https://fosstodon.org/@hacdias"{{ end }} rel='noopener noreferrer'>Mastodon</a>,
+        {{ range $s := $syndication -}}
+          {{ $url := urls.Parse $s }}
+          <a class='u-syndication' rel="noopener noreferrer" href="{{ . }}">
+            {{- $domain := (urls.Parse $s).Host -}}
+            {{ or (index hugo.Data.syndications $domain) $domain -}}
+          </a>,
+        {{- end }}
         <a href="https://indieweb.org/Webmention" rel='noopener noreferrer'>Webmentions</a>
         </span>
       </li>
