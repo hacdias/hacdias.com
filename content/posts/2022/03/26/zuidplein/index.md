@@ -23,4 +23,5 @@ tags:
   - architecture
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rwc3rvd23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3iv62e2ib42kz
 ---

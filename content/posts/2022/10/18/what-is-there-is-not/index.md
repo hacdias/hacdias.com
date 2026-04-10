@@ -24,6 +24,7 @@ tags:
   - travel
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rxqshfg2s
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3jfdotlffk7kz
   - https://www.instagram.com/p/Cj2nT0QIjzW/
 thumbnail: image:2022-10-18-what-is-there-is-not-01
 ---

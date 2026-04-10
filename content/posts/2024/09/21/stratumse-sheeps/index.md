@@ -20,6 +20,7 @@ tags:
   - netherlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7s2d6yra26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3l4nsh75dw2kz
 thumbnail: image:2024-09-21-stratumse-heide-02
 ---
 

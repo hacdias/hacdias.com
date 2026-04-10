@@ -23,6 +23,7 @@ tags:
   - mountains
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rz3ltcg26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3jpibmxie3bkz
   - https://www.instagram.com/p/CsOqUS9oI8f/
 thumbnail: image:2023-01-31-engelberg-01
 ---

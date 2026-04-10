@@ -13,4 +13,5 @@ tags:
   - nature
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7s2fougz24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3l4nscyoem2kz
 ---

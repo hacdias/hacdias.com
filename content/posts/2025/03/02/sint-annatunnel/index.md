@@ -24,7 +24,8 @@ tags:
   - urban
   - transit
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqfdsmjxuu2w
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3ljfk5hwui2og
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3ljfk5hwui2og
   - https://fosstodon.org/@hacdias/114093086936278800
 ---
 

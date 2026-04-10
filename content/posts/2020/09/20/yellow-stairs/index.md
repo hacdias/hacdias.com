@@ -14,5 +14,6 @@ tags:
   - rotterdam
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rs63k4z2g
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3hjr75tz2u2kz
   - https://www.instagram.com/p/CFWWNhHFFOy/
 ---

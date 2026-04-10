@@ -21,5 +21,6 @@ tags:
   - germany
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rpm6huw2h
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3gi6dfjtti2kz
   - https://www.instagram.com/p/B0Jrse7l38P/
 ---

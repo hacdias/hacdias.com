@@ -19,4 +19,5 @@ tags:
   - portugal
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rphfhaw26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3g72hhigvc2kz
 ---

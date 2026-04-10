@@ -17,5 +17,6 @@ tags:
   - graffiti
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7snbo6fs26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3j3uczldbjgkz
 thumbnail: image:2022-06-19-kleineberg-art
 ---

@@ -18,6 +18,7 @@ tags:
   - switzerland
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rq3aa3y23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3gtsp6nxas2kz
 thumbnail: image:2019-12-15-swiss-snow-01
 ---
 

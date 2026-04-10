@@ -27,6 +27,8 @@ tags:
   - travel
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lrkbrkyr6q2i
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lrkjuak45k2d
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lrkbrbwlvhdf
   - https://fosstodon.org/@hacdias/114680205332731874
   - https://www.instagram.com/p/DK3_dkEt-YT/
 ---

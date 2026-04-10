@@ -22,5 +22,6 @@ tags:
   - nature
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rp3ma5w2b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3fofgblvd22kz
   - https://www.instagram.com/p/Bm8-Yung2vl/
 ---

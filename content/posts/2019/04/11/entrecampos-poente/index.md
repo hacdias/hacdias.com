@@ -22,4 +22,5 @@ tags:
   - portugal
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rpjph5r2y
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3gabszwsm22kz
 ---

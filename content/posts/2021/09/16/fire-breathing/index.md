@@ -14,6 +14,7 @@ tags:
   - fire
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx74424r26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3ig4wnplos2kz
 thumbnail: image:2021-09-16-fire-01
 ---
 

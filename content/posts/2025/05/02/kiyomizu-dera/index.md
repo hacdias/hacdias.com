@@ -13,5 +13,6 @@ tags:
   - architecture
   - cultures
 syndication:
-  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqd7jaxcof23
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lo6bdxkq424q
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lo6bdxkq424q
 ---

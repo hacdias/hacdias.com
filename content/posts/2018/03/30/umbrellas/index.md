@@ -20,5 +20,6 @@ tags:
   - street art
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rozabln2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3fco4iwryi2kz
   - https://www.instagram.com/p/Bg8qYE5gw0b/
 ---

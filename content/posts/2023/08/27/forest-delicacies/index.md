@@ -22,6 +22,7 @@ tags:
   - netherlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rzaiist2u
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3k5x6y5p7u2kz
 thumbnail: image:2023-08-27-mushrooms-nest
 ---
 

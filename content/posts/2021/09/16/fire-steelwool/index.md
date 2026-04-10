@@ -40,6 +40,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx7jmvch2b
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx7kf3uq26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx7l7hhp2b
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3ig4wwnoxk2kz
 thumbnail: image:2021-09-16-steelwool-07
 ---
 

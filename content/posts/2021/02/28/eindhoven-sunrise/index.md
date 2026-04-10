@@ -17,6 +17,7 @@ tags:
   - architecture
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqvyad4qm24
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3hwgawy6322kz
 thumbnail: image:2021-02-28-eindhoven-sunrise-church
 ---
 

@@ -22,5 +22,6 @@ tags:
   - travel
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rowz7bq26
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3egsnj6gjw2kz
   - https://www.instagram.com/p/BSrzGLTgBEG/
 ---

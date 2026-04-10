@@ -30,6 +30,7 @@ tags:
   - nature
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mixlqwcisezt
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3mixlqwcisevp
 ---
 
 <style>

@@ -13,4 +13,5 @@ tags:
   - netherlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7s2lm2gi2e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3l4tpnch7c2kz
 ---
