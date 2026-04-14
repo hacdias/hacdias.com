@@ -1,5 +1,18 @@
 [
   {
+    "name": "Pitcher Perfect",
+    "origin": "Peru and Ethiopia",
+    "roast": "Medium-Light",
+    "process": "Washed and Natural",
+    "variety": "Catuai, Pache, Caturra, Heirloom",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "date": "2026-04-13"
+  },
+  {
     "name": "Ethiopia Elto Coffee Sama Washed",
     "origin": "Eliyas Dukamo \u0026 Atiklit Dejene, Elto Sama Station, Anasora, Guji, Ethiopia",
     "roast": "Medium",
