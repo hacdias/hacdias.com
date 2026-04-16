@@ -2,6 +2,14 @@
 #   season:
 #   date:
 #   rating:
+- name: Shrinking
+  season: 3
+  rating: 8
+  date: 2026-04-15
+- name: 'The Man in the High Castle'
+  season: 4
+  rating: 7
+  date: 2026-04-14
 - name: 'The Man in the High Castle'
   season: 3
   rating: 8
