@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: The Drama
+  date: 2026-04-16T19:10:00+02:00
+  rating: 7
+  location: Lab-1
+  room: 3
+  row: 7
+  seat: 1
 - name: Project Hail Mary
   date: 2026-04-03T18:10:00+02:00
   rating: 9

@@ -1,5 +1,18 @@
 [
   {
+    "name": "Lush Lemons",
+    "origin": "Fredi \u0026 Jaime Ortega, El Bosquecito, Bruselas, Huila, Colombia",
+    "roast": "Medium-Light",
+    "process": "Washed",
+    "variety": "Pink Bourbon",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "date": "2026-04-16"
+  },
+  {
     "name": "Pitcher Perfect",
     "origin": "Peru and Ethiopia",
     "roast": "Medium-Light",
