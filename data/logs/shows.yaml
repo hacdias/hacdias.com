@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Knokke Off
+  season: 3
+  rating: 7
+  date: 2026-04-18
 - name: Shrinking
   season: 3
   rating: 8
