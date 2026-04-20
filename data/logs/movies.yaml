@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: The History of Sound
+  date: 2026-04-19T15:40:00+02:00
+  rating: 9
+  location: Natlab
+  room: 3
+  row: C
+  seat: 3
 - name: The Drama
   date: 2026-04-16T19:10:00+02:00
   rating: 7
