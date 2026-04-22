@@ -44,7 +44,7 @@ At home, we have two desks: one in our bedroom, and one in the guest bedroom. I 
 In the photography department, I currently own a Fuji X-T5. The pictures that come out of it are fantastic. However, it is a bit of a mess to edit Fuji RAWs due to the way they're encoded. I'm using [Capture One](https://www.captureone.com/en) for that. Maybe I'll write about it one day.
 
 - **Camera** <span>Fujifilm X-T5</span>
-- **Lenses** <span>XF 16-50mm f/2.8-4.0, XF 27mm F/2.8, XF 23mm F2.0 R WR</span>
+- **Lenses** <span>XF 16-50mm f/2.8-4.0, XF 23mm F2.0 R WR</span>
 - **Tripod** <span>Manfrotto Befree</span>
 {.tb}
 
