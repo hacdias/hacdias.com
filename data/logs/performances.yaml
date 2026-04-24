@@ -4,6 +4,12 @@
 #   date:
 #   location:
 #   category:
+- name: LUX Tour
+  author: ROSALÍA
+  rating: 10
+  date: 2026-04-23
+  location: Ziggo Dome, Amsterdam, NL
+  category: concert
 - author: Sophia Stel
   rating: 7
   date: 2026-04-18
