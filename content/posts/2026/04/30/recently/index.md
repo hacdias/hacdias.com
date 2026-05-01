@@ -1,5 +1,5 @@
 ---
-title: "Recently in April '26"
+title: Recently in April '26
 date: 2026-04-30T17:43:00+02:00
 location:
   latitude: 51.44592
@@ -8,14 +8,18 @@ location:
   region: North Brabant
   country: Netherlands
   countryCode: NL
-thumbnail: image:2026-04-30-recently
 categories:
-- writings
+  - writings
 tags:
-- now
-- entertainment
-- life
-- health
+  - now
+  - entertainment
+  - life
+  - health
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mkpxcusec2vi
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mkpxcusec2vi
+  - https://fosstodon.org/@hacdias/116494422229311860
+thumbnail: image:2026-04-30-recently
 ---
 
 April is now coming to and end, and with it, a new blog post is born. Around 33% of the year has now gone by, and we're starting to head into the prime time of the spring. Looking back at this month, it's been quite quiet. I know I said the same thing [last month](/2026/03/31/recently/), but now it's for real.
