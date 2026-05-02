@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: The Devil Wears Prada 2
+  date: 2026-04-30T22:00:00+02:00
+  rating: 8
+  location: Lab-1
+  room: 3
+  row: 8
+  seat: 4
 - name: The Devil Wears Prada
   date: 2026-04-30T22:00:00+02:00
   rating: 8
