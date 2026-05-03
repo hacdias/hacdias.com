@@ -4,14 +4,17 @@ date: 2022-07-04T20:19:29.844308258+02:00
 photos:
   - url: image:2022-07-04-zeeland
     title: Zeeland
+    alt: A red and yellow flag and warning signs on a sandy beach next to a row of wooden breakwater posts leading into the sea
     width: 3000
     height: 1989
   - url: image:2022-07-04-gezelligheid
     title: Gezelligheid
+    alt: A person with red hair peeking over the edge of a sunlit terrace with string lights
     width: 3000
     height: 1989
   - url: image:2022-07-04-keukenhof
     title: Keukenhof
+    alt: A dome-shaped fountain in a tree-surrounded pond with people seated around the edges
     width: 3000
     height: 1989
 categories:

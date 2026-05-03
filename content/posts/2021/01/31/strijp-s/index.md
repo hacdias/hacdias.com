@@ -4,26 +4,32 @@ date: 2021-01-31T07:33:49Z
 photos:
   - url: image:2021-01-31-strijps
     title: Strijp-S
+    alt: An industrial complex with a steel walkway connecting an old factory building with rows of windows to a red brick tower
     width: 3000
     height: 2000
   - url: image:2021-01-31-strijps-colors
     title: Strijp-S Colors
+    alt: An art installation of brightly coloured neon-style tubes shaped like outlines, suspended above a steel mesh between industrial pipes
     width: 3000
     height: 2000
   - url: image:2021-01-31-eindhoven-center-01
     title: Industrial Strijp-S
+    alt: A red and white tram passing in front of large modern white office buildings on a wide street with bare trees
     width: 3000
     height: 2000
   - url: image:2021-01-31-strijps-train
     title: Passing By
+    alt: A blue and white commuter train crossing a graffiti-covered concrete bridge against a clear blue sky
     width: 3000
     height: 2000
   - url: image:2021-01-31-strijps-stadium
     title: PSV Stadium
+    alt: The exterior of the Philips Stadium with its white steel cantilevered roof, viewed from a quiet street with bike paths
     width: 3000
     height: 2000
   - url: image:2021-01-31-philips
     title: Old Philips
+    alt: The historic white Philips tower in Eindhoven topped with Dutch flags and a Philips sign, at dusk
     width: 3000
     height: 2000
 categories:

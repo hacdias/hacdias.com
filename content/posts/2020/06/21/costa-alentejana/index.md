@@ -7,34 +7,42 @@ photos:
     height: 2000
   - url: image:2020-06-21-costa-alentejana-5
     title: Lonely Boat
+    alt: A small white fishing boat anchored in turquoise water below a tall layered cliff face
     width: 3000
     height: 2000
   - url: image:2020-06-21-costa-alentejana-7
     title: SN924L Astro
+    alt: The bow of a green and orange wooden fishing boat named "Astro" parked on land, with anchors painted on its hull
     width: 3000
     height: 4500
   - url: image:2020-06-21-costa-alentejana-1
     title: Entrada da Barca
+    alt: A concrete pier jutting out from a rocky cliff into a vast blue ocean under a clear sky
     width: 3000
     height: 2000
   - url: image:2020-06-21-costa-alentejana-3
     title: Splashing Water
+    alt: Waves crashing against jagged dark rocks, sending white spray into the air against a calm sea horizon
     width: 3000
     height: 2000
   - url: image:2020-06-21-costa-alentejana-4
     title: Rocks
+    alt: Looking up at the rugged underside of an overhanging rocky cliff against a clear blue sky
     width: 3000
     height: 2000
   - url: image:2020-06-21-costa-alentejana-6
     title: SN786L Carina
+    alt: A white and green fishing boat on land surrounded by stacked green octopus traps, labelled "SN-786-L Carina"
     width: 3000
     height: 2000
   - url: image:2020-06-21-costa-alentejana-8
     title: Clarabóias
+    alt: Two orange life rings hanging on the railing of a fishing boat, with a rocky green cliff behind
     width: 3000
     height: 4500
   - url: image:2020-06-21-costa-alentejana-9
     title: More Boats
+    alt: Several small fishing boats moored in a turquoise cove flanked by two beached boats, with a steep rocky cliff in the background
     width: 3000
     height: 2000
 categories:

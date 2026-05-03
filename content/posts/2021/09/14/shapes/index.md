@@ -4,10 +4,12 @@ date: 2021-09-14T12:00:00+01:00
 photos:
   - url: image:2021-09-14-the-student-hotel-ehv
     title: The Student Hotel
+    alt: A tall narrow tower with a vertical sign rising above an industrial rooftop at dusk, with pink-tinted clouds above
     width: 3000
     height: 2000
   - url: image:2021-09-14-staircase-holes
     title: Staircase Phobia
+    alt: Three horizontal black bands perforated with small white dots, forming an abstract pattern
     width: 3000
     height: 2000
 categories:
