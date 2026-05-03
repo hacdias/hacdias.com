@@ -8,6 +8,7 @@ photos:
     height: 2250
   - url: image:2026-05-01-koningsdag-02
     title: Flea market items
+    alt: Tables of secondhand goods, including a vintage Wolseley toy car box and a bicycle helmet, with tents and trees in a sunny park
     width: 4000
     height: 6000
   - url: image:2026-05-01-koningsdag-03
@@ -20,38 +21,47 @@ photos:
     height: 2667
   - url: image:2026-05-01-koningsdag-05
     title: Flea market
+    alt: A large rusty advertising column plastered with orange Koningsdag flea market posters, with stalls and shoppers around its base
     width: 4000
     height: 6000
   - url: image:2026-05-01-koningsdag-06
     title: Sad plushy
+    alt: A pile of secondhand goods on a lawn including worn plush toys propped on a couch, milk cans, baskets, and a blue crate
     width: 4000
     height: 6000
   - url: image:2026-05-01-koningsdag-07
     title: Baklava
+    alt: Pink boxes of baklava on a market table decorated with a red tulip, with a customer's hand pointing at the trays
     width: 4000
     height: 2667
   - url: image:2026-05-01-koningsdag-08
     title: Old posters
+    alt: A market stall displaying vintage tin advertising signs for brands like Dunlop Tyres and Chevrolet, alongside pin-up prints
     width: 4000
     height: 3001
   - url: image:2026-05-01-koningsdag-09
     title: Old vinyls
+    alt: A person in a brown corduroy outfit flipping through vinyl records in a Chiquita banana box at an outdoor stall
     width: 4000
     height: 3000
   - url: image:2026-05-01-koningsdag-10
     title: Biking on the way
+    alt: A cyclist in a beige puffer vest riding along a red bike lane while pedestrians and another cyclist pass by on a sunny day
     width: 4000
     height: 2667
   - url: image:2026-05-01-koningsdag-11
     title: Dolls and stuff
+    alt: An orange tarp laid out with bric-a-brac including a plastic baby doll, a tin box, kitchen utensils, and toy cars
     width: 4000
     height: 2667
   - url: image:2026-05-01-koningsdag-12
     title: Dolls and stuff
+    alt: An old porcelain doll on a small chair surrounded by books, plates, plush toys, and other items spread on an orange blanket
     width: 4000
     height: 2678
   - url: image:2026-05-01-koningsdag-13
     title: Bike being sold
+    alt: A small child's bicycle leaning against a green fence with a handwritten "Te Koop" (For Sale) sign attached
     width: 4000
     height: 2667
 location:

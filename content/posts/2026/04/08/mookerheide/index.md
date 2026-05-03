@@ -4,14 +4,17 @@ date: 2026-04-08T07:47:01.089034254+02:00
 photos:
   - url: image:2026-04-08-mookerheide-01
     title: Highlander Cow
+    alt: A long-haired brown Highland cow standing under the sprawling bare branches of a tree
     width: 4000
     height: 3000
   - url: image:2026-04-08-mookerheide-02
     title: Mookerheide
+    alt: Two people walking along a forest path between leafless trees on a grey day
     width: 4000
     height: 3000
   - url: image:2026-04-08-mookerheide-03
     title: Mookerheide
+    alt: A person walking along a sandy path through dry heathland under a cloudy sky
     width: 4000
     height: 3000
 location:

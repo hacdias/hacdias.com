@@ -12,6 +12,7 @@ photos:
     height: 2000
   - url: image:2023-08-27-slugs
     title: Slugs
+    alt: Two brown slugs intertwined on the forest floor among pine needles, fallen leaves, and twigs
     width: 3000
     height: 2000
 categories:
