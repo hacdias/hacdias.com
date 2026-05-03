@@ -45,7 +45,7 @@ tags:
   - nature
 ---
 
-Yesterday, I brought you the first of three mini photo galleries of the Lommelse Sahara, where I focused on [the land](/2026/05/03/lommelse-land/). As magical as it may have been, that was just one of the three highlights of our hike thorough the Lommelse Sahara. Today, I want to focus on water. This is the second of three mini photo galleries: [land](/2026/05/03/lommelse-land/), water, and sand.
+Yesterday, I brought you the first of three mini photo galleries of the Lommelse Sahara, where I focused on [the land](/2026/05/03/lommelse-land/). As magical as it may have been, that was just one of the three highlights of our hike thorough the Lommelse Sahara. Today, I want to focus on water. This is the second of three mini photo galleries: [land](/2026/05/03/lommelse-land/), water, and [sand](/2026/05/05/lommelse-sand/).
 
 <style>
 .fg-2026-05-04-lommelse-water {
