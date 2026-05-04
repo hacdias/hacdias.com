@@ -64,7 +64,7 @@ syndication:
 thumbnail: image:2026-05-03-lommelse-land-3
 ---
 
-Yesterday, we [drove](/2026/04/27/stepping-into-the-car/) to the north of Belgium, right at the border with the Netherlands, to hike in the [Lommelse Sahara](https://www.visitlommel.be/zien-en-doen/natuur/sahara). It was incredibly pretty and the hike route takes you through many different landscapes. This is the first of three mini photo galleries: land, water, and sand.
+Yesterday, we [drove](/2026/04/27/stepping-into-the-car/) to the north of Belgium, right at the border with the Netherlands, to hike in the [Lommelse Sahara](https://www.visitlommel.be/zien-en-doen/natuur/sahara). It was incredibly pretty and the hike route takes you through many different landscapes. This is the first of three mini photo galleries: land, [water](/2026/05/04/lommelse-water/), and sand.
 
 <style>
 .fg-2026-05-03-lommelse-land {
