@@ -43,6 +43,12 @@ categories:
 tags:
   - belgium
   - nature
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mkyxliqra2ab
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mkyxljpbs2ab
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3mkyxliqra2ab
+  - https://fosstodon.org/@hacdias/116514710496440525
+  - https://www.instagram.com/p/DX59IiwDULH/?igsh=a2dlaWU5OTdwcDhq
 ---
 
 Yesterday, I brought you the first of three mini photo galleries of the Lommelse Sahara, where I focused on [the land](/2026/05/03/lommelse-land/). As magical as it may have been, that was just one of the three highlights of our hike thorough the Lommelse Sahara. Today, I want to focus on water. This is the second of three mini photo galleries: [land](/2026/05/03/lommelse-land/), water, and sand.
