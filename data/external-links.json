@@ -4662,6 +4662,16 @@
     ]
   },
   {
+    "domain": "visitlommel.be",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/05/03/lommelse-land/",
+        "targetUrl": "https://www.visitlommel.be/zien-en-doen/natuur/sahara"
+      }
+    ]
+  },
+  {
     "domain": "vlaanderen.be",
     "count": 1,
     "links": [
