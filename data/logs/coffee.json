@@ -1,5 +1,18 @@
 [
   {
+    "name": "FINCA 1810",
+    "origin": "Huila, Colombia",
+    "roast": "Medium-Light",
+    "process": "Washed",
+    "variety": "Caturra",
+    "roaster": {
+      "name": "Square Mile Coffee Roasters",
+      "location": "London, UK",
+      "website": "https://squaremilecoffee.com/"
+    },
+    "date": "2026-05-03"
+  },
+  {
     "name": "Lush Lemons",
     "origin": "Fredi \u0026 Jaime Ortega, El Bosquecito, Bruselas, Huila, Colombia",
     "roast": "Medium-Light",
