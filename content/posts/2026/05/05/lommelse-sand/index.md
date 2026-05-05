@@ -43,6 +43,12 @@ categories:
 tags:
   - belgium
   - nature
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3ml3fq4p6w2ab
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3ml3fq5npi2ab
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3ml3fq4p6w2ab
+  - https://fosstodon.org/@hacdias/116520207228657222
+  - https://www.instagram.com/p/DX8dBsYikht/?igsh=aGxjcHNvdW1zbHJt
 thumbnail: image:2026-05-05-lommelse-sand-3
 ---
 
