@@ -18,6 +18,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mjz5zj5uyvvi
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mjz5zj5uyvvi
   - https://fosstodon.org/@hacdias/116443100958018967
+thumbnail: image:2026-05-07-diplomazwemmen
 ---
 
 My [updates](/2026/03/31/swimming/) about swimming keep aging fast, and that's a good sign. Last month, I mentioned I was finally having lessons at the deep end of the pool, and how it was being a blast. So much happened the past three weeks though!
@@ -38,6 +39,9 @@ Fortunately, at some point we were allowed to take the shoes off, but we kept do
 
 And... the class after it was the *afzwemmen*, which means I now have the Diploma A! That means that I'm now allowed to actually go for lap swimming. I did that today and it was nice. There were some incredibly fast people - or I am very slow!
 
-I would like to show a photo of the diploma, but I'll only get the physical diploma the next lesson, which is after the May vacation, in two weeks. I'll update the post to include the photo by then.
+![National Swimming Diploma A](image:2026-05-07-diplomazwemmen)
+{width="3502" height="2627"}
+
+~~I would like to show a photo of the diploma, but I'll only get the physical diploma the next lesson, which is after the May vacation, in two weeks. I'll update the post to include the photo by then.~~ The photo is above!
 
 The plan is to continue lessons for Diploma B, and then C. In the meanwhile, I am aiming to go swimming once a week besides the lessons. Still need to see what time works best for me. I also think it's time to cross the fear of deep water out of my [impossible list](/impossible-list/).
