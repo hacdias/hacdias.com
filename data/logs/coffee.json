@@ -1,5 +1,18 @@
 [
   {
+    "name": "Cool Cat",
+    "origin": "Cocatrel Cooperativa, Três Pontas, Sul de Minas, Brazil",
+    "roast": "Medium",
+    "process": "Natural",
+    "variety": "Catuai",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "date": "2026-05-07"
+  },
+  {
     "name": "FINCA 1810",
     "origin": "Huila, Colombia",
     "roast": "Medium-Light",
