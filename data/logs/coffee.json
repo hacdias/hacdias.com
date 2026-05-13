@@ -1,5 +1,18 @@
 [
   {
+    "name": "Papayo My Guy-o",
+    "origin": "Yury Montanchez, Finca Los Guaduales, San Agustin, Huila, Colombia",
+    "roast": "Medium-Light",
+    "process": "Washed",
+    "variety": "Papayo",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "date": "2026-05-12"
+  },
+  {
     "name": "Cool Cat",
     "origin": "Cocatrel Cooperativa, Três Pontas, Sul de Minas, Brazil",
     "roast": "Medium",
