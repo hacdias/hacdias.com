@@ -4,6 +4,11 @@
 #   date:
 #   location:
 #   category:
+- author: 'Haute & Freddy'
+  rating: 7
+  date: 2026-05-17
+  location: Paradiso, Amsterdam, NL
+  category: concert
 - name: LUX Tour
   author: ROSALÍA
   rating: 10
