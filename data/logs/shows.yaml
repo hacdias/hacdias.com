@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: "Margo's Got Money Troubles"
+  season: 1
+  rating: 7
+  date: 2026-05-21
 - name: Abbott Elementary
   season: 5
   rating: 7
