@@ -4,8 +4,19 @@
 #   date:
 #   location:
 #   category:
+- name: The Princess of Power Tour
+  author: MARINA
+  rating: 9
+  date: 2026-05-28
+  location: Alexandra Palace, London, UK
+  category: concert
+- name: "The Hunger Games on Stage"
+  rating: 5
+  date: 2026-05-27
+  location: Troubadour Canary Wharf Theatre, London, UK
+  category: theater
 - author: 'Haute & Freddy'
-  rating: 7
+  rating: 8
   date: 2026-05-17
   location: Paradiso, Amsterdam, NL
   category: concert
