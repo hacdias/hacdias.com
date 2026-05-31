@@ -4,12 +4,25 @@
 #   date:
 #   location:
 #   category:
+- name: Kinky Boots
+  rating: 10
+  date: 2026-05-30
+  location: London Coliseum, London, UK
+  category: musical
+- name: Titanique
+  rating: 10
+  date: 2026-05-29
+  location: Criterion Theatre, London, UK
+  category: musical
 - name: The Princess of Power Tour
   author: MARINA
   rating: 9
   date: 2026-05-28
   location: Alexandra Palace, London, UK
   category: concert
+  supportingAct:
+    - Princess Nokia
+    - Mikayla Geier
 - name: "The Hunger Games on Stage"
   rating: 5
   date: 2026-05-27
