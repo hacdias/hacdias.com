@@ -1645,3 +1645,35 @@
       arrival: 2026-02-01T19:17:00.000+01:00
       origin: Breda
       destination: Eindhoven Centraal
+- name: Visit Friend With Partner
+  place: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, Bath
+  start: 2026-05-24
+  date: 2026-06-01
+  latitude: 51.50839474
+  longitude: -0.12071889338
+  itinerary:
+    - type: train
+      departure: 2026-05-24T14:13:00.000+02:00
+      arrival: 2026-05-24T15:14:00.000+02:00
+      origin: Eindhoven Centraal
+      destination: Rotterdam Centraal
+    - type: train
+      departure: 2026-05-24T17:28:00.000+02:00
+      arrival: 2026-05-24T19:57:00.000+01:00
+      origin: Rotterdam Centraal
+      destination: London St. Pancras
+    - type: train
+      departure: 2026-06-01T15:04:00.000+01:00
+      arrival: 2026-06-01T19:32:00.000+02:00
+      origin: London St. Pancras
+      destination: Rotterdam Centraal
+    - type: train
+      departure: 2026-06-01T19:45:00.000+02:00
+      arrival: 2026-06-01T20:07:00.000+02:00
+      origin: Rotterdam Centraal
+      destination: Breda
+    - type: train
+      departure: 2026-06-01T20:12:00.000+02:00
+      arrival: 2026-06-01T20:49:00.000+02:00
+      origin: Breda
+      destination: Eindhoven Centraal
