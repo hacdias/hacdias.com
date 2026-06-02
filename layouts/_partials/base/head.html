@@ -44,6 +44,7 @@
 {{ end }}
 
 {{ if .IsHome }}
+  <link rel='site.standard.publication' href='at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.publication/3me7k4wsueo2b' />
   <link rel='indieauth-metadata' href='{{ absURL "/.well-known/oauth-authorization-server" }}'>
   <link rel='authorization_endpoint' href='{{ absURL "/auth" }}'>
   <link rel='token_endpoint' href='{{ absURL "/token" }}'>
@@ -65,3 +66,4 @@
     {{ end }}
   {{- end -}}
 {{ end }}
+
