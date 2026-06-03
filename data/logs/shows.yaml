@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: "Amsterdam Centraal 24/7"
+  season: 2
+  rating: 10
+  date: 2026-06-02
 - name: For All Mankind
   season: 5
   rating: 10

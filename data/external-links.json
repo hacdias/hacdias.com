@@ -1946,6 +1946,24 @@
     ]
   },
   {
+    "domain": "standard.site",
+    "count": 3,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
+        "targetUrl": "https://standard.site/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/03/04/standard-site/",
+        "targetUrl": "https://standard.site/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/06/02/recently/",
+        "targetUrl": "https://standard.site/"
+      }
+    ]
+  },
+  {
     "domain": "vim.org",
     "count": 3,
     "links": [
@@ -2468,20 +2486,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
         "targetUrl": "https://soju.im/doc/soju.1.html"
-      }
-    ]
-  },
-  {
-    "domain": "standard.site",
-    "count": 2,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2026/02/04/fosdem/",
-        "targetUrl": "https://standard.site/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2026/03/04/standard-site/",
-        "targetUrl": "https://standard.site/"
       }
     ]
   },

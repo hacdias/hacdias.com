@@ -1,5 +1,5 @@
 ---
-title: "Recently in May '26"
+title: Recently in May '26
 date: 2026-06-02T14:37:57+02:00
 location:
   latitude: 51.44592
@@ -8,14 +8,18 @@ location:
   region: North Brabant
   country: Netherlands
   countryCode: NL
-thumbnail: image:2026-06-02-recently-01
 categories:
-- writings
+  - writings
 tags:
-- now
-- entertainment
-- life
-- health
+  - now
+  - entertainment
+  - life
+  - health
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mncmeeegu2li
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mncmeeegu2li
+  - https://fosstodon.org/@hacdias/116680550841213148
+thumbnail: image:2026-06-02-recently-01
 ---
 
 May was an incredibly packed month, which sort of explains why it took me so long to write this post. Now that I have some time to go through all the events, let's take a look back together, and go through some of the things that happened in May!
