@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: “Your Friends & Neighbors”
+  season: 2
+  rating: 7
+  date: 2026-06-07
 - name: "Amsterdam Centraal 24/7"
   season: 2
   rating: 10
