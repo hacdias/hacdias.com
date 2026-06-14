@@ -4,6 +4,11 @@
 #   date:
 #   location:
 #   category:
+- name: Soldaat van Oranje
+  rating: 8
+  date: 2026-06-14
+  location: Theater Hangaar, Katwijk, NL
+  category: musical
 - name: FKA Twigs
   rating: 7
   date: 2026-06-06
