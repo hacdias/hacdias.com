@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: Mother Mary
+  date: 2026-06-14T12:00:00+02:00
+  rating: 7
+  location: Lab-1
+  room: 5
+  row: 9
+  seat: 5
 - name: Michael
   date: 2026-05-28T17:00:00+01:00
   rating: 8
