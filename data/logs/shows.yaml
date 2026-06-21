@@ -2,7 +2,11 @@
 #   season:
 #   date:
 #   rating:
-- name: “Your Friends & Neighbors”
+- name: "Widow’s Bay"
+  season: 1
+  rating: 8
+  date: 2026-06-19
+- name: "Your Friends & Neighbors"
   season: 2
   rating: 7
   date: 2026-06-07
