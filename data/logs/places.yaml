@@ -1677,3 +1677,24 @@
       arrival: 2026-06-01T20:49:00.000+02:00
       origin: Breda
       destination: Eindhoven Centraal
+- name: Visit Friends, Wedding and Family
+  place: 🇵🇹 Portugal
+  start: 2026-06-15
+  date: 2026-06-23
+  latitude: 37.500635
+  longitude: -8.300669
+  itinerary:
+    - type: air
+      departure: 2026-06-15T18:15:00.000+02:00
+      arrival: 2026-06-15T19:57:00.000+01:00
+      origin: Eindhoven
+      destination: Lisbon Humberto Delgado
+      operator: RYR
+      number: "3091"
+    - type: air
+      departure: 2026-06-23T06:55:00.000+01:00
+      arrival: 2026-06-23T10:36:00.000+02:00
+      origin: Faro Gago Coutinho
+      destination: Eindhoven
+      operator: RYR
+      number: "5768"
