@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: Disclosure Day
+  date: 2026-06-28T21:30:00+02:00
+  rating: 9
+  location: Natlab
+  room: Main Stage
+  row: K
+  seat: 6
 - name: Hoppers
   date: 2026-06-22T12:00:00+02:00
   rating: 7
