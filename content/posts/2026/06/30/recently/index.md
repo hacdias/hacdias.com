@@ -1,7 +1,6 @@
 ---
-title: "Recently in June '26"
+title: Recently in June '26
 date: 2026-06-30T18:10:42+02:00
-thumbnail: image:2026-06-30-recently-2
 location:
   latitude: 51.44592
   longitude: 5.46165
@@ -10,12 +9,17 @@ location:
   country: Netherlands
   countryCode: NL
 categories:
-- writings
+  - writings
 tags:
-- now
-- entertainment
-- health
-- life
+  - now
+  - entertainment
+  - health
+  - life
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mpjfckwd62p7
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mpjfckwd62p7
+  - https://fosstodon.org/@hacdias/116839936071204111
+thumbnail: image:2026-06-30-recently-2
 ---
 
 Woah! It's that time of the month again. June has gone by very fast, full of activity, travel, and a - way too hot for The Netherlands - heatwave. Let's look back and reflect on everything that has happened this past month!
@@ -60,4 +64,4 @@ Finally, we watched quite a few [series](/logs/shows/), or at least finished qui
 
 <hr>
 
-That's a wrap!
+That's a wrap! It was a very eventful month even though I didn't write that much this time. I think being a bit tired from swimming today isn't helping. Anyways, until next time!
