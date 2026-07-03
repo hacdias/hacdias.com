@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: "A Knight of the Seven Kingdoms"
+  season: 1
+  rating: 7
+  date: 2026-07-02
 - name: "Widow’s Bay"
   season: 1
   rating: 8
