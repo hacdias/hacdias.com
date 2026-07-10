@@ -4834,5 +4834,15 @@
         "targetUrl": "https://wiki.znc.in/Reverse_Proxy#Caddy"
       }
     ]
+  },
+  {
+    "domain": "zwem4daagse.nl",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/07/09/swimming/",
+        "targetUrl": "https://www.zwem4daagse.nl/"
+      }
+    ]
   }
 ]

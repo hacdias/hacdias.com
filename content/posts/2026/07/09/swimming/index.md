@@ -25,7 +25,7 @@ Today I had my last swimming lesson before the summer break. Since I haven't giv
 
 <!--more-->
 
-On my last update, I shared that I had gotten the National Swimming Diploma A, which is the first of three diplomas to reach the national swimming safety norms. Since then, I've also gotten my Diploma B, the second one.
+On my [last update](/2026/04/21/swimming-diploma/), I shared that I had gotten the National Swimming Diploma A, which is the first of three diplomas to reach the national swimming safety norms. Since then, I've also gotten my Diploma B, the second one.
 
 That happened a few weeks ago. For that, we did similar exercises as for Diploma A, but now for longer distances, both with and without clothes. There were a few other exercises that we had to do, but in general, it was fine, it was fun - you're gonna see (read?) me saying that more often. Last week, we even dit a bit of snorkeling during the lesson!
 
@@ -36,7 +36,7 @@ Not only have I gotten my second diploma, I've also been going more often to the
 
 I thought the Tongelreep was further away, but it's actually slightly closer. The difference is that there's more stoplights, which means it takes around the same time to go there as to go to the other one where I have my lessons.
 
-So, what's the plan now that I don't have lessons until the end of August? Well, the plan is to keep on swimming. I enrolled for the Zwem4daagse next week, which is an event where you go swim four days and get a medal for it.
+So, what's the plan now that I don't have lessons until the end of August? Well, the plan is to keep on swimming. I enrolled for the [Zwem4daagse](https://www.zwem4daagse.nl/) next week, which is an event where you go swim four days and get a medal for it.
 
 You could choose your own distance and the options were either 250m, 500m, or 1000m. 1000m was definitely too much, so that I'm not going to do. 250m felt like too little. So I decided to go do 500m. I hope it works out!
 
