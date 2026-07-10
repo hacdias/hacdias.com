@@ -138,9 +138,11 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [ ] Learn how to 🎿 cross-country ski
 - [ ] Learn how to ⛷️ ski or 🏂 snowboard
   - [ ] Ski or snowboard down a mountain
-- [x] Overcome my 💦 [deep water fear](/2024/09/09/fear-of-deep-water/) <small>[April 2026]</small>
-  - [ ] Obtain the National Swimming Diploma A, B, and C
-  - [ ] Go 🏊‍♂️ swimming on a regular basis for 1 month 
+- [x] Overcome my fear of 💦 [deep water](/2024/09/09/fear-of-deep-water/) <small>[[April 2026]](/2026/04/21/swimming-diploma/)</small>
+  - [ ] Get the National Swimming Diploma A, B, and C <small>[[July 2026, B]](/2026/04/21/swimming-diploma/)</small>
+  - [ ] Get the National Swimming Proficiency Diploma's 1, 2, and C
+  - [ ] Participate in a swimming event
+  - [ ] Go 🤿 snorkeling in open water
 {.checklist}
 
 <!--
