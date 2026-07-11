@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Star City
+  season: 1
+  rating: 9
+  date: 2026-07-10
 - name: "A Knight of the Seven Kingdoms"
   season: 1
   rating: 7
