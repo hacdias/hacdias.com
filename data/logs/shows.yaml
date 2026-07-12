@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: The Afterparty
+  season: 1
+  rating: 7
+  date: 2026-07-11
 - name: Star City
   season: 1
   rating: 9
