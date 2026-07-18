@@ -141,7 +141,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [x] Overcome my fear of 💦 [deep water](/2024/09/09/fear-of-deep-water/) <small>[[April 2026]](/2026/04/21/swimming-diploma/)</small>
   - [ ] Get the National Swimming Diploma A, B, and C <small>[[July 2026, B]](/2026/04/21/swimming-diploma/)</small>
   - [ ] Get the National Swimming Proficiency Diploma's 1, 2, and C
-  - [ ] Participate in a swimming event
+  - [x] Participate in a swimming event <small>[[July 2026, Zwem4daagse]](/2026/07/17/zwem4daagse/)</small>
   - [ ] Go 🤿 snorkeling in open water
 {.checklist}
 

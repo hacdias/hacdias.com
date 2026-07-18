@@ -2616,6 +2616,20 @@
     ]
   },
   {
+    "domain": "zwem4daagse.nl",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/07/09/swimming/",
+        "targetUrl": "https://www.zwem4daagse.nl/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/07/17/zwem4daagse/",
+        "targetUrl": "https://www.zwem4daagse.nl/"
+      }
+    ]
+  },
+  {
     "domain": "aachen-tourismus.de",
     "count": 1,
     "links": [
@@ -4832,16 +4846,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
         "targetUrl": "https://wiki.znc.in/Reverse_Proxy#Caddy"
-      }
-    ]
-  },
-  {
-    "domain": "zwem4daagse.nl",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2026/07/09/swimming/",
-        "targetUrl": "https://www.zwem4daagse.nl/"
       }
     ]
   }
