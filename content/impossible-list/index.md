@@ -24,7 +24,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [ ] Visit 🇲🇴 Macau
 - [ ] See the 🌌 Aurora Borealis
 - [ ] Travel on an 🔥 hot air balloon
-- [ ] Visit the 💺 cockpit of an airplane
+- [ ] Visit an airplane's 💺 cockpit
 {.checklist}
 
 ### Train Goals
@@ -118,6 +118,8 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
    - [x] Workout at least twice a week for 8 months <small>[December 2023]</small>
    - [x] Workout at least twice a week for 1 year <small>[March 2024]</small>
    - [x] Workout at least twice a week for 2 years <small>[March 2025]</small>
+- [x] Close all Apple Watch rings for 1 month <small>[March 2021]</small>
+   - [x] Close all Apple Watch rings for 2 months <small>[April 2021]</small>
 - [x] Bike 10 km in a single trip <small>[March 2021, 10.30 km]</small>
   - [x] Bike 20 km in a single trip  <small>[April 2021, 24.03 km]</small>
   - [ ] Bike 30 km in a single trip
@@ -125,9 +127,6 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - [x] E-bike 40 km in a single trip <small>[August 2023, 43.27 km]</small>
   - [x] E-bike 60 km in a single trip <small>[August 2024, 71.42 km]</small>
   - [ ] E-bike 80 km in a single trip
-- [x] Close all rings on Apple Watch for 1 month <small>[March 2021]</small>
-   - [x] Close all rings on Apple Watch for 2 months <small>[April 2021]</small>
-   - [ ] Close all rings on Apple Watch for 4 months
 - [x] Try out personal trainer sessions <small>[[March 2023](/2024/06/29/reflections-after-a-year-at-the-gym/)]</small>
 - [x] Practice 🥊 kickboxing for 1 month <small>[May 2024]</small>
   - [x] Practice 🥊 kickboxing for 2 months <small>[June 2024]</small>
@@ -135,23 +134,13 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 - [x] Go 🏃‍♂️ running for 1 month <small>[February 2025] [[August 2025](/2025/08/17/running/)]</small>
   - [x] Go 🏃‍♂️ running for 2 months <small>[[March 2025](/2025/03/30/c25k-completed/)] [September 2025]</small>
   - [x] Go 🏃‍♂️ running for 4 months <small>[November 2025]</small>
+- [x] Overcome my 💦 [deep water](/2024/09/09/fear-of-deep-water/) fear <small>[[April 2026]](/2026/04/21/swimming-diploma/)</small>
+  - [ ] Get the National Swimming Diploma A, B, and C <small>[[July 2026, B]](/2026/07/09/swimming/)</small>
+  - [ ] Get the National Swimming Proficiency Diploma 1, 2, and 3
+- [x] Participate in a 🏊 Zwem4daagse <small>[[July 2026, Zwem4daagse]](/2026/07/17/zwem4daagse/)</small>
+  - [ ] Participate in a 2<sup>nd</sup> 🏊 Zwem4daagse
+- [ ] Learn 🤿 snorkeling in open water
 - [ ] Learn how to 🎿 cross-country ski
 - [ ] Learn how to ⛷️ ski or 🏂 snowboard
   - [ ] Ski or snowboard down a mountain
-- [x] Overcome my fear of 💦 [deep water](/2024/09/09/fear-of-deep-water/) <small>[[April 2026]](/2026/04/21/swimming-diploma/)</small>
-  - [ ] Get the National Swimming Diploma A, B, and C <small>[[July 2026, B]](/2026/04/21/swimming-diploma/)</small>
-  - [ ] Get the National Swimming Proficiency Diploma's 1, 2, and C
-  - [x] Participate in a swimming event <small>[[July 2026, Zwem4daagse]](/2026/07/17/zwem4daagse/)</small>
-  - [ ] Go 🤿 snorkeling in open water
 {.checklist}
-
-<!--
-
-## Other Achievements
-
-- Highest GPA of Secondary School (18.1 out of 20) <small>[2017]</small>
-- Highest National Exam Grade of Secondary School (19 out of 20) <small>[2017]</small>
-- Highest GPA of 3rd Cycle (4.78 out of 5) <small>[2014]</small>
-- Highest National Exam Grade of 3rd Cycle (100 out of 100) <small>[2014]</small>
-
--->

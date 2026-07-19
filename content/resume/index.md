@@ -164,3 +164,15 @@ Software Engineer passionate about open source, user agency, decentralization, i
     🖨️ Print Resume
   </a>
 </p>
+
+
+<!--
+
+## Other Achievements
+
+- Highest GPA of Secondary School (18.1 out of 20) <small>[2017]</small>
+- Highest National Exam Grade of Secondary School (19 out of 20) <small>[2017]</small>
+- Highest GPA of 3rd Cycle (4.78 out of 5) <small>[2014]</small>
+- Highest National Exam Grade of 3rd Cycle (100 out of 100) <small>[2014]</small>
+
+-->
