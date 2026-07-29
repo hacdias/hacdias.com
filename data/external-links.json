@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 99,
+    "count": 101,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -386,6 +386,14 @@
       {
         "sourceUrl": "https://hacdias.com/2026/03/14/claude-code-improve-eagle/",
         "targetUrl": "https://github.com/hacdias/eagle/tree/main?tab=readme-ov-file#features"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/07/28/filebrowser/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/07/28/filebrowser/",
+        "targetUrl": "https://github.com/awesome-selfhosted/awesome-selfhosted"
       },
       {
         "sourceUrl": "https://hacdias.com/about/",
@@ -2462,6 +2470,20 @@
     ]
   },
   {
+    "domain": "reddit.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
+        "targetUrl": "https://www.reddit.com/r/pihole/comments/bnihyz/guide_how_to_install_wireguard_on_a_raspberry_pi/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/07/28/filebrowser/",
+        "targetUrl": "https://www.reddit.com/r/selfhosted/s/8LcLmL1rJ4"
+      }
+    ]
+  },
+  {
     "domain": "semble.so",
     "count": 2,
     "links": [
@@ -4186,16 +4208,6 @@
       {
         "sourceUrl": "https://hacdias.com/2023/07/03/an-update-to-my-digid-saga-and-drivers-licenses/",
         "targetUrl": "https://rdw.nl/"
-      }
-    ]
-  },
-  {
-    "domain": "reddit.com",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/11/30/access-network-behind-cgnat/",
-        "targetUrl": "https://www.reddit.com/r/pihole/comments/bnihyz/guide_how_to_install_wireguard_on_a_raspberry_pi/"
       }
     ]
   },
