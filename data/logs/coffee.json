@@ -1,5 +1,16 @@
 [
   {
+    "name": "El Puente Honduras",
+    "origin": "Allied Smallholders, El Puente, Honduras",
+    "variety": "Caturra, Castillo, Colombia, Bourbon",
+    "roaster": {
+      "name": "Keen Coffee",
+      "location": "Utrecht, NL",
+      "website": "https://keencoffee.com/"
+    },
+    "date": "2026-08-09"
+  },
+  {
     "name": "Pitcher Perfect",
     "origin": "Colombia and Ethiopia",
     "roast": "Medium-Light",
