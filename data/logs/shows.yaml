@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Not Suitable for Work
+  season: 1
+  rating: 7
+  date: 2026-08-10
 - name: The Afterparty
   season: 2
   rating: 7
