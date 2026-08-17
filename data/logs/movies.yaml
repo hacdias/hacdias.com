@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: The Odyssey
+  date: 2026-08-16T16:00:00+02:00
+  rating: 8
+  location: Natlab
+  room: 2
+  row: F
+  seat: 3
 - name: Backrooms
   date: 2026-07-04T18:00:00+02:00
   rating: 7
