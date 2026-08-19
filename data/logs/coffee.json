@@ -1,5 +1,18 @@
 [
   {
+    "name": "Mellow Fellow",
+    "origin": "Cocatrel Cooperative, Três Pontas, Sul de Minas, Brazil",
+    "roast": "Medium-Light",
+    "process": "Natural",
+    "variety": "Catuai",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "date": "2026-08-18"
+  },
+  {
     "name": "El Puente Honduras",
     "origin": "Allied Smallholders, El Puente, Honduras",
     "variety": "Caturra, Castillo, Colombia, Bourbon",
@@ -21,6 +34,7 @@
       "location": "Eindhoven, NL",
       "website": "https://sproutcoffeeroasters.art/"
     },
+    "rating": 7,
     "date": "2026-07-19"
   },
   {
