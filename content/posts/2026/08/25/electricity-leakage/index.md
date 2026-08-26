@@ -1,7 +1,6 @@
 ---
 title: Tales of an Electricity Leakage, Part II
 date: 2026-08-25T15:44:00+02:00
-thumbnail: image:2026-08-25-electricity-leakage-1
 location:
   latitude: 51.4458
   longitude: 5.46159
@@ -12,6 +11,11 @@ location:
   postalCode: 5617AS
 categories:
   - writings
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mtvx7sim22et
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mtvx7sim22et
+  - https://fosstodon.org/@hacdias/117156446760129644
+thumbnail: image:2026-08-25-electricity-leakage-1
 ---
 
 A month ago I [wrote](/2026/07/21/electricity-leakage/) about an electricity problem I had while Chris was gone. At the time, the technician couldn't find the origin of the problem, and I ended up the post saying that "the problem might come back again". Guess what? It did.
