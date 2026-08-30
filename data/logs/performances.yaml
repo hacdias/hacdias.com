@@ -4,6 +4,11 @@
 #   date:
 #   location:
 #   category:
+- author: S10
+  rating: 7
+  date: 2026-08-29
+  location: Ketelhuisplein, Eindhoven, NL
+  category: concert
 - name: Soldaat van Oranje
   rating: 8
   date: 2026-06-14
