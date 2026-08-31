@@ -87,7 +87,7 @@ Software Engineer passionate about open source, user agency, decentralization, i
   from="01/2015" to="present" >}}
 
 - Author of several Go tools for self-hosting and the open web, including [webdav](https://github.com/hacdias/webdav) (5K+ stars) and [indielib](https://github.com/hacdias/indielib) , an IndieWeb toolkit implementing IndieAuth, Micropub, and Microformats.
-- Creator of [File Browser](https://github.com/filebrowser/filebrowser), a Go and Vue.js self-hosted file hosting service. It reached more than 35K stars on GitHub and over 100M downloads across different platforms.
+- Creator of [File Browser](https://github.com/filebrowser/filebrowser), a Go and Vue.js self-hosted file hosting service. It reached more than 36K stars on GitHub and over 100M downloads across different platforms.
 
 {{</ resume-position >}}
 
