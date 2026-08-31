@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Adults
+  season: 2
+  rating: 8
+  date: 2026-08-30
 - name: Euphoria
   season: 1
   rating: 7
