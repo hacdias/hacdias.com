@@ -1,7 +1,6 @@
 ---
-title: "Recently in August '26"
+title: Recently in August '26
 date: 2026-08-31T15:35:59+02:00
-thumbnail: image:2026-08-31-recently
 location:
   latitude: 51.44587
   longitude: 5.46136
@@ -18,6 +17,11 @@ tags:
   - life
   - health
   - reading
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3muezkyk5i2et
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3muezkyk5i2et
+  - https://fosstodon.org/@hacdias/117190387635236771
+thumbnail: image:2026-08-31-recently
 ---
 
 August is now coming to an end and, with it, the summer. This has been an unusually hot summer in the Netherlands, and I'm quite happy we're now approaching colder times. This month wasn't as eventful as I thought it was, but let's recap.
@@ -29,11 +33,11 @@ August is now coming to an end and, with it, the summer. This has been an unusua
 
 ## 🍄 Life {#life}
 
-At the beginning of the month, I went to the Canal Pride Parade in Amsterdam. I had the opportunity to be in a boot this year, which completely changes how you experience the pride parede. It was much more enjoyable.
+At the beginning of the month, I went to the Canal Pride Parade in Amsterdam. I had the opportunity to be in a boat this year, which completely changes how you experience the pride parade. It was much more enjoyable.
 
 I've been to Amsterdam before for the Canal Pride but I have never enjoyed it that much, especially in comparison to Utrecht's, or to normal parades, which, in the Netherlands, are called "walks". On regular parades where you walk you are part of it. In Utrecht, in their canal parade, you're also quite close to the boats, feeling much more personal than what it feels to watch the canal parade in Amsterdam.
 
-A week after a friend has visited, which was quite nice. He saw a bit more of Eindhoven than the last time and we biked quite a lot. At the same time, we were "fighting" with an electricity issue, which I've [written about](/2026/08/25/electricity-leakage/), as well as a water leakage, which I still want to write about.
+A week later, a friend visited, which was quite nice. He saw a bit more of Eindhoven than the last time and we biked quite a lot. At the same time, we were "fighting" with an electricity issue, which I've [written about](/2026/08/25/electricity-leakage/), as well as a water leakage, which I still want to write about.
 
 ## 💪 Health {#health}
 

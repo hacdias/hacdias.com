@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 101,
+    "count": 102,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -394,6 +394,10 @@
       {
         "sourceUrl": "https://hacdias.com/2026/07/28/filebrowser/",
         "targetUrl": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/08/31/recently/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser"
       },
       {
         "sourceUrl": "https://hacdias.com/about/",
