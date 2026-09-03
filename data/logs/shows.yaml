@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Trying
+  season: 5
+  rating: 8
+  date: 2026-08-25
 - name: Adults
   season: 2
   rating: 8
