@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Silo
+  season: 3
+  rating: 9
+  date: 2026-09-04
 - name: Trying
   season: 5
   rating: 8
