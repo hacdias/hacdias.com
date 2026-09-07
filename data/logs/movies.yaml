@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: The Invite
+  date: 2026-09-06T21:15:00+02:00
+  rating: 8
+  location: Natlab
+  room: The Tube
+  row: C
+  seat: 6
 - name: Jim Queen
   date: 2026-08-22T20:00:00+02:00
   rating: 8
