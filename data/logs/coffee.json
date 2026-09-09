@@ -1,5 +1,18 @@
 [
   {
+    "name": "Thousand Hills",
+    "origin": "Valentin Kimenyi, Gasharu Coffee, Nyamasheke, Rwanda",
+    "roast": "Light",
+    "process": "Anaerobic Natural 72Hrs",
+    "variety": "Bourbon",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "date": "2026-09-08"
+  },
+  {
     "name": "Mellow Fellow",
     "origin": "Cocatrel Cooperative, Três Pontas, Sul de Minas, Brazil",
     "roast": "Medium-Light",
