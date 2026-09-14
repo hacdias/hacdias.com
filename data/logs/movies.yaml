@@ -5,6 +5,13 @@
 #   room:
 #   row:
 #   seat:
+- name: Leviticus
+  date: 2026-09-13T18:30:00+02:00
+  rating: 6
+  location: Natlab
+  room: The Tube
+  row: C
+  seat: 5
 - name: The Invite
   date: 2026-09-06T21:15:00+02:00
   rating: 8
