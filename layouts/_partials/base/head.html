@@ -13,7 +13,7 @@
   {{- printf `<link rel="%s" type="%s" href="%s" />` .Rel .MediaType.Type .RelPermalink | safeHTML }}
 {{- end -}}
 
-<meta property='og:type' content='{{ if or .IsNode .IsHome }}website{{ else }}article{{ end }}' />
+<meta property='og:type' content='{{ if or .IsBranch .IsHome }}website{{ else }}article{{ end }}' />
 <meta property='og:site_name' content='{{ .Site.Title }}' />
 <meta name="fediverse:creator" content="{{ .Site.Params.author.fediverse }}" />
 
