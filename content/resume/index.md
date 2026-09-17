@@ -24,7 +24,6 @@ noIndex: true
 
 </div>
 
-
 Senior Software Engineer building open source systems in Go and TypeScript, from peer-to-peer networks to digital identity and verifiable credentials. I work across the stack, from specifications and protocol libraries to the products built on them, with a focus on user agency and open standards.
 
 <!-- I have hands-on experience with authentication, OAuth 2.0, and X.509 PKI, from specifications and libraries to production SaaS. -->
