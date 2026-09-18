@@ -11,8 +11,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 
 - **Laptop** <span>2021 MacBook Pro 14"</span>
 - **Smartphone** <span>iPhone 16 Pro</span>
-- **Watch** <span>Apple Watch Series 9</span>
-- **Tablet** <span>2018 iPad Pro 11"</span>
+- **Watch** <span>Apple Watch Series 12</span>
 - **Headphones** <span>Sony WH-1000XM5</span>
 - **Earphones** <span>AirPods Pro (2nd Gen)</span>
 - **e-Reader** <span>[Kobo Clara BW](/2022/06/16/few-weeks-with-kobo/)</span>
