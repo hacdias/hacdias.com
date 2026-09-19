@@ -5,6 +5,9 @@
 #   room:
 #   row:
 #   seat:
+- name: A Nice Indian Boy
+  date: 2026-09-18T20:30:00+02:00
+  rating: 7
 - name: Leviticus
   date: 2026-09-13T18:30:00+02:00
   rating: 6
