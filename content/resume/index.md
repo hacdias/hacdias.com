@@ -24,7 +24,7 @@ noIndex: true
 
 </div>
 
-Senior Software Engineer building open source systems in Go and TypeScript, from peer-to-peer networks to digital identity and verifiable credentials. I work across the stack, from specifications and protocol libraries to the products built on them, with a focus on user agency and open standards.
+Senior Software Engineer building open source systems in Go and TypeScript, from peer-to-peer networks serving hundreds of millions of daily requests to digital identity and verifiable credentials. I work across the stack, from specifications and protocol libraries to the products built on them, with a focus on user agency and open standards.
 
 <!-- I have hands-on experience with authentication, OAuth 2.0, and X.509 PKI, from specifications and libraries to production SaaS. -->
 
@@ -41,7 +41,7 @@ Senior Software Engineer building open source systems in Go and TypeScript, from
   from="06/2025" to="present" >}}
 
 - Develop [Paradym](https://paradym.id/), a SaaS platform for issuing and verifying digital credentials, and [Paradym Wallet](https://paradym.id/products/paradym-mobile-wallet), its companion React Native app. Co-maintain [Credo](https://credo.js.org/), the OpenWallet Foundation TypeScript framework both are built on, along with related libraries.
-- Implemented OpenID4VC 1.0, the protocol behind the EU Digital Identity Wallet, and W3C VCDM 2.0 across Credo, Paradym, and Paradym Wallet.
+- Implemented OpenID4VC 1.0, the protocol behind the EU Digital Identity Wallet, and W3C VCDM 2.0 across Credo, Paradym, and Paradym Wallet, as the specification was being finalized.
 - Built X.509 certificate management, revocation, and EU Trusted List validation for Paradym, enabling customers to issue, verify, and revoke credentials using certificate-based trust.
 - Extended Credo's OAuth 2.0 support, then used it so Paradym customers can authenticate users with their existing identity providers and pull data from internal systems during issuance.
 
@@ -53,7 +53,7 @@ Senior Software Engineer building open source systems in Go and TypeScript, from
   from="06/2024" to="05/2025" >}}
 
 - Developed the authentication and verification products that let businesses accept multiple identity wallets through a single integration, with login offered via OAuth. Abstracted over proprietary APIs and open standards (OpenID4VP, SD-JWT, mdoc). 
-- Owned the integrations with NL Wallet (the Dutch government's identity wallet), ReadID Ready, and Nect, and maintained integrations with other wallets, such as Digidentity and Yivi.
+- Owned the integrations with NL Wallet (the Dutch government's identity wallet), ReadID Ready, and Nect, and maintained integrations with other wallets, including Digidentity and Yivi.
 
 {{</ resume-position >}}
 
@@ -63,10 +63,36 @@ Senior Software Engineer building open source systems in Go and TypeScript, from
   from="11/2017" to="05/2024" >}}
 
 - Maintained [Kubo](https://github.com/ipfs/kubo), the reference Go implementation of [IPFS](https://ipfs.tech/), a decentralized, P2P, and content-addressed network. Led the extraction of its HTTP gateway into [Boxo](https://github.com/ipfs/boxo), a reusable Go SDK consolidating more than 20 repositories.
-- Built [Bifrost](https://github.com/ipfs-inactive/bifrost-gateway), a standalone CDN-backed HTTP gateway with OpenTelemetry tracing and Prometheus metrics. Co-maintained the [Someguy](https://github.com/ipfs/someguy) routing server and Bifrost's successor, [Rainbow](https://github.com/ipfs/rainbow), which powered IPFS's public gateways at hundreds of millions of daily requests.
-- Designed multiple [specifications](https://specs.ipfs.tech/) for HTTP gateways, naming, and delegated routing, implemented them in Go and TypeScript, and contributed to a suite of hundreds of implementation-agnostic conformance tests.
-- Owned [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) (Electron; 2.4M+ downloads) for five years, leading its redesign, auto-updates, and OS integrations. Rebuilt [IPFS Web UI](https://github.com/ipfs/ipfs-webui)'s file manager (React).
+- Co-maintained [Rainbow](https://github.com/ipfs/rainbow) and [Someguy](https://github.com/ipfs/someguy), the gateway and routing services behind IPFS's public gateways, serving hundreds of millions of daily requests with OpenTelemetry tracing and Prometheus metrics. Previously built their predecessor, [Bifrost](https://github.com/ipfs-inactive/bifrost-gateway).
+- Designed [specifications](https://specs.ipfs.tech/) for HTTP gateways, naming, and delegated routing, implemented them in Go and TypeScript, and contributed to a suite of hundreds of implementation-agnostic conformance tests.
+- Owned [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) (Electron, 2.4M+ downloads) for five years, leading its redesign, auto-updates, and OS integrations. Rebuilt [IPFS Web UI](https://github.com/ipfs/ipfs-webui)'s file manager (React).
 - Co-authored [Testground](http://testground.ai/), a platform for testing and simulating P2P systems at scale. Built its task supervisor, network routing policies, JavaScript SDK, and a standalone HTTP sync service.
+
+{{</ resume-position >}}
+
+## 🛠️ Projects {#projects}
+
+{{< resume-position
+  title="Personal Website"
+  from="07/2014" to="present" >}}
+
+- Built [Eagle](https://github.com/hacdias/eagle), a Go backend for managing my statically generated website from the browser, and [indielib](https://github.com/hacdias/indielib), an IndieWeb toolkit implementing IndieAuth, Micropub, and Microformats.
+- Building and maintaining my [personal website](https://hacdias.com) for over a decade, where I publish writing and photography, and experiment with protocols such as AT Protocol, ActivityPub, and Webmentions.
+
+{{</ resume-position >}}
+
+{{< resume-position
+  title="File Browser"
+  from="09/2015" to="09/2026" >}}
+
+- Created a self-hosted web file manager in Go and Vue.js, which started as a Caddy plugin, and grew to 35K+ [GitHub](https://github.com/filebrowser/filebrowser) stars and 100M+ downloads. Handled issues, pull requests, and security reports, and led its wind-down in 2026, from maintenance mode to final release and archival.
+
+{{</ resume-position >}}
+
+{{< resume-position
+  title="Other Projects" >}}
+
+- [webdav](https://github.com/hacdias/webdav), a standalone WebDAV server in Go with configurable users and permissions (5K+ stars).
 
 {{</ resume-position >}}
 
@@ -78,6 +104,7 @@ Senior Software Engineer building open source systems in Go and TypeScript, from
   from="2020" to="2022" grade="8 out of 10" >}}
 
 - [Thesis](/2022/09/07/thesis-blocklearning-framework/) on blockchain-based federated learning, including [BlockLearning](https://github.com/hacdias/blocklearning), an open source framework for running experiments, later published as a [paper](/2023/02/16/paper-blocklearning-framework/) at UbiSec 2022.
+- Teaching assistant for the Deep Learning course: prepared materials, gave practical classes, and supported students. Mentored 12 incoming international master's students.
 
 {{</ resume-position >}}
 
@@ -86,36 +113,7 @@ Senior Software Engineer building open source systems in Go and TypeScript, from
   location="Instituto Superior Técnico" href="https://tecnico.ulisboa.pt/"
   from="2017" to="2020" grade="16 out of 20" >}}
 
-- Received the Academic Merit Award twice.
-
-{{</ resume-position >}}
-
-## 🛠️ Projects {#projects}
-
-{{< resume-position
-  title="Open Source Projects"
-  from="01/2015" to="present" >}}
-
-- Created several tools for self-hosting and the open web, including [webdav](https://github.com/hacdias/webdav) (5K+ stars) and [indielib](https://github.com/hacdias/indielib), an IndieWeb toolkit implementing IndieAuth, Micropub, and Microformats.
-- Wrote and maintained plugins for the Caddy web server's v1 ecosystem, including service management, WebDAV, and minification.
-
-{{</ resume-position >}}
-
-{{< resume-position
-  title="Personal Website"
-  from="07/2014" to="present" >}}
-
-- Building and maintaining my personal website for over a decade, where I share photographs and write about everything, from personal reflections to tutorials.
-- Built [Eagle](https://github.com/hacdias/eagle), a Go backend for managing my static site from the browser, which I also use to experiment with different integrations, such as AT Protocol, ActivityPub, and Webmentions.
-
-{{</ resume-position >}}
-
-{{< resume-position
-  title="File Browser"
-  from="09/2015" to="09/2026" >}}
-
-- Created a self-hosted web file manager in Go and Vue.js, which grew to over 36K stars on [GitHub](https://github.com/filebrowser/filebrowser) and 100M downloads.
-- Handled issues, pull requests, and security reports, and led its planned archival in 2026.
+- Received the Academic Merit Award twice. Mentored new students over two years.
 
 {{</ resume-position >}}
 
@@ -130,36 +128,8 @@ Senior Software Engineer building open source systems in Go and TypeScript, from
 
 {{</ resume-position >}}
 
-{{< resume-position
-  title="Committee Member"
-  location="Film & Photography Association Dekate Mousa" href="https://dekatemousa.nl/"
-  from="09/2021" to="09/2022" >}}
-
-- Designed stickers and Instagram campaigns for the Public Relations committee, and maintained the association's WordPress website.
-
-{{</ resume-position >}}
-
 {{< resume-position 
-  title="Student Teaching Assistant" 
-  location="Eindhoven University of Technology" href="https://tue.nl/" 
-  from="09/2021" to="06/2022" >}}
-
-- Prepared materials, gave practical classes, and supported students in a Deep Learning course.
-- Mentored 12 incoming international master's students during their first semester.
-
-{{</ resume-position >}}
-
-{{< resume-position
-  title="Student Mentor"
-  location="Instituto Superior Técnico" href="https://tecnico.ulisboa.pt/"
-  from="09/2018" to="06/2020" >}}
-
-- Mentored groups of new students during their first weeks at the university.
-
-{{</ resume-position >}}
-
-{{< resume-position 
-  title="Full-Stack Software Developer" 
+  title="Volunteer Software Developer" 
   location="Upframe" href="https://github.com/upframe" 
   from="09/2016" to="05/2018" >}}
 
@@ -172,8 +142,8 @@ Senior Software Engineer building open source systems in Go and TypeScript, from
   location="Pplware" href="https://pplware.sapo.pt"
   from="06/2013" to="09/2016" >}}
 
-- Wrote over 400 tutorials, tech news, and other articles for [Pplware](https://pplware.sapo.pt/author/henrique_dias/) and [Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/).
-- Published a 60-page [e-book](https://media.hacdias.com/2015-02-27-aprenda-a-programar.pdf) on how to program in C for beginners when I was 15 years old.
+- Wrote over 400 tutorials and tech articles for [Pplware](https://pplware.sapo.pt/author/henrique_dias/) and [Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/).
+- Published a 60-page [e-book](https://media.hacdias.com/2015-02-27-aprenda-a-programar.pdf) on how to program in C for beginners at the age of 15.
 
 {{</ resume-position >}}
 

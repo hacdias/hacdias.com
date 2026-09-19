@@ -10,7 +10,7 @@
     {{ end }}
     <small class='lg'>
       <span>{{ .Get "from" }}</span>
-      -
+      {{ if or (.Get "from") (.Get "to") }}-{{ end }}
       <span>{{ .Get "to" }}</span>
     </small>
   </div>
