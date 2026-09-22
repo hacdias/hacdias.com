@@ -40,10 +40,10 @@ Senior Software Engineer building open source systems in Go and TypeScript, from
   location="Animo Solutions" href="https://animo.id/"
   from="06/2025" to="present" >}}
 
-- Develop [Paradym](https://paradym.id/), a SaaS platform for issuing and verifying digital credentials, and [Paradym Wallet](https://paradym.id/products/paradym-mobile-wallet), its companion React Native app. Co-maintain [Credo](https://credo.js.org/), the OpenWallet Foundation TypeScript framework both are built on, along with related libraries.
-- Implemented OpenID4VC 1.0, the protocol behind the EU Digital Identity Wallet, and W3C VCDM 2.0 across Credo, Paradym, and Paradym Wallet, as the specification was being finalized.
-- Built X.509 certificate management, revocation, and EU Trusted List validation for Paradym, enabling customers to issue, verify, and revoke credentials using certificate-based trust.
-- Extended Credo's OAuth 2.0 support, then used it so Paradym customers can authenticate users with their existing identity providers and pull data from internal systems during issuance.
+- Develop [Paradym](https://paradym.id/), a SaaS platform for issuing and verifying digital credentials, and [Paradym Wallet](https://paradym.id/products/paradym-mobile-wallet), its companion React Native app. Design and ship features end to end, from protocol libraries and backend services to the API and dashboard. Co-maintain [Credo](https://credo.js.org/), the OpenWallet Foundation TypeScript framework both are built on, along with related libraries.
+- Implemented OpenID4VC 1.0, the protocol behind the EU Digital Identity Wallet, and W3C VCDM 2.0 across Credo, Paradym, and Paradym Wallet, as the specifications were being finalized, and made them interoperable with pilots across the EU.
+- Designed and built certificate-based trust for Paradym (certificate management, revocation, and EU Trusted List validation), enabling customers to issue, verify, and revoke credentials backed by standard X.509 trust.
+- Designed and built integrations that let customers issue credentials without Paradym ever storing personal data: users sign in through the customer's existing identity provider, and credential data is fetched from their systems at issuance time.
 
 {{</ resume-position >}}
 
@@ -52,8 +52,8 @@ Senior Software Engineer building open source systems in Go and TypeScript, from
   location="Ver.iD" href="https://ver.id/"
   from="06/2024" to="05/2025" >}}
 
-- Developed the authentication and verification products that let businesses accept multiple identity wallets through a single integration, with login offered via OAuth. Abstracted over proprietary APIs and open standards (OpenID4VP, SD-JWT, mdoc). 
-- Owned the integrations with NL Wallet (the Dutch government's identity wallet), ReadID Ready, and Nect, and maintained integrations with other wallets, including Digidentity and Yivi, while collaborating with pilots with the Municipality Nijmegen.
+- Developed authentication and verification products that let businesses accept multiple identity wallets through a single OAuth integration, abstracting over proprietary APIs and open standards (OpenID4VP, SD-JWT, mdoc). Used in pilots, including one with the Municipality of Nijmegen.
+- Owned the integrations with NL Wallet (the Dutch government's identity wallet), ReadID Ready, and Nect, and maintained integrations with other wallets, including Digidentity and Yivi.
 
 {{</ resume-position >}}
 
@@ -63,7 +63,7 @@ Senior Software Engineer building open source systems in Go and TypeScript, from
   from="11/2017" to="05/2024" >}}
 
 - Maintained [Kubo](https://github.com/ipfs/kubo), the reference Go implementation of [IPFS](https://ipfs.tech/), a decentralized, P2P, and content-addressed network. Led the extraction of its HTTP gateway into [Boxo](https://github.com/ipfs/boxo), a reusable Go SDK consolidating more than 20 repositories.
-- Co-maintained [Rainbow](https://github.com/ipfs/rainbow) and [Someguy](https://github.com/ipfs/someguy), the gateway and routing services behind IPFS's public gateways, serving hundreds of millions of daily requests with OpenTelemetry tracing and Prometheus metrics. Previously built their predecessor, [Bifrost](https://github.com/ipfs-inactive/bifrost-gateway).
+- Co-maintained [Rainbow](https://github.com/ipfs/rainbow) and [Someguy](https://github.com/ipfs/someguy), the gateway and routing services behind IPFS's public gateways, serving hundreds of millions of daily requests, instrumented with OpenTelemetry and Prometheus. Previously built their predecessor, [Bifrost](https://github.com/ipfs-inactive/bifrost-gateway).
 - Designed [specifications](https://specs.ipfs.tech/) for HTTP gateways, naming, and delegated routing, implemented them in Go and TypeScript, and contributed to a suite of hundreds of implementation-agnostic conformance tests.
 - Owned [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) (Electron, 2.4M+ downloads) for five years, leading its redesign, auto-updates, and OS integrations. Rebuilt [IPFS Web UI](https://github.com/ipfs/ipfs-webui)'s file manager (React).
 - Co-authored [Testground](http://testground.ai/), a platform for testing and simulating P2P systems at scale. Built its task supervisor, network routing policies, JavaScript SDK, and a standalone HTTP sync service.
