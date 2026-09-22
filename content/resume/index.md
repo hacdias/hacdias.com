@@ -29,7 +29,7 @@ Senior Software Engineer building open source systems in Go and TypeScript, from
 <!-- I have hands-on experience with authentication, OAuth 2.0, and X.509 PKI, from specifications and libraries to production SaaS. -->
 
 <small>**Technologies**: Go, TypeScript, Node.js, React, React Native, GraphQL, PostgreSQL, Redis, Docker, OpenTelemetry<br>
-**Languages**: Portuguese (native), English (C1), Dutch (B2)</small>
+**Languages**: Portuguese, English, Dutch</small>
 
 <!-- OAuth 2.0, OpenID4VC -->
 
@@ -53,7 +53,7 @@ Senior Software Engineer building open source systems in Go and TypeScript, from
   from="06/2024" to="05/2025" >}}
 
 - Developed the authentication and verification products that let businesses accept multiple identity wallets through a single integration, with login offered via OAuth. Abstracted over proprietary APIs and open standards (OpenID4VP, SD-JWT, mdoc). 
-- Owned the integrations with NL Wallet (the Dutch government's identity wallet), ReadID Ready, and Nect, and maintained integrations with other wallets, including Digidentity and Yivi.
+- Owned the integrations with NL Wallet (the Dutch government's identity wallet), ReadID Ready, and Nect, and maintained integrations with other wallets, including Digidentity and Yivi, while collaborating with pilots with the Municipality Nijmegen.
 
 {{</ resume-position >}}
 
@@ -70,7 +70,7 @@ Senior Software Engineer building open source systems in Go and TypeScript, from
 
 {{</ resume-position >}}
 
-## 🛠️ Projects {#projects}
+## 🛠️ Open Source {#open-source}
 
 {{< resume-position
   title="Personal Website"
