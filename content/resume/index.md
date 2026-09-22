@@ -24,9 +24,7 @@ noIndex: true
 
 </div>
 
-Senior Software Engineer building open source systems in Go and TypeScript, from peer-to-peer networks serving hundreds of millions of daily requests to digital identity and verifiable credentials. I work across the stack, from specifications and protocol libraries to the products built on them, with a focus on user agency and open standards.
-
-<!-- I have hands-on experience with authentication, OAuth 2.0, and X.509 PKI, from specifications and libraries to production SaaS. -->
+Senior Software Engineer building open source systems and products in Go and TypeScript. Spent six and a half years at Protocol Labs on IPFS, a peer-to-peer file network, from Go services handling hundreds of millions of daily requests to a desktop app with 2.4M+ downloads. Created File Browser, a self-hosted file manager with 35K+ GitHub stars and 100M+ downloads. Now building products around the EU Digital Identity Wallet standards, from protocol libraries to a SaaS platform.
 
 <small>**Technologies**: Go, TypeScript, Node.js, React, React Native, GraphQL, PostgreSQL, Redis, Docker, OpenTelemetry<br>
 **Languages**: Portuguese, English, Dutch</small>
