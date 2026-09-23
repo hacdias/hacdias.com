@@ -31,7 +31,7 @@ Senior Software Engineer building open source systems and products in Go and Typ
 
 <!-- OAuth 2.0, OpenID4VC -->
 
-## 💼 Experience {#experience}
+## Experience {#experience}
 
 {{< resume-position 
   title="Senior Software Engineer"
@@ -68,7 +68,7 @@ Senior Software Engineer building open source systems and products in Go and Typ
 
 {{</ resume-position >}}
 
-## 📦 Open Source {#open-source}
+## Open Source {#open-source}
 
 {{< resume-position
   title="Creator"
@@ -86,7 +86,7 @@ Senior Software Engineer building open source systems and products in Go and Typ
 
 {{</ resume-position >}}
 
-## 🎓 Education {#education}
+## Education {#education}
 
 {{< resume-position
   title="MSc Computer Science and Engineering"
@@ -107,7 +107,7 @@ Senior Software Engineer building open source systems and products in Go and Typ
 
 {{</ resume-position >}}
 
-## 🌟 Volunteering {#volunteering}
+## Volunteering {#volunteering}
 
 {{< resume-position
   title="Technical Mentor"
