@@ -68,29 +68,21 @@ Senior Software Engineer building open source systems and products in Go and Typ
 
 {{</ resume-position >}}
 
-## 🛠️ Open Source {#open-source}
+## 📦 Open Source {#open-source}
 
 {{< resume-position
-  title="Personal Website"
-  from="07/2014" to="present" >}}
-
-- Built [Eagle](https://github.com/hacdias/eagle), a Go backend for managing my statically generated website from the browser, and [indielib](https://github.com/hacdias/indielib), an IndieWeb toolkit implementing IndieAuth, Micropub, and Microformats.
-- Building and maintaining my [personal website](https://hacdias.com) for over a decade, where I publish writing and photography, and experiment with protocols such as AT Protocol, ActivityPub, and Webmentions.
-
-{{</ resume-position >}}
-
-{{< resume-position
-  title="File Browser"
+  title="Creator"
+  location="File Browser" href="https://github.com/filebrowser/filebrowser"
   from="09/2015" to="09/2026" >}}
 
-- Created a self-hosted web file manager in Go and Vue.js, which started as a Caddy plugin, and grew to 35K+ [GitHub](https://github.com/filebrowser/filebrowser) stars and 100M+ downloads. Handled issues, pull requests, and security reports, and led its wind-down in 2026, from maintenance mode to final release and archival.
+- Created a self-hosted web file manager in Go and Vue.js that grew to 35K+ GitHub stars and 100M+ downloads. Maintained it for a decade, handling issues, pull requests, and security reports, and led its wind-down in 2026, from maintenance mode to final release and archival.
 
 {{</ resume-position >}}
 
-{{< resume-position
-  title="Other Projects" >}}
+{{< resume-position title="Creator" >}}
 
-- [webdav](https://github.com/hacdias/webdav), a standalone WebDAV server in Go with configurable users and permissions (5K+ stars).
+- [webdav](https://github.com/hacdias/webdav): a standalone WebDAV server in Go with configurable users and permissions (5K+ stars).
+- [Eagle](https://github.com/hacdias/eagle) and [indielib](https://github.com/hacdias/indielib): a Go backend and IndieWeb toolkit (IndieAuth, Micropub, and Microformats) powering my personal website, where I experiment with different open web protocols, such as AT Protocol, ActivityPub, and Webmentions.
 
 {{</ resume-position >}}
 
