@@ -71,8 +71,13 @@
     color: var(--c);
     break-after: avoid;
     line-height: 1.5;
-    border-bottom: 1px solid var(--fg);
+    border-bottom: 0.5px solid var(--fg);
     margin: 1rem 0 0.5rem;
+    font-size: 1.25rem;
+  }
+
+  h3, h4 {
+    font-size: 1rem;
   }
 
   .resume-position > div  {
