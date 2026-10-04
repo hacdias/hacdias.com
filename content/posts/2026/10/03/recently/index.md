@@ -1,14 +1,18 @@
 ---
-title: "Recently in September '26"
+title: Recently in September '26
 date: 2026-10-03T08:09:31+02:00
 categories:
-- writings
+  - writings
 tags:
-- now
-- life
-- heath
-- reading
-- entertainment
+  - now
+  - life
+  - heath
+  - reading
+  - entertainment
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mwx7yzpza2et
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mwx7yzpza2et
+  - https://fosstodon.org/@hacdias/117375488461097542
 ---
 
 September has been an extremely eventful month, especially the past weeks, and I'm sure it doesn't stop here. The next two months will probably also be a bit chaotic. While I'm not yet ready to share all of it, let's take a look at some of the things that happened in September.
