@@ -10,6 +10,20 @@
       "location": "Eindhoven, NL",
       "website": "https://sproutcoffeeroasters.art/"
     },
+    "date": "2026-10-06"
+  },
+  {
+    "name": "Pitcher Perfect",
+    "origin": "Colombia, Ethiopia",
+    "roast": "Medium",
+    "process": "Washed, Natural",
+    "variety": "Castillo, Heirloom",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "rating": 7,
     "date": "2026-09-13"
   },
   {
