@@ -2,6 +2,10 @@
 #   season:
 #   date:
 #   rating:
+- name: Industry
+  season: 1
+  rating: 7
+  date: 2026-10-09
 - name: 'DTF St. Louis'
   season: 1
   rating: 8
