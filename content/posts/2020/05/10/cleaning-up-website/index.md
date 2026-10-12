@@ -1,6 +1,7 @@
 ---
 title: Cleaning up My Website
-description: Just finished cleaning up my website a bit more and getting rid of a bit of noise that I didn't think was needed.
+description: Just finished cleaning up my website a bit more and getting rid of a
+  bit of noise that I didn't think was needed.
 date: 2020-05-10T23:20:00+01:00
 categories:
   - writings
@@ -8,6 +9,7 @@ tags:
   - meta
   - personal website
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3h7eekszd22cd
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3h7eekszd22ct
 ---
 
