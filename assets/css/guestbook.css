@@ -1,12 +1,3 @@
-#main {
-  max-width: 100%;
-}
-
-#main article,
-#guestbook-form {
-  max-width: calc(var(--max-width) - 2 * var(--s3));
-}
-
 .entries {
   display: grid;
   display: grid-lanes;

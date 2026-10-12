@@ -11,10 +11,6 @@ body {
   background-attachment: fixed;
 }
 
-#header,
-#sidebar,
-#navbar,
-#main,
-#footer {
+#container {
   background: var(--bg);
 }

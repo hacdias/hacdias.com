@@ -12,7 +12,6 @@ Here you can find a list of every page that did not fit in the main navigation b
 - [📢 Appearances](/appearances/)
 - [🎓 Resume](/resume/)
 - [💰 Support](/support/)
-- [🔑 PGP Key](/pubkey.asc)
 {.buttons #more-list}
 
 I track - maybe too many - things. Over the years, I've been replacing [silos](https://indieweb.org/silo) with this website. Below are all the things I log around here. In the future, I might use some [AT Protocol](/2026/02/08/atmosphere/) based tools for some of these things, but integrating, not siloing.

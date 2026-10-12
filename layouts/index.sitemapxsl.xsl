@@ -15,8 +15,8 @@
         {{ partialCached "assets/js.html" . }}
         <div id='container'>
           {{ partial "base/header" . }}
+          {{ partial "base/contacts" . }}
           {{ partial "base/navigation" . }}
-          {{ partial "base/sidebar" . }}
           <main id='main'>
             <header>
               <h1>Sitemap</h1>

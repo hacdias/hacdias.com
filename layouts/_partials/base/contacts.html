@@ -1,0 +1,5 @@
+<nav id='contacts' class='lg' aria-label='Contacts'>
+  {{ range .Site.Menus.contacts -}}
+    <a href='{{ .URL }}'>{{ .Name }}</a>
+  {{ end }}
+</nav>
