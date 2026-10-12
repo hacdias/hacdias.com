@@ -12,6 +12,6 @@ I'm a software engineer from Portugal 🇵🇹, living in The Netherlands 🇳�
 
 <div class="box">
 
-💻 I'm looking for my next role, starting in January, or sooner. Remote, or hybrid around Eindhoven. I'm mostly interested in developer tools, infrastructure, and places where open source is part of the work. Have a look at [my resume](/resume/), or [get in touch](mailto:mail@hacdias.com).
+💼 I'm looking for my next role, starting in January, or sooner. Remote, or hybrid around Eindhoven. I'm mostly interested in developer tools, infrastructure, and places where open source is part of the work. Have a look at [my resume](/resume/), or [get in touch](mailto:mail@hacdias.com).
 
 </div>
