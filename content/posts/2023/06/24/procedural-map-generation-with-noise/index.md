@@ -1,6 +1,7 @@
 ---
 title: Procedural Map Generation With Noise
-description: Using JavaScript and Perlin and Simplex noise to procedurally generate a map with different biomes.
+description: Using JavaScript and Perlin and Simplex noise to procedurally generate
+  a map with different biomes.
 date: 2023-06-24T09:17:30+02:00
 categories:
   - writings
@@ -9,6 +10,7 @@ tags:
   - creative
   - javascript
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3jyvfokzho2cd
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jyvfokzho25c
   - https://fosstodon.org/@hacdias/110598001232151147
 aliases:

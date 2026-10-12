@@ -7,6 +7,7 @@ tags:
   - meta
   - security
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3jy4ys66mdecd
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jy4ys66mde5c
 ---
 
