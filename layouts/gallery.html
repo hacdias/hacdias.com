@@ -23,8 +23,9 @@
 
   .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
     grid-gap: var(--s2);
+    align-items: center;
   }
 
   .grid figure {
@@ -32,7 +33,6 @@
   }
 
   .grid img {
-    aspect-ratio: 1;
     object-fit: scale-down;
     border-radius: 0;
   }
@@ -50,13 +50,22 @@
 
   <main>
     {{- $page := .Site.GetPage .Params.layoutPage -}}
-    <p style='margin: 0 0 2rem 0;'><a href='{{ $page.RelPermalink }}'>← {{ $page.Title }}</a></p>
+    <p style='margin: 0 0 var(--s2) 0;'><a href='{{ $page.RelPermalink }}'>← {{ $page.Title }}</a></p>
 
     <div class='grid'>
       {{ range $page := $page.Pages }}
         {{ range $photo := .Params.photos }}
           <a href='{{ $page.RelPermalink }}'>
-            {{ partial "helpers/figure" (dict "Destination" $photo.url "Title" $photo.title "Alt" $photo.alt "IsBlock" true "Sizes" (slice 600 900) "Page" $page)}}
+            {{ partial "helpers/figure" (dict
+              "Destination" $photo.url 
+              "Title" $photo.title
+              "Alt" $photo.alt
+              "Width" $photo.width
+              "Height" $photo.height 
+              "IsBlock" true 
+              "Sizes" (slice 600 900) 
+              "Page" $page
+            )}}
           </a>
         {{ end }}
       {{ end }}
