@@ -1,21 +1,56 @@
-{{ define "main" }}
-  <style>{{ (resources.Get "css/gallery.css").Content | safeCSS }}</style>
-  {{- $page := .Site.GetPage .Params.layoutPage -}}
+<!DOCTYPE html>
+<html lang='{{ .Site.Language }}' class='dark'>
+<head>
+  {{ partial "base/head" . }}
+</head>
+<body>
+  <style>
+  :root {
+    --c-h: 0;
+    --c-s: 0%;
+    --c-l: 10%;
+  }
 
-  <header>
-    <p class='lg small'><a href='{{ $page.RelPermalink }}' class='nl'>← {{ $page.Title }}</a></p>
-    <h1>Archive</h1>
-  </header>
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --c-l: 70%;
+    }
+  }
 
-  {{ partialCached "post/content" . .Permalink }}
+  main {
+    padding: var(--s2);
+  }
 
-  <div class='grid'>
-    {{ range $page := $page.Pages }}
-      {{ range $photo := .Params.photos }}
-        <a href='{{ $page.RelPermalink }}'>
-          {{ partial "helpers/figure" (dict "Destination" $photo.url "Title" $photo.title "Alt" $photo.alt "IsBlock" true "Sizes" (slice 600 900) "Page" $page)}}
-        </a>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    grid-gap: var(--s2);
+  }
+
+  .grid figure {
+    margin: 0;
+  }
+
+  .grid img {
+    aspect-ratio: 1;
+    object-fit: scale-down;
+    border-radius: 0;
+  }
+  </style>
+
+  <main>
+    {{- $page := .Site.GetPage .Params.layoutPage -}}
+    <p style='margin: 0 0 2rem 0;'><a href='{{ $page.RelPermalink }}'>← {{ $page.Title }}</a></p>
+
+    <div class='grid'>
+      {{ range $page := $page.Pages }}
+        {{ range $photo := .Params.photos }}
+          <a href='{{ $page.RelPermalink }}'>
+            {{ partial "helpers/figure" (dict "Destination" $photo.url "Title" $photo.title "Alt" $photo.alt "IsBlock" true "Sizes" (slice 600 900) "Page" $page)}}
+          </a>
+        {{ end }}
       {{ end }}
-    {{ end }}
-  </div>
-{{ end }}
+    </div>
+  </main>
+</body>
+</html>
