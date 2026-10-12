@@ -11,11 +11,7 @@ body {
   background-position: center;
 }
 
-#header,
-#sidebar,
-#navbar,
-#main,
-#footer {
+#container {
   background: var(--bg);
 }
 

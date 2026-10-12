@@ -1,6 +1,6 @@
 :root {
   /* Font sizes: https://type-scale.com/, Minor Third */
-  --f1: 2.074rem;
+  --f1: 2.33rem;
   --f2: 1.728rem;
   --f3: 1.44rem;
   --f4: 1rem;
@@ -33,7 +33,7 @@
   --s1: 0.5rem;
 
   /* Others */
-  --max-width: 50rem;
+  --max-width: 48rem;
   --border: 1px;
   --radius: 0.4rem;
 }
@@ -58,6 +58,7 @@ html {
     arial,
     sans-serif;
   line-height: 1.5;
+  font-size: clamp(1rem, 0.9375rem + 0.15625vw, 1.0625rem);
 }
 
 body {
@@ -181,8 +182,8 @@ a:visited {
 .nl:visited,
 #navbar a,
 #navbar a:visited,
-#sidebar a,
-#sidebar a:visited {
+#contacts a,
+#contacts a:visited {
   text-decoration: none;
   color: inherit;
 }
@@ -193,8 +194,8 @@ a:active,
 a:hover,
 #navbar a:active,
 #navbar a:hover,
-#sidebar a:active,
-#sidebar a:hover {
+#contacts a:active,
+#contacts a:hover {
   color: var(--c);
 }
 
@@ -358,34 +359,19 @@ details summary {
 }
 
 #container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--s2);
   display: grid;
-  grid-template-columns: max-content 1fr;
-  grid-template-rows: max-content 1fr max-content;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: max-content max-content 1fr max-content;
   min-height: 100dvh;
 }
 
-#header,
-#sidebar {
-  border-right: var(--border) solid var(--fg);
-  padding: 0 var(--s3);
-}
-
-#sidebar {
-  grid-row: span 2;
-}
-
-#sidebar p {
-  margin-top: var(--s2);
-}
-
-#sidebar ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-#header,
-#navbar {
-  border-bottom: var(--border) solid var(--fg);
+#navbar,
+#main,
+#footer {
+  grid-column: 1 / -1;
 }
 
 #header > a {
@@ -397,18 +383,10 @@ details summary {
   user-select: none;
 }
 
-#header .monogram {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+#header .photo {
   width: 3rem;
   height: 3rem;
-  background: var(--c);
-  color: var(--bg);
-  font-weight: 900;
   border-radius: var(--radius);
-  font-size: var(--f1);
-  letter-spacing: -0.03em;
   margin-right: var(--s1);
 }
 
@@ -422,32 +400,47 @@ details summary {
   line-height: 1.3;
 }
 
+#contacts {
+  margin-left: auto;
+}
+
 #navbar {
+  border-top: var(--border) solid var(--fg);
+  border-bottom: var(--border) solid var(--fg);
+}
+
+#navbar,
+#contacts {
   display: flex;
   align-items: center;
-  padding: 0 var(--s3);
   white-space: nowrap;
   overflow: auto;
   flex-wrap: nowrap;
+  gap: var(--s2);
+}
+
+#navbar a,
+#contacts a {
+  flex-shrink: 0;
+  padding: var(--s2) 0;
 }
 
 #navbar a {
-  font-weight: bold;
-  margin-right: var(--s3);
+  border-bottom: 2px solid transparent;
+  font-weight: 700;
+}
+
+#navbar a:last-child {
+  margin-left: auto;
 }
 
 #navbar a[aria-current='page'] {
   color: var(--c);
-}
-
-#main {
-  max-width: var(--max-width);
-  padding: 0 var(--s3);
+  border-color: var(--c);
 }
 
 #footer {
-  max-width: var(--max-width);
-  padding: var(--s1) var(--s3);
+  padding: var(--s1) 0;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -914,7 +907,7 @@ figure,
   }
 }
 
-@media screen and (max-width: 60rem) {
+@media screen and (max-width: 50rem) {
   :root {
     --s3: 1rem;
     --max-width: 100%;
@@ -930,59 +923,24 @@ figure,
   #container {
     grid-template-columns: 100%;
     grid-template-rows: max-content max-content 1fr max-content max-content;
+    padding: 0;
+  }
+
+  #container > * {
+    padding-inline: var(--s2);
   }
 
   #header,
-  #sidebar {
-    border-right: 0;
-    border-bottom: var(--border) solid var(--fg);
-  }
-
   #navbar,
-  #sidebar {
-    padding: 0 var(--s2);
-    border-right: 0;
+  #contacts {
+    border-bottom: var(--border) solid var(--fg);
+    border-top: 0;
   }
 
-  #sidebar {
-    white-space: nowrap;
-    overflow: auto;
+  #contacts {
+    margin: 0;
     grid-row: 4;
     border-top: var(--border) solid var(--fg);
-  }
-
-  #sidebar p {
-    display: inline;
-    margin-right: var(--s2);
-  }
-
-  #sidebar ul {
-    display: inline;
-  }
-
-  #navbar a {
-    padding: var(--s2) 0;
-    flex-shrink: 0;
-    border-bottom: 2px solid transparent;
-  }
-
-  #navbar a[aria-current='page'] {
-    border-color: var(--c);
-  }
-
-  #sidebar ul li {
-    display: inline-block;
-    margin: 0;
-  }
-
-  #sidebar ul li a {
-    display: inline-block;
-    padding: var(--s2) 0;
-    margin-right: var(--s2);
-  }
-
-  #footer {
-    grid-column: auto;
   }
 
   .tb,
@@ -1020,7 +978,7 @@ figure,
 
   #header,
   #navbar,
-  #sidebar,
+  #contacts,
   #footer {
     display: none;
   }

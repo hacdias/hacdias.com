@@ -45,7 +45,7 @@
   margin-top: var(--s1);
 }
 
-@media screen and (max-width: 60rem) {
+@media screen and (max-width: 50rem) {
   .resume-position > div {
     grid-template-columns: 1fr max-content;
   }

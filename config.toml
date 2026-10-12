@@ -52,43 +52,30 @@ printPathWarnings = true
   pageRef = '/guestbook'
   weight = 4
 [[menu.main]]
-  name = '🔎 Search'
-  pageRef = '/search'
-  weight = 5
-[[menu.main]]
   name = '🌈 More'
   pageRef = '/more'
+  weight = 5
+[[menu.main]]
+  name = '🔎 Search'
+  pageRef = '/search'
   weight = 6
 
-[[menu.contact]]
-  name = '✉️ Email'
+[[menu.contacts]]
+  name = 'Email'
   url = 'mailto:mail@hacdias.com'
   weight = 1
-[[menu.contact]]
-  name = '💬 Signal'
-  url = 'https://signal.me/#eu/NpDa7rvcj4CAXsiOpHqM2ADYyxXXmGTKr3HBXNPZXDPJ2JEgvBVPyJJah27RJe66'
-  weight = 2
-
-[[menu.elsewhere]]
-  name = '🦋 Bluesky'
+[[menu.contacts]]
+  name = 'Bluesky'
   url = 'https://bsky.app/profile/hacdias.com'
-  weight = 1
-[[menu.elsewhere]]
-  name = '🐙 GitHub'
-  url = 'https://github.com/hacdias'
   weight = 2
-[[menu.elsewhere]]
-  name = '📷 Instagram'
-  url = 'https://instagram.com/hacdias'
+[[menu.contacts]]
+  name = 'GitHub'
+  url = 'https://github.com/hacdias'
   weight = 3
-[[menu.elsewhere]]
-  name = '🐘 Mastodon'
-  url = 'https://fosstodon.org/@hacdias'
-  weight = 4
-[[menu.elsewhere]]
-  name = '💼 LinkedIn'
+[[menu.contacts]]
+  name = 'LinkedIn'
   url = 'https://linkedin.com/in/hacdias'
-  weight = 5
+  weight = 4
 
 [params]
   [params.site]

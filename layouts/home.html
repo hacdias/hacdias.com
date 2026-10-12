@@ -5,22 +5,16 @@
     <h1><span id='hello'>Hi, I'm <span style="color: var(--c)">Henrique</span>!</span> 👋</h1>
   </header>
 
-  <div class='intro'>
-    {{- partialCached "post/content" . .Permalink -}}
-  </div>
+  {{- partialCached "post/content" . .Permalink -}}
 
   <div class='h-feed'>
-    <div>
-      {{- $writings := .Site.GetPage "/categories/writings" -}}
-      <h2 id="freshly-planted"><a href='{{ $writings.RelPermalink }}' class='nl' title='Or at least once upon a time fresh...'>🌿 Freshly Planted <span class='lg'>⇢</span></a></h2>
-      {{- partial "logs" (dict "Pages" (first 25 $writings.Pages) "WithMicroformats" true) -}}
-    </div>
+    {{- $writings := .Site.GetPage "/categories/writings" -}}
+    <h2 id="freshly-planted"><a href='{{ $writings.RelPermalink }}' class='nl' title='Or at least once upon a time fresh...'>🌿 Freshly Planted <span class='lg'>⇢</span></a></h2>
+    {{- partial "logs" (dict "Pages" (first 8 $writings.Pages) "WithMicroformats" true) -}}
 
-    <div>
-      {{- $photos := .Site.GetPage "/categories/photos" -}}
-      <h2 id="freshly-captured"><a href='{{ $photos.RelPermalink }}' class='nl'>📸 Freshly Captured <span class='lg'>⇢</span></a></h2>
-      {{- template "index.photos" (dict "pages" (first 20 $photos.Pages)) -}}
-    </div>
+    {{- $photos := .Site.GetPage "/categories/photos" -}}
+    <h2 id="freshly-captured"><a href='{{ $photos.RelPermalink }}' class='nl'>📸 Freshly Captured <span class='lg'>⇢</span></a></h2>
+    {{- template "index.photos" (dict "pages" (first 8 $photos.Pages)) -}}
   </div>
 
   <div class='h-card' hidden>
