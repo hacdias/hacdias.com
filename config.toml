@@ -36,27 +36,27 @@ printPathWarnings = true
 
 [menu]
 [[menu.main]]
-  name = '🧁 About'
+  name = 'About'
   pageRef = '/about'
   weight = 1
 [[menu.main]]
-  name = '✏️ Writings'
+  name = 'Writings'
   pageRef = '/categories/writings'
   weight = 2
 [[menu.main]]
-  name = '📷 Photos'
+  name = 'Photos'
   pageRef = '/categories/photos'
   weight = 3
 [[menu.main]]
-  name = '📖 Guestbook'
+  name = 'Guestbook'
   pageRef = '/guestbook'
   weight = 4
 [[menu.main]]
-  name = '🌈 More'
+  name = 'More'
   pageRef = '/more'
   weight = 5
 [[menu.main]]
-  name = '🔎 Search'
+  name = 'Search'
   pageRef = '/search'
   weight = 6
 
