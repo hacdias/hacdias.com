@@ -36,6 +36,16 @@
     object-fit: scale-down;
     border-radius: 0;
   }
+
+  @supports (display: grid-lanes) {
+    .grid {
+      display: grid-lanes;
+    }
+
+    .grid img {
+      aspect-ratio: auto;
+    }
+  }
   </style>
 
   <main>
