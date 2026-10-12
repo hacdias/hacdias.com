@@ -1,4 +1,7 @@
 <nav id='contacts' class='lg' aria-label='Contacts'>
+  <a class='available' href='{{ relURL "/resume/" }}' title='Available for new roles: see my resume'>
+    <span class='dot' aria-hidden='true'></span>Open To Work
+  </a>
   {{ range .Site.Menus.contacts -}}
     <a href='{{ .URL }}'>{{ .Name }}</a>
   {{ end }}

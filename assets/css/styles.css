@@ -417,7 +417,6 @@ details summary {
   display: flex;
   align-items: center;
   white-space: nowrap;
-  overflow: auto;
   flex-wrap: nowrap;
   gap: var(--s2);
 }
@@ -942,6 +941,11 @@ figure,
     border-top: 0;
   }
 
+  #navbar,
+  #contacts {
+    overflow: auto;
+  }
+
   #contacts {
     margin: 0;
     grid-row: 4;
@@ -990,5 +994,44 @@ figure,
 
   a:hover {
     background: none;
+  }
+}
+
+#contacts a.available {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  color: #2f9e44;
+  font-weight: 700;
+}
+
+#contacts a.available:hover {
+  color: var(--c);
+}
+
+#contacts .available .dot {
+  flex-shrink: 0;
+  width: 0.5em;
+  height: 0.5em;
+  border-radius: 50%;
+  background: #2f9e44;
+  animation: available-pulse 2.4s ease-out infinite;
+}
+
+@keyframes available-pulse {
+  0%   { box-shadow: 0 0 0 0 rgb(47 158 68 / 0.4); }
+  70%  { box-shadow: 0 0 0 0.3em rgb(47 158 68 / 0); }
+  100% { box-shadow: 0 0 0 0 rgb(47 158 68 / 0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #contacts .available .dot {
+    animation: none;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  #contacts .available .dot {
+    background: #40c057;
   }
 }
