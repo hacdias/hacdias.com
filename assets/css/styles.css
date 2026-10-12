@@ -9,16 +9,19 @@
   /* Colors */
   --text: #1a1a1a;
   --light-text: #555;
-  --c-h: 223;
-  --c-s: 50%;
-  --c-l: 43%;
+
+  --c-h: 14;
+  --c-s: 62%;
+  --c-l: 42%;
+  --n-h: 20;
+  --n-s: 10%;
   --c: hsl(var(--c-h), var(--c-s), var(--c-l));
   --bg-l: 98%;
-  --bg: hsl(var(--c-h), var(--c-s), var(--bg-l));
+  --bg: hsl(var(--n-h), var(--n-s), var(--bg-l));
   --mg-l: 96%;
-  --mg: hsl(var(--c-h), var(--c-s), var(--mg-l));
+  --mg: hsl(var(--n-h), var(--n-s), var(--mg-l));
   --fg-l: 90%;
-  --fg: hsl(var(--c-h), var(--c-s), var(--fg-l));
+  --fg: hsl(var(--n-h), var(--n-s), var(--fg-l));
 
   /* Highlight colors */
   --h-a: #1c01ce;
@@ -885,19 +888,21 @@ figure,
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --c-h: 200;
-    --c-s: 100%;
-    --c-l: 40%;
-    --fg-l: 15%;
-    --mg-l: 9%;
-    --bg-l: 2%;
-    --text: #eee;
-    --light-text: #fefefe;
+    --c-h: 16;
+    --c-s: 70%;
+    --c-l: 62%;
+    --n-h: 20;
+    --n-s: 6%;
+    --bg-l: 8%;
+    --mg-l: 11%;
+    --fg-l: 19%;
+    --text: hsl(30, 15%, 90%);
+    --light-text: hsl(25, 6%, 66%);
 
     --h-a: #d0bf69;
-    --h-b: #fc6a5d;
+    --h-b: #98c379;
     --h-c: #d0a8ff;
-    --h-d: #6c7986;
+    --h-d: #8a8580;
     --h-e: #fd8f3f;
   }
 
