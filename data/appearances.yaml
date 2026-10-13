@@ -1,11 +1,3 @@
-- name: Using Lists of Trusted Entities (LoTE) in Paradym
-  date: 2026-10-07
-  url: https://www.youtube.com/watch?v=sr3Z1uCDHK4
-
-- name: Issue Verifiable Credentials with OAuth2 Login (a Paradym Showcase)
-  date: 2026-03-12
-  url: https://www.youtube.com/watch?v=6NJCTI9LpIQ
-
 - name: "IPIP-0428: Allowing V2-Only Records in IPNS"
   publication: IPFS Standards
   date: 2023-07-25
