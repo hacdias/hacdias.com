@@ -1,14 +1,18 @@
 ---
 title: Sobering Up My Website's Design
 date: 2026-10-13T20:35:30+02:00
-thumbnail: image:2026-10-13-redesign-1
 categories:
-- writings
+  - writings
 tags:
-- meta
-- personal website
-- design
-- artificial intelligence
+  - meta
+  - personal website
+  - design
+  - artificial intelligence
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mxroe5ts62ay
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mxroe5ts62ay
+  - https://fosstodon.org/@hacdias/117435043768481440
+thumbnail: image:2026-10-13-redesign-1
 ---
 
 If you're reading this on your phone, you probably won't notice much of a difference, except maybe for the accent color. On a computer, though, quite a lot has changed since your last visit. If you're reading this in an RSS reader, please check it out!
