@@ -79,3 +79,9 @@
     border-color: rgba(255, 255, 255, 0.05);
   }
 }
+
+@media screen and (min-width: 50rem) {
+  .entries {
+    margin-inline: calc(50% - min(50vw - 1rem, 40rem));
+  }
+}
