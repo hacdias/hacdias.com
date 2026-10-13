@@ -28,11 +28,11 @@
 
 @media screen and (max-width: 50rem) {
   #container {
-    grid-template-rows: max-content max-content max-content 1fr max-content;
+    grid-template-rows: auto auto auto 1fr auto;
+    grid-template-areas: 'header' 'nav' 'contacts' 'main' 'footer';
   }
 
   #contacts {
-    grid-row: 3;
     border-top: none;
   }
 }
