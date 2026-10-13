@@ -409,6 +409,27 @@ details summary {
   grid-area: contacts;
 }
 
+#contacts a.available {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  color: #2f9e44;
+  font-weight: 700;
+}
+
+#contacts a.available:hover {
+  color: var(--c);
+}
+
+#contacts .available .dot {
+  flex-shrink: 0;
+  width: 0.5em;
+  height: 0.5em;
+  border-radius: 50%;
+  background: #2f9e44;
+  animation: available-pulse 2.4s ease-out infinite;
+}
+
 #navbar {
   grid-area: nav;
   border-top: var(--border) solid var(--fg);
@@ -918,6 +939,10 @@ figure,
     background: rgba(0, 0, 0, 0.9);
     color: white;
   }
+
+  #contacts .available .dot {
+    background: #40c057;
+  }
 }
 
 @media screen and (max-width: 50rem) {
@@ -1011,27 +1036,6 @@ figure,
   }
 }
 
-#contacts a.available {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4em;
-  color: #2f9e44;
-  font-weight: 700;
-}
-
-#contacts a.available:hover {
-  color: var(--c);
-}
-
-#contacts .available .dot {
-  flex-shrink: 0;
-  width: 0.5em;
-  height: 0.5em;
-  border-radius: 50%;
-  background: #2f9e44;
-  animation: available-pulse 2.4s ease-out infinite;
-}
-
 @keyframes available-pulse {
   0% {
     box-shadow: 0 0 0 0 rgb(47 158 68 / 0.4);
@@ -1047,11 +1051,5 @@ figure,
 @media (prefers-reduced-motion: reduce) {
   #contacts .available .dot {
     animation: none;
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  #contacts .available .dot {
-    background: #40c057;
   }
 }
