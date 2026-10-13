@@ -1,6 +1,8 @@
 ---
 title: Something About the Future. Is It Real? Does It Exist?
-description: Is the future real? Does it exist? Who are we? What are we going to be? Time? Death. Is that real? What's the difference from life? Some interesting questions no one can answer.
+description: Is the future real? Does it exist? Who are we? What are we going to be?
+  Time? Death. Is that real? What's the difference from life? Some interesting questions
+  no one can answer.
 date: 2015-08-19T08:30:00Z
 categories:
   - writings

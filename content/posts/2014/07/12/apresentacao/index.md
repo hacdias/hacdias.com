@@ -1,6 +1,7 @@
 ---
 title: Apresentação
-description: Uma pequena apresentação sobre o blog e sobre o que quero fazer com ele. Quem sou eu? Que escreverei neste blog? Saberás tudo ao ler!
+description: Uma pequena apresentação sobre o blog e sobre o que quero fazer com ele.
+  Quem sou eu? Que escreverei neste blog? Saberás tudo ao ler!
 date: 2014-07-12T14:05:48Z
 categories:
   - writings
@@ -8,6 +9,7 @@ tags:
   - meta
   - portugues
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3bxzyb2dds2cd
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3bxzyb2dds2ct
 ---
 
