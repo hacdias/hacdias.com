@@ -2,7 +2,7 @@
   <style>{{ (resources.Get "css/home.css").Content | safeCSS }}</style>
 
   <header>
-    <h1><span id='hello'>Hi, I'm <span style="color: var(--c)">Henrique</span>!</span> 👋</h1>
+    <h1 aria-label="Hi, I'm Henrique!"><span id='hello'>Hi, I'm <span style="color: var(--c)">Henrique</span>!</span> 👋</h1>
   </header>
 
   {{- partialCached "post/content" . .Permalink -}}

@@ -17,11 +17,6 @@
   transition: 0.2s ease all;
 }
 
-#main .fg > div:hover {
-  padding: var(--s1);
-  transform: rotate(1deg) scale(1.02);
-}
-
 @media screen and (max-width: 50rem) {
   #container {
     grid-template-rows: auto auto auto 1fr auto;
@@ -30,5 +25,12 @@
 
   #contacts {
     border-top: none;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  #main .fg > div:hover {
+    padding: var(--s1);
+    transform: rotate(1deg) scale(1.02);
   }
 }
