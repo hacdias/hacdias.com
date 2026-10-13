@@ -10,8 +10,8 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3leoq33or42f4
 ---
 
-![](https://media.hacdias.com/2021-02-01-popcorn.gif "Popcorn")
-{.right .pixelated style="max-width: 100px"}
+![](https://media.hacdias.com/2026-02-23-popcorn.gif "Popcorn")
+{.right .pixelated style="max-width: 4rem"}
 
 Now that the last year has ended, I can finally collect all the data from the different services, and start my yearly analysis. This year, we're starting with the "Year in Popcorn". In contrary to [last year](/2024/01/05/year-in-popcorn/), I brought back the plots by reusing both the data from my website for the movies, and the data from Trakt for the series. 
 
