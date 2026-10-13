@@ -141,7 +141,7 @@ h4,
 h5 {
   font-weight: 900;
   line-height: 1.3;
-  margin: 2rem 0 0.5rem 0;
+  margin: 2rem 0 1rem 0;
 }
 
 h1 {
@@ -282,7 +282,7 @@ textarea {
 hr {
   border: 0;
   border-top: var(--border) solid var(--fg);
-  margin: 1.2em auto;
+  margin: var(--s2) auto;
 }
 
 ul,
