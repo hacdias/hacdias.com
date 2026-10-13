@@ -950,6 +950,15 @@ figure,
   #navbar,
   #contacts {
     overflow: auto;
+    padding-right: 2.5rem;
+    mask:
+      linear-gradient(to left, transparent, #000 2.5rem),
+      linear-gradient(#000 0 0) top / 100% 1px no-repeat,
+      linear-gradient(#000 0 0) bottom / 100% 1px no-repeat;
+  }
+
+  #navbar a:last-child {
+    margin-left: 0;
   }
 
   #contacts {
