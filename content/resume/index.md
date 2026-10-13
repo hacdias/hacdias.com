@@ -24,7 +24,7 @@ noIndex: true
 
 </div>
 
-Senior Software Engineer building open source systems and products in Go and TypeScript. Spent six and a half years at Protocol Labs on IPFS, a peer-to-peer file network, from Go services handling hundreds of millions of daily requests to a desktop app with 2.4M+ downloads. Created File Browser, a self-hosted file manager with 35K+ GitHub stars and 100M+ downloads. Now building products around the EU Digital Identity Wallet standards, from protocol libraries to a SaaS platform.
+Senior Software Engineer building open source systems and products in Go and TypeScript. Spent six and a half years at Protocol Labs on IPFS, from high-traffic Go services to a widely used desktop app. Created File Browser (35K+ GitHub stars, 100M+ downloads). Now building products around the EU Digital Identity Wallet standards.
 
 <small>**Technologies**: Go, TypeScript, Node.js, React, React Native, GraphQL, PostgreSQL, Redis, Docker, OpenTelemetry<br>
 **Languages** (fluent): English, Dutch, Portuguese</small>
