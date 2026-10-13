@@ -25,7 +25,7 @@
 
   /* Highlight colors */
   --h-a: #1c01ce;
-  --h-b: #c41a16;
+  --h-b: #0b6e8a;
   --h-c: #a90d91;
   --h-d: #177500;
   --h-e: #633820;
@@ -295,6 +295,22 @@ main header p {
   margin: 0;
 }
 
+.header-link {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0 var(--s2);
+}
+
+.header-link > :is(h1, h2) {
+  margin: 0;
+}
+
+.header-link:has(> h2) {
+  margin: 2rem 0 1rem;
+}
+
 main footer .tb,
 main .tb.p-read-of {
   grid-template-columns: 6rem 1fr;
@@ -370,7 +386,6 @@ details summary {
   padding: 0;
   text-decoration: none;
   margin: var(--s2) 0;
-  user-select: none;
 }
 
 #header .photo {
@@ -392,7 +407,6 @@ details summary {
 
 #contacts {
   grid-area: contacts;
-  margin-left: auto;
 }
 
 #navbar {
@@ -408,6 +422,7 @@ details summary {
   white-space: nowrap;
   flex-wrap: nowrap;
   gap: var(--s2);
+  scrollbar-width: none;
 }
 
 #navbar a,
@@ -509,7 +524,6 @@ main pre {
 }
 
 .card .extra span {
-  content: var(--extra);
   position: absolute;
   top: 0;
   left: 0;
@@ -875,6 +889,11 @@ figure,
   font-weight: 700;
 }
 
+:focus-visible {
+  outline: 2px solid var(--c);
+  outline-offset: 2px;
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --c-h: 16;
@@ -934,7 +953,6 @@ figure,
   }
 
   #contacts {
-    margin: 0;
     border-top: var(--border) solid var(--fg);
   }
 
@@ -965,7 +983,7 @@ figure,
     border: 0;
   }
 
-  .container {
+  #container {
     width: 100%;
     max-width: 100%;
     margin: 0;
@@ -1027,20 +1045,4 @@ figure,
   #contacts .available .dot {
     background: #40c057;
   }
-}
-
-.header-link {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 0 var(--s2);
-}
-
-.header-link > :is(h1, h2) {
-  margin: 0;
-}
-
-.header-link:has(> h2) {
-  margin: 2rem 0 1rem;
 }
