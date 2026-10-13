@@ -181,24 +181,12 @@ a:visited {
   transition: all 0.2s ease;
 }
 
-.nl,
-.nl:visited,
-#navbar a,
-#navbar a:visited,
-#contacts a,
-#contacts a:visited {
+.nl {
   text-decoration: none;
-  color: inherit;
 }
 
-.nl:active,
-.nl:hover,
 a:active,
-a:hover,
-#navbar a:active,
-#navbar a:hover,
-#contacts a:active,
-#contacts a:hover {
+a:hover {
   color: var(--c);
 }
 
@@ -430,6 +418,7 @@ details summary {
 #contacts a {
   flex-shrink: 0;
   padding: var(--s2) 0;
+  text-decoration: none;
 }
 
 #navbar a {
@@ -930,10 +919,6 @@ figure,
     --f3: 1.2rem;
   }
 
-  .nl {
-    text-decoration: underline;
-  }
-
   #container {
     grid-template-columns: 100%;
     grid-template-rows: auto auto 1fr auto auto;
@@ -974,6 +959,7 @@ figure,
     text-wrap: wrap;
   }
 
+  .tb .nl,
   .tb summary > *:first-child {
     text-decoration: underline;
   }
