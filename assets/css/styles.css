@@ -386,6 +386,7 @@ details summary {
   padding: 0;
   text-decoration: none;
   margin: var(--s2) 0;
+  width: fit-content;
 }
 
 #header .photo {
