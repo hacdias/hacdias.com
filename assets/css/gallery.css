@@ -1,0 +1,24 @@
+.archive {
+  grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+}
+
+.archive img {
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+@supports (display: grid-lanes) {
+  .archive {
+    display: grid-lanes;
+  }
+
+  .archive img {
+    aspect-ratio: auto;
+  }
+}
+
+@media screen and (min-width: 50rem) {
+  .archive {
+    margin-inline: calc(50% - min(50vw - 1rem, 40rem));
+  }
+}
