@@ -36,7 +36,7 @@ This summer we're attending a wedding in Portugal, and I really didn't want to a
 
 But. And it's a big but. I think that, for me, driving with an instructor of *any* sort, will make me even more anxious. So I decided I wanted to drive before the lesson, just to see if I still could do it. Sort of.
 
-I installed a few car sharing apps that are available here: Greenwheels and MyWheels. It turns out all cars available in Eindhoven are electric. I assume there's some deal with the municipality, because on other cities there's a lot of diesel (en non-automatic) cars.
+I installed a few car sharing apps that are available here: Greenwheels and MyWheels. It turns out all cars available in Eindhoven are electric. I assume there's some deal with the municipality, because on other cities there's a lot of diesel (and non-automatic) cars.
 
 I've never driven automatic, but I assumed it was just easier. Anyways, it wasn't a manual car - which I'll need to drive in Portugal -, but it was still a car. Last Saturday, I decided to take it for a test drive, and Chris came with me.
 
@@ -46,11 +46,11 @@ Anyways, for the first drive we just drove a bit around Eindhoven, went to a sub
 
 Now I think it's mostly a confidence issue, and the fact that most of my driving experience is with having an instructor next to me that was sometimes a bit too harsh. Yesterday we also visited Chris parents with the same car.
 
-In total, I've driven around 200km this weekend and it went just fine. Considering I hadn't driven for 5 years, I'm very surprised on how *smooth* it actually was. I think not having to bother about gears - and an instructor - helped me, but I'm sure that a car with gears will also be fine. After all, that's what I learned to drive. This last two days were just a glitch in the matrix.
+In total, I've driven around 200km this weekend and it went just fine. Considering I hadn't driven for 5 years, I'm very surprised on how *smooth* it actually was. I think not having to bother about gears - and an instructor - helped me, but I'm sure that a car with gears will also be fine. After all, that's what I learned to drive. These last two days were just a glitch in the matrix.
 
 At this point, you're thinking: what's the point of the lesson then? Good question. I could just go to another city, and rent a manual car there and go for a drive. But I've already paid for the lesson, so I can't go back. I think it's still good. I have an hour and fifteen minutes lesson in about one and a half week.
 
-I think I'll ask the instructor mostly to do a refresher on the different types of parking. I had to parallel parking uphill - thanks Lisbon - during my driving exam and it was a nightmare. But I did it, so I'm sure I can do it again. Not just parking, but the lesson will also be in a manual car, so that's also good for refreshing and *feeling* the car.
+I think I'll ask the instructor mostly to do a refresher on the different types of parking. I had to parallel park uphill - thanks Lisbon - during my driving exam and it was a nightmare. But I did it, so I'm sure I can do it again. Not just parking, but the lesson will also be in a manual car, so that's also good for refreshing and *feeling* the car.
 
 So... the fear of driving is still there. I think if I start driving more, it will eventually be fine. I feel it mostly *before* starting to drive. When I start, my brain just turns on some hyper focus mode and I no longer feel anxious. There's still a small barrier, but I'm happy I'm crossing it.
 

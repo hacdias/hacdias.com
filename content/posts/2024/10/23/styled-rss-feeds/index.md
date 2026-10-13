@@ -28,7 +28,7 @@ The first step is to add a `xml-stylesheet` line to the top of the XML file you 
 </feed>
 ```
 
-I would recommend checking both Derek's [blog post](https://darekkay.com/blog/rss-styling/) for more details and for an example of his XSL file. In my case, you can find it [here](/feed.xsl). To give an example of what an XSL file looks like, here's an excerpt of mine, without some parts that are in all remaining webpages (header, navigation, footer, etc):
+I would recommend checking both Darek's [blog post](https://darekkay.com/blog/rss-styling/) for more details and for an example of his XSL file. In my case, you can find it [here](/feed.xsl). To give an example of what an XSL file looks like, here's an excerpt of mine, without some parts that are in all remaining webpages (header, navigation, footer, etc):
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>

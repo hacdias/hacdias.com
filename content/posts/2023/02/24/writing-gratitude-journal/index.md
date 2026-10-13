@@ -22,7 +22,7 @@ A few years ago, I ordered a [gratitude journal](https://en.wikipedia.org/wiki/G
 - What are you grateful for today?
 - What are you grateful for in your life?
 
-This questions forces you to think about what happened in a certain day and what effect those things have on you. Initially, I did not know what to write about, but then I started adding more and more details about events that take place in my life. All in bullet-point format.
+These questions force you to think about what happened in a certain day and what effect those things have on you. Initially, I did not know what to write about, but then I started adding more and more details about events that take place in my life. All in bullet-point format.
 
 By writing these thoughts, these things you're grateful for, you end up feeling better. I don't know how to describe it, but it works. I usually tend to write a page on this journal when I'm feeling more down and it always makes me feel happier.
 

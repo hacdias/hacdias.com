@@ -28,7 +28,7 @@ Yesterday, I finished reading Ikigai, a book by Héctor Garcia and Francesc Mira
 
 Ikigai, in its simplest form, is the reason to live. The book goes through the different forms and shapes of this concept, as well as all of other "secrets" for a long and happy life. There are a few things out of this book that I would like to start applying to my life, in one way or another.
 
-**Eat less**, meaning: never eat until we feel one hundred procent full. This should also include eating slower, such that our bodies have enough time to actually understand how much food we've already ingested and how much more is needed. I notice that I usually eat reasonably fast and sometimes I tend to overeat because I didn't feel soon enough that I was full.
+**Eat less**, meaning: never eat until we feel one hundred percent full. This should also include eating slower, such that our bodies have enough time to actually understand how much food we've already ingested and how much more is needed. I notice that I usually eat reasonably fast and sometimes I tend to overeat because I didn't feel soon enough that I was full.
 
 So this is a two fold point: on one hand, be more mindful of how fast I eat. On the other hand, never eat enough to feel completely full, since that makes it also harder for our bodies to digest and process. Some people would say to eat to 70%, the book says 80%. In practice, I think the reasonable thought is: do I feel almost full? Then, I should stop.
 

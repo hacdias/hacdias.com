@@ -14,7 +14,7 @@ syndication:
 ---
 
 Recently I've been wanting to try out more things in my life. Perhaps not recently,
-I always have this urge to try out this "new" things that I haven't done before
+I always have this urge to try out these "new" things that I haven't done before
 and that they seem to be... I don't know... interesting to me.
 
 <!--more-->

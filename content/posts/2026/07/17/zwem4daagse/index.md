@@ -23,7 +23,7 @@ syndication:
 thumbnail: image:2026-07-17-zwem4daagse-1
 ---
 
-A few hours ago, I completed my first edition of the [Zwem4daagse](https://www.zwem4daagse.nl/), which is a yearly even here in The Netherlands where you swim a certain distance for four days. After swimming 500 meters four days, I am now a proud owner of a cute little medal!
+A few hours ago, I completed my first edition of the [Zwem4daagse](https://www.zwem4daagse.nl/), which is a yearly event here in The Netherlands where you swim a certain distance for four days. After swimming 500 meters four days, I am now a proud owner of a cute little medal!
 
 <!--more-->
 
@@ -45,4 +45,4 @@ I'll be honest: I was very unsure about which distance I should do. But I though
 
 I must say that in the middle of the week I was a bit afraid I wouldn't be able to complete it due to some weird feeling around my knee, but then I noticed it was getting worse because I was touching it more and more. After stopping, it just got better!
 
-Anyways. Today was my last day and I had the best swim of the week: the fastest and not even the most tiring. Now I just need to make swimming an habit. In August my lessons start again and then I'll go for Diploma C. After that, we shall see, but I definitely want to learn better technique and go weekly to the swimming pool!
+Anyways. Today was my last day and I had the best swim of the week: the fastest and not even the most tiring. Now I just need to make swimming a habit. In August my lessons start again and then I'll go for Diploma C. After that, we shall see, but I definitely want to learn better technique and go weekly to the swimming pool!

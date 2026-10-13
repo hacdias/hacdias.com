@@ -33,7 +33,7 @@ If you don't know much about Bluesky and the AT Protocol, I'd highly recommend r
 
 Some of the posts on this website were already POSSE'd to [Bluesky](https://bsky.app/). So that was already a beginning. But I wanted more. I wondered what else I could do.
 
-After coming across two clients that focus on Instagram-like experiences, just link Pinsky and Flashes, I thought: what if I publish all my photo posts on Bluesky? Then, people would be able to see my posts in a similar form factor they're used to.
+After coming across two clients that focus on Instagram-like experiences, just like Pinsky and Flashes, I thought: what if I publish all my photo posts on Bluesky? Then, people would be able to see my posts in a similar form factor they're used to.
 
 That was quite simple: you can create new `app.bsky.feed.post` with an older creation date. Most app views will properly use that date for sorting, instead of the indexing date. So that's neat. Bluesky shows those posts as "archived from" an older date.
 
@@ -41,7 +41,7 @@ That was quite simple: you can create new `app.bsky.feed.post` with an older cre
 
 Then I learned about Standard.site, which are shared lexicons for long-form publishing. According to their website, this makes content easier to discover and index. And considering they are already implemented by some of the biggest long form publishing platforms on AT Protocol, I thought: maybe I should implement it!
 
-I then wrote some [half-baked code](https://github.com/hacdias/eagle/tree/main/plugins/atproto) to make sure - upsert - a `site.standard.publication` for my website that lives in my PDS. I then working a bit more on it to make sure that all of my writings have a `site.standard.document`, meaning that they all get to be discoverable and indexed in the ATmosphere.
+I then wrote some [half-baked code](https://github.com/hacdias/eagle/tree/main/plugins/atproto) to make sure - upsert - a `site.standard.publication` for my website that lives in my PDS. I then worked a bit more on it to make sure that all of my writings have a `site.standard.document`, meaning that they all get to be discoverable and indexed in the ATmosphere.
 
 You can now find my website on, for example, [leaflet.pub](https://leaflet.pub/p/hacdias.com) and see all the latest articles. There seems to be a bug where they're using the record key as the path when linking, instead of the `path` field in the document. I've reached out to them to ask whether this is a bug on their side, or on mine.
 
@@ -53,7 +53,7 @@ There's so much else I've discovered. There are all sorts of apps built on the A
 
 If I look at my website at the moment, there are a few things that I think would be interesting to integrate with the AT Protocol: watched movies and series, as well as reviews; read books and their reviews, etc. For these things, there are already some apps and lexicons out there, like [Popfeed](https://popfeed.social/) and [Bookhive](https://bookhive.buzz/).
 
-Most of the times, using one those apps provides a much better user experience than editing some YAML file backing my website's watches list. Imagine this: I open Popfeed and mark a movie as watched, as well as give it a star review. Eagle, my website's backend, is listening to an AT Protocol jetstream for those events for my PDS. Once an event gets detected, it would just automatically update the data. Seems cool. The user experience would end up being nicer for me.
+Most of the times, using one of those apps provides a much better user experience than editing some YAML file backing my website's watches list. Imagine this: I open Popfeed and mark a movie as watched, as well as give it a star review. Eagle, my website's backend, is listening to an AT Protocol jetstream for those events for my PDS. Once an event gets detected, it would just automatically update the data. Seems cool. The user experience would end up being nicer for me.
 
 There are also other things I use that could eventually be replaced. Swarm checkins could eventually be replaced by Anchor, my scrobbling service Last.fm could be replaced by [Teal.fm](https://teal.fm/) or [Rocksky](https://rocksky.app/), etc. There are quite a lot of these apps out there, but they all use a slightly different lexicons and I don't really want to commit to one of them yet.
 

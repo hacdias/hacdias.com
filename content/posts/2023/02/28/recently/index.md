@@ -25,7 +25,7 @@ All in all, the largest change was that I ended up removing ActivityPub support 
 
 ## 🍄 Life {#life}
 
-In the beginning of the month, I went to Helmond to get some Portuguese treats. On the same day, I visited the [Kasteel Helmond](https://museumhelmond.nl/kasteel-helmond/) 🏰, which is also known as the "Sinterklaas Kasteel". It was a cute and nice visit, albeit a bit strange because a wedding was almost starting an we did not know about it. Oops.
+In the beginning of the month, I went to Helmond to get some Portuguese treats. On the same day, I visited the [Kasteel Helmond](https://museumhelmond.nl/kasteel-helmond/) 🏰, which is also known as the "Sinterklaas Kasteel". It was a cute and nice visit, albeit a bit strange because a wedding was almost starting and we did not know about it. Oops.
 
 <div class='fg' style='grid-template-columns: repeat(4,1fr);'>
 
@@ -45,9 +45,9 @@ In other news, I started going more frequently to the Saturday market in the Kru
 
 ## 🎵 Concerts {#concerts}
 
-Before Covid-19 happened, I had two concerts: one in Utrecht for Rina Sawayama, which was incredible. She's a british singer and there's rumours going around that she'll be the Eurovision singer for the UK. If she does, I hope she doesn't get 0 points.
+Before Covid-19 happened, I had two concerts: one in Utrecht for Rina Sawayama, which was incredible. She's a British singer and there's rumours going around that she'll be the Eurovision singer for the UK. If she does, I hope she doesn't get 0 points.
 
-In the same week, I went to Amstrdam for Caroline Polachek. I must confess I went more because of my partner, as I did not know that many songs. However, it was also very nice. It was in Paradiso, which used to be a church, so there were quite nice light effects and frosted glass.
+In the same week, I went to Amsterdam for Caroline Polachek. I must confess I went more because of my partner, as I did not know that many songs. However, it was also very nice. It was in Paradiso, which used to be a church, so there were quite nice light effects and frosted glass.
 
 ## 🍿 Watching {#watching}
 
@@ -55,7 +55,7 @@ During February, I managed to finish "His Dark Materials", which was a very nice
 
 ## 🎮 Gaming {#gaming}
 
-I finished "Ratched & Clank: Drift Apart", and it was quite nice to complete. It brought so many memories and made so many new memories. In addition, I started "Hogwarts Legacy" and... don't get me started. If you were a Harry Potter, you'll definitely enjoy this game.
+I finished "Ratchet & Clank: Rift Apart", and it was quite nice to complete. It brought so many memories and made so many new memories. In addition, I started "Hogwarts Legacy" and... don't get me started. If you were a Harry Potter, you'll definitely enjoy this game.
 
 ---
 

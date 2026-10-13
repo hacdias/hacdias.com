@@ -26,7 +26,7 @@ Last week, I did the first week of the program, and everything went seemingly fi
 
 It's now the second week, and I completed today this week's second workout. After the first day this week, I got some soreness in my right Achilles, but it went away during the same day. Today, in addition to my pre-workout stretch routine, I also did a post-workout stretching and I don't feel anything thus far.
 
-It's been fun, and I hope I can reach the end of the programme without many issues. I do have some trips planned here and there, so it's likely that'll repeat a week or two of the programme, or go easier on a specific week accordingly.
+It's been fun, and I hope I can reach the end of the programme without many issues. I do have some trips planned here and there, so it's likely that I'll repeat a week or two of the programme, or go easier on a specific week accordingly.
 
 One thing that I notice is that many people listen to music or podcasts while running. I decided to do it without, since I never do it when I go for a walk alone. I like to be aware of my surroundings, and listen to the sounds.
 

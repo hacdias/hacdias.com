@@ -10,7 +10,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3iv34bbh4i4ct
 ---
 
-Since I created this website's [colophon](/about/#colophon) (also known as _meta page_), I've wanted to also created a page that show cased how this website evolved over the years. I created this website when I was 14, in 2014. At first, it was just a bunch of HTML pages written by hand. Within the first year, the website moved from pure HTML to WordPress and then to Hugo.
+Since I created this website's [colophon](/about/#colophon) (also known as _meta page_), I've wanted to also create a page that showcased how this website evolved over the years. I created this website when I was 14, in 2014. At first, it was just a bunch of HTML pages written by hand. Within the first year, the website moved from pure HTML to WordPress and then to Hugo.
 
 <!--more-->
 
@@ -104,7 +104,7 @@ In 2017, I managed to go through the whole year with the same design (magic!). T
 
 ## 2018
 
-In 2018 I did another face wash to the website. The homepage had an effect where the sentence bellow my name would change every few seconds. The animation was as if it was being typed and untyped.
+In 2018 I did another face wash to the website. The homepage had an effect where the sentence below my name would change every few seconds. The animation was as if it was being typed and untyped.
 
 <div class="fg">
 

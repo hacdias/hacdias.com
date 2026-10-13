@@ -23,7 +23,7 @@ December is concluding and with it, we're closing in the end of 2022. With the e
 
 I made quite a few updates over the last month to this website, both in terms of functionality and appearances. One of the most (in)visible changes is that I removed support for private posts, as well as login for other people. That is something I ended up not using for over a year so I thought: why not remove it.
 
-In terms of content, I split the "Food & Drinks" section again. Now I have a section for 🥘 Food and a section for 🧋 Drinks. I think this was the right decision. I want those to be a gallery-like view of things I ate and drunk, but not together. I may change how they are displayed in the future in order to be a grid-like setting.
+In terms of content, I split the "Food & Drinks" section again. Now I have a section for 🥘 Food and a section for 🧋 Drinks. I think this was the right decision. I want those to be a gallery-like view of things I ate and drank, but not together. I may change how they are displayed in the future in order to be a grid-like setting.
 
 Inspired by [Tim's Logs](https://timharek.no/logs/), I updated my [📚 Readings](/logs/readings/), [🎬 Watches](/logs/movies/) and [✏️ Articles](/writings/) pages. In addition, I created a new section, called [🚀 Trips](/logs/places/). Each trip shows a listing of all the posts published during the trip. How neat is that?
 
@@ -36,7 +36,7 @@ Finally, I updated the way the [🗞️ Blogroll](/blogroll) is displayed to inc
 
 Life-wise, quite a few things happened, but I'm going to be quicker on this section. For once, we finished most of the construction in the apartment. We have almost all furniture and everything is mostly settled in. In addition, we went to [Aachen's Christmas Market](/2022/12/22/aachen-weihnachtsmarkt), where we had a lot of fun. I love Christmas Markets 🎄! In the end of the month, I spent a week at my parent's in Portugal and it was a very nice time to meet with a lot of family that I haven't seen in a while.
 
-Sadly, I'm still "suffering" from my Achilles tendinitis, or tendinopathy, as I think it actually is. I will ask the physiotherapist next time. It bothers me quite a lot and I feel extremely limited. If I walk a bit more, it will hurt, the day after. That's the thing about tendons: you never know if you're over-exerting them. And on top of all of it: I've lived my all life in hilly areas and never have I had a problem like this. I move to a flat country and this happens... Let's hope this will get fixed during the first months of 2023!
+Sadly, I'm still "suffering" from my Achilles tendinitis, or tendinopathy, as I think it actually is. I will ask the physiotherapist next time. It bothers me quite a lot and I feel extremely limited. If I walk a bit more, it will hurt, the day after. That's the thing about tendons: you never know if you're over-exerting them. And on top of all of it: I've lived all my life in hilly areas and never have I had a problem like this. I move to a flat country and this happens... Let's hope this will get fixed during the first months of 2023!
 
 ## 📚 Reading {#reading}
 

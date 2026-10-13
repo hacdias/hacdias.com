@@ -45,4 +45,4 @@ One waits. Two long hours have passed. No one calls. One calls the repairs compa
 
 The technician arrives. After a long stride of testing the cables around the light fixture in the kitchen, the technician finds where the issue lies, but lo and behold: it just works again. The mystery stays a mystery but I have electricity again.
 
-The standing theory is that was a bit of humidity in the cables and that during the checks it just dried enough. We don't know. But a day after, I now have electricity again! It's still a great mystery, and the problem might come back again, but let's hope not!
+The standing theory is that there was a bit of humidity in the cables and that during the checks it just dried enough. We don't know. But a day after, I now have electricity again! It's still a great mystery, and the problem might come back again, but let's hope not!

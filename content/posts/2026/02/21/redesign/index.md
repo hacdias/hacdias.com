@@ -89,7 +89,7 @@ I mostly tried to make the design more coherent. An example are the post cards y
 
 ---
 
-There are, of course, a few things I'm less happy about. There are a few more lines CSS, not that many more, but still. I want to look back at it and try cleaning it up sometime. I'm also a bit sad the little avatar that sat on top of the navigation bar is gone, but I couldn't find a good place for it.
+There are, of course, a few things I'm less happy about. There are a few more lines of CSS, not that many more, but still. I want to look back at it and try cleaning it up sometime. I'm also a bit sad the little avatar that sat on top of the navigation bar is gone, but I couldn't find a good place for it.
 
 And on the homepage, depending on how wide your screen is, either one of the two columns will be longer than the other. For smaller devices, when it's a single column, I limit the amount of items, but sadly it's not yet possible to target specific grid rows. If that were possible, maybe, just maybe, I would be able to achieve exactly what I want without JS.
 

@@ -49,4 +49,4 @@ syndication:
 .fg-2025-06-13-laurissilva> *:nth-child(4) { grid-area: d; }
 </style>
 
-In the heart of Madeira, you can find a subtropical forest, called Laurisilva Forest. There's a lot of hiking trails you can take which will bring you to breathtaking scenes. These ere on what is maybe the easiest trail on the island.
+In the heart of Madeira, you can find a subtropical forest, called Laurisilva Forest. There's a lot of hiking trails you can take which will bring you to breathtaking scenes. These were on what is maybe the easiest trail on the island.

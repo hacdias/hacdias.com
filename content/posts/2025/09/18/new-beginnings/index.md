@@ -23,7 +23,7 @@ So a few months ago, I joined a small team in Utrecht working on the same digita
 
 The office is in Utrecht, very close to the station. That also means I sometimes commute. My goal is to go to the office once or twice a week, also depending on whether others are going or not. The train trip, on itself, is around 50 minutes, which means that my door-to-door trip is around 1 hour to 1 hour 15 minutes.
 
-Trading an office on the same street for an office on a different city hasn't been an issue. I also like the train commute and it's great to catch up on some reading, or just listening to a podcast or music. And since it's not something I do every day - and perhaps can't even been considered a real commute - it's not bad.
+Trading an office on the same street for an office on a different city hasn't been an issue. I also like the train commute and it's great to catch up on some reading, or just listening to a podcast or music. And since it's not something I do every day - and perhaps can't even be considered a real commute - it's not bad.
 
 It's been now almost four months and what incredible four months it has been. It feels much shorter and also much longer, since so much has happened: I've organized a coworking day at my place in Eindhoven, we've done a vegan streetfood cooking workshop as team activity, and the work itself has been going great.
 

@@ -29,11 +29,11 @@ I also made a few updates to my homepage, where I now added a favorite photos se
 
 ## 🍄 Life {#life}
 
-This month, I met with a few friends in different instances thorough the month. I've also kept going to the gym, sticking to my schedule properly. I think the coming two months I might've to make some adjustments here and there. Other than that, it's going well.
+This month, I met with a few friends in different instances through the month. I've also kept going to the gym, sticking to my schedule properly. I think the coming two months I might've to make some adjustments here and there. Other than that, it's going well.
 
-I also celebrated my birthday on the weekend of the 22nd of October. On the Saturday night, I had a dinner with friends. In Portugal, we never celebrate the birthday before the actual date. We say it gives bad luck. Unfortunately, my options was to either choose the night before, or two weeks after. I don't regret choosing the night before.
+I also celebrated my birthday on the weekend of the 22nd of October. On the Saturday night, I had a dinner with friends. In Portugal, we never celebrate the birthday before the actual date. We say it gives bad luck. Unfortunately, my options were to either choose the night before, or two weeks after. I don't regret choosing the night before.
 
-On Sunday, and therefore my actual birthday date, my partner and I went to Limburg. Limburg is the southernmost region of The Netherlands, where they actual have their own language, [Limburgs](https://en.wikipedia.org/wiki/Limburgish), and also hills. We went to this old train station in Simpelveld where we took off for a lunch steam train ride, in the [Miljoenenlijn](https://miljoenenlijn.nl/).
+On Sunday, and therefore my actual birthday date, my partner and I went to Limburg. Limburg is the southernmost region of The Netherlands, where they actually have their own language, [Limburgs](https://en.wikipedia.org/wiki/Limburgish), and also hills. We went to this old train station in Simpelveld where we took off for a lunch steam train ride, in the [Miljoenenlijn](https://miljoenenlijn.nl/).
 
 <div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
@@ -74,7 +74,7 @@ En wijn! Heel lekker!
 
 There is not much in the entertainment category for this week. However, I recently started reading the first Harry Potter book in Dutch. I am reading it using an e-reader, while listening to its audiobook simultaneously. So far, it seems to be a great way to make sure I listen to the pronunciation while still reading the book and seeing new words. Using an e-reader makes it easier to check what some word means. 
 
-Regarding movies, I watched *Sonic the Hedgehog 2*. I was almost sure that I had watched the first one, but I can't find it in my list. It was fine, not the best, not the worst. Enjoyable enough. In the series department, I finished watching the first season of *De Luizenmoder*, a Dutch show. Certainly did not understand everything, but well - that's how it goes, right?
+Regarding movies, I watched *Sonic the Hedgehog 2*. I was almost sure that I had watched the first one, but I can't find it in my list. It was fine, not the best, not the worst. Enjoyable enough. In the series department, I finished watching the first season of *De Luizenmoeder*, a Dutch show. Certainly did not understand everything, but well - that's how it goes, right?
 
 <hr>
 

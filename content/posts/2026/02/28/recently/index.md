@@ -49,16 +49,16 @@ Other than that, I continued with my strength training workouts, which I realize
 
 ## 🍿 Entertainment {#entertainment}
 
-I attended what I would usually consider too many concerts 🎵 this month: three. Considering we need to travel quite some time to get to the concert venues, it definitely contributed to the general tiredness this month. The two smaller concerts we went two were *Magdalena Bay* and *Audrey Hobert*. Both fantastic in their own ways. These were not artists that I knew that well, but I still enjoyed it a lot!
+I attended what I would usually consider too many concerts 🎵 this month: three. Considering we need to travel quite some time to get to the concert venues, it definitely contributed to the general tiredness this month. The two smaller concerts we went to were *Magdalena Bay* and *Audrey Hobert*. Both fantastic in their own ways. These were not artists that I knew that well, but I still enjoyed it a lot!
 
 A bonus here was that *Allie X* opened for *Magdalena Bay*. I'm a big fan of her, and I'm really happy that I was able to see her one more time. We were not even expecting that, since we only looked at what was the pre-programme one or two days before. So nice.
 
 ![Florence + The Machine](image:2026-02-28-recently-florence)
 {width="4000" height="3000"}
 
-Then, the star of the month, was *Florence + The Machine*. She has such an amazing voice, and the band was also terrific. They played a harp live, and even did a harp solo. I've never see that before. Having *Paris Paloma* open their show just made it even better!
+Then, the star of the month, was *Florence + The Machine*. She has such an amazing voice, and the band was also terrific. They played a harp live, and even did a harp solo. I've never seen that before. Having *Paris Paloma* open their show just made it even better!
 
-When it comes to movies 🍿, we watched *Saltburn*, *The Threesome*, *Wuthering Heights* (the new one), and *Bottoms*. They were all entertaining, some better than others, but that's what we always happens. If I had to recommend one, I think I'd either recommend *The Threesome* or *Saltburn*, depending on what kind of movies you enjoy.
+When it comes to movies 🍿, we watched *Saltburn*, *The Threesome*, *Wuthering Heights* (the new one), and *Bottoms*. They were all entertaining, some better than others, but that's what always happens. If I had to recommend one, I think I'd either recommend *The Threesome* or *Saltburn*, depending on what kind of movies you enjoy.
 
 When it comes to TV Shows 📺, we watched the first season of *How to Get to Heaven From Belfast* and *Trying*. Both really enjoyable. We've also been busy trying to watch Bridgerton, but we have not yet watched the second part that was released a few days ago!
 

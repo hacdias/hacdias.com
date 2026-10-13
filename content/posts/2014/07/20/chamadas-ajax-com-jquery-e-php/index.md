@@ -43,7 +43,7 @@ Esse pequeno trecho importa a versão 2.1.1 do jQuery e está armazenada nos ser
 
 O título não é necessário para o  pleno funcionamento do formulário. Como podem ver, todos os <inputs>  estão identificados com um id. No final encontra-se um botão para submeter o formulário. Este botão direciona para a ação do formulário que, neste caso, é javascript:enviarRegisto(); .
 
-O método (method) não é necessário visto que este vai ser definido diretamente através do pedido em Ajax. Agora vamos à parte do servidor - registar o utilizador. Vamos criar um ficheiro com o nome ```processar.php``` o mesmo local onde temos o nosso ```index.html```. Neste ficheiro teremos o código seguinte ou semelhante:
+O método (method) não é necessário visto que este vai ser definido diretamente através do pedido em Ajax. Agora vamos à parte do servidor - registar o utilizador. Vamos criar um ficheiro com o nome ```processar.php``` no mesmo local onde temos o nosso ```index.html```. Neste ficheiro teremos o código seguinte ou semelhante:
 
 ```php
 <?php
@@ -120,11 +120,11 @@ Podes ler mais sobre o formato **json** [aqui](http://json.org/). Antes de cont
 http://example.com?infoNome=info&infoNome2=info2
 ```
 
-Por outro lado, o método **POST **leva a informação encapsulada no corpo do pedido e não pode visualizada. Uma desvantagem deste método é ser mais lento visto que é encapsulado ao contrário do GET, que é mais simples. Como os pedidos GET são feitos através do URL, existe uma limitação no comprimento da mensagem enviada sendo que não pode ter mais de 255 caracteres dependendo do browser.
+Por outro lado, o método **POST** leva a informação encapsulada no corpo do pedido e não pode ser visualizada. Uma desvantagem deste método é ser mais lento visto que é encapsulado ao contrário do GET, que é mais simples. Como os pedidos GET são feitos através do URL, existe uma limitação no comprimento da mensagem enviada sendo que não pode ter mais de 255 caracteres dependendo do browser.
 
 O **tipo de dados** é outra grande diferença: enquanto que o método GET só pode enviar texto, o método POST pode enviar qualquer tipo de informação. Podes saber mais sobre estes dois métodos [aqui](http://www.w3schools.com/tags/ref_httpmethods.asp). Agora que já temos o formulário de registo e o servidor preparado, só falta fazer a ligação entre o cliente e o servidor utilizando Ajax.
 
-Em primeiro lugar, criamos um novo ficheiro chamado, por exemplo, ```script.js``` e chamomo-lo logo a seguir ao jQuery no nosso ```index.html``` com um código semelhante ao seguinte:Agora, dentro do ficheiro de javascript, vamos ter que criar a função que anteriormente colocámos na ação do formulário, a função enviarRegisto().
+Em primeiro lugar, criamos um novo ficheiro chamado, por exemplo, ```script.js``` e chamamo-lo logo a seguir ao jQuery no nosso ```index.html``` com um código semelhante ao seguinte:Agora, dentro do ficheiro de javascript, vamos ter que criar a função que anteriormente colocámos na ação do formulário, a função enviarRegisto().
 
 ```javascript
 function enviarRegisto() {

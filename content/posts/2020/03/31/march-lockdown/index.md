@@ -77,4 +77,4 @@ thumbnail: image:2020-03-31-hometown-cross
 .fg-2020-03-31-march-lockdown > *:nth-child(8) { grid-area: g; }
 </style>
 
-March. Quarantine begun and I moved back to my hometown. More importantly, I bought my first camera.
+March. Quarantine began and I moved back to my hometown. More importantly, I bought my first camera.

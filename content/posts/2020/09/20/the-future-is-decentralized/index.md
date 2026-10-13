@@ -26,7 +26,7 @@ ARPAnet was an information and communication system funded by the United States 
 
 ARPAnet, of course, was not without its flaws. Charley Kline's first attempt at internet communication was only a partial success. His message was supposed to say "LOGIN," but the system crashed before it completed the delivery. 
 
-But with time, the ARPAnet system was quickly surpassed by a faster, more efficient, and more reliable information network: the World Wide Web. Invented in 1989 by Tim Berners-Lee at the European Organization for Nuclear Research, otherwise known as CERN his invention gave the world some of the core information systems that power web connectivity today: HTML, HTTP and URLs.
+But with time, the ARPAnet system was quickly surpassed by a faster, more efficient, and more reliable information network: the World Wide Web. Invented in 1989 by Tim Berners-Lee at the European Organization for Nuclear Research, otherwise known as CERN, his invention gave the world some of the core information systems that power web connectivity today: HTML, HTTP and URLs.
 
 The early internet built by these and other tech pioneers was decentralized, peer-to-peer, and mostly open source. And though most of the technologies that defined the internet were created over 30 years ago, they are still in use by everyone who accesses the internet today.
 

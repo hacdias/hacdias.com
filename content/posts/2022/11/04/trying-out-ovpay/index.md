@@ -31,8 +31,8 @@ The other day, the check-in and check-out seemingly worked, but then my bank rej
 
 > ⚠️ The combination of the reference number and the amount is incorrect. Try again.
 
-Something went wrong, and no one knows exactly what went wrong. And so I thought that OVPay was condemned. But little did I know that other operators actually have a well working implementation. Today I went to Den Haag for some bureocracy and I used the trams 🚃 from HTM. Check-in and checking-out was a breeze with Apple Pay and the feedback from the terminals was extremely fast, almost as fast as using the OV-chipkaart. Let's just see if I get correctly charged tonight. I now have good hopes for the system.
+Something went wrong, and no one knows exactly what went wrong. And so I thought that OVPay was condemned. But little did I know that other operators actually have a well working implementation. Today I went to Den Haag for some bureaucracy and I used the trams 🚃 from HTM. Check-in and checking-out was a breeze with Apple Pay and the feedback from the terminals was extremely fast, almost as fast as using the OV-chipkaart. Let's just see if I get correctly charged tonight. I now have good hopes for the system.
 
-With this mixed experiences, I have a main question 🤔: why does each operator has to implement their own software, if the hardware they use for the terminals is sometimes the same? Besides, the payment goes through the same system. It is clear that it can be well implemented and performant.
+With these mixed experiences, I have a main question 🤔: why does each operator have to implement their own software, if the hardware they use for the terminals is sometimes the same? Besides, the payment goes through the same system. It is clear that it can be well implemented and performant.
 
 **Update**: I was correctly charged without any problems. I can then say that HTM provided the most flawless experience with OVPay so far. I hope the remaining operators that I did not test also work this smoothly, and that Hermes improves their implementation.

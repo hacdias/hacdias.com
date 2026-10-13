@@ -18,7 +18,7 @@ July is coming to an end and the sun is shining. This was a month with quite som
 
 ## ✍️ Website {#website}
 
-July marked the [tenth anniversary](/2024/07/12/a-decade-of-blogging/) of this website! Coincidentally, I have made a few more updates to this website this last month in comparison to the previous months. I made a few changes here and there, including adding a little bit more of interactivity. I made this changes such that they wouldn't be very noticeable, but more so of an 🥚 easter egg sort of thing.
+July marked the [tenth anniversary](/2024/07/12/a-decade-of-blogging/) of this website! Coincidentally, I have made a few more updates to this website this last month in comparison to the previous months. I made a few changes here and there, including adding a little bit more of interactivity. I made these changes such that they wouldn't be very noticeable, but more so of an 🥚 easter egg sort of thing.
 
 ## 🍄 Life {#life}
 

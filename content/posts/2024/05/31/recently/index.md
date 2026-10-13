@@ -18,7 +18,7 @@ May is coming to an end. Not that much happened this month, but it was still min
 
 ## ✍️ Website {#website}
 
-I made a few updates to this website during May. The most important is related to the [guestbook](/guestbook/), which is now able to better [avoid spam](/2024/05/10/mitigating-guestbook-spam/). In addition, I improved the new guestbook entry form in order to make it more clear and accessible. Finally, I made the name and the date more prominent in the guestbook entries and improve the page you see after submitting an entry.
+I made a few updates to this website during May. The most important is related to the [guestbook](/guestbook/), which is now able to better [avoid spam](/2024/05/10/mitigating-guestbook-spam/). In addition, I improved the new guestbook entry form in order to make it more clear and accessible. Finally, I made the name and the date more prominent in the guestbook entries and improved the page you see after submitting an entry.
 
 Other than that, I did a few simple cleanups here and there. I added a background for elements that are `:target`. This means that headers will be highlighted if you followed a link with a [fragment](https://en.wikipedia.org/wiki/URI_fragment). I have also done a general cleanup to reflect the fact I [no longer work](/2024/05/06/leaving-the-interplanetary-journey/) for Interplanetary Shipyard and no longer rent a coworking space. This is reflected on my [resume](/resume/) and [uses](/uses/) page.
 
@@ -26,7 +26,7 @@ Other than that, I did a few simple cleanups here and there. I added a backgroun
 
 On the life category, May was quite uneventful. When it comes to Dutch, I have now received my physical *Inburgeringsdiploma*, about which I had already talked in my [previous post](/2024/05/08/inchecken/#examens). I've also started a new - and the last - Dutch course in my plan. It ends at the beginning of July. After that, just keep using the language.
 
-My partner and I went also for an apartment viewing. We were looking for something bigger with a second bedroom that could be used as office or more of a recreational room. Unfortunately the elevator was broken and therefore Chris could not view the apartment since he broke his ankle. And... we also decided that the fact that the apartment was not worth it: the price different compared to what we have now was substantial and we wouldn't be gaining that much.
+My partner and I went also for an apartment viewing. We were looking for something bigger with a second bedroom that could be used as office or more of a recreational room. Unfortunately the elevator was broken and therefore Chris could not view the apartment since he broke his ankle. And... we also decided that the fact that the apartment was not worth it: the price difference compared to what we have now was substantial and we wouldn't be gaining that much.
 
 ## 💪 Health {#health}
 

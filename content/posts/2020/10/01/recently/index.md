@@ -27,7 +27,7 @@ First of all, I decided to create a ~newsletter~ even though all posts I will se
 
 Regarding photography I have two updates. The first one is related to this website. I decided to give my photography its own beautiful page instead of just a tag (remember #lifethroughlenses?). From now on, you can visit my photography in the [darkroom](/photos). It's obviously not a darkroom, but I thought it would be a great name for that page.
 
-Over the years I have had many photos pages on this website but always ended up removing them in order to simplify the website. However, I'm in that point where I no longer think that "less is more" regarding this website. Not saying more is better though! I don't want to solely relay on Instagram for my photography and this way I have flexibility over its presentation.
+Over the years I have had many photos pages on this website but always ended up removing them in order to simplify the website. However, I'm in that point where I no longer think that "less is more" regarding this website. Not saying more is better though! I don't want to solely rely on Instagram for my photography and this way I have flexibility over its presentation.
 
 ![["Silhouette"](/2020/09/27/silhouette)](image:2020-09-27-silhouette)
 

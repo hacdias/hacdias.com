@@ -20,7 +20,7 @@ syndication:
   - https://fosstodon.org/@hacdias/114591750868199511
 ---
 
-Last September, I decided to finally give my shot at LLMs for code development. At that point, I had barely used any of the most known LLMs for a serious reason. It's not nine months later, and a lot has changed. With all of the news about Claude 4 and considering I have a work ChatGPT subscription, I decided to give LLMs another try.
+Last September, I decided to finally give my shot at LLMs for code development. At that point, I had barely used any of the most known LLMs for a serious reason. It's now nine months later, and a lot has changed. With all of the news about Claude 4 and considering I have a work ChatGPT subscription, I decided to give LLMs another try.
 
 <!--more-->
 
@@ -34,9 +34,9 @@ I wanted to preferably use the native Node.js APIs instead of WebCrypto since th
 
 > Implement the ECDH-ES  protocol in Node.js with JWKs
 
-ChatGPT begun immediately to spit out a lot of information. I read it, copied the code, and it didn't work. I got an error, and the error was quite generic in the sense that any of the data being given to the algorithm could be wrong to generate that error.
+ChatGPT began immediately to spit out a lot of information. I read it, copied the code, and it didn't work. I got an error, and the error was quite generic in the sense that any of the data being given to the algorithm could be wrong to generate that error.
 
-So I thought: maybe if I tell this thing of the error, it may be able to fix it. So I tried. It did not fix it: it just dumped me a bunch of reasons why it could've happened, but not of them really actionable. After inspecting the implementation one more time, and the specification of the protocol, I noticed there was a very important piece of data missing.
+So I thought: maybe if I tell this thing of the error, it may be able to fix it. So I tried. It did not fix it: it just dumped me a bunch of reasons why it could've happened, but none of them really actionable. After inspecting the implementation one more time, and the specification of the protocol, I noticed there was a very important piece of data missing.
 
 Then, I proceeded to inform ChatGPT that this piece of data was missing in its algorithm calculations. It immediately blurted out that that could be a reason for the error I was getting, and proceeded to fix it. To my surprise, it just worked. The code just worked after that.
 
@@ -48,7 +48,7 @@ Another instance where I used an LLM, this time GitHub Copilot, was to do a very
 
 The task was simple, yet extremely repetitive for me: I had a bunch of identifiers, and I just had to copy paste the same bits of code, generate a new UUID for each identifier, add a title and description in English, and translate that to multiple languages.
 
-Feeling how tedious this task was, that I've done countless of times, automated where I could, but not possible everywhere, decided to give Copilot a try. I opened one of this seed files, opened Copilot and said something along these lines:
+Feeling how tedious this task was, that I've done countless of times, automated where I could, but not possible everywhere, decided to give Copilot a try. I opened one of these seed files, opened Copilot and said something along these lines:
 
 > Take the opened file as a template. Generate a similar file, but for the namespace *X*, with the attributes identified by: *A, B, C, D*. For all of this attributes, generate a title and description and translate to the respective locales.
 
@@ -74,12 +74,12 @@ It was definitely not exactly that but something along those lines. And it sort 
 
 My opinion has changed, perhaps. I don't think I've ever had a very strong opinion about LLMs and everything that's being talked about. And this is despite having studied Machine Learning during my masters degree.
 
-I'm not pro- or anti- the usage of LLMs. Just like any other tool, I think there are good use cases, and bad use cases. Personally, I do not plan to use LLMs to generate text or create photos (except for a few meme's to try) or videos or any other more creative task.
+I'm not pro- or anti- the usage of LLMs. Just like any other tool, I think there are good use cases, and bad use cases. Personally, I do not plan to use LLMs to generate text or create photos (except for a few memes to try) or videos or any other more creative task.
 
 I think they can be good for a quick question, or if I've been researching about something, but there's this thing I can't figure out. An LLM can be extremely useful at explaining something using a different analogy, or words.
 
 Other good examples are maybe glorified code autocomplete, assuming it works properly. That'll probably take a bit longer to be at the stage I wanted it to be. But maybe that's not something that's possible without mind reading.
 
-And there's also points to improve: the energy consumption of AI in general, from training process to usage, is extremely large. Optimization of this models, making them smaller without losing capabilities, those are things that should be improved on. There's a lot of smart people work on it. I'm sure we'll get there.
+And there's also points to improve: the energy consumption of AI in general, from training process to usage, is extremely large. Optimization of these models, making them smaller without losing capabilities, those are things that should be improved on. There's a lot of smart people working on it. I'm sure we'll get there.
 
 Not pro. Not against. Just cautious.

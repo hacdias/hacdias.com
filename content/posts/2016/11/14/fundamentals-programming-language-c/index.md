@@ -31,7 +31,7 @@ Unix, which was already written in **Assembly** — another programming language
 The latest version of C is C11 and was released in December 2011. This language
 is one of the biggest influences in the programming world. C influenced, among
 others, AWK, BitC, C++, C#, C Shell, D, Euphoria, Go, Java, JavaScript, Limbo,
-Logic Basic, Objective-C, Perl and PHP. **This doesn't mean that this languages
+Logic Basic, Objective-C, Perl and PHP. **This doesn't mean that these languages
 weren't influenced by others**.
 
 We will start by talking about C because it can be somehow called the "mother"
@@ -53,7 +53,7 @@ the machine code. The tool that does this is called **compiler**.
 
 If you learn C, you will be well prepared to learn a lot of other languages that
 are based on it. The syntax is very similar across many languages but the most
-important it's the logic.
+important is the logic.
 
 ## Development environment
 
@@ -167,7 +167,7 @@ And the message will be printed! Try with different sentences if you want.
 
 The first line of the code above is not C code, but an indication to the compiler.
 
-C is commonly used on places where we need to get high speeds, like on Linux's kernel. As C is an high speed language, it isn't prepared to do a lot of tasks "out of the box" so we need to include some files to get access to more functions.
+C is commonly used on places where we need to get high speeds, like on Linux's kernel. As C is a high speed language, it isn't prepared to do a lot of tasks "out of the box" so we need to include some files to get access to more functions.
 
 To include more "sets" of functions we have to use the directive #include that tells the compiler to include header files. In this case, we are importing stdio.h which stands for standard input/output.
 
@@ -177,11 +177,11 @@ Every single C program must contain a main function which is going to be automat
 
 ## Function printf
 
-This command/function is imported by the file stdio.h. If we don't include that file, a error will be generated. This function stands for print formatted.
+This command/function is imported by the file stdio.h. If we don't include that file, an error will be generated. This function stands for print formatted.
 
 This function accepts more than one parameter which are values that are going to be processed by the function. We will only talk about the first parameter now.
 
-The first parameter is a string, it means, is a sequence of characters. This sequence of characters must be put between two quatation marks.
+The first parameter is a string, it means, is a sequence of characters. This sequence of characters must be put between two quotation marks.
 
 In this case, we wrote Hello World!\n which means that what is going to be printed is the message Hello World! and a new line \n.
 
@@ -196,7 +196,7 @@ The backslash (\\) is used to insert special characters.
 
 ## Directive return
 
-As you should have noticed, the function main returns an integer number. In this case, it returns 0, which is represents no error.
+As you should have noticed, the function main returns an integer number. In this case, it returns 0, which represents no error.
 
 In this moment I will not tell you more about this directive, but it will be discussed later.
 

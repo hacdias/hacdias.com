@@ -65,7 +65,7 @@ Then, I decided it would be a great idea to see my movie watching habits in two 
 
 </div>
 
-Regarding months of the year, I can see that the most prolific months are December and January, which, historically, has been when I have a break from University. In addition, every time I go to my parents house in Portugal, we watch a movie together every night, which also contributes to the spike in December.
+Regarding months of the year, I can see that the most prolific months are December and January, which, historically, has been when I have a break from University. In addition, every time I go to my parents' house in Portugal, we watch a movie together every night, which also contributes to the spike in December.
 
 ## 📺 Shows
 
@@ -111,4 +111,4 @@ When it comes to watching patterns per month, I can't see any specific pattern. 
 
 ---
 
-Well, this was my 2022 in movies and TV shows, which I called "Year in Popcorn". I am curious for how this statistics will look like next year. Will I have watched less shows, or maintained? Will the ratio between shows and movies be different? Who knows!
+Well, this was my 2022 in movies and TV shows, which I called "Year in Popcorn". I am curious for how these statistics will look like next year. Will I have watched less shows, or maintained? Will the ratio between shows and movies be different? Who knows!

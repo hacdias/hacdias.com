@@ -18,7 +18,7 @@ As [Tom](https://macwright.org/2017/12/11/indieweb-reading.html) once said, it i
 
 <!--more-->
 
-With university, work and… life… I stop reading as much as I did before. But it's now time to get back to some reading. Even if it's not that much, I need to read something. I must do it.
+With university, work and… life… I stopped reading as much as I did before. But it's now time to get back to some reading. Even if it's not that much, I need to read something. I must do it.
 
 At my [reads](/logs/readings/), you can visualize my reading logs: basically, it's just a big list of 'I want to read X', 'I finished reading Y' or 'I am now reading Z'. I will be primarily using the [indiebookclub](https://indiebookclub.biz/) service for now to create this kind of posts.
 

@@ -29,9 +29,9 @@ At the beginning of last year, I [shared](/2024/01/04/current-filter-coffee-setu
   </video>
 </figure>
 
-I've bought the V60 quite some time ago, and I've been wanting to write about it ever since. However, I've putting it back and I'm not exactly sure why. I think that when I used it for the first few times, I was not that "impressed" with the quality of coffee that I was getting out of it and because of that I did not want to write about it. It's very likely that my technique  was the problem.
+I've bought the V60 quite some time ago, and I've been wanting to write about it ever since. However, I've been putting it back and I'm not exactly sure why. I think that when I used it for the first few times, I was not that "impressed" with the quality of coffee that I was getting out of it and because of that I did not want to write about it. It's very likely that my technique  was the problem.
 
-In the meanwhile, that has changed. I watched a few videos here and there, and played a bit with the grind size to make sure the brew was not happening too fast, or too slow. And the V60 is now my favorite way of brewing one or two cups of coffee at a time. It's cleaner, somewhat sweater. I haven't touched the Clever Dripper in quite a while!
+In the meanwhile, that has changed. I watched a few videos here and there, and played a bit with the grind size to make sure the brew was not happening too fast, or too slow. And the V60 is now my favorite way of brewing one or two cups of coffee at a time. It's cleaner, somewhat sweeter. I haven't touched the Clever Dripper in quite a while!
 
 One other thing that might've contributed for this was the gooseneck kettle we bought a few months ago. It definitely allows for a much more controlled pouring of the water than the ginormous kettle we were using before. It's probably not a crucial element, but it definitely helps, it makes it easier.
 

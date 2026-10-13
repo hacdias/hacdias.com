@@ -11,11 +11,11 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hpdtmthc22ct
 ---
 
-I recently moved from the place where I was staying at to my own studio. In addition, since I was building a computer, I wanted to be able to access remotely to its capabitities, as well as any other device I have at home. Thus, I thought: let's set up a VPN!
+I recently moved from the place where I was staying at to my own studio. In addition, since I was building a computer, I wanted to be able to access remotely to its capabilities, as well as any other device I have at home. Thus, I thought: let's set up a VPN!
 
 <!--more-->
 
-The problem arised when I went to the configuration of my router and saw that my WAN IP was in the format `172.xxx.xxx.xxx`. I immediately knew that that was a [private IP](https://en.wikipedia.org/wiki/Private_network). On my ignorance, I decided to search why I didn't have an actual public IP.
+The problem arose when I went to the configuration of my router and saw that my WAN IP was in the format `172.xxx.xxx.xxx`. I immediately knew that that was a [private IP](https://en.wikipedia.org/wiki/Private_network). On my ignorance, I decided to search why I didn't have an actual public IP.
 
 Well, apparently there's a thing called Carrier Grade NATs (CGNATs) which are gigantic NATs that Internet providers decided to create in order to band aid the shortage of IPv4s in many places. So I thought, once again, "let's see if I have an IPv6". I open [test-ipv6.com](https://test-ipv6.com) and for my surprise (or not) I see a score of 0 out of 10. No public IP for me.
 

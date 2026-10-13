@@ -27,11 +27,11 @@ How should your first day be? It must be something amazing, memorable, but, at t
 
 **Talk to people, make connections** - we are all humans so we are made of relationships and social connections. If we lived alone in the world, we would not be anyone, because there would be no one to recognize us. We are social beings, we need each other. So, in your first day - and through all of the journey at your job - you have to meet people. Say “hi” to everyone and see what happens. Just don’t be shy.
 
-**Smile, be happy** - no one likes to work with a dumpish person! Smile to everyone, be fun, but not too much and choose the right circumstances to make a joke. Being friendly and energetic is essential. You don’t have to try to hard, but you mustn’t be too lazy.
+**Smile, be happy** - no one likes to work with a dumpish person! Smile to everyone, be fun, but not too much and choose the right circumstances to make a joke. Being friendly and energetic is essential. You don’t have to try too hard, but you mustn’t be too lazy.
 
 ![Just smile](https://media.hacdias.com/2015-09-11-mr-bean.jpeg)
 
-**Know the space and how it works** - knowing the place where you’re going to work in the next months, years maybe, is fundamental. Know with who you’re going to work. And most of all, *observe and hear*. Observe the “how to” in the company. How does the things work? How are the decisions made?
+**Know the space and how it works** - knowing the place where you’re going to work in the next months, years maybe, is fundamental. Know with who you’re going to work. And most of all, *observe and hear*. Observe the “how to” in the company. How do the things work? How are the decisions made?
 
 **Show interest** - hey, you should be working in a company you’ve interest in, so show it! If you’ve questions, ask them. Ask “what”, “why”, “who”, “when”. Be open minded and embrace the culture of the company, of the people, of the place.
 

@@ -196,7 +196,7 @@ Unsurprisingly, most of my top albums are also from my top artists. In oppositio
 
 ## 🎵 Songs {#songs}
 
-Song-wise, I still believe in what I said last year: it's not extremely interesting to see. However, the data is here, and, Unsurprisingly, my top 50 songs come out of my top artists.
+Song-wise, I still believe in what I said last year: it's not extremely interesting to see. However, the data is here, and, unsurprisingly, my top 50 songs come out of my top artists.
 
 <details>
   <summary>
@@ -260,10 +260,10 @@ Song-wise, I still believe in what I said last year: it's not extremely interest
 
 ## 🎫 Concerts {#concerts}
 
-Last year marked the time I went to my first real concert. This year followed very nicely. I saw quite a few artists live, namely Rina Sawayama, Caroline Polacheck, Pieter de Graaf, RAYE (as a pre-show), SZA and Chappell Roan. I really wished I had managed to get a ticket to RAYE's actual concert, but not even TicketSwap helped me with that one.
+Last year marked the time I went to my first real concert. This year followed very nicely. I saw quite a few artists live, namely Rina Sawayama, Caroline Polachek, Pieter de Graaf, RAYE (as a pre-show), SZA and Chappell Roan. I really wished I had managed to get a ticket to RAYE's actual concert, but not even TicketSwap helped me with that one.
 
 ## 🎁 Spotify Wrapped {#spotify-wrapped}
 
 As I [expected](/2023/11/30/spotify-wrapped/) from the earliness of Spotify Wrapped, it did not fully paint the picture of 2023. There were some mistakes. Firstly, my top song was not *Slapeloosheid*, but *Onbezonnen*. Also, my top artist wasn't RAYE, but Froukje. Nevertheless, minimally accurate, except for the last month and a half.
 
-I'm curious to see how's it going to go for 2024. Maybe I should find some way to _automatically_ track to my physical listenings? It is possible to do manually, but that's a bit of work that I don't think I want to take.
+I'm curious to see how it's going to go for 2024. Maybe I should find some way to _automatically_ track to my physical listenings? It is possible to do manually, but that's a bit of work that I don't think I want to take.

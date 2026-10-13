@@ -13,7 +13,7 @@ aliases:
   - /2020/11/01/october-2020/
 ---
 
-Here we are again, one more month has passed. Today - or tomorrow because I'm writing this yesetday - is the first day of November! So here comes another "Recently" post. Even though October was packed with joyfullness, happiness, adventures and some stress, this post will be rather short.
+Here we are again, one more month has passed. Today - or tomorrow because I'm writing this yesterday - is the first day of November! So here comes another "Recently" post. Even though October was packed with joyfulness, happiness, adventures and some stress, this post will be rather short.
 
 <!--more-->
 
@@ -21,8 +21,8 @@ The autumn has set and the streets are finally getting filled with reds, oranges
 
 ![[Lonely Leafs](/2020/09/26/lonely-leafs)](image:2020-09-26-leafs "Lonely leaf")
 
-I had the opportunity to go for a bike ride for a few kilometers in the south of Eindhoven and the sights were absolutely incredible: sun, then a little bit of rain, clear sky, pine trees, forest paths... For someone that lived all his life on a place were vegetation is rather scarse, this is really pretty for me.
+I had the opportunity to go for a bike ride for a few kilometers in the south of Eindhoven and the sights were absolutely incredible: sun, then a little bit of rain, clear sky, pine trees, forest paths... For someone that lived all his life on a place where vegetation is rather scarce, this is really pretty for me.
 
-On other news, the first quarter of university if finally finished. The exams ended on Friday and we're now just waiting for the exams results. Quarter two will start in two weeks, so I now have one week to rest and get ready for new adventures!
+On other news, the first quarter of university is finally finished. The exams ended on Friday and we're now just waiting for the exams results. Quarter two will start in two weeks, so I now have one week to rest and get ready for new adventures!
 
 Happy November!

@@ -23,7 +23,7 @@ syndication:
 thumbnail: image:2025-11-01-recently
 ---
 
-In striking difference with the [past month](/2025/09/30/recently/), October has been quite busy and hectic. And no, it's not because of Halloween! Not only did I travel to two places, but there have also been many events, and anxiousness about things happening around be. Let's recap.
+In striking difference with the [past month](/2025/09/30/recently/), October has been quite busy and hectic. And no, it's not because of Halloween! Not only did I travel to two places, but there have also been many events, and anxiousness about things happening around me. Let's recap.
 
 <!--more-->
 
@@ -36,7 +36,7 @@ The taxi never came, and we had to improvise, meaning I had to take a completely
 ![After The Rain](image:2025-11-01-recently)
 {width="4000" height="3000"}
 
-And then it was my birthday, so I'm getting closer and closer to the 26 years old. I don't know, I don't really feel very strongly about birthdays. I organized a "Open Home Café" and invited a bunch of friends. It was nice to make coffee for everyone, and also [bake a cake](/2025/10/26/bolo-de-cenoura/), and adapting the recipe to be vegan, which I've never done before.
+And then it was my birthday, so I'm getting closer and closer to the 26 years old. I don't know, I don't really feel very strongly about birthdays. I organized an "Open Home Café" and invited a bunch of friends. It was nice to make coffee for everyone, and also [bake a cake](/2025/10/26/bolo-de-cenoura/), and adapting the recipe to be vegan, which I've never done before.
 
 That same week, there was also the Dutch Design Week, here in Eindhoven, where you can see the most random and crazy ideas. It's more about industrial-type design, and not really clothes. It's always nice to look at some of the exhibitions and be intrigued about it.
 
@@ -46,7 +46,7 @@ Just to make it more clear: these parties have each around 17% of the votes, so 
 
 ## 💪 Health {#health}
 
-My permanent - ah! - retainer broke, so it needed to be replaced. That got me into a rabbit hole where I went check photos from when I wore braces. And low and behold: my teeth have changed quite a lot. And no, they have not gone to their original position. I've gotten an open bite, which I've never had before I even had braces.
+My permanent - ah! - retainer broke, so it needed to be replaced. That got me into a rabbit hole where I went check photos from when I wore braces. And lo and behold: my teeth have changed quite a lot. And no, they have not gone to their original position. I've gotten an open bite, which I've never had before I even had braces.
 
 I've noticed before I can't really cut - bite? - into things with my front teeth and have to use my molars. That's not good. I'm going to investigate the option to use Invisalign, but if that's not possible, I'll just leave it as it is. So annoying. And after fishing for some photos with my mouth - very hard to find - since 2017, I think this change mostly happened while my wisdom teeth were growing out of their shell.
 

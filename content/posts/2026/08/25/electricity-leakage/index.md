@@ -29,13 +29,13 @@ I went immediately check all the switches and... the same thing had happened: th
 ![The Outage of the Sun](image:2026-08-25-electricity-leakage-3)
 {width="4000" height="3000"}
 
-It was still early, so there was no one I could call. So I wanted a bit. I started by calling the company that had been here the last time. They said they couldn't come because their assignment was marked as finished, and that the technician had said that the problem was solved. Hmm. Sure.
+It was still early, so there was no one I could call. So I waited a bit. I started by calling the company that had been here the last time. They said they couldn't come because their assignment was marked as finished, and that the technician had said that the problem was solved. Hmm. Sure.
 
 Then, I called the landlord company. They set out an assignment and someone came the same day. I will spare you the details: it wasn't that easy. I had to call multiple people multiple times to make sure that the communication between all these companies was being properly done, which it wasn't. If I hadn't called, they would've not come the same day.
 
 Someone came that day and he checked the same cables as the other guy. He found 3 cables that were "leaking" electricity somehow. He thought it was odd. But well... alone he couldn't do end to end tests. So he connected group 5 to a new switch he installed, which would hopefully let us have electricity in that group until he came back with another colleague... another time.
 
-That same night, it tripped again. But this time, the whole apartments electricity went down with it. I don't really know what he installed, but it seemed to be a bypass for the ground switch. Now, instead of the ground switch tripping, the "main" switch in the hall that connects to our apartment tripped. We tried a few more times, but it'd always go down after a random amount of time.
+That same night, it tripped again. But this time, the whole apartment's electricity went down with it. I don't really know what he installed, but it seemed to be a bypass for the ground switch. Now, instead of the ground switch tripping, the "main" switch in the hall that connects to our apartment tripped. We tried a few more times, but it'd always go down after a random amount of time.
 
 We called the landlord company emergency number and they sent someone that had, of course, absolutely no context about what had been done that day, so he just turned everything on again and said it was fine. He left. I went take a shower. Everything tripped again. We called him and he came back just to connect the fridge with a different plug in the hall. We decided to keep group 5 and the new bypass off. (He had left them on, but it tripped again, of course. What was he thinking.)
 

@@ -13,7 +13,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lem5movky2f4
 ---
 
-December is coming to an end, and with it so is 2024. It was a year full of change, challenges and adventures. I managed to tick off quite a few items from my impossible list, achieve fluency in Dutch, and start a new job. All of this things, combined, made it a positively challenging year.
+December is coming to an end, and with it so is 2024. It was a year full of change, challenges and adventures. I managed to tick off quite a few items from my impossible list, achieve fluency in Dutch, and start a new job. All of these things, combined, made it a positively challenging year.
 
 <!--more-->
 
@@ -21,7 +21,7 @@ Similar to [last year](/2023/12/30/year-in-review/), it's now time to look back 
 
 ## ✍️ Website {#website}
 
-Following the trend of the last year of two, my website has not changed a lot in 2024 when it comes to appearance. Throughout the year, I made a few updates here and there, and mentioned them in my monthly updates. However, they were nothing out of the ordinary.
+Following the trend of the last year or two, my website has not changed a lot in 2024 when it comes to appearance. Throughout the year, I made a few updates here and there, and mentioned them in my monthly updates. However, they were nothing out of the ordinary.
 
 In addition, 2024 marked the [10th anniversary 🥂](/2024/07/12/a-decade-of-blogging/) of this website. That was, on itself, a milestone reached. During the year, I introduced [gallery views 🖼️](/2024/02/01/recently/#website) for my photos pages, a digital shoebox which I'm now considering to remove, and a [spam-prevention 🤖](/2024/05/10/mitigating-guestbook-spam/) mechanism for the guestbook.
 
@@ -42,11 +42,11 @@ Looking back at last year's post, I wrote the following:
 
 > I am also hoping that by the end of 2024, I am able to have regular conversations in Dutch with people without major problems. I think this will be a great challenge, and I definitely need to get more basic vocabulary.
 
-Well, I think that's been a success. Not only did I complete my B1- and B1 courses, but I also passed both the Inburgeringsexamen* and the [*Staatsexamen B2*](/2024/07/23/dutch-b2/) during 2024. I had planned them to the end of 2024, but I'm very happy that I decided to do them before summer: I was clearly more than ready for them.
+Well, I think that's been a success. Not only did I complete my B1- and B1 courses, but I also passed both the *Inburgeringsexamen* and the [*Staatsexamen B2*](/2024/07/23/dutch-b2/) during 2024. I had planned them to the end of 2024, but I'm very happy that I decided to do them before summer: I was clearly more than ready for them.
 
 Since June, I have even been working in Dutch. So... when it comes to the Dutch language, it's been a very successful year. Of course there's still things I don't know or that I don't feel extremely comfortable about, but, in general, it's more than enough.
 
-**In 2025**, I'm actually hoping that I will travel further away and see a bit of Asia or the Americas. I do also hoop my Dutch will keep evolving and becoming better and better, knowing more and more words, making less and less mistakes.
+**In 2025**, I'm actually hoping that I will travel further away and see a bit of Asia or the Americas. I do also hope my Dutch will keep evolving and becoming better and better, knowing more and more words, making less and less mistakes.
 
 ## 💪 Health {#health}
 
@@ -54,7 +54,7 @@ This past year, I managed to workout at least twice a week the whole year, mostl
 
 I had much less complaints of my Achilles during this year. If I do too much in a day, or a few days in a row, I do feel it a bit the day after, and I think that now that it's cold that I've felt it a bit more often. So I'll keep working on this to keep strengthening the Achilles to avoid further issues. All in all, a very positive year for my Achilles.
 
-**In 2025**, I plan on doing more cardio, maybe running. I tried running one time this year and I didn't like it that much, but I think that was just because the shoes were not adequate. I think that if I can run frequently without pain, than my Achilles is good enough. And it also _sounds fun_. The trick is to never overdo it and learn to better listen to my body. One more goal for next year is to reduce the fat percentage of my body, so let's see how that goes.
+**In 2025**, I plan on doing more cardio, maybe running. I tried running one time this year and I didn't like it that much, but I think that was just because the shoes were not adequate. I think that if I can run frequently without pain, then my Achilles is good enough. And it also _sounds fun_. The trick is to never overdo it and learn to better listen to my body. One more goal for next year is to reduce the fat percentage of my body, so let's see how that goes.
 
 ## 💼 Work {#work}
 

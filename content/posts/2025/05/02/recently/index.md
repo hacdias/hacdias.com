@@ -51,9 +51,9 @@ When it comes to sport, I haven't run much since the last time. The knee is much
 
 ## 🍿 Entertainment {#entertainment}
 
-Closer to the beginning of the month, we finished *Survival of the Thickest*, which mostly a comedy show. It was fine, not specifically something I would recommend. Later in the month, we also finished the new season of *White Lotus* 🪷. I know a lot of people on the Internet were not happy about this season, but I felt like it gave a good enough continuity to the story.
+Closer to the beginning of the month, we finished *Survival of the Thickest*, which is mostly a comedy show. It was fine, not specifically something I would recommend. Later in the month, we also finished the new season of *White Lotus* 🪷. I know a lot of people on the Internet were not happy about this season, but I felt like it gave a good enough continuity to the story.
 
-We also finished watching the second season of *Surface* . I consider it to be quite good. The plot development since the first season has been through many turns, that I wouldn't have expected when watching season 1. I'm now very curious to see what's going to happen on the next season.
+We also finished watching the second season of *Surface*. I consider it to be quite good. The plot development since the first season has been through many turns, that I wouldn't have expected when watching season 1. I'm now very curious to see what's going to happen on the next season.
 
 <hr>
 

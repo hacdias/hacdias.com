@@ -23,14 +23,14 @@ Vila Viçosa and Redondo were the first two places I visited. Both in the same d
 
 ![Piano at Redondo](image:2015-08-26-redondo-flower-festival "Piano at Redondo")
 
-There were a "festival" of flowers in which people decored the various streets (I think there were about 45 flowering streets) with paper flowers. It took place in Redondo.
+There was a "festival" of flowers in which people decorated the various streets (I think there were about 45 flowering streets) with paper flowers. It took place in Redondo.
 
 But it wasn't only with flowers. I found out a piano all made by hand, with paper. Piece by piece. Paper by paper. It's incredible the amount of work to decorate all those roads.
 
 ![The edge of the world](image:2015-08-26-pena-park "The edge of the world")
 
-At last, but not least, I'm going to talk a little bit about [Pena National Palace](https://en.wikipedia.org/wiki/Pena_National_Palace) and it's Park. As you can see in the photo above, the very colored castle at the center is the Pena National Palace. It has a lot of history behind too.
+At last, but not least, I'm going to talk a little bit about [Pena National Palace](https://en.wikipedia.org/wiki/Pena_National_Palace) and its Park. As you can see in the photo above, the very colored castle at the center is the Pena National Palace. It has a lot of history behind too.
 
-That photo was taken in the higher place at Pena National Park, Cruz Alta. It is about 529 meters altitude and there we can have a sneak peak of the whole Sintra and everything ahead.
+That photo was taken in the higher place at Pena National Park, Cruz Alta. It is about 529 meters altitude and there we can have a sneak peek of the whole Sintra and everything ahead.
 
 The beauty of the park is indescribable. You must see it. If you are portuguese, you must visit it for yourself. If you're not portuguese, when you come to Portugal, visit it! I walked a lot of kilometers in that park and each millimeter worth it.

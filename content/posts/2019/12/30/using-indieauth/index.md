@@ -23,13 +23,13 @@ But first, what is IndieAuth? According to [IndieWeb](https://indieweb.org/Indie
 
 >  IndieAuth  is a federated login protocol for  Web sign-in , enabling users to use their own  domain  to sign in to other sites and services. IndieAuth can be used to implement **OAuth2 login** AKA **OAuth-based login**.  
 
-So basically you can sign in with our own domain, being your domain your username and password and your identity online, which is… kind of awesome if we think about it since a domain is unique and you can make it yours.
+So basically you can sign in with your own domain, being your domain your username and password and your identity online, which is… kind of awesome if we think about it since a domain is unique and you can make it yours.
 
 ### How does it work?
 
 Really quickly, let’s go through how it works:
 
-1. The user — you! — fills theirs URL in the login form
+1. The user — you! — fills their URL in the login form
 2. The app fetches the URL, looks for the authorisation endpoint and redirects the user to their authorisation endpoint
 3. The user authenticates and the endpoint generates a temporary authorisation token the app can use to verify the user’s identity
 

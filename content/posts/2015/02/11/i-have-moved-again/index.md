@@ -23,7 +23,7 @@ I don't want to have a lot of things, dispersed. One thing, one place, is better
 
 The second reason was that COXPE was receiving a small amount of visits a month and I don't want to maintain two domains with few content.
 
-Because I'm studying I don't have a lot of time to write new posts, much less to two websites. I've also [Pplware](http://pplware.com) and [Pplware Kids](http://kids.pplware.com) to write for. So, unifying this two blogs was the best choice.
+Because I'm studying I don't have a lot of time to write new posts, much less to two websites. I've also [Pplware](http://pplware.com) and [Pplware Kids](http://kids.pplware.com) to write for. So, unifying these two blogs was the best choice.
 
 ## You are using the default theme...
 

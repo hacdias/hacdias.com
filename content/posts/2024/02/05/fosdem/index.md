@@ -24,7 +24,7 @@ During this weekend, not only did I speak a lot of Dutch with Sebastiaan, but al
 
 Saturday was the day to relearn how FOSDEM works: everything everywhere all at once, just like the [movie](https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once). This year's edition counted with almost 1000 speakers, almost 900 events, and an astonishing amount of 67 different tracks.
 
-With so many things happening all at the same time, it is extremely difficult to figure out what to do. We wanted to see Daniel's [*Curling the modern way*](https://fosdem.org/2024/schedule/event/fosdem-2024-1909-broom-not-included-curling-the-modern-way/) talk, but clearly we weren't the only ones. We did not manage to see it since when we arrive the auditorium was already fully packed.
+With so many things happening all at the same time, it is extremely difficult to figure out what to do. We wanted to see Daniel's [*Curling the modern way*](https://fosdem.org/2024/schedule/event/fosdem-2024-1909-broom-not-included-curling-the-modern-way/) talk, but clearly we weren't the only ones. We did not manage to see it since when we arrived the auditorium was already fully packed.
 
 Instead, I decided to go to the [Railways and Open Transport](https://fosdem.org/2024/schedule/track/railways-and-open-transport/) devroom. I don't know much about public transit and open source, but I find it nevertheless fascinating. I have thrown some notes of things I want to look at, but haven't had time yet. This devroom also proved to be extremely popular and was hard to get inside. My strategy was to remain inside once I got a seat.
 
@@ -32,7 +32,7 @@ At the end of the day, we visited the [Open Source Design](https://fosdem.org/20
 
 ## ☕️ Sunday {#sunday}
 
-Sunday went fast. There were last people I think. It was likely partially caused by many people spending what-perhaps-is-considered-too-much-time at the [Delirium Café](https://www.deliriumvillage.com/nl/bar/delirium-cafe/). With a quieter day and a better strategy in place, we entered the room for [*You too could've made curl*](https://fosdem.org/2024/schedule/event/fosdem-2024-1931-you-too-could-have-made-curl-/) ahead of time. It worked out fine, but it seemed the affluence for this talk wasn't definitely as large as the one on Saturday.
+Sunday went fast. There were less people I think. It was likely partially caused by many people spending what-perhaps-is-considered-too-much-time at the [Delirium Café](https://www.deliriumvillage.com/nl/bar/delirium-cafe/). With a quieter day and a better strategy in place, we entered the room for [*You too could've made curl*](https://fosdem.org/2024/schedule/event/fosdem-2024-1931-you-too-could-have-made-curl-/) ahead of time. It worked out fine, but it seemed the affluence for this talk wasn't definitely as large as the one on Saturday.
 
 Two other talk highlights of this day were the [Sequoia PGP](https://sequoia-pgp.org/) project, which I did not really know about. It seems cool. I wish the GPG tools were easier to use and it seems that this project is precisely that.
 
@@ -60,6 +60,6 @@ There are still some things I want to note, but they don't make their own paragr
 - The Airbnbs I choose in Brussels also have creepy stairs. I don't know how I do this, but it's not the first time. I always think I'll die there.
 - Lime beer is an oddly fascinating beer. I was a bit surprised it was green, but I honestly have no idea what I was expecting. Very tasty I must say. Always try something different.
 
-I should learn how to take better notes next year. I'm not sure on how to act on the notes I have taken. I just noted down the links for the things that looked the most interesting to me, and I definitely want to see there's anything I can do with the maps/transports/railway-stuff.
+I should learn how to take better notes next year. I'm not sure on how to act on the notes I have taken. I just noted down the links for the things that looked the most interesting to me, and I definitely want to see if there's anything I can do with the maps/transports/railway-stuff.
 
 Until next {{< favicon "fosdem.org" >}} FOSDEM!

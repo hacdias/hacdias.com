@@ -32,7 +32,7 @@ works across multiple services.
 ## ✨ Common Helpers {#common-helpers}
 
 Before building each of the services, we will first create a simple common package that will
-provide some helper functions for both of them. This helper functions will take care of creating
+provide some helper functions for both of them. These helper functions will take care of creating
 a tracer provider, which contains the places to which the tracing data is exported, and the general
 set-up of tracing.
 
@@ -319,7 +319,7 @@ trace-flags      = 2HEXDIGLC   ; 8 bit flags. Currently, only one bit is used.
 
 As you might be thinking, this doesn't seem that hard to generate. And that's what
 we will do. The following commands generate and print a `traceparent` for us, and
-then passes it onto the request.
+then pass it onto the request.
 
 ```console
 $ trace_id="$(cat /dev/urandom | gtr -dc 'a-f0-9' | fold -w 32 | head -n 1)"

@@ -139,7 +139,7 @@ Porém, essa ordem é necessária de forma a que a variável `$facebook` fique 
 
 Agora, quando acederem às definições do vosso tema (neste caso), irão ter uma página de opções.
 
-Podem agora definir o *link* para a página do Facebook que desejam utilizar. Depois de guardarem as alterações ir-vos-à ser apresentada uma mensagem.
+Podem agora definir o *link* para a página do Facebook que desejam utilizar. Depois de guardarem as alterações ir-vos-á ser apresentada uma mensagem.
 
 Para aplicar a variável no tema é muito simples. Como viram acima, utilizámos a função get_option  para obter a opção que foi gravada e será assim que a iremos obter e utilizar no tema.
 

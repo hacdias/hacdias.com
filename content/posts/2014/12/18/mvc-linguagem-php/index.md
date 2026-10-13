@@ -56,7 +56,7 @@ O núcleo (ou motor) da aplicação está contido na pasta `app_core` estando 
 
 ## *Public HTML*
 
-A pasta `public_html` será aquela que para a qual o servidor web, como por exemplo o apache, estará a apontar. Esta irá conter todos os ficheiros que estarão disponíveis ao utilizador.
+A pasta `public_html` será aquela para a qual o servidor web, como por exemplo o apache, estará a apontar. Esta irá conter todos os ficheiros que estarão disponíveis ao utilizador.
 
   * `css` → todos os ficheiros de estilo serão incluídos nesta pasta;
   * `imgs` → qualquer imagem que seja utilizada na aplicação poderá ser colocada aqui;
@@ -66,7 +66,7 @@ A pasta `public_html` será aquela que para a qual o servidor web, como por ex
 
 ## config.php
 
-Iremos começar pelo ficheiro mais simples: o ficheiro `config.php` que está contido base do núcleo da aplicação (`app_core/config.php`). Este ficheiro, como já referido, irá conter as constantes principais. Ora veja:
+Iremos começar pelo ficheiro mais simples: o ficheiro `config.php` que está contido na base do núcleo da aplicação (`app_core/config.php`). Este ficheiro, como já referido, irá conter as constantes principais. Ora veja:
 
 ```php
 <?php

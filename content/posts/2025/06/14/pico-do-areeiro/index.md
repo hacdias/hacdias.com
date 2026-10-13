@@ -45,4 +45,4 @@ syndication:
 .fg-2025-06-14-pico-do-areeiro> *:nth-child(3) { grid-area: c; }
 </style>
 
-When we left to go to Pico do Areeiro, we didn't expect to see this incredible scenery. On our journey up, we went through the clouds, and came right on top, leaving this blankets of air floating under us.
+When we left to go to Pico do Areeiro, we didn't expect to see this incredible scenery. On our journey up, we went through the clouds, and came right on top, leaving these blankets of air floating under us.

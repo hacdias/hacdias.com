@@ -34,4 +34,4 @@ Everyone has its own dark side and its light side. Normally, what should happen 
 
 ![The choice is yours. Alea jacta est.](image:2015-03-13-dices "The choice is yours. Alea jacta est.")
 
-Concluding, what I've to say is that technology is neither good, nor bad. What make it good or bad is the people. You. **You are what makes technology good or bad because it depends on your uses, on your needs.**
+Concluding, what I've to say is that technology is neither good, nor bad. What makes it good or bad is the people. You. **You are what makes technology good or bad because it depends on your uses, on your needs.**

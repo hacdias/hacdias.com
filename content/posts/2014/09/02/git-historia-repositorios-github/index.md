@@ -1,6 +1,6 @@
 ---
 title: Uma História e Repositórios do Git e GitHub
-description: O Git é dos sistemas de controlo de versão mais utilizados por todo o mundo. Hoje é hora de falar um pouco da história do Git e do GitHub."
+description: O Git é dos sistemas de controlo de versão mais utilizados por todo o mundo. Hoje é hora de falar um pouco da história do Git e do GitHub.
 date: 2014-09-02T14:09:59Z
 categories:
   - writings
@@ -19,11 +19,11 @@ Hoje vamos aprender a criar um simples repositório no GitHub e fazer a primeira
 
 ## Um pouco de história...
 
-O kernel (ou núcleo) do Linux é um projeto de código aberto com um tamanho muito grande. No período de 1991 a 2002 houveram grandes mudanças no kernel do Linux visto que foi o período onde a manutenção foi maior.
+O kernel (ou núcleo) do Linux é um projeto de código aberto com um tamanho muito grande. No período de 1991 a 2002 houve grandes mudanças no kernel do Linux visto que foi o período onde a manutenção foi maior.
 
 Em 2002, este projeto começou a utilizar um sistema de controlo de versão proprietário, o [BitKeeper](http://www.bitkeeper.com/).
 
-Três anos mais tarde, em 2015, o relacionamento existente entre a comunidade que desenvolvia o Kernel e a empresa do BitKeeper desfez-se e isso levou a comunidade a pensar numa nova solução.
+Três anos mais tarde, em 2005, o relacionamento existente entre a comunidade que desenvolvia o Kernel e a empresa do BitKeeper desfez-se e isso levou a comunidade a pensar numa nova solução.
 
 A comunidade começou então a desenvolver um novo sistema sendo que os objetivos que pretendiam atingir com este sistema eram a **velocidade**, **um software robusto, design simples** e capaz de lidar com **grandes projetos**.
 

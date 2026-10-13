@@ -16,16 +16,16 @@ Nowadays, we are used to hear about bits and bytes and sometimes, in the adverti
 
 **Bit** stands for Binary Digit and it is the smallest unit of information that can be stored or transmitted. A bit can only hold one out of two values: 0 and 1, in other words, the binary code. Bits are represented by a lower case "b".
 
-**Byte** stands for Binary Term and it is a data type in computation. It's generally used to specify the amount of memory or capacity of a device. It is represented by a upper case "B". By default:
+**Byte** stands for Binary Term and it is a data type in computation. It's generally used to specify the amount of memory or capacity of a device. It is represented by an upper case "B". By default:
 
-- **1 Byte** = 8 bits (octect)
-- **½ Byte** = 4 bits (semioctect)
+- **1 Byte** = 8 bits (octet)
+- **½ Byte** = 4 bits (semioctet)
 
 ![Graphical comparison between bit and byte](https://media.hacdias.com/2016-11-25-bit-vs-byte.jpeg)
 
-There are **Binary Prefixes (IEC)** which are names and symbols used to measure the amount of Bytes. These are unit prefixes for multiples of units in data processing, data transmission and digital information. In the case of bits and bytes, it indicates the multiplication by a power of 2. For example, one megabibytes (MiB) is equivalent a 2 to the power of 20 bytes!
+There are **Binary Prefixes (IEC)** which are names and symbols used to measure the amount of Bytes. These are unit prefixes for multiples of units in data processing, data transmission and digital information. In the case of bits and bytes, it indicates the multiplication by a power of 2. For example, one mebibyte (MiB) is equivalent to 2 to the power of 20 bytes!
 
-On the other hand, there is the **International System of Units (SI)** notation which is more common. This ones represent the multiplication by a power of 10. For example, a megabyte (MB) is the same as 10 to the power of 6 bytes.
+On the other hand, there is the **International System of Units (SI)** notation which is more common. These ones represent the multiplication by a power of 10. For example, a megabyte (MB) is the same as 10 to the power of 6 bytes.
 
 ## What about ads?
 

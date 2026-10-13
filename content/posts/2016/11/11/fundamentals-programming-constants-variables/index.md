@@ -54,7 +54,7 @@ BLOG <- "Bits N Me" // This would produce an error
 ```
 
 In the first line, we declare the constant BLOG and assign to it the value "Bits
-N Me". Then, in the second line, we try to change it's value. But since it is a
+N Me". Then, in the second line, we try to change its value. But since it is a
 constant, an error will be produced because its content cannot be changed during
 the run time of the program.
 
@@ -92,13 +92,13 @@ program.
 
 There are two main nomenclatures when we talk about variables names and it
 depends on the language. There are languages that follow the variation
-*loweCamelCase* of the pattern *CamelCase*. But there are other languages that
+*lowerCamelCase* of the pattern *CamelCase*. But there are other languages that
 prefer the name of the variables to be *separated_by_lines*.
 
 ## Naming rules
 
 There are some must-follow rules when we talk about the name of variables and
-constants. If we don't follow this rules, an error will be produced.
+constants. If we don't follow these rules, an error will be produced.
 
 The name of variables and constants must:
 

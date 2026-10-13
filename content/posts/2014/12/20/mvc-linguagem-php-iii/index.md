@@ -85,11 +85,11 @@ $bootstrap = new Bootstrap();
 $bootstrap->init();
 ```
 
-Neste ficheiro, como pode ver, o ficheiro das configurações é chamado e, de seguida, é criado uma função de auto carregamento.
+Neste ficheiro, como pode ver, o ficheiro das configurações é chamado e, de seguida, é criada uma função de auto carregamento.
 
 O que faz esta função? Simplesmente tenta carregar uma classe indefinida. Como pode ver, eu não importo a classe `Bootstrap`, mas logo de seguida uso-a.
 
-Consigo utilizá-la porque a a função de *auto load* chama esta classe automaticamente. Mas atenção! Este código apenas nos permite carregar automaticamente classes contidas na pasta `libs`.
+Consigo utilizá-la porque a função de *auto load* chama esta classe automaticamente. Mas atenção! Este código apenas nos permite carregar automaticamente classes contidas na pasta `libs`.
 
 > Se neste momento experimentar correr o código nesta pasta irá receber diversos erros porque ainda não foram criados nenhuns controladores. Nem mesmo o dos erros!
 
@@ -204,13 +204,13 @@ class Error extends Controller
 
 Os controladores devem pertencer à *namespace* Controller e devem ter, obrigatoriamente, o seu construtor presente no formato mostrado acima.
 
-Este é um controlador que só terá o método _index _relacionado com as páginas pois não irá ser utilizado mais nenhum. Acima pode visualizar que este método irá receber um argumento que, por padrão, é '404'.
+Este é um controlador que só terá o método _index_ relacionado com as páginas pois não irá ser utilizado mais nenhum. Acima pode visualizar que este método irá receber um argumento que, por padrão, é '404'.
 
 De seguida, algumas informações são atribuídas dependendo do erro em questão. Depois o título da página é definido e, mais tarde, os dados são enviados para a _view_.
 
-Falando em _view_, esta é renderizada logo de seguida. A _view _que colocámos é `error/index`, então o ficheiro PHP deverá encontrar-se em `app_core/views/error/index.php`.
+Falando em _view_, esta é renderizada logo de seguida. A _view_ que colocámos é `error/index`, então o ficheiro PHP deverá encontrar-se em `app_core/views/error/index.php`.
 
-> Se experimentar correr o código neste momento, deverá receber um erro por não encontrar a _View _da página de erro.
+> Se experimentar correr o código neste momento, deverá receber um erro por não encontrar a _View_ da página de erro.
 
 Vamos então visualizar a _view_ que corresponde à página de erro:
 
@@ -247,7 +247,7 @@ class Index extends Controller
 ```
 
 
-E o ficheiro da sua _view _deverá ter qualquer coisa que deseje. Eu, por exemplo, coloquei:
+E o ficheiro da sua _view_ deverá ter qualquer coisa que deseje. Eu, por exemplo, coloquei:
 
 ```html
 <h1>MVC PHP Bootstrap (MVCPHPB)</h1>

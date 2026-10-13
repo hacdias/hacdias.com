@@ -33,9 +33,9 @@ Chris and I visited with my parents, with a layover in Lisbon. The layover was p
 
 On a more technical side, and despite [trying](/2025/06/14/maintaining-open-source-projects/) to find new maintainers for the project, I have been giving [File Browser](https://github.com/filebrowser/filebrowser) some needed love. Especially when it comes to addressing quite a few security vulnerabilities that have been found by a security researcher from [SBA Research](https://www.sba-research.org/).
 
-Last weekend, I also participated in the [FietsZwerm040](https://fietszwerm040.nl/), which is a demonstration for road safety for the bike. We all bikes as one through a route that shows some of the not-so-well-thought-of-intersections and other road features for the bike. It was also quite nice that we were sometimes allowed to bike on the actual normal road and even on the bus lane.
+Last weekend, I also participated in the [FietsZwerm040](https://fietszwerm040.nl/), which is a demonstration for road safety for the bike. We all biked as one through a route that shows some of the not-so-well-thought-of-intersections and other road features for the bike. It was also quite nice that we were sometimes allowed to bike on the actual normal road and even on the bus lane.
 
-Lastly, I started a new job at [Animo](https://animo.id/). Just like my previous job, it is also in the digital identity workspace, but with some more open source focus, which I missed. The offices are in Utrecht, and I go there one or twice a week, and work from home the rest of the days. It's been very nice and pleasant!
+Lastly, I started a new job at [Animo](https://animo.id/). Just like my previous job, it is also in the digital identity workspace, but with some more open source focus, which I missed. The offices are in Utrecht, and I go there once or twice a week, and work from home the rest of the days. It's been very nice and pleasant!
 
 ## 💪 Health {#health}
 
@@ -49,9 +49,9 @@ I finished reading *Waiting for the Flood*. It was a good book in the sense that
 
 We went to Antwerp to see Dua Lipa. It was quite a ride since the Dutch railways were striking and the bus was late and everything, but we got there on time and also came back on time. Dua Lipa was very good live and I was actually impressed. I'm not sure why, but I didn't expect it. Something nice about her is that she always sings a song from the country where she's performing at! She even spoke a bit of Dutch!
 
-June was the month were we went *back* to the cinema, where we watched three movies: *Materialists*, *The Phoenician Scheme*, and *The Balconettes*. They were all very good in their own way, but if I had to recommend a single one, I'd actually recommend *Materialists*.
+June was the month where we went *back* to the cinema, where we watched three movies: *Materialists*, *The Phoenician Scheme*, and *The Balconettes*. They were all very good in their own way, but if I had to recommend a single one, I'd actually recommend *Materialists*.
 
-When it comes to TV Shows, we finished the first season of *Your Friends & Neighbors”*, *Adults*, *A Man on the Inside* and *The Buccaneers*. I'm not really feeling like going a lot into the TV shows. They were nice, and entertaining.
+When it comes to TV Shows, we finished the first season of *Your Friends & Neighbors*, *Adults*, *A Man on the Inside* and *The Buccaneers*. I'm not really feeling like going a lot into the TV shows. They were nice, and entertaining.
 
 <hr>
 

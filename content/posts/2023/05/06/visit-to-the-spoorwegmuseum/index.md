@@ -104,7 +104,7 @@ Besides seeing old trains, and entering some of them, such as the royal family t
 
 ![](image:2023-05-06-spoorwegmuseum-overview "Overview of Some Trains")
 
-Among these activities is the Stalen Monsters (*Steal Monsters*) ride, De Vuurproef (*Trial By Fire*) and De Grote Ontdekking (*The Great Discovery*). Each one offers you a different kind of thing with its uniqueness and greatness. From a thrilling ride where you go even under a train, to a traveling back to the reconstruction of a town in 1839. Here's some unrelated pictures that I took at the museum:
+Among these activities is the Stalen Monsters (*Steel Monsters*) ride, De Vuurproef (*Trial By Fire*) and De Grote Ontdekking (*The Great Discovery*). Each one offers you a different kind of thing with its uniqueness and greatness. From a thrilling ride where you go even under a train, to a traveling back to the reconstruction of a town in 1839. Here's some unrelated pictures that I took at the museum:
 
 <div class='fg fg-3'>
 

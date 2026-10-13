@@ -35,8 +35,8 @@ lucky ones that received one of the copies. The title was quite enticing. Howeve
 the book was different than what I expected... in a positive way!
 
 I expected the book to be more technical, which it wasn't. There's no reason why this
-book had to be technical. I think perhaps the word "programmer" led by brain to put
-it into a "extremely technical" book box. It is more about the process, about the psychology,
+book had to be technical. I think perhaps the word "programmer" led my brain to put
+it into an "extremely technical" book box. It is more about the process, about the psychology,
 about *what makes a creative programmer*.
 
 ![The Creative Programmer](image:2023-06-12-the-creative-programmer)

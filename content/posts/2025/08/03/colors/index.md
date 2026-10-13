@@ -20,13 +20,13 @@ syndication:
   - https://fosstodon.org/@hacdias/114964919259561217
 ---
 
-Colors. That is the topic of [this month's edition](https://marisabel.nl/public/blog/IndieWeb_Carnival_August_2025_:_Colors) of The IndieWeb Carnaval, brought to us by Marisabel. I do not think a lot about colors, and I must admit I felt a bit reticent on whether or not I should participate this month. However, my will to explore more topics brought me here, to the text editor.
+Colors. That is the topic of [this month's edition](https://marisabel.nl/public/blog/IndieWeb_Carnival_August_2025_:_Colors) of The IndieWeb Carnival, brought to us by Marisabel. I do not think a lot about colors, and I must admit I felt a bit reticent on whether or not I should participate this month. However, my will to explore more topics brought me here, to the text editor.
 
 <!--more-->
 
 Do I have a favorite color? Very good question. As a kid, I would've probably answered, rather in doubt, blue, or, more specifically, baby blue. But baby blue was perhaps too light to be what I exactly meant. Perhaps slightly darker than baby blue, but lighter than sky blue. But then again, what **is** sky blue? The sky can go through so many different shades of the same color.
 
-It is time to look at my surroundings, at home. What do I see? We have quite a lot of very boring white IKEA furniture, specially in the bedrooms and office. However, if we step into the living room/kitchen area, it quite changes. We have a very pretty maple-ish colored bookcase and a matching cabinet, a green coffee station with a light wood top, quite a lot of light woord furniture, and even dark wood coffee tables next to the sofa.
+It is time to look at my surroundings, at home. What do I see? We have quite a lot of very boring white IKEA furniture, specially in the bedrooms and office. However, if we step into the living room/kitchen area, it quite changes. We have a very pretty maple-ish colored bookcase and a matching cabinet, a green coffee station with a light wood top, quite a lot of light wood furniture, and even dark wood coffee tables next to the sofa.
 
 In general, we have a lot of earthy tones in our living area, and they go very well with the plants. We have quite a lot of plants, but that's something that comes more from Chris. I don't think I'd have bought so many if I had to take care of them alone. Anyways.
 
@@ -38,7 +38,7 @@ You know, I first use the lighter t-shirts, and once those are all in the laundr
 
 The first conclusion I take out of this is that I like being surrounded by color, but I prefer to be a bit more monochromatic/simple in what I wear. And this while avoiding wearing a lot of darker clothes, except maybe for the winter. My winter clothes tend to be slightly darker.
 
-I am also going to let in a secret: my color accuracy is not 100%. Some online tests indicate I have a very mild case of deuteranopia, which is a type of green color blindness. The first time I came across this in my life was in a biology class. There was one of this color blindness tests in the textbook where you supposedly see a number. I could not see the number, but no one believed it, not even my parents. And I was 16 or 17. Why on earth would I be lying about it?
+I am also going to let in a secret: my color accuracy is not 100%. Some online tests indicate I have a very mild case of deuteranopia, which is a type of green color blindness. The first time I came across this in my life was in a biology class. There was one of these color blindness tests in the textbook where you supposedly see a number. I could not see the number, but no one believed it, not even my parents. And I was 16 or 17. Why on earth would I be lying about it?
 
 Of course, I did a lot of online tests and the results are clear: there's a bit of deuteranopia happening. Another time, I was with a friend of mine in Lisbon. We were about to enter an escalator. You know that the escalator usually has a green light or red light, depending on whether that is the right direction to enter or not. You know what I said to my friend? "Why on earth is the light yellow?" She immediately said: "what do you mean? The light's green!".
 

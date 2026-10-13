@@ -138,7 +138,7 @@ $info = password_get_info($hash);
 
 ## password_needs_rehash
 
-Esta função permite-nos confirmar se uma hash já criada corresponde a uma array de opções e a um algoritmos. Podem observar mais no seguinte exemplo:
+Esta função permite-nos confirmar se uma hash já criada corresponde a uma array de opções e a um algoritmo. Podem observar mais no seguinte exemplo:
 
 ```php
 <?php

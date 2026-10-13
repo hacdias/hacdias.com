@@ -32,4 +32,4 @@ thumbnail: image:2019-09-30-azores-01
 }
 </style>
 
-I went to Azores in the summer of 2019 and took this few really nice panoramas. One day, I hope to go back there. I would recommend everyone to visit any of the islands.
+I went to Azores in the summer of 2019 and took these few really nice panoramas. One day, I hope to go back there. I would recommend everyone to visit any of the islands.

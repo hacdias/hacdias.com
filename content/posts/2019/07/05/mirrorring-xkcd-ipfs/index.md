@@ -17,7 +17,7 @@ As many of you probably know, xkcd is a web comic created in 2005 by Randall Mun
 
 As part of wanting to contribute to [IPFS Archives](https://github.com/ipfs/archives), I decided to look at the issues and find the most interesting one for me, and I did: xkcd! There were some clones already built, but all of them were out of date and weren't automatically updated.
 
-So I started by building a small tool that would fetch all the comics and their info. I called it... as you might image... [`xkcd-clone`](https://github.com/hacdias/xkcd-clone). It doesn't actually clone the whole website, but only the comics and their metadata.
+So I started by building a small tool that would fetch all the comics and their info. I called it... as you might imagine... [`xkcd-clone`](https://github.com/hacdias/xkcd-clone). It doesn't actually clone the whole website, but only the comics and their metadata.
 
 ![](image:2019-07-05-2165-thumb-social "Comic 2165")
 
@@ -65,6 +65,6 @@ You can even pin it directly by running:
 $ ipfs pin add /ipns/xkcd.hacdias.com
 ```
 
-There are still, of course, some points that won't be achieved soon such as "what should we do with dynamic comics?". Perhaps we could make a costum procedure for each one, perhaps not.
+There are still, of course, some points that won't be achieved soon such as "what should we do with dynamic comics?". Perhaps we could make a custom procedure for each one, perhaps not.
 
 If you're interested in contributing, you're more than welcome to look out at the [code](https://github.com/hacdias/xkcd-clone) and improve it even more! PRs welcome as usual!

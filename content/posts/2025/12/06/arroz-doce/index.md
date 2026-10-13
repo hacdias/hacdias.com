@@ -18,7 +18,7 @@ thumbnail: image:2024-12-31-arroz-doce-4
 
 Back in 2023, I tried to make this dessert for the first time on my own, but I didn't use the [right rice](/2023/01/28/when-the-rice-isnt-right/) and it didn't end up as nice as I expected. I'm yet to find the right rice alternative in the Netherlands, so for now, my recommendation is to find a Portuguese or Brazilian shop where you live and see if they have "arroz carolino".
 
-Last [december](/2024/12/31/recently/), I made this dessert for a work event and it was a hit. So, when I had the opportunity to cook something this year, I decided to go for the true and tried dessert, but now with a twist: it had to be vegan 🌱. It turned out fantastic, I can barely notice a difference between the non-vegan and the vegan version. Maybe if I were to compre them side-by-side, but that's not going to happen very easily.
+Last [December](/2024/12/31/recently/), I made this dessert for a work event and it was a hit. So, when I had the opportunity to cook something this year, I decided to go for the true and tried dessert, but now with a twist: it had to be vegan 🌱. It turned out fantastic, I can barely notice a difference between the non-vegan and the vegan version. Maybe if I were to compare them side-by-side, but that's not going to happen very easily.
 
 ![Arroz Doce](image:2024-12-31-arroz-doce-4)
 {width="3000" height="3000" .right} 

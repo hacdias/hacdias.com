@@ -15,7 +15,7 @@ aliases:
   - /2021/02/01/lessons-moving-during-pandemic/
 ---
 
-It's been quite a while since I sent my last newsletter. And now the ferocious winter winds are storming outside. I'm looking at my screen wondering what to write and why write. Since August, I have been living in the Netherlands and I thought it would be a great ideas to talk a bit about the experience of moving during a pandemic.
+It's been quite a while since I sent my last newsletter. And now the ferocious winter winds are storming outside. I'm looking at my screen wondering what to write and why write. Since August, I have been living in the Netherlands and I thought it would be a great idea to talk a bit about the experience of moving during a pandemic.
 
 <!--more-->
 
@@ -35,7 +35,7 @@ With all of that being said, I finished my bachelor's around July 2020 and I mov
 
 ![Eindhoven train station.](image:2021-02-01-eindhoven-train "Eindhoven train station.")
 
-As soon as I landed and got to the city center, I noticed something different. It felt way... too... normal. The Netherlands didn't have a lot of restrictions in place regarding Covid. Masks? Except for a few people, they were nowhere to be seen. Everything was open and there was people _everywhere_, literally. Personally, I did not mind and the situation here has been pretty controlled since then even though the measures have been more restricted since December.
+As soon as I landed and got to the city center, I noticed something different. It felt way... too... normal. The Netherlands didn't have a lot of restrictions in place regarding Covid. Masks? Except for a few people, they were nowhere to be seen. Everything was open and there were people _everywhere_, literally. Personally, I did not mind and the situation here has been pretty controlled since then even though the measures have been more restricted since December.
 
 ## The university
 
@@ -55,7 +55,7 @@ Another issue for me, and for some other friends, is the **quartile** system, fo
 2. the courses feel too specific and rushed; too much to do and learn in too little time;
 3. really few vacation time when compared to a semester system.
 
-For the most part, professors simply asked us to watch previous years' lectures. Instead of putting the effort to either give live lectures of record new videos, we were left with some 2 years old live lectures with barely audible audio.
+For the most part, professors simply asked us to watch previous years' lectures. Instead of putting the effort to either give live lectures or record new videos, we were left with some 2 years old live lectures with barely audible audio.
 
 ![Atlas at night.](image:2021-02-01-atlas "Atlas at night.")
 
@@ -89,7 +89,7 @@ There is a long way to go before we can start living in a more "normal" fashion.
 
 So the answer is **yes, definitely**. Sometimes I ask myself if I wouldn't be better off in Lisbon in a university that I know surrounded by people that I know. Even though that would've been *easier*, it wouldn't proportion me with this dystopian life I'm living right now. It's quite interesting. I have mixed feelings about it but I wouldn't change the decision.
 
-I wonder the long term effects of this lockdowns and confinements in our health. Not just psychologically - for obvious reasons - but also the fact that the human body is made to be surrounded by others. We're always in touch with other people, our immune system is always fighting viruses, bacterias and germes we get in touch it everyday. Now, that's not happening. Is that going to be bad? If so, that would be ironic.
+I wonder the long term effects of these lockdowns and confinements in our health. Not just psychologically - for obvious reasons - but also the fact that the human body is made to be surrounded by others. We're always in touch with other people, our immune system is always fighting viruses, bacterias and germs we get in touch with everyday. Now, that's not happening. Is that going to be bad? If so, that would be ironic.
 
 Well, other than that, I am grateful for this experience. It's just the beginning I hope. There's still one year and a half more to do and a lot to do. A lot can happen in this short amount of time!
 

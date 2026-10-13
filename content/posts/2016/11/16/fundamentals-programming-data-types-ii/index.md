@@ -29,7 +29,7 @@ first value doesn't need to be hard coded in the source: it can be the input of
 the user for example.
 
 In the following example, you can see how to declare a variable, it means, how
-to reverse its space on RAM memory. This variable will be of type int and will
+to reserve its space on RAM memory. This variable will be of type int and will
 be named a. After that, it will be initialized with the value 20 and printed out
 to the screen.
 
@@ -46,7 +46,7 @@ int main() {
 
 ## printf function and integer numbers
 
-If we want to use printf function to print the content of a integer number variable, we have to use the placeholder %d. In the first parameter of the function, you should use that piece of code when you want to print an (integer) variable content and then use the variables, as other parameters. Look at this:
+If we want to use printf function to print the content of an integer number variable, we have to use the placeholder %d. In the first parameter of the function, you should use that piece of code when you want to print an (integer) variable content and then use the variables, as other parameters. Look at this:
 
 ```c
 #include <stdio.h>
@@ -71,7 +71,7 @@ int main() {
 
 You might want to checkout the code first.
 
-The int type generally occupies between 2 and 4 bytes of memory. What if you want to use the variable for a small number? Can I save some resources? And what if I need a bigger number? In this situations you can use modifiers.
+The int type generally occupies between 2 and 4 bytes of memory. What if you want to use the variable for a small number? Can I save some resources? And what if I need a bigger number? In these situations you can use modifiers.
 
 A modifier is a keyword that when put before an element can change one of its properties.
 
@@ -93,7 +93,7 @@ short int atoms = 20; // or long
 
 ## sizeof function
 
-The number of bytes that is assigned to a variable when using this modifiers can depend on the computer where the code is being executed. This "problem" also depends on the language and there are some programming languages in which the number of bytes won't depend on the machine.
+The number of bytes that is assigned to a variable when using these modifiers can depend on the computer where the code is being executed. This "problem" also depends on the language and there are some programming languages in which the number of bytes won't depend on the machine.
 
 If you want to discover how many bytes a variable occupies in your memory RAM, you can just use the function sizeof this way:
 
@@ -114,6 +114,6 @@ In my computer, for example, a short int occupied 2 bytes, a long one 8 bytes an
 
 As you know, integer numbers can be either positive or negative. Sometimes, negative numbers may muddle or help depending on the case.
 
-If we want to have control over the "positivity" or "negativity" of a number, we can use the modifiers signed e unsigned. If you want a variable to hold only positive numbers, you have to add it the unsigned modifier. If it can have both "types" of numbers, you may use the signed modifier.
+If we want to have control over the "positivity" or "negativity" of a number, we can use the modifiers signed and unsigned. If you want a variable to hold only positive numbers, you have to add it the unsigned modifier. If it can have both "types" of numbers, you may use the signed modifier.
 
 Taking into account that the variables marked with unsigned cannot hold negative numbers, they will have a different range of positive numbers: it will support bigger numbers. If an ordinary int supports numbers between -32 768 and 32 767, the same variable with the unsigned modifier will support numbers from 0 to 65 535.

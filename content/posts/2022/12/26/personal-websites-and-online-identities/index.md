@@ -23,7 +23,7 @@ One of the reasons I [moved](/2021/10/31/eagle-move-away-from-hugo) [away](/2021
 
 ![Art Installation in Glow](image:2022-12-26-glow "A random photo of GLOW to distract you for a bit")
 
-To be fair, I think that seeing all those checkins, watches, things that I ate or drunk, per day, would be quite cool. Especially if I manage to keep making those posts over time. However, as Martin also said, my website feels too "feedy". And I think that quite describes my feeling sometimes: I look at it and I see a bunch of checkins, or a bunch of watch posts, without any content. It just indicates I was somewhere or I watched something. It feels empty, useless.
+To be fair, I think that seeing all those checkins, watches, things that I ate or drank, per day, would be quite cool. Especially if I manage to keep making those posts over time. However, as Martin also said, my website feels too "feedy". And I think that quite describes my feeling sometimes: I look at it and I see a bunch of checkins, or a bunch of watch posts, without any content. It just indicates I was somewhere or I watched something. It feels empty, useless.
 
 The same thing goes for likes and reposts. I have, in multiple instances, deleted all the content from my Twitter account. And Mastodon has a feature that allows your posts to be deleted after a certain amount of time, automatically. That's crazy, but I like it - no pun intended. However, if I post all that on my website, even if unlisted and invisible to the naked eye, I always feel like there's this burden I am carrying in my website, you know? Perhaps it's a weird feeling.
 

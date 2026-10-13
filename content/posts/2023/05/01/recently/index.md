@@ -28,10 +28,10 @@ the weather is definitely getting so much better than a few months ago.
 
 ## ✍️ Website {#website}
 
-Maybe to surprise of many, Hugo is back again. Hugo is the static website generator I used to use before.
+Maybe to the surprise of many, Hugo is back again. Hugo is the static website generator I used to use before.
 I have once [welcomed](/2015/08/12/farewell-wordpress-hello-hugo/) Hugo, and later said [goodbye](/2021/11/19/farewell-hugo-hello-eagle/).
 However, it seems that the goodbye didn't last for long. There are many reasons why I am using Hugo again,
-but most importantly is the assurance that I can easily rebuilt my website statically and Hugo packs so
+but most importantly is the assurance that I can easily rebuild my website statically and Hugo packs so
 many features that I want to use.
 
 Don't take this the wrong way though: I believe custom CMSes are quite important to push
@@ -43,14 +43,14 @@ by Hugo.
 
 Life-wise, I want to mention something that actually happened in March but I forgot:
 I went to the Bloesempark again. Last year, I also [visited this park](/2022/03/27/visit-to-the-bloesempark/) and took some very nice pictures.
-It's this park in the Amsterdamse Bos completely filled with Japanese Cherry Blossom 🌸 trees, layed out in a circle. Very pretty and I do definitely
+It's this park in the Amsterdamse Bos completely filled with Japanese Cherry Blossom 🌸 trees, laid out in a circle. Very pretty and I do definitely
 recommend everyone to visit if they get a chance. Be mindful they only bloom 1 to 2 weeks per year, depending on the weather!
 
 Another important event was IPFS þing 2023, a conference dedicated to IPFS implementers. Since I work
 on one of the implementations, I did go to the conference this year. It's only the second year it has happened.
 Last year it was in Reykjavik, this year in Brussels. I had the chance to give an extremely
-lightening ⚡️ [talk](/2023/04/19/interplanetary-specifications/). Overall, very nice conference
-and very well organized. Since I work completely remotely, I really cherish this events where I can finally see and (re)connect
+lightning ⚡️ [talk](/2023/04/19/interplanetary-specifications/). Overall, very nice conference
+and very well organized. Since I work completely remotely, I really cherish these events where I can finally see and (re)connect
 with my coworkers in person.
 
 <figure class='left' style='max-width: 13rem;'>
@@ -79,7 +79,7 @@ which was a fun movie. I don't have anything incredible to say about it.
 I think I'm succeeding on one of my "goals" I set last year: I have definitely been watching less series in general.
 I feel like that has had a good impact as I can focus on other things, such as learning Dutch and going to more social events.
 
-This month was extremely quiet in the gaming department, as I do not think I have played a single game. At least, not anything worth remembering as my brain is not able to remember a single instance where I played. It is possible. I usually go through this cycles: play a bit for some months, stop for more months, come back, and so on and so forth. Now I'm in the low part of that cycle.
+This month was extremely quiet in the gaming department, as I do not think I have played a single game. At least, not anything worth remembering as my brain is not able to remember a single instance where I played. It is possible. I usually go through these cycles: play a bit for some months, stop for more months, come back, and so on and so forth. Now I'm in the low part of that cycle.
 
 <hr>
 

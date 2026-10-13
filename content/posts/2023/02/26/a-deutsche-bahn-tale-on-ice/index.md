@@ -25,7 +25,7 @@ In Utrecht I hopped into an ICE train from DB which runs from Amsterdam to Basel
 
 Just like our train, many others had to be diverted through a very congested line where some sections had one track only. A few hours later, DB decides to cancel the ICE after Freiburg and tells us to take the next ICE in Freiburg with direction to Basel SBB. That train never arrived and it looked like it was also canceled so we just hopped on a regional train to Basel SBB.
 
-Now in Basel, two hours after planed, I got a Swiss train and arrived at my destination. The Swiss rails never cease to amaze me with their amazing punctuality and the fact that you can very easily make 5 minute connections without any issues.
+Now in Basel, two hours after planned, I got a Swiss train and arrived at my destination. The Swiss rails never cease to amaze me with their amazing punctuality and the fact that you can very easily make 5 minute connections without any issues.
 
 ![Engelberg Train Station](image:2023-02-26-engelberg-train-station)
 
@@ -38,7 +38,7 @@ I got the train from Engelberg to Basel and it was all fine. In Basel I took the
 
 So I used the DB Navigator which told me to go to Mönchengladbach and then get some bus. I arrived at Mönchengladbach, I went outside. No signs, nothing saying where to get the bus. There was a bus station indeed, but nothing about replacement buses. I asked around 5 people: most ignored me, one said "I don't have money" and the other one said "I don't work for Deutsche Bahn". Very useful people. The DB Navigator app was also very confused: the app said to get a train through this track but then it also said no trains were running there. Go figure.
 
-After ranting a bit too much to [Martin](https://mew.tv/), he helped me figure out which train to get. This took well over an hour and I honestly thought I would have to stay there for the night. Apparently, the train passing through the non-working track was actually running, somehow. I enter the train and I saw someone looking at the Dutch Railways app. Then we started chatting and figured out where to go from there. We still had to change once more before going to Venlo. But we arrived in Venlo, 2 hours after expected.
+After ranting a bit too much to [Martin](https://mew.tv/), he helped me figure out which train to get. This took well over an hour and I honestly thought I would have to stay there for the night. Apparently, the train passing through the non-working track was actually running, somehow. I entered the train and I saw someone looking at the Dutch Railways app. Then we started chatting and figured out where to go from there. We still had to change once more before going to Venlo. But we arrived in Venlo, 2 hours after expected.
 
 The funniest part of all this is the guy that I met had gotten the same train as me from Basel and was as confused as me. On top of that, he had also gone to Basel the week before in the same train as me. How big of a coincidence is that.
 

@@ -16,7 +16,7 @@ syndication:
 
 <!--more-->
 
-As such, all kinds of systems should be able to be easily tested, regardless of what they do. Nevertheless, both you and I know that that is not the case. There are certain systems that are much easy to test than others, in many orders of magnitude. For example, a library that converts between different times formats is much easier to test than an app to upload and download files.
+As such, all kinds of systems should be able to be easily tested, regardless of what they do. Nevertheless, both you and I know that that is not the case. There are certain systems that are much easier to test than others, in many orders of magnitude. For example, a library that converts between different time formats is much easier to test than an app to upload and download files.
 
 Furthermore, any system that involves peer-to-peer communication or any other kind of distribution gets much harder to test! At Protocol Labs, we wanted to know and measure how changes to the IPFS and libp2p codebase would affect the performance of the network, but we couldn't find any reliable platform to help us with that. And then... *Testground was born!* 🚀
 
@@ -29,8 +29,8 @@ In this post, I will guide you on how to create a simple test for two instances,
 First and foremost, Testground is _packed_ with features. Thus, I won't go over all of them, but I will mention the most important - or relevant in my opinion - for this post.
 
 1. **Tests are written as if they were unit tests**. There's no need for puppeteering or to package your entire system as a separate daemon.
-2. The **runtime environment for tests** is simple, normalized and formal. There is a contract between your test plan and the Testground daemon. On one hand, Testground injects a set of environment variables and the test plan is supposes to emit events to the stdout, and assets and outputs to the outputs directory. And this is what allows tests to be written in any kind of programming language.
-3. We support a **coordination API** powered by [Redis](https://redis.io/). Since the platform is intended to test distributed systems with many, many instances, it is required to have a coordination API that allows us to choreograph and coordinates actions between the nodes.
+2. The **runtime environment for tests** is simple, normalized and formal. There is a contract between your test plan and the Testground daemon. On one hand, Testground injects a set of environment variables and the test plan is supposed to emit events to the stdout, and assets and outputs to the outputs directory. And this is what allows tests to be written in any kind of programming language.
+3. We support a **coordination API** powered by [Redis](https://redis.io/). Since the platform is intended to test distributed systems with many, many instances, it is required to have a coordination API that allows us to choreograph and coordinate actions between the nodes.
 4. **Network traffic shaping** is very easy to set up. You can change latency, jitter, duplication, packet corruption and a few other settings to simulate many network conditions, similar to the real ones.
 5. **Outputs** from runs are straightforward to collect, from logs, to any other artifacts produced by the test.
 
@@ -89,7 +89,7 @@ $ testground plan import --from my-plan
 
 As of now, Testground knows about your plan. If you're curious, you can run the command `testground describe --plan my-plan` to see a quick overview of the test plan you're building right now.
 
-Let's start building! For this example, I will pick Go for the sake of easiness. Even though you can use Testground with any language, we have a full working SDK built in [Go](https://github.com/testground/sdk-go) (and another coming in [JavaScript](https://github.com/testground/sdk-js)) that are usefull to abtract some things from the test. If you decide to go for another language, you will just need to implement some functions to contact with the orchestrator, the sidecar!
+Let's start building! For this example, I will pick Go for the sake of easiness. Even though you can use Testground with any language, we have a full working SDK built in [Go](https://github.com/testground/sdk-go) (and another coming in [JavaScript](https://github.com/testground/sdk-js)) that are useful to abstract some things from the test. If you decide to go for another language, you will just need to implement some functions to contact with the orchestrator, the sidecar!
 
 Let's start by creating a `main.go` file and defining the main function:
 
@@ -147,7 +147,7 @@ runenv.RecordMessage("before netclient.MustConfigureNetwork")
 netclient.MustConfigureNetwork(ctx, config)
 ```
 
-Now, what we are going to do, is to define custom IPs inside the network for each of the instaces. For that, we first signal that we are going to start the "ip allocation" phase and that will make all instances hold until they're all in the same part of the code. The signalling returns a sequence number that we are going to use here, as a convinience, to attribute our IP.
+Now, what we are going to do, is to define custom IPs inside the network for each of the instances. For that, we first signal that we are going to start the "ip allocation" phase and that will make all instances hold until they're all in the same part of the code. The signalling returns a sequence number that we are going to use here, as a convenience, to attribute our IP.
 
 ```go
 seq := client.MustSignalAndWait(ctx, "ip-allocation", runenv.TestInstanceCount)
@@ -217,7 +217,7 @@ if err != nil {
 }
 ```
 
-Now that both instances are connected to each other, we will make sure that both of them are ready, by writing and reading from the socket. This way we make sure there's a connection adn that it is working.
+Now that both instances are connected to each other, we will make sure that both of them are ready, by writing and reading from the socket. This way we make sure there's a connection and that it is working.
 
 ```go
 runenv.RecordMessage("waiting until ready")
@@ -278,7 +278,7 @@ if buf[0] != byte(seq) {
 }
 ```
 
-Now, let's check if the RTT is correct. As you might've noticed, we stored the start and end timings of the ping pong activity. Now, we calculate the minimum RTT, which is the latency times two, and a maximum RTT just to give it a bit of room to breath. I set it to 50 milliseconds, which is a lot, but you can play with it to see!
+Now, let's check if the RTT is correct. As you might've noticed, we stored the start and end timings of the ping pong activity. Now, we calculate the minimum RTT, which is the latency times two, and a maximum RTT just to give it a bit of room to breathe. I set it to 50 milliseconds, which is a lot, but you can play with it to see!
 
 ```go
 rttMin := config.Default.Latency * 2
@@ -294,7 +294,7 @@ runenv.RecordMessage("ping RTT was %s [%s, %s]", rtt, rttMin, rttMax)
 return nil
 ```
 
-You now have a full functional ping pong test that Testground can run! To do so, just run the following command:
+You now have a fully functional ping pong test that Testground can run! To do so, just run the following command:
 
 ```bash
 $ testground run single \
@@ -303,7 +303,7 @@ $ testground run single \
     -i 2 --plan my-plan --testcase ping-pong --wait
 ```
 
-After waiting a few seconds, for the Docker build build, the test will start running. You will be able to see some _very colorful_ output on your screen. In the end, it should look something similar to this:
+After waiting a few seconds, for the Docker build, the test will start running. You will be able to see some _very colorful_ output on your screen. In the end, it should look something similar to this:
 
 ```
 MESSAGE << single[000] (a5d263) >> waiting until ready
@@ -326,7 +326,7 @@ MESSAGE << single[000] (a5d263) >> ping RTT was 208.659726ms [200ms, 250ms]
 
 ## To conclude 🧶
 
-*Et voilá!* You just built a simple test plan for Testground that successfully exercises it capabilities of shaping the network, as well as inter-instance connectivity. Testground, despite being in its early stages, is already being used by some of our projects to run tests.
+*Et voilà!* You just built a simple test plan for Testground that successfully exercises its capabilities of shaping the network, as well as inter-instance connectivity. Testground, despite being in its early stages, is already being used by some of our projects to run tests.
 
 We're now working on TaaS, [Testground as a Service](https://github.com/testground/testground/issues/1148), something we've wanted to do for some time. Having Testground running as a service will allow us to easily integrate it with CIs or even having online dashboards to check tests results and analyse data.
 

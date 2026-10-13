@@ -16,7 +16,7 @@ Lately, I have been [reading](/logs/readings/) a bit more. Therefore, I wanted t
 
 First, I was already publishing status updates on the format of "want to read", "currently reading" and "finished reading" using [indiebookclub](https://indiebookclub.biz/). However, that tool does not provide a way to track the amount of pages read or even how many pages the book has in total. Additionally, I also wanted to be able to add notes to the post.
 
-Another problem is that every post that refereed to a book uses the `read-of` property. This property was duplicating information regarding the book author, name and ISBN across many posts.
+Another problem is that every post that referred to a book uses the `read-of` property. This property was duplicating information regarding the book author, name and ISBN across many posts.
 
 After a long conversation with [Sebastiaan](https://seblog.nl/) and after seeing his [library](https://seblog.nl/bieb), I came up with a similar solution.
 
@@ -30,6 +30,6 @@ One more update I did was to add a rating! To do so, I added a numerical propert
 
 Finally, I'm now supporting read updates with page numbers and notes, as you can see on ~~this post~~. It is all relatively simple.
 
-To add all this posts, I have a few templates on my 'new post' page. Maybe in the future I will create a simple tool that will submit this via Micropub. That would definitely allow me to remove a bunch of posts. In addition, I could also simply have a shortcut on my smartphone to update the reading status for a certain book.
+To add all these posts, I have a few templates on my 'new post' page. Maybe in the future I will create a simple tool that will submit this via Micropub. That would definitely allow me to remove a bunch of posts. In addition, I could also simply have a shortcut on my smartphone to update the reading status for a certain book.
 
 This was quite an exciting update! Hope you enjoyed this reading!

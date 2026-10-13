@@ -14,7 +14,7 @@ syndication:
 rating: 8
 ---
 
-A few weeks ago, I thought crossed my mind: buy an e-reader. It wasn't the first time. In the beginning of this year, I read [many books](/logs/readings/) and I remembered considering it back then. However, that wasn't the first time either. So I just decided to go with it and ordered a [Kobo Clara HD](https://gl.kobobooks.com/products/kobo-clara-hd).
+A few weeks ago, a thought crossed my mind: buy an e-reader. It wasn't the first time. In the beginning of this year, I read [many books](/logs/readings/) and I remembered considering it back then. However, that wasn't the first time either. So I just decided to go with it and ordered a [Kobo Clara HD](https://gl.kobobooks.com/products/kobo-clara-hd).
 
 <!--more-->
 
@@ -30,7 +30,7 @@ I must confess: I love looking at a shelf filled with beautifully curated books,
 
 Another issue is that books can be quite cumbersome to carry with you. I was bringing a backpack everywhere I went even if it was super unnecessary. This is a hassle. Mainly in summer when it's hot and we sweat, a lot.
 
-Recently, I bought  6L capacity sling and I have been carrying that everywhere when I know a backpack won't be needed. It's been quite amazing. The problem? It won't fit a book of course. An e-reader however? Fits perfectly! I can think of some other aspects, such as the environment, the trees, etc, but let's keep it short 🌳
+Recently, I bought a 6L capacity sling and I have been carrying that everywhere when I know a backpack won't be needed. It's been quite amazing. The problem? It won't fit a book of course. An e-reader however? Fits perfectly! I can think of some other aspects, such as the environment, the trees, etc, but let's keep it short 🌳
 
 ## How has it been?
 

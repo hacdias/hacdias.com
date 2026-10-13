@@ -30,20 +30,20 @@ Some days ago I had an idea, a really simple idea: gather the data that I’ve b
 
 However, I did not find that goal as straightforward as I thought it would be. First of all, there are some services that don’t let me download the data at all. Then, there are those that consider downloading your own data a “premium” feature. Finally, there are the ones that actually let us download the data, but there’s always a “but”. Not all of them let us download the data whenever you want — most likely you’ll need to “request” the data and wait for it to be available.
 
-And this… is… an hassle. And really boring.  I just wanted to do something funny and interesting and educational-worthy of my data.
+And this… is… a hassle. And really boring.  I just wanted to do something funny and interesting and educational-worthy of my data.
 
 There is a principle called [own your data](https://indieweb.org/own_your_data).  The definition is as follows:
 
 > **own your data** is an IndieWeb  principle  with two key parts: 1) your data lives primarily on your own  domain , and 2) you maintain usable  access  to it over time.  
 
-This is not just a principle, but something I think we should convey as a society and make it easy for everyone to own their own data. If you open the page linked above and look at the [examples](https://indieweb.org/own_your_data#IndieWeb_Examples), you’ll definitely see that I am too far a way to own my data. Well, most of us are. And it’s hard!
+This is not just a principle, but something I think we should convey as a society and make it easy for everyone to own their own data. If you open the page linked above and look at the [examples](https://indieweb.org/own_your_data#IndieWeb_Examples), you’ll definitely see that I am too far away to own my data. Well, most of us are. And it’s hard!
 
 For years, we’ve been trapped into using so many platforms that make everything easy.  Despite not living in the 90s, looking at what [GeoCities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) was just gives me chills. People actually created and built websites in that time! They would learn what HTML, CSS and JavaScript is and make the most creative websites… we might argue that they’re not the most conforming to today’s “design principles”, but they’re creative, they show a personality.
 
 
 Nowadays, we “all” use Facebook, Instagram, Twitter… does anyone still create websites and make them look like their personality? No! Yes, there is a much bigger learning curve on creating your own website and I’m not talking about using some template someone created that makes every website look exactly the same. I’m talking about writing your own website and making it look as you want it.
 
-If you look at  [NeoCities](https://neocities.org/browse)  page,  you’ll get some vibes from the 90s, when people cerated their actual websites. NeoCities was created by Kyle Drake in an attempt to revive the individual creativity that you could see on the web.
+If you look at  [NeoCities](https://neocities.org/browse)  page,  you’ll get some vibes from the 90s, when people created their actual websites. NeoCities was created by Kyle Drake in an attempt to revive the individual creativity that you could see on the web.
 
 So… and stopping to talk about websites and creativity… getting back to the data: own it! Start by creating a website on your [own domain](https://indieweb.org/personal-domain). Make it personal, make it yourself.
 

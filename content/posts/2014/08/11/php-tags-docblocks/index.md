@@ -69,7 +69,7 @@ Hoje vamos analisar o último ponto: as **tags**. Existem imensas e vamos apen
 
 O código acima pode ser visivelmente dividido em três colunas. A primeira são as **tags**, a segunda a forma de **implementação** e a terceira, que começa com setas, são indicações a descrever para que servem as tags.
 
-Estas informações são apenas para vos informar e não devem ser utilizadas em quaisquer contexto dentro de um ficheiro PHP.
+Estas informações são apenas para vos informar e não devem ser utilizadas em qualquer contexto dentro de um ficheiro PHP.
 
 Existem mais tags que podem ser inseridas nos comentários DOCBlocks porém as que se encontram acima são as mais importantes e essenciais. Se quiseres ler mais sobre isto, podes aceder a [esta página.](http://manual.phpdoc.org/HTMLSmartyConverter/PHP/phpDocumentor/tutorial_tags.pkg.html)
 

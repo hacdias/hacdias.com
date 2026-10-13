@@ -37,7 +37,7 @@ Naast woordenschat is het ook belangrijk dat je de grammatica snapt. En daarmee 
 
 ## 🗣️ Spreken {#spreken}
 
-Spreken is waar de meeste mensen moeite mee hebben. Dat komt, denk ik, door verschillende factoren. Enerzijds gebeurt spreken in real time. Er is geen tijd om veel na te denken. Anderzijds heeft niet iedereen de geduld om met mensen te praten die nog niet vloeiend zijn.
+Spreken is waar de meeste mensen moeite mee hebben. Dat komt, denk ik, door verschillende factoren. Enerzijds gebeurt spreken in real time. Er is geen tijd om veel na te denken. Anderzijds heeft niet iedereen het geduld om met mensen te praten die nog niet vloeiend zijn.
 
 Gelukkig had ik mijn partner, maar ook een vriend van mij, met wie ik dagelijks in het Nederlands kon praten. Maar dat was niet alles. Ik heb ook veel cursussen gevolgd. Ik denk dat veel mensen onderschatten hoeveel lessen kunnen helpen. Het hoeft niet één-op-één lessen te zijn, maar groepslessen waar de groep kleiner is dan 10 mensen, zijn ook prima.
 

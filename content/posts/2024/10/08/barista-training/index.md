@@ -34,16 +34,16 @@ We started with a *cupping* session, where we tried different coffee beans that 
 
 Some notes:
 
-- Coffee that grows in higher altitudes, such as Colombia, are more fruity, sweeter and acidic. On the other hand, coffee grown at lower altitudes, such as in Ethopia, are usually more earthy, chocolaty and nutty.
+- Coffee that grows in higher altitudes, such as Colombia, are more fruity, sweeter and acidic. On the other hand, coffee grown at lower altitudes, such as in Ethiopia, are usually more earthy, chocolaty and nutty.
 - Coffee is processed in different ways: washed, natural and honey. When washed, the outer shell is removed before washing the coffee. Leads to higher acidity and a cleaner flavour. When naturally processed, the beans are dried out in the sun, leading to more fruity and fermented flavours. Honey processing leads to the sweetest flavour profile.
 - In places with high humidity, coffee beans are more often washed instead of naturally processed. This is because the high humidity could lead to a fast decay and rot the beans during the process.
 - Steaming cow milk is different from steaming plant-based milk. Plant-based milk should not be warmed up as much as cow milk, since it has a different cooking point. Ideally, plant based milk should be around 55°C to 60°C, while cow milk from 60°C to 65°C.
-- Ideally, the milk should be steamed up to a temperature where people would be able to consume it immediately. That means below 50°C. But years of experience in the industry show that costumers will likely complain that the coffee is not hot enough. That's why cafés end up heating it up more.
+- Ideally, the milk should be steamed up to a temperature where people would be able to consume it immediately. That means below 50°C. But years of experience in the industry show that customers will likely complain that the coffee is not hot enough. That's why cafés end up heating it up more.
 
 Overall it was very nice to learn a bit more about coffee from someone that clearly enjoys what they're doing. Using an industry grade espresso machine was also incredible. The consistency is incredible. Steaming the milk happens almost instantly, while at home we have to wait quite some time for the steam wand to warm up after pulling an espresso - single boiler. 
 
 Since we've come back home, I've been testing how consistent the machine is. Things I can control are consistent I hope: coffee grams, tamping, the coffee itself. But when it comes to the machine, I have limited customization. And I think this is where the problem may be.
 
-Without changing any configuration, I purged a few times and measures the water volume. The values varied **wildly**. I tried reprogramming it, but it still varying massively. If the water volume from the machine varies wildly, it's almost impossible to get consistent results. I should further investigate and see if there's something potentially wrong with the water flow meter. 
+Without changing any configuration, I purged a few times and measured the water volume. The values varied **wildly**. I tried reprogramming it, but it's still varying massively. If the water volume from the machine varies wildly, it's almost impossible to get consistent results. I should further investigate and see if there's something potentially wrong with the water flow meter. 
 
 It was a nice experience, and I have the feeling this is not the last time that I'll do something coffee-related. I'm sure I didn't share here all the notes about everything that I learned, but I also hope you enjoyed it.

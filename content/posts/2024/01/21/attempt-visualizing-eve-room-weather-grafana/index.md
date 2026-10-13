@@ -82,7 +82,7 @@ The Eve Rooms provide temperature, relative humidity and air quality, while the 
 
 On the dashboard, you can see all the data since the beginning of the experiment. You may have already noticed: some graphs look relatively normal, such as "Volatile Organic Compound Density" of the Living Room. It has a lot of data points. Others however, look extremely boxy.
 
-I checked the data directly in Home Assistant, and the result is similar. From what I researched and could figure out, it seems that the sensors are simply not reporting the data frequently enough. I took a look at my old exported data from the sensors and it changes every at least every 10 minutes. And the values are always different. So I don't see why they wouldn't do it.
+I checked the data directly in Home Assistant, and the result is similar. From what I researched and could figure out, it seems that the sensors are simply not reporting the data frequently enough. I took a look at my old exported data from the sensors and it changes at least every 10 minutes. And the values are always different. So I don't see why they wouldn't do it.
 
 And another question for example: why does the Living Room report the air quality so often but rarely updates the temperature and humidity? Why do none of them report data in a consistent, regular, interval?
 

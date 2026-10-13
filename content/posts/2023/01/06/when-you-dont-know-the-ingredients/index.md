@@ -45,7 +45,7 @@ After a bit of investigation, I basically just mixed more sugar in with the coco
 
 ## 🍦 The Whipped Cream
 
-Now, the star of the day: the whipped cream. I promised my friends I was going to make a Lime Mousse for them tomorrow, as they as visiting my new place since we got furniture and... floor. So I bought all the ingredients: gelatine sheets, limes, condensed milk, and the heavy cream. All was fine. Until I started.
+Now, the star of the day: the whipped cream. I promised my friends I was going to make a Lime Mousse for them tomorrow, as they are visiting my new place since we got furniture and... floor. So I bought all the ingredients: gelatine sheets, limes, condensed milk, and the heavy cream. All was fine. Until I started.
 
 Firstly, the gelatine sheets are so tiny here. I had to double the amount. But that was fine. But then the heavy cream. First of all, I bought the UHT package and I forgot to cool it down. You know what that means? It became butter before becoming whipped cream. Then, I went to the supermarket, but, with my awful knowledge of the Dutch language, I bought heavy cream, already whipped. To be fair, the word is the same in Dutch: slagroom. There was just some additional word in a fancy font there to say it was already whipped.
 
@@ -71,4 +71,4 @@ I've made it a few times for my friends and, after a few hours of boiling a cond
 
 You may wonder: aren't there Portuguese stores in The Netherlands? Yes, there are. But very very few. While there are hundreds of supermarkets from other countries, there are no real Portuguese supermarkets here. There is this [online store](https://www.portugeseproducten.nl/) based in Rotterdam, or a physical store in a little village next to Eindhoven.
 
-And yes, both this stores sell all the ingredients I mentioned above, including the octopus. I now know where to buy them! However, it requires planning. It's not something I can just think of doing and getting the ingredients immediately. It takes time, and it can be frustrating!
+And yes, both these stores sell all the ingredients I mentioned above, including the octopus. I now know where to buy them! However, it requires planning. It's not something I can just think of doing and getting the ingredients immediately. It takes time, and it can be frustrating!

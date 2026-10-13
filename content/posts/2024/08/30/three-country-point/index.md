@@ -24,7 +24,7 @@ Limburg not only has some hills, but it also "houses" the title of this post: a 
 
 </div>
 
-We spent the nights in Mechelen, a small town in Limburg. On Saturday, we got a bus to Vaals and walked towards the *Drielandenpunt* (three-country point). Now, this was around 2 kilometers always up-hill. I'm very happy I didn't bring my Dutch city bike for this. After this, we sat down a drunk a beer despite being still morning. There were quite a lot of people though! Also drinking beer.
+We spent the nights in Mechelen, a small town in Limburg. On Saturday, we got a bus to Vaals and walked towards the *Drielandenpunt* (three-country point). Now, this was around 2 kilometers always up-hill. I'm very happy I didn't bring my Dutch city bike for this. After this, we sat down and drank a beer despite being still morning. There were quite a lot of people though! Also drinking beer.
 
 After this, we adventured in a non-planned hiking trip in the [Vijlenerbos](https://nl.wikipedia.org/wiki/Vijlenerbos) from the *Drielandenpunt* towards Epen. The hiking part of the day was around 14-15 kilometers, but we ended up walking around 18 kilometers the whole day. It was quite refreshing to walk on inclines and declines in the Netherlands.
 

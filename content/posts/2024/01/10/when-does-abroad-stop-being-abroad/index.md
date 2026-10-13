@@ -22,11 +22,11 @@ I have been living in The Netherlands for over 3 years now. In 2 years, I will n
 
 ![Choosing a path is not always easy](image:2024-01-10-paths-to-choose)
 
-Getting Dutch citizenship for me would involve doing the *inburgering* exams, in which language exams are included, as well as societal knowledge exam. Up until this year, the language level required to obtain Dutch citizenship was only A2. Form this year on, if I'm not mistaken, the requirement has been changed to B1. I think that makes sense.
+Getting Dutch citizenship for me would involve doing the *inburgering* exams, in which language exams are included, as well as societal knowledge exam. Up until this year, the language level required to obtain Dutch citizenship was only A2. From this year on, if I'm not mistaken, the requirement has been changed to B1. I think that makes sense.
 
 I've read about people online feeling ashamed that they have a Dutch passport and yet they can't speak any Dutch. If A2 is the level required for citizenship, I understand how that could happen. It is the same in Portugal, but I think it doesn't make sense. Anyways, I am not going to elongate myself about which language level should be required for citizenship.
 
-The caveat that comes with obtaining Dutch citizenship is having to renounce my own. There are exceptions, such as being married or in a civil union with a Dutch person, or if your citizenship can't practically be renounced. However, at the moment, I don't fall into any exception. The current political panorama doesn't depict a very positive change either. I do think double nationality should be allowed by default. This also affects Dutch-born people that have lost their citizenship without knowing because they moved abroad and obtained some other countries' citizenship.
+The caveat that comes with obtaining Dutch citizenship is having to renounce my own. There are exceptions, such as being married or in a civil union with a Dutch person, or if your citizenship can't practically be renounced. However, at the moment, I don't fall into any exception. The current political panorama doesn't depict a very positive change either. I do think double nationality should be allowed by default. This also affects Dutch-born people that have lost their citizenship without knowing because they moved abroad and obtained some other country's citizenship.
 
 Anyways, going back to the main point. I have been living here for 3 years and I will definitely say that my home, at the moment, is The Netherlands. I'm learning the language and I definitely want to be more engaged in the society. For this, language is important. In addition, if I decide I want to live here for the foreseeable future, voting is extremely important.
 

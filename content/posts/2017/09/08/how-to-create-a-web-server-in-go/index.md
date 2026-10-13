@@ -16,7 +16,7 @@ Go is a relatively new player in the world of programming, having been around si
 
 It has recently reached version 1.9 and 2.0 is on [its way](https://blog.golang.org/toward-go2). Despite having only 8 years, its popularity has been increasing exponentially, mainly on networking and web server fields.
 
-Go is an incredible effective language to create web servers and web services thanks to its powerful standard library that can help us to do whatever we want with the web.
+Go is an incredibly effective language to create web servers and web services thanks to its powerful standard library that can help us to do whatever we want with the web.
 Start by [downloading](https://golang.org/doc/install) and installing Go on your computer. It's pretty straightforward. You can check if it was correctly installed by running go version on your console.
 
 I'll now give you two different examples of servers: the first one will print a "Hello {your name}" message and the second one will also serve files from the file system.

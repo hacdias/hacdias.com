@@ -35,7 +35,7 @@ You see, from what I understand, RunGap automatically creates segments for all t
 
 To solve this, I changed the script to generate laps, separating moving and paused segments in the workout. The tricky part was distributing the calories: Bosch only gives you a total amount of calories and they do not even include it in the FIT file.
 
-Knowing that their calory count only applies to the moving segments, I created laps for the pauses with 0 calories. The only thing left was distributing the calories in a way that would make sense. One would think proportionally splitting according to the time would be fine. And it is *fine*, but it's likely not correct.
+Knowing that their calorie count only applies to the moving segments, I created laps for the pauses with 0 calories. The only thing left was distributing the calories in a way that would make sense. One would think proportionally splitting according to the time would be fine. And it is *fine*, but it's likely not correct.
 
 I tried to approximate and use a weighted average of the power to proportionally distribute the calories through the moving segments. I think this ends up being a better estimate than just blindly distributing the calories based on time proportion. It's still far from perfect, and I think Bosch should just fix their app, but well.
 

@@ -13,7 +13,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3h7eekszd22ct
 ---
 
-I decided to make a few updates on my website - again. However, this are a bit more than visuals and I'm mostly reinventing the way I manage IndieWeb posts, namely likes, reposts, notes and replies.
+I decided to make a few updates on my website - again. However, these are a bit more than visuals and I'm mostly reinventing the way I manage IndieWeb posts, namely likes, reposts, notes and replies.
 
 <!--more-->
 
@@ -23,9 +23,9 @@ Well, that's a great question. I also removed the bookmarks section and merged i
 
 ## To like or not to like?
 
-One of the decisions I made was to remove the likes. "What about the own your own data think?", you may ask. You're right! However, not having the likes on my website doesn't mean I don't own them or the data related to them. I just need to create some tool that stores my Twitter likes.
+One of the decisions I made was to remove the likes. "What about the own your own data thing?", you may ask. You're right! However, not having the likes on my website doesn't mean I don't own them or the data related to them. I just need to create some tool that stores my Twitter likes.
 
-I was only using this section for Twitter purposes and let's be honest: I don't have the time, nor the patient to hit 3 more buttons every time I just want to press like and then wait for my server to reply. It makes my likes being much more selective which, in some situations, may be good, but that's not what I want to do.
+I was only using this section for Twitter purposes and let's be honest: I don't have the time, nor the patience to hit 3 more buttons every time I just want to press like and then wait for my server to reply. It makes my likes being much more selective which, in some situations, may be good, but that's not what I want to do.
 
 For now, I prefer to just hit the like button on Twitter. Also, having the likes I do on Twitter reflected on my website doesn't add much information. If I want to share something I really care about or I think it's really important, I will do a note where I add some content.
 

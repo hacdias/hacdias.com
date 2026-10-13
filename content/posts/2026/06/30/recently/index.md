@@ -50,7 +50,7 @@ It was nice to be back in Portugal, even though it was for quite a short trip. U
 
 ## 💪 Health {#health}
 
-Things are generally going well. I thing my wrist is a bit better? At least I've had less complaints. I still can't put my whole body's weight on it, but seems generally fine. Swimming lessons are also going great, and I'm almost getting my second diploma.
+Things are generally going well. I think my wrist is a bit better? At least I've had less complaints. I still can't put my whole body's weight on it, but seems generally fine. Swimming lessons are also going great, and I'm almost getting my second diploma.
 
 This month I also went swimming for the first time in a 50 meter swimming pool. What a length! I think it's easy to underestimate how long 50 meters is, especially for an unexperienced swimmer. Went there again today and did 800 meters. Bit tiring, but nice!
 

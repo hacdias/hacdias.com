@@ -122,7 +122,7 @@ Probably even a bit scary at first, or not. It will be *huge*. We'll see.
 
 > **Be positive. Work for what you want to reach. Aim for more.**
 
-As I've already mentioned, I don't live near Lisbon, neither do Fábio. So,
+As I've already mentioned, I don't live near Lisbon, neither does Fábio. So,
 sometimes it can be a bit challenging for us to keep up with everything that's
 going on. Since we are developers and have our roles really well defined — we
 are mainly in charge of the website and other digital stuff — , we wouldn't
@@ -132,7 +132,7 @@ We could just be told what we needed to do, and we would do it. But doing that
 would be a *bit* boring: only building the website without knowing anything else
 would be like trying to cook a meal with your eyes closed. We could just keep
 our eyes on [Asana](https://asana.com/) or [Slack](https://slack.com/) and wait
-for tasks to appear, or try to be evolved the most we can to give our feedback
+for tasks to appear, or try to be involved the most we can to give our feedback
 and help as it's possible.
 
 It's essential for everyone that's part of a team to know at least the major
@@ -146,7 +146,7 @@ each other is essential to make everything work flawlessly.
 > small." — Fernando Pessoa
 
 Giving you an example of what I'm talking about: every meeting gets written down
-on [Dropbox Paper](https://www.dropbox.com/paper) (one of ours main tools).
+on [Dropbox Paper](https://www.dropbox.com/paper) (one of our main tools).
 Then, in the most of the times, we schedule a call so the ones who couldn't be
 present in the meeting keep up with what's happening around. We're always asked
 our feedback about what we're told, about what was decided and that contributes

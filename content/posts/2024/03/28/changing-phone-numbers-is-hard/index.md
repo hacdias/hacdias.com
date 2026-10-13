@@ -35,6 +35,6 @@ What I find incredibly weird is that changing the phone number on the authentica
 
 And who knows how many other services have my Portuguese phone number. There are a few services from Portugal that I use sometimes when visiting that I can't simply change to a foreign number. And changing the Portuguese number from a physical SIM to an eSIM is also a madly complicated process.
 
-Anyways, I have already filled a complaint with the digital services from the government. Ah, I had forgotten to mention that: both of the services that I could not login to are also from the government. So... they let me change the authentication mechanism thing to my Dutch number, but then effectively their own things don't work.
+Anyways, I have already filed a complaint with the digital services from the government. Ah, I had forgotten to mention that: both of the services that I could not login to are also from the government. So... they let me change the authentication mechanism thing to my Dutch number, but then effectively their own things don't work.
 
 Why is technology so complicated? I wish I could just somehow redirect everything that comes to my Portuguese number to my Dutch number without having it on my phone. However, I don't think such service exists.

@@ -10,7 +10,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3k5pjzaqni25c
 ---
 
-Since June, I have had a "about well-knowns" note in my drafts to write an article about. Unfortunately, I haven't been writing much the last month or two. However, two days ago, Tim wrote about his own experience with [well-known](https://timharek.no/blog/i-added-well-known-urls-to-my-website) links. That prompted me to finish this article!
+Since June, I have had an "about well-knowns" note in my drafts to write an article about. Unfortunately, I haven't been writing much the last month or two. However, two days ago, Tim wrote about his own experience with [well-known](https://timharek.no/blog/i-added-well-known-urls-to-my-website) links. That prompted me to finish this article!
 
 <!--more-->
 

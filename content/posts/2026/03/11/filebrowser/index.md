@@ -23,7 +23,7 @@ As many of you know, I maintain several open source projects. Most of them are q
 ![Screenshot of File Browser](image:2026-03-11-filebrowser)
 {width="3541" height="2160"}
 
-Over the years, a new sort of project showed up: File Browser. It is in its own category. Back in [2017](/2024/01/12/trending-filebrowser/), it started getting some traction, and increased from 200 to 700 stars in a week. That was an amazing thing for an 17 year old kid. What I did not know is that that project would grow to millions of downloads and over 33k stars on GitHub.
+Over the years, a new sort of project showed up: File Browser. It is in its own category. Back in [2017](/2024/01/12/trending-filebrowser/), it started getting some traction, and increased from 200 to 700 stars in a week. That was an amazing thing for a 17 year old kid. What I did not know is that that project would grow to millions of downloads and over 33k stars on GitHub.
 
 ## How Did It Start?
 

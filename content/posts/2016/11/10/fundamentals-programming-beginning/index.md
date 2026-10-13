@@ -42,7 +42,7 @@ dedicated to math field.
 ## Algorithms
 
 It is important to comprehend some basic concepts which are going to be
-essencial in your whole journey through the world of programming. Thus, you'll
+essential in your whole journey through the world of programming. Thus, you'll
 start by understanding what **algorithms** are because you will always be in
 contact with them.
 
@@ -54,7 +54,7 @@ algorithm. First, we search for a recipe, then we follow the instructions found
 on that recipe. That recipe is the key, is the algorithm.
 
 The algorithms can be represented in many ways. We will approach two of them:
-flowcharts and pseudocode . These two representations of algorithms are
+flowcharts and pseudocode. These two representations of algorithms are
 essential before writing real code; it may help to save time because this
 process reduces the margin of error of the development process.
 
@@ -88,7 +88,7 @@ Another way, more similar to the final code, to represent an algorithm, is the
 use of pseudocode. Thus, it comes after a flowchart.
 
 **Pseudocode** is a way to represent algorithms that is more similar to
-programming languages. But instead, it used the native language of the user so
+programming languages. But instead, it uses the native language of the user so
 it can be easily understood for those who don't have no knowledge about the
 syntax of a programming language.
 

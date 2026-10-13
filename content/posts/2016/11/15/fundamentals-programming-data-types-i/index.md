@@ -20,7 +20,7 @@ This is part of our Fundamentals of Programming Using C series.
 
 **Data types** consist in a variety of values and operations that a
 variable/constant of that kind can support. They're needed so the compiler (or
-interpreter) knows which conversations are needed to get the data from memory.
+interpreter) knows which conversions are needed to get the data from memory.
 
 We can divide the data types in two types: primitive types and composite types.
 
@@ -32,7 +32,7 @@ programming language as basic construction blocks.
 ## Variables
 
 We have already mentioned the existence of variables and constants, which are
-used to hold values, previously. And now, we I am going to explain you how to
+used to hold values, previously. And now, I am going to explain you how to
 declare variables in the language we are going to use from now on: C.
 
 ```c
@@ -107,7 +107,7 @@ Where:
 * name is the constant's name; and
 * value the value of the constant.
 
-I you try to change the value of a constant during the run time, you will get an error. Take a look at this code:
+If you try to change the value of a constant during the run time, you will get an error. Take a look at this code:
 
 ```c
 #include <stdio.h>

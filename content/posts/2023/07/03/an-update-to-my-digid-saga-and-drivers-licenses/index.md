@@ -13,7 +13,7 @@ syndication:
   - https://fosstodon.org/@hacdias/110651139023843183
 ---
 
-Some time ago, I [wrote an article](/2022/11/08/issues-with-digid-as-foreigner/) where I essentially complained and layed out the issues I have had with the Dutch digital identification (DigiD) system as a foreigner. In the meanwhile, there have been a few minor updates, and some other things that changed in my understanding. Hence, this new article.
+Some time ago, I [wrote an article](/2022/11/08/issues-with-digid-as-foreigner/) where I essentially complained and laid out the issues I have had with the Dutch digital identification (DigiD) system as a foreigner. In the meanwhile, there have been a few minor updates, and some other things that changed in my understanding. Hence, this new article.
 
 <!--more-->
 
@@ -24,12 +24,12 @@ Before going into what's new, let's first review a point I did not touch the las
 - **Substantial** (*Substantieel*), if you login with the DigiD app and you have performed the ID-check. The ID-check is a one-time operation that can be done by scanning a Dutch passport, Dutch identity card, or a Dutch driving license.
 - **High** (*Hoog*), if you login with a Dutch identity card or Dutch driving license via the DigiD app. This involves scanning the document with NFC and introducing the PIN that is associated with the physical document.
 
-On my previous article, I criticized the fact that foreigners could only reach the the *Substantial* level if they would have gotten a driving license, or decided to become Dutch, which in most cases involves resigning your current citizenship. And that is still true. However, at the time it was even impossible to reach the *High* level.
+On my previous article, I criticized the fact that foreigners could only reach the *Substantial* level if they would have gotten a driving license, or decided to become Dutch, which in most cases involves resigning your current citizenship. And that is still true. However, at the time it was even impossible to reach the *High* level.
 
 ![Dutch Driving License ([RDW](https://rdw.nl/))](https://media.hacdias.com/2023-07-03-dutch-driving-license.jpeg)
 {style="max-width: 25rem"}
 
-Since July 1st, a Dutch driving license can also [be used](https://www.logius.nl/actueel/inloggen-met-rijbewijs-vanaf-morgen-ook-mogelijk-digid-app) to login with *High* level. Driving licenses issued since 2018 have been equipped with a login module, but only know they are enabled. It's quite interesting that such thing has been in the document for 5 years but only now it is being used. The ID card only included the functionality since 2021, but it was readily available with DigiD.
+Since July 1st, a Dutch driving license can also [be used](https://www.logius.nl/actueel/inloggen-met-rijbewijs-vanaf-morgen-ook-mogelijk-digid-app) to login with *High* level. Driving licenses issued since 2018 have been equipped with a login module, but only now they are enabled. It's quite interesting that such thing has been in the document for 5 years but only now it is being used. The ID card only included the functionality since 2021, but it was readily available with DigiD.
 
 Either way, for those who received the license before July 1st, you will not have received a PIN letter. You can request one in the [Mijn DigiD](https://mijn.digid.nl/) portal and paying 3.50 € to the RDW. If you're getting a new license after this date, it will be free.
 
@@ -41,7 +41,7 @@ I have now "ordered" my PIN letter, so that I can activate the login functionali
 
 <div class='box' id='update'>
 
-**2023-07-06**: received my activation letter from DigiD. Tried activating it using my phone only. Went to [Mijn DigiD](https://mijn.digid.nl/), logged in, pressed to activate the login via the driving license, it moved to the app. In the app, I scanned the driving license, put the temporary pin, added a new pin, confirmed. All seem well. But it wasn't: the system still said that login via driving license wasn't enabled.
+**2023-07-06**: received my activation letter from DigiD. Tried activating it using my phone only. Went to [Mijn DigiD](https://mijn.digid.nl/), logged in, pressed to activate the login via the driving license, it moved to the app. In the app, I scanned the driving license, put the temporary pin, added a new pin, confirmed. All seemed well. But it wasn't: the system still said that login via driving license wasn't enabled.
 
 I tried again, but now my app always said "activation necessary" every time I put the PIN of the license. So what happened was that the physical driving license got enabled for log in, but the online system of DigiD (or RDW) did not know.
 

@@ -1,6 +1,6 @@
 ---
 title: Something About the Future. Is It Real? Does It Exist?
-description: Is the future real? Does it exists? Who are we? What are we going to be? Time? Death. Is that real? What's the difference from life? Some interesting questions no one can answer.
+description: Is the future real? Does it exist? Who are we? What are we going to be? Time? Death. Is that real? What's the difference from life? Some interesting questions no one can answer.
 date: 2015-08-19T08:30:00Z
 categories:
   - writings
@@ -10,7 +10,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cxorfmhgk2ct
 ---
 
-A word can be a very powerful thing. A word can change lifes, a [word can destroy worlds][4], a word can lead us to other words, a word can make us stop breathing, a word can make us lively, a word can kill us. As you can see, each word is a very special thing. But I'm not here to talk about words, am I? No, I'm not, but I'm going to start with a word: **[time][0]**.
+A word can be a very powerful thing. A word can change lives, a [word can destroy worlds][4], a word can lead us to other words, a word can make us stop breathing, a word can make us lively, a word can kill us. As you can see, each word is a very special thing. But I'm not here to talk about words, am I? No, I'm not, but I'm going to start with a word: **[time][0]**.
 
 <!--more-->
 
@@ -18,7 +18,7 @@ If you want, you may listen to this music (The Swings of Central Park by Alexand
 
 {{< youtube-video "NE3pgjnrPAc" >}}
 
-Time is something interesting, isn't it? What do we know about time? When did it begin? Yes, it's a very strange question because the beginning of something implies time, and the start of time should be in some time. It's a really strange concept and it maybe frustrating for the common mortal beings. We have brilliant physicists working on those theories.
+Time is something interesting, isn't it? What do we know about time? When did it begin? Yes, it's a very strange question because the beginning of something implies time, and the start of time should be in some time. It's a really strange concept and it may be frustrating for the common mortal beings. We have brilliant physicists working on those theories.
 
 But, still related with time, what does the common mortal know? Past, present, future. We only know the past, and we don't know it entirely (scary, no?). The present, for me, is something complicated - I think it's a mix of past and future because the present was the future and is the past.
 
@@ -26,7 +26,7 @@ Some time ago, a friend of mine told me about a very interesting YouTube channel
 
 {{< youtube-video "QOCaacO8wus" >}}
 
-I think that video is very scientific but also philosophical. It lead me to some interesting questions:
+I think that video is very scientific but also philosophical. It led me to some interesting questions:
 
 + Are we all dead or all alive?
 + Is there something after death (if it *exists*)?
@@ -38,7 +38,7 @@ Some days ago, I was talking with [Matthew Carrozo][1], and we started talking a
 
 > "I very much like that concept [wetware] and probably plays far more of a role in our future than people think. We won't be hunky bits of metal but we'll slowly replace ourselves, rather than worry about the transfer/copy problem. A mix of regenerating what we have and reinforcing it with the «artificial»." - Matthew Carrozo
 
-I like this thought and I agree with it. But does that matter? I can agree, I can believe in it, but that doesn't make it real. But I hope so. I don't see myself living for millenia as Matt does, but I see a **longer lifetime** for my children, and then for their children, and so on.
+I like this thought and I agree with it. But does that matter? I can agree, I can believe in it, but that doesn't make it real. But I hope so. I don't see myself living for millennia as Matt does, but I see a **longer lifetime** for my children, and then for their children, and so on.
 
 ![Ava from Ex Machina](image:2015-08-19-ex-machina-ava "Ava from Ex Machina")
 

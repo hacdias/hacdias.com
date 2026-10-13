@@ -30,7 +30,7 @@ But first things first: what is standard.site? What does it do? What is it usefu
 > Standard.site provides shared lexicons for long-form publishing on AT Protocol. Making content easier to discover, index, and move across the ATmosphere.
 {cite="https://standard.site/"}
 
-The greatest benefit this website gets from implementing Standard.site support is that it becomes indexed and discoverable by many other tools that are built on the AT Protocol, such as [Leaflet](https://leaflet.pub/reader), [GreenGale](https://greengale.app/), and [pkct](https://pckt.blog/read). 
+The greatest benefit this website gets from implementing Standard.site support is that it becomes indexed and discoverable by many other tools that are built on the AT Protocol, such as [Leaflet](https://leaflet.pub/reader), [GreenGale](https://greengale.app/), and [pckt](https://pckt.blog/read). 
 
 Some Bluesky clients, such as Heron, are also [starting to implement](https://bsky.app/profile/tunji.dev/post/3mg73n5hha2it) support for these lexicons and adding your long-form documents right on your profile, making them even more discoverable for people following you.
 

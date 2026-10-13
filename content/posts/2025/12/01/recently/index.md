@@ -20,7 +20,7 @@ November is now behind us, and there's only one month left in 2025. This year ha
 
 November started with Eindhoven's habitual light festival: GLOW. Because it was the 25th edition, there was a lot of hype around what they would be doing, especially considering some of the criticism of the previous years: quite repetitive and not innovative enough. Well, to celebrate such a milestone, they brought back favorites from the public!
 
-Some might say that that doesn't help the repetitiveness, but I really enjoyed it. Many of the light installations they brought back were installations from 10, 15 years ago, that I never had a chance to see, so that was quite nice. I went with Chris and some friends, and we walked the approximately 5 km route in the city center and drank some glühwein and ate olliebollen, staples of this time of the year.
+Some might say that that doesn't help the repetitiveness, but I really enjoyed it. Many of the light installations they brought back were installations from 10, 15 years ago, that I never had a chance to see, so that was quite nice. I went with Chris and some friends, and we walked the approximately 5 km route in the city center and drank some glühwein and ate oliebollen, staples of this time of the year.
 
 ![Van Gogh's Sunflowers](image:2025-12-01-recently)
 {width="4000" height="3000"}
@@ -47,7 +47,7 @@ Finally, series 📺: there's been quite a lot of them! We watched the first sea
 
 ## 🎮 Gaming {#gaming}
 
-I might've started playing RuneScape a bit again. It's one of those games that have been in my life since I was like... 11 or 12, and that I still come back to sometimes. There's no other game that has ever that effect on me.
+I might've started playing RuneScape a bit again. It's one of those games that have been in my life since I was like... 11 or 12, and that I still come back to sometimes. There's no other game that has ever had that effect on me.
 
 <hr>
 

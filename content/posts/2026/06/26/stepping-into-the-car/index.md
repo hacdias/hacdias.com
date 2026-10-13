@@ -34,7 +34,7 @@ At the end, he ended up telling me I should just drive more often to get the han
 
 Anyways, for the next month I didn't drive. I was either on vacation or just not have a reason for driving. In the meanwhile, I've been to Portugal for a friend's wedding and I ended up driving my mother's 20 year old car.
 
-Also stalled it twice but it was quickly solved. But that car has an unusually high bite point apparently. Everyone online complaints about the clutch of this car, so I'm happy to not be the only one. The line between riding and stalling is very thin. Very annoying.
+Also stalled it twice but it was quickly solved. But that car has an unusually high bite point apparently. Everyone online complains about the clutch of this car, so I'm happy to not be the only one. The line between riding and stalling is very thin. Very annoying.
 
 Anyways. That day I drove to the wedding and then back, at night. After fiddling with the buttons to find the lights, it all went well. I think it went much better than the driving lesson, but then again: there I wasn't nervous about someone evaluating me.
 

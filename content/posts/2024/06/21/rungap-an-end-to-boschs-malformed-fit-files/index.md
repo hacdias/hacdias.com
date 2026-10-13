@@ -46,4 +46,4 @@ I was still hesitating, but I decided to try exporting it to Apple Health. I did
 
 I just went ahead, deleted all the data from HealthFit and re-imported every single "workout" via RunGap. I actually imported more workouts than I had before, because now I did not need to go through the hassle of exporting to my laptop, send to my phone and then import.
 
-Just like I said the last time, this is definitely a "first world problem", but I'm glad I found an app that can do this for me. This app can also do a lot other things, including synchronizing with around 30 services, exporting and importing from different places, etc. It seems to work quite well, so I would definitely recommend it.
+Just like I said the last time, this is definitely a "first world problem", but I'm glad I found an app that can do this for me. This app can also do a lot of other things, including synchronizing with around 30 services, exporting and importing from different places, etc. It seems to work quite well, so I would definitely recommend it.

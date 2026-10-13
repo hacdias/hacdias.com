@@ -36,7 +36,7 @@ In addition, in 2019, the EU approved a new regulation, [2019/1157](https://eur-
 ![Dutch ID Card With New EU Regulation](image:2022-11-08-dutch-id-card)
 {style="max-width: 25rem"}
 
-DigiD could let people use ID cards or passports that conform to the ICAO Document 9303 standard for the ID check. However, I understand the problem: the Dutch government would need to keep the number of the ID card or passport registred somewhere in order to know that that ID card is owned by the right person. That is trivial for Dutch citizens as they are in the system. The alternative could be to only check the name and birthday.
+DigiD could let people use ID cards or passports that conform to the ICAO Document 9303 standard for the ID check. However, I understand the problem: the Dutch government would need to keep the number of the ID card or passport registered somewhere in order to know that that ID card is owned by the right person. That is trivial for Dutch citizens as they are in the system. The alternative could be to only check the name and birthday.
 
 Either way, this could still reject people from countries whose ID cards or passports do not conform to the newest standards; or require EU citizens from countries that did not implement the regulation, such as Portugal, to get a passport. However, I think that would be the minority.
 
@@ -55,4 +55,4 @@ The problem I see with this approach is the possible plastic waste created with 
 
 ---
 
-I have reached out to the DigiD team in the past by e-mail with both of this suggestions. I really do not know if they'll ever implement any of them, but I hope so. Right now, immigrants are barred from using many online services because they don't possess a Dutch ID document.
+I have reached out to the DigiD team in the past by e-mail with both of these suggestions. I really do not know if they'll ever implement any of them, but I hope so. Right now, immigrants are barred from using many online services because they don't possess a Dutch ID document.

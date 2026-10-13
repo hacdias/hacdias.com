@@ -26,6 +26,6 @@ syndication:
   - https://fosstodon.org/@hacdias/114001280115980665
 ---
 
-Yesterday, we visited the Harry Potter Studios. Since it was quite far away from the center, it took some time to get there, and consequently most of the day. It was worth it. It’s one of those one in a lifetime experiences to see the actual set of one of your favorite franchises. And the butter beer was delicious 🍺!
+Yesterday, we visited the Harry Potter Studios. Since it was quite far away from the center, it took some time to get there, and consequently most of the day. It was worth it. It’s one of those once in a lifetime experiences to see the actual set of one of your favorite franchises. And the butter beer was delicious 🍺!
 
 More iconic even, was the visit to the Transport Museum __Shop__. Yes, to the shop and not to the museum itself. Sadly, we didn’t have time to visit the museum yesterday. I would say that this shop is quite dangerous for me since I like everything transit. I ended up buying what I think is the most iconic souvenir I could get: a pillow with the same fabric as the seats of the trains from the Elizabeth Line! I love it!

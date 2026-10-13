@@ -32,11 +32,11 @@ Finally, I also added Micropub support again, using my [indielib](https://github
 
 This month hasn't been as eventful as others have been. Not much has happened that deserves a mention here. In the beginning of the month, a friend came visit, and that was very nice. I've also kept attending my Dutch classes, which are going well. The teacher recommended me to follow the next level course from January, so that's a good sign.
 
-Among some other events, seeing some friends, and house warmings, I also witnessed this years' GLOW festival. It was a bit different than [last years'](/2022/11/30/recently/), but not necessarily much better. I think that now that there's a walking route again, it is easy to follow. Unfortunately I did not think that most of the exhibitions where that good.
+Among some other events, seeing some friends, and house warmings, I also witnessed this year's GLOW festival. It was a bit different than [last year's](/2022/11/30/recently/), but not necessarily much better. I think that now that there's a walking route again, it is easy to follow. Unfortunately I did not think that most of the exhibitions were that good.
 
 ## 🍿 Entertainment {#entertainment}
 
-Compared to last month, there's more updates here. Maybe the cozyness of Autumn has allowed me to watch more series and movies. But first, quick update: I am still reading the first book of Harry Potter in Dutch. Maybe I've watched too many movies and series.
+Compared to last month, there's more updates here. Maybe the coziness of Autumn has allowed me to watch more series and movies. But first, quick update: I am still reading the first book of Harry Potter in Dutch. Maybe I've watched too many movies and series.
 
 In the movies category, I went to the cinema to watch the new Hunger Games movie. I did really enjoy it. The only annoying thing for me was the lack of an intermission at the cinema. Including ads, it must have been around 3 hours.
 

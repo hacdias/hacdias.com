@@ -14,7 +14,7 @@ It's time to take an indefinite break from my Dutch language classes. I have bee
 
 <!--more-->
 
-Back in October I [decided](/2023/10/18/navigating-my-dutch-learning-journey/) to actually focus on my Dutch learning journey. I had already tried a school at the beginning of 2023, but it wasn't for me. I needed something more formal, with more rules an explanations, as well as something more intensive. So I enrolled for an intensive course with two two hour lessons per week.
+Back in October I [decided](/2023/10/18/navigating-my-dutch-learning-journey/) to actually focus on my Dutch learning journey. I had already tried a school at the beginning of 2023, but it wasn't for me. I needed something more formal, with more rules and explanations, as well as something more intensive. So I enrolled for an intensive course with two two hour lessons per week.
 
 ![Remembering the handmade [tompouce](https://en.wikipedia.org/wiki/Tompouce) I ate in April](image:2024-07-04-tompouce)
 
