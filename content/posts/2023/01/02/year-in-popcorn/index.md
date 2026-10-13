@@ -11,8 +11,8 @@ aliases:
   - /2023/01/02/year-in-popcorn-22/
 ---
 
-![](https://media.hacdias.com/2021-02-01-popcorn.gif "Popcorn")
-{.right .pixelated style="max-width: 100px"}
+![](https://media.hacdias.com/2026-02-23-popcorn.gif "Popcorn")
+{.right .pixelated style="max-width: 4rem"}
 
 A few years ago, I published an article where I did a small [analysis](/2020/02/22/trakt-analysis) of my Trakt data, which contains the shows and movies I have watched. I decided to bring that back again under the name "Year in Popcorn". I considered "Year in Movies & Shows" but I thought that was too long and unappealing 😅.
 

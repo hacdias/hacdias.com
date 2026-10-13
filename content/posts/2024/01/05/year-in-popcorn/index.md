@@ -10,8 +10,8 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ki7uo7qzqt5c
 ---
 
-![](https://media.hacdias.com/2021-02-01-popcorn.gif "Popcorn")
-{.right .pixelated style="max-width: 100px"}
+![](https://media.hacdias.com/2026-02-23-popcorn.gif "Popcorn")
+{.right .pixelated style="max-width: 4rem"}
 
 One year later, here am I [again](/2023/01/02/year-in-popcorn/) with my "Year in Popcorn" post. This year, it will look a bit different: there will be less graphics and data. I no longer use Trakt to track movies, only my [watches](/logs/movies/) page. And even in Trakt, I have not religiously marked episodes as watched the same day as I watched them.
 
