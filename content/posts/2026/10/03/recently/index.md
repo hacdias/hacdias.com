@@ -26,12 +26,12 @@ September has been an extremely eventful month, especially the past weeks, and I
 
 At the beginning of September, my Portuguese university and the Portuguese embassy organized an event for alumni in The Netherlands. The event was held at the Official Residency of the Ambassador, so not at the embassy itself. It was fun to go, even though I didn't know anyone, but I always forget how *far* The Hague is. Since the event started at 17:00 sharp, I had to leave around 15:00 to be on time.
 
-Sometime this month there was another electricity outage in my building and in the surrounding buildings. Just like the last time, it was cause by construction workers damaging an electricity cable. I think it's fine and good that so much is being built at the moment, but please, be careful. It's the second time in two months.
+Sometime this month there was another electricity outage in my building and in the surrounding buildings. Just like the last time, it was caused by construction workers damaging an electricity cable. I think it's fine and good that so much is being built at the moment, but please, be careful. It's the second time in two months.
 
 ![They Knew They F* Up The Cable](image:2026-10-03-recently-02)
 {width="3024" height="4032" class="right"}
 
-Talking about construction, they came this month to check if the walls were sufficiently dry to repare since we had a leakage almost two months ago. It's almost dry, except one specific wall made of a specific material. That needs to wait a bit longer. They'll come later in October to fix the plaster.
+Talking about construction, they came this month to check if the walls were sufficiently dry to repair since we had a leakage almost two months ago. It's almost dry, except one specific wall made of a specific material. That needs to wait a bit longer. They'll come later in October to fix the plaster.
 
 Also about plaster, I had told the landlord that all of the inside walls had damaged plaster next to the ceiling. This is normal considering it's a relatively new building and high rise. Since they hadn't fixed it yet, it was looking a bit ugly so I asked them to come fix it and said it was *all* of the inside walls.
 
