@@ -64,7 +64,7 @@ It seems that during 2024, I watched episodes from **40** different shows (1 les
 
 </details>
 
-The second most watched series was **Abbot Elementary** and then **The Bear**, with 48 and 28 episodes, respectively. These were also series with relatively short episodes, but less seasons, which explains the big discrepancy in comparison with the most watched series.
+The second most watched series was **Abbott Elementary** and then **The Bear**, with 48 and 28 episodes, respectively. These were also series with relatively short episodes, but less seasons, which explains the big discrepancy in comparison with the most watched series.
 
 <div class='fg plots'>
 
@@ -80,4 +80,4 @@ I want to take this data with a grain of salt 🧂: sometimes I forget to track 
 
 ---
 
-I'm happy I just put a bit more effort into this post this year in order to generate the plots for both the movies and the series. It was a nice year overal, and I'm happy with the movies I watched. Having a cinema subscription means I end up watching movies that I would otherwise not want to pay for, and sometimes they end up being really good, especially considering that I mostly go to indie-like cinemas.
+I'm happy I just put a bit more effort into this post this year in order to generate the plots for both the movies and the series. It was a nice year overall, and I'm happy with the movies I watched. Having a cinema subscription means I end up watching movies that I would otherwise not want to pay for, and sometimes they end up being really good, especially considering that I mostly go to indie-like cinemas.

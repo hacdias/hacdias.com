@@ -20,7 +20,7 @@ syndication:
   - https://fosstodon.org/@hacdias/114895673272781352
 ---
 
-I enjoy discovering other people's blogs online, whether it's personal blogs, or gardens, or whatever you want to name thems. I've probably spent too much time just navigating other people's websites, especially in what is called the [Small Web](https://ar.al/2020/08/07/what-is-the-small-web/). However, this Small Web is also not so small, and discovering new blogs is not always the easiest.
+I enjoy discovering other people's blogs online, whether it's personal blogs, or gardens, or whatever you want to name them. I've probably spent too much time just navigating other people's websites, especially in what is called the [Small Web](https://ar.al/2020/08/07/what-is-the-small-web/). However, this Small Web is also not so small, and discovering new blogs is not always the easiest.
 
 <!--more-->
 

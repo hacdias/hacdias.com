@@ -34,7 +34,7 @@ The first time I think I saw something like this was on [Sebastiaan's blog](http
 
 ![](image:2023-06-20-small-elements-website-inspired-others-03)
 
-For example, at the present it's June, therefore Pride Month. So my website shows a little 🏳️‍🌈 next to my name. In other times of the year you might find some other, possibly more intriguing emojis, such as 🍪 and 👻. The best part is that they all have a an alternative text and title describing what exactly is happening! Note that these will only work if you have JavaScript enabled in your browser.
+For example, at the present it's June, therefore Pride Month. So my website shows a little 🏳️‍🌈 next to my name. In other times of the year you might find some other, possibly more intriguing emojis, such as 🍪 and 👻. The best part is that they all have an alternative text and title describing what exactly is happening! Note that these will only work if you have JavaScript enabled in your browser.
 
 ## Homepage Posts Listing
 

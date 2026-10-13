@@ -12,7 +12,7 @@ syndication:
   - https://fosstodon.org/@hacdias/112758171014792096
 ---
 
-Two months ago I [announced](/2024/05/06/leaving-the-interplanetary-journey/) I was leaving my previous job, a completely remote position, for a on-site position. This is my first on-site position, since my previous job was also my first and only job until now. It's been now a bit more than a month, and I have some thoughts I would like to share.
+Two months ago I [announced](/2024/05/06/leaving-the-interplanetary-journey/) I was leaving my previous job, a completely remote position, for an on-site position. This is my first on-site position, since my previous job was also my first and only job until now. It's been now a bit more than a month, and I have some thoughts I would like to share.
 
 <!--more-->
 
@@ -32,7 +32,7 @@ The technology is also completely different, and despite having my own opinions 
 
 On the negative side, I find the time and place flexibility a bit constraining. I don't think this was something I've ever thought about before. Well, I did certainly think about it, but I did not think it would be a problem. I now realize that the flexibility of working from a different place - wherever it may be -, as well as flexible time, is invaluable.
 
-The other negative point I want to mention is vacation days. My previous vacations days were rather flexible. Now, not so much. And as someone that doesn't live on their native country, vacation days just "disappear". If you just go visit family and friends, then you suddenly realize you barely have any days left for your "actual" vacation. This is something that is likely shared by migrants in general, but that others wouldn't that easily recognize.
+The other negative point I want to mention is vacation days. My previous vacation days were rather flexible. Now, not so much. And as someone that doesn't live on their native country, vacation days just "disappear". If you just go visit family and friends, then you suddenly realize you barely have any days left for your "actual" vacation. This is something that is likely shared by migrants in general, but that others wouldn't that easily recognize.
 
 ---
 

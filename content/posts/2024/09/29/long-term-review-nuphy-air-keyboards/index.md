@@ -19,7 +19,7 @@ I have been using the same two [NuPhy](https://nuphy.com/) keyboards for almost 
 
 Back in 2022, I wanted to replace my higher profile Ducky One 2 Mini keyboard by something with a lighter and lower profile. Back then, I was also working at a coworking space, and I had noticed the switches I had on that keyboard were a tiny bit too loud.
 
-I think the main reasons at the time were that a lower profile keyboard would be a bit more comfortable to type on that the Ducky One 2 Mini, especially without a wrist rest, which I do have now anyways.
+I think the main reasons at the time were that a lower profile keyboard would be a bit more comfortable to type on than the Ducky One 2 Mini, especially without a wrist rest, which I do have now anyways.
 
 So after quite a lot of research, I ended up purchasing the NuPhy Air75 with Gateron Red switches, as well as their own wrist rest. This is a reasonably low profile and low sized keyboard. It doesn't have a keypad and I thought it was nice looking and comfortable to type on. I still do.
 

@@ -24,7 +24,7 @@ After seeing the book *Surrounded by Idiots* virtually everywhere, I decided to 
 
 <!--more-->
 
-The scientific basis for this book is the [DISC](https://en.wikipedia.org/wiki/DISC_assessment) theory, which describes personality in four traits: **D**ominance, **I**nducement, **S**ubmission and **C**ompliance. The book explores this further and dives people into four different groups: Reds, Yellows, Greens and Blues. Most people in the world have a combination of two colors. The rest has either one or three.
+The scientific basis for this book is the [DISC](https://en.wikipedia.org/wiki/DISC_assessment) theory, which describes personality in four traits: **D**ominance, **I**nducement, **S**ubmission and **C**ompliance. The book explores this further and divides people into four different groups: Reds, Yellows, Greens and Blues. Most people in the world have a combination of two colors. The rest has either one or three.
 
 The book delves into how different colors react and communicate in different situations, what's important for them, what they say, what they don't. There is a lot of good advice in the book when it comes to communicating with people of certain behavior - albeit some of it arguably obvious.
 

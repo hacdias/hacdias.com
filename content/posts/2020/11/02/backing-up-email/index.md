@@ -69,6 +69,6 @@ Now, to fetch your email, just run:
 getmail -r ~/.getmail/gmail.conf
 ```
 
-*Et voilá!* You have your email backed up! You now can create more configuration files if you want for different accounts and set up a cronjob to execute this command.
+*Et voilà!* You have your email backed up! You now can create more configuration files if you want for different accounts and set up a cronjob to execute this command.
 
 I really hope this will be as useful for you as it was for me!

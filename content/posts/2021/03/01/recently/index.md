@@ -19,7 +19,7 @@ One more month has passed. A year ago, I was starting my second semester of my f
 
 <!--more-->
 
-Who would say that, a year later, I would be writing this post from the Netherlands. This month marked, for me, an year of worries about Covid-19. Since the pandemic started - or slightly before it was actually considered a pandemic - I've never, ever, had physical classes. I haven't seen many of my friends since then. Only a few. Now I'm in a different country, and the situation doesn't look much better unfortunately.
+Who would say that, a year later, I would be writing this post from the Netherlands. This month marked, for me, a year of worries about Covid-19. Since the pandemic started - or slightly before it was actually considered a pandemic - I've never, ever, had physical classes. I haven't seen many of my friends since then. Only a few. Now I'm in a different country, and the situation doesn't look much better unfortunately.
 
 Even though not everything looks as bright as I would love to, the number of new cases has been declining worldwide. That's good. I hope that's the results of the vaccination efforts. And if it isn't, whatever is behind it, keep going.
 
@@ -33,7 +33,7 @@ I feel sorry for me and for all the other international students that, even with
 
 It's not the first time I need to go to a resit. However, in Portugal, the resit is simply two or three weeks after the original exam. Here, the resits are at the same time of the other exams during the next quartile. So... I'm going to have 4 exams in the same week.
 
-Definitely not what I wished for, but it's 100% my responsibility and my fault. It made me sad initially, and I still am because it's not the best situation. It isn't the worse situation either. Could I have done better? Yes, definitely. It was a completely avoidable situation. Now there's no way to go back.
+Definitely not what I wished for, but it's 100% my responsibility and my fault. It made me sad initially, and I still am because it's not the best situation. It isn't the worst situation either. Could I have done better? Yes, definitely. It was a completely avoidable situation. Now there's no way to go back.
 
 Moving on to a different topic: **weather**. The last month featured days of really nice weather, hitting almost 20 C for many days. Parks were *packed* of people. Apparently, the Dutch love the sun, even with all the implemented restrictions.
 

@@ -21,7 +21,7 @@ Em primeiro lugar, esta prática só deve ser realizada em ficheiros cujo seu co
 
 ## O que acontece se...?
 
-Vamos começar por debater a pergunta que vocês vêm aí em cima: **o que acontece** se omitirmos a *tag* de fechamento.
+Vamos começar por debater a pergunta que vocês veem aí em cima: **o que acontece** se omitirmos a *tag* de fechamento.
 
 A resposta é muito simples: se omitirmos a *tag* de fechamento de PHP, este irá tratar todos os espaços vazios e quebras de linha como caracteres "inúteis".
 
@@ -123,7 +123,7 @@ Se utilizarmos o PHP intercalado no HTML devemos também utilizar a tag de fecha
 //...
 ```
 
-### Cuidaddo com os cabeçalhos
+### Cuidado com os cabeçalhos
 
 Se utilizarmos PHP e HTML juntos no mesmo ficheiro, devemos nos certificar de que todas as funções que utilizem os cabeçalhos HTTP são colocadas *antes* de qualquer output HTML.
 

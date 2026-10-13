@@ -30,7 +30,7 @@ This is a section where I end up repeating myself over and over. There haven't b
 
 We had a concert planned on the 20th of June in Amsterdam, but the chaotic train situation due to maintenance between Eindhoven and Den Bosch, plus Chris' ankle, led us to the decision of not going to the train. We still managed to sell the tickets last minute via TicketSwap, so that was great, but it's a shame nevertheless.
 
-We have also watched maybe too many series this month. I want to highlight Severance and Silo. I found this two series superb, and I'm very looking forward to the next seasons. We also watched the third seasons of Bridgerton and Sweet Tooth, which did not disappoint.
+We have also watched maybe too many series this month. I want to highlight Severance and Silo. I found these two series superb, and I'm very looking forward to the next seasons. We also watched the third seasons of Bridgerton and Sweet Tooth, which did not disappoint.
 
 <hr>
 

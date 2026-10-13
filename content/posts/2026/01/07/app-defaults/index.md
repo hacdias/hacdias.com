@@ -10,7 +10,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mbtqsmab62f4
 ---
 
-It seems that I forgot to write an "App Defaults" in the course of the whole 2025. Towards the end, I started seeing this sort of articles pop up in my feed reader again, and I wanted to write one, but I forgot. Now that Robb Knight's [article](https://rknight.me/blog/app-defaults-2026/) popped up, I decided it was time do it.
+It seems that I forgot to write an "App Defaults" in the course of the whole 2025. Towards the end, I started seeing this sort of articles pop up in my feed reader again, and I wanted to write one, but I forgot. Now that Robb Knight's [article](https://rknight.me/blog/app-defaults-2026/) popped up, I decided it was time to do it.
 
 <!--more-->
 

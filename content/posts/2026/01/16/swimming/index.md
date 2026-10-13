@@ -22,7 +22,7 @@ It feels good to be back in a swimming pool. After a lot of hiccups in the proce
 
 <!--more-->
 
-Around year and a half ago, I [wrote](/2024/09/09/fear-of-deep-water/) about my fear of deep water, or rather, my lack of knowledge on how to get around a swimming pool when there's no way to stand. I can *swim*, I can *float*, but I can't thread the water.
+Around a year and a half ago, I [wrote](/2024/09/09/fear-of-deep-water/) about my fear of deep water, or rather, my lack of knowledge on how to get around a swimming pool when there's no way to stand. I can *swim*, I can *float*, but I can't tread the water.
 
 With that being said, I wanted to start going often to the swimming pool, but they're all deep, so I decided to enroll the lessons instead. That took so long. The first time they called me some 6 months afterwards to tell me the *time and day* I had chosen were not available and to pick a different time.
 

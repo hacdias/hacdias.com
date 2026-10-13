@@ -20,7 +20,7 @@ The, already twice fallen, Dutch government is still trying to get their coaliti
 
 I have recently reached this 5 years mark, and I plan to eventually naturalize, since I do want to be able to vote in the country where I live. Since the process takes quite some time and the next elections are very soon, there's no rush. In addition, the Netherlands still is against double nationality and I'd need to give up my Portuguese nationality, unless I'm married to a Dutch person. If that wasn't the case, I would have already done it.
 
-At the same time, because I live abroad, my vote for the Portuguese parliament barely counts. Since being able to vote, my vote has almost been a silent one, not proportional, at all. It's weird, right? Most of my tax money has been paid to The Netherlands, most of my adult has happened while I was in The Netherlands, most of the government elections I have ever actively been more aware of happened... in The Netherlands. And yet, I have no voice.
+At the same time, because I live abroad, my vote for the Portuguese parliament barely counts. Since being able to vote, my vote has almost been a silent one, not proportional, at all. It's weird, right? Most of my tax money has been paid to The Netherlands, most of my adult life has happened while I was in The Netherlands, most of the government elections I have ever actively been more aware of happened... in The Netherlands. And yet, I have no voice.
 
 There's [another law proposal](https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?id=2016Z24171&dossier=34632-%28R2080%29#wetgevingsproces) to modernize the Dutch citizenship law. Part of this is to remove the constraints regarding double nationality, but the current government is mostly opposed. Nevertheless, research shows that allowing double nationality actually helps with integration and does not bring any loyalty - a word Dutch politics love to use in this context - conflicts.
 
@@ -44,7 +44,7 @@ At this time, there's already over two hundred eighty reactions. I have never se
 
 Just like I mention above, I am quite against this change. If the issue is *integration*, doubling the waiting period doesn't solve anything, it probably just worsens it. Increasing the language level from A2 to B1, maybe B2, would be a better step.
 
-That, and removing the double nationality ban, which has so many exceptions, that mostly affect Dutch people moving abroad and losing their Dutch nationality automatically when they become a citizens of another country, or people like me, that move to the country, want to integrate, want to participate, but are left with a dilema.
+That, and removing the double nationality ban, which has so many exceptions, that mostly affect Dutch people moving abroad and losing their Dutch nationality automatically when they become citizens of another country, or people like me, that move to the country, want to integrate, want to participate, but are left with a dilemma.
 
 Just look at Germany: so long against double nationality, but it changed last year. The naturalization period shortened from 8 to 5 years, and the language level increased. For people exceptionally well integrated, with C1 language level and a notorious impact in the community, they can naturalize in 3 years.
 

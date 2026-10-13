@@ -14,7 +14,7 @@ aliases:
   - /2021/09/01/august-2021/
 ---
 
-August was a busy month. I fly back to the Netherlands quite in the beginning of the month so I could get my second Covid-19 vaccine, which caused a mild fever overnight but was pretty fine overall.
+August was a busy month. I flew back to the Netherlands quite in the beginning of the month so I could get my second Covid-19 vaccine, which caused a mild fever overnight but was pretty fine overall.
 
 <!--more-->
 

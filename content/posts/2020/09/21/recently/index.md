@@ -17,9 +17,9 @@ It's been a little bit over a month since I first arrived in Eindhoven. Since th
 
 <!--more-->
 
-Inspired by Tom MacWright, I am going to make a commitment that sounds quite simple: make a post every month called "Recently". On it, I should reflect about the past month, the highs and lows, the things I've learned, important things I think are worth mention and so on.
+Inspired by Tom MacWright, I am going to make a commitment that sounds quite simple: make a post every month called "Recently". On it, I should reflect about the past month, the highs and lows, the things I've learned, important things I think are worth mentioning and so on.
 
-With this, I am also deprecating the now page. Why? This posts should already give an overview of what's been happening lately that is not covered by my micro posts. But don't worry! I'm not breaking any links. It will just point to the most recent "Recently" post... no pun intended!
+With this, I am also deprecating the now page. Why? These posts should already give an overview of what's been happening lately that is not covered by my micro posts. But don't worry! I'm not breaking any links. It will just point to the most recent "Recently" post... no pun intended!
 
 ## Algorithms... algorithms!
 
@@ -27,7 +27,7 @@ Since I started my master's degree at Eindhoven Technical University, I was quit
 
 I am following the Web Stream within the M.Sc. in Computer Science and Engineering (MSCE). With that being said, I am taking three courses right now because the Netherlands works with quarters and not with semesters.
 
-- **Advanced Algorithms**, which is a course that is mandatory for all MCSE students, no matter their stream. These course focuses on three main topics: approximation algorithms, I/O efficient algorithms and streaming algorithms. We just finished the first chapter last week and I must say: I'm not comfortable. I'm not used to such theoretical classes. I think that with practice I can manage it.
+- **Advanced Algorithms**, which is a course that is mandatory for all MCSE students, no matter their stream. This course focuses on three main topics: approximation algorithms, I/O efficient algorithms and streaming algorithms. We just finished the first chapter last week and I must say: I'm not comfortable. I'm not used to such theoretical classes. I think that with practice I can manage it.
 - **Principles of Data Protection**, in which we've been talking about topics such as trust, access control, roles, hierarchies and so on.
 - **Foundations of Data Mining**, which is directly connected to... you guessed it: data mining! So far, we've touched subjects such as clustering, linear models, classifications, etc.
 
@@ -55,7 +55,7 @@ No, I'm not talking about Metaforum, the central building at my university. I'm 
 
 In the meanwhile, I also automated the [blogroll](/blogroll) page... finally! Now, it's always up to date! I recommend you to check it. There's a lot of good content in there!
 
-Newsletters... I'm considering. I really want to try to write at least once post per week. If not, at least once per month. But per week would be much better, and much nicer. I want to force myself to write and I think that writing about what I'm learning at university or some other hot tech thing I'm working one could be very valuable, for me and for my readers.
+Newsletters... I'm considering. I really want to try to write at least one post per week. If not, at least once per month. But per week would be much better, and much nicer. I want to force myself to write and I think that writing about what I'm learning at university or some other hot tech thing I'm working on could be very valuable, for me and for my readers.
 
 And why would a newsletter help me with writing more? Even though I would still publish the post on my website, I would commit to write an article and send it out in a specific day. A commitment is what I need. Obviously I would need more than one subscriber to be motivated, but I'll consider. **What do you think?**
 
@@ -63,4 +63,4 @@ Yesterday I also found a website called that measures roughly how [much carbon](
 
 ---
 
-From now on, this "Recently" posts will be published on the first of every month and not in the middle. I just wanted to give it a bootstrap for now. Let me know... should I start a newsletter to help me achieve writing every week?
+From now on, these "Recently" posts will be published on the first of every month and not in the middle. I just wanted to give it a bootstrap for now. Let me know... should I start a newsletter to help me achieve writing every week?

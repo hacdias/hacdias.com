@@ -32,7 +32,7 @@ For the sake of clarity, here are the features/things I want to implement/change
 3. Improve the current **search** functionality. Currently, I support full text search but it is a bit cumbersome and hidden.
 4. Revive the **bookmarks** section!
 5. Stop relying on GoodReads for my **reading** section and make every reading activity an actual post.
-6. As mentioned before, a **CLI** that would allow me to manage this things locally. Besides, this CLI would also ensure that the changes are automatically committed and pushed.
+6. As mentioned before, a **CLI** that would allow me to manage these things locally. Besides, this CLI would also ensure that the changes are automatically committed and pushed.
 
 Those are the main features and changes to the functionality of the website. In addition, there's some inner workings that I would like to change. I feel that the current files hierarchy just makes everything complicated for me to access: all posts are a directory with an index, a webmentions JSON file, plus some other files that I might need.
 
@@ -49,6 +49,6 @@ So you know, these are my current inspirations:
 - [https://github.com/Xe/site](https://github.com/Xe/site)
 - [https://github.com/xwmx/nb](https://github.com/xwmx/nb)
 
-Only `Xe/site` is in Rust. Ugh. I don't really know. I tried to setup a small CLI in Rust and it too so much time to compile! Besides, I'm afraid of going deeper into Rust and then regretting.
+Only `Xe/site` is in Rust. Ugh. I don't really know. I tried to setup a small CLI in Rust and it took so much time to compile! Besides, I'm afraid of going deeper into Rust and then regretting.
 
 What would you do? What do you think? I will definitely appreciate your opinion on this!

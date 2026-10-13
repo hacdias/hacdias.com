@@ -21,7 +21,7 @@ Abra o Poedit e clique em **Ficheiro → Novo** e selecione a língua **mãe**
 
 Logo de seguida, clique em **Extrair das fontes**. Agora, adicione o caminho do seu site na seção **Caminhos** da aba **Caminhos das fontes**.
 
-De seguida, dirija-se à aba **Propriedades da tradução** e dê um nome ao projeto.Pode ainda escolher outras opções.
+De seguida, dirija-se à aba **Propriedades da tradução** e dê um nome ao projeto. Pode ainda escolher outras opções.
 
 Na última aba, **Palavras-chave das fontes**, adicione `__`   e `_e`. Depois clique em **OK** e espere que os ficheiros sejam analisados.
 
@@ -37,8 +37,8 @@ Agora basta clicar no item a traduzir e depois escrever a tradução na caixa de
 
 Depois, grave o ficheiro em `lang/en_GB/LC_MESSAGES/site_multi_lingua.po`. Altere `en_GB` pela língua que criou.
 
-Agora, para testar se está tudo a funcionar, basta digital no URL `/?lang=en_GB` ou outra que queira testar.
+Agora, para testar se está tudo a funcionar, basta digitar no URL `/?lang=en_GB` ou outra que queira testar.
 
 Pode ver [neste repositório do GitHub](https://github.com/hacdias/labs/tree/master/php/multi-lang) todo o código que foi aqui produzido com alguns exemplos de linguagem adicionais.
 
-> Refiro ainda que o Gettext faz _caching _de todas as _strings_.
+> Refiro ainda que o Gettext faz _caching_ de todas as _strings_.

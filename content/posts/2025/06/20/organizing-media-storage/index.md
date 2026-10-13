@@ -42,7 +42,7 @@ And that's it. Very simple.
 
 All images larger than 100 KB are resized into three different widths: 600, 900 and 1800 pixels. These are very "flexible" measurements of half of the width of this website, the width of this website, and double of the width. They are not exact measures, but I found them to be flexible enough for high resolution displays and to show as thumbnails where needed.
 
-In addition to the resizing, every version if available as both a JPEG and a WebP. All of these images are displayed using a `<picture>` element with multiple `<source>`. This allows me to tell the browser: here are the photos in these formats and widths, please choose what's best for what you're doing!
+In addition to the resizing, every version is available as both a JPEG and a WebP. All of these images are displayed using a `<picture>` element with multiple `<source>`. This allows me to tell the browser: here are the photos in these formats and widths, please choose what's best for what you're doing!
 
 ```html
 <picture>

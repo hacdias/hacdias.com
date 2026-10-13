@@ -17,7 +17,7 @@ Nowadays, **[node.js](https://nodejs.org/)** is one of the technologies which is
 
 Node.js is a cross-platform platform (which is very redundant) built on Chrome's JavaScript runtime. They say that with Node.js we can create network applications, but we can do a lot more.
 
-Bow, for example, is a very useful tool built in the top of node.js. We can take advantage of the fact of node.js be cross-platform to create CLI apps which can serve  everyone.
+Bower, for example, is a very useful tool built in the top of node.js. We can take advantage of the fact of node.js be cross-platform to create CLI apps which can serve  everyone.
 
 CLI applications can be very useful to task automation, to do repetitive tasks we do everyday, etc. Bower, that I've already mentioned, is useful because it installs and updates all of the front-end dependencies automatically.
 
@@ -25,7 +25,7 @@ So, the purpose of this article is helping you creating a command-line interface
 
 ## Is everything ok?
 
-To begin, you should have both node.js and npm installed on your computer. The current versions of node.js already have npm build-in. Npm is the official node package manager.
+To begin, you should have both node.js and npm installed on your computer. The current versions of node.js already have npm built-in. Npm is the official node package manager.
 
 You can download node.js from this website. After installed, you should check if the node.js and npm are correctly installed on your computer. To do that, you can, for example, run the following commands to see the current installed version of each thing:
 
@@ -40,7 +40,7 @@ If both commands return something like v0.12.0 and 2.5.1, everything is ready to
 ## Initialize the package
 
 
-Now, let's create our first node.js command-line application with node.js. First of all, go the directory where you want to save the code of the application. Run the following commands:
+Now, let's create our first node.js command-line application with node.js. First of all, go to the directory where you want to save the code of the application. Run the following commands:
 
 ```bash
 > mkdir mycliapp
@@ -131,7 +131,7 @@ var read = rl.createInterface({
 
 `process` (read more [here](https://nodejs.org/api/process.html#process_process)) is a global object variable which is an instance of [`EventEmitter`](https://nodejs.org/api/process.html#process_process).
 
-So now that we already have the input and output setted up, we can make a question to the user and then receive the answer. We should use this syntax:
+So now that we already have the input and output set up, we can make a question to the user and then receive the answer. We should use this syntax:
 
 ```javascript
 read.question(query, callback);
@@ -146,7 +146,7 @@ read.question("What is your name? ", function (answer) {
 });
 ```
 
-It is very simples as you can see. Never forget to close the instance of the reading interface. After that you can do whatever you want with the answer of the user.
+It is very simple as you can see. Never forget to close the instance of the reading interface. After that you can do whatever you want with the answer of the user.
 
 You can get more information about this module [here](https://nodejs.org/api/readline.html).
 
@@ -154,7 +154,7 @@ You can get more information about this module [here](https://nodejs.org/api/rea
 ## How to read arguments
 
 
-There are a lot of ways to read arguments. There's some third-party packages which helps the user doing it, like [```commander```](https://www.npmjs.com/package/commander), but we are going to do it manually to see how does it work.
+There are a lot of ways to read arguments. There's some third-party packages which help the user doing it, like [```commander```](https://www.npmjs.com/package/commander), but we are going to do it manually to see how does it work.
 
 Remember the process  object? It also contains the arguments. Let's experiment. Write the following code of line in ```bin/mycliapp```. You might remove all of the previous code or comment it.
 

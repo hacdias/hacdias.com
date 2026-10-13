@@ -28,7 +28,7 @@ May was an incredibly packed month, which sort of explains why it took me so lon
 
 ## ✍️ Website {#website}
 
-May was packed with *real* life events, which means I barely had any time to update this website. However, right before writing this post, I managed to update my Bluesky syndication to include the new new support for [standard.site](https://standard.site/) publications.
+May was packed with *real* life events, which means I barely had any time to update this website. However, right before writing this post, I managed to update my Bluesky syndication to include the new support for [standard.site](https://standard.site/) publications.
 
 ## 🍄 Life {#life}
 
@@ -39,7 +39,7 @@ At the beginning of the month, some friends from Portugal came visit for a few d
 
 The first day, we went to the National Park Hoge Veluwe, where we biked around 25km across all types of landscapes, from heathland, to forest, to sandy scapes, among others. That same day, we also had some amazing Dutch pancakes, which they had never had before. Salty - not sweet - pancakes, what an experience!
 
-The day after, we stayed in Eindhoven, since one of my friends was leaving that day. We took some walks, checked out a cow farm, had great noodles, and even managed to take a sneak peak at the swimming stadium here in Eindhoven.
+The day after, we stayed in Eindhoven, since one of my friends was leaving that day. We took some walks, checked out a cow farm, had great noodles, and even managed to take a sneak peek at the swimming stadium here in Eindhoven.
 
 On the remaining days, we checked both Utrecht and Maastricht. In Utrecht, I introduced them to my favorite fries from Dapp, and in Maastricht to vlaai. Both extremely tasty *delicacies*. We also did some gourmetten at home, which is also very Dutch.
 

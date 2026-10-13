@@ -29,7 +29,7 @@ sorted by watch date with the most recent on top. I decided to put the series be
 it's what gets updated more.
 
 I have a script on my server that runs every day and updates the page on this website with the new information
-provided by the API. It generates a simple JSON (as you can see bellow) that is then fed to the page and the
+provided by the API. It generates a simple JSON (as you can see below) that is then fed to the page and the
 HTML gets generated.
 
 ```json

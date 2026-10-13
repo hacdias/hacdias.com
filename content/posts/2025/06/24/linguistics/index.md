@@ -24,7 +24,7 @@ I always find it very interesting to learn more about languages, and features th
 
 <!--more-->
 
-I have never thought about this, but Portuguese does not have a single "there", we have two "there", depending on how far the object is from the listener and/or the speaker. If you say "aí", it means that it is next to the listener. If you say "alí", it means that it is neither close to the speaker, nor to the listener. Both translate to "there".
+I have never thought about this, but Portuguese does not have a single "there", we have two "there", depending on how far the object is from the listener and/or the speaker. If you say "aí", it means that it is next to the listener. If you say "ali", it means that it is neither close to the speaker, nor to the listener. Both translate to "there".
 
 This is what seems to be called a spatial deixis system, which is present in many languages. Germanic languages, such as English and Dutch, do not make such distinctions however. And the problem lies in my internal association between the concept of "aí" and "there". So, when someone usually says something is "there", I assume it is close to me and far away from them (the speaker), while it can actually be somewhere else entirely. And this comes because I'm used to have more specificity.
 

@@ -20,7 +20,7 @@ I have recently acquired a new - and my first - electric bike from Gazelle, a "s
 
 ## The Apple Health Problem
 
-First, let's look at the problem. If you're an Apple Watch user, you know that you can simply track your bike rides with it. If you do so, you get some neat information and graphs: heart rate, elevation, and speed thorough your ride. With watchOS 10, you can also pair power meters to add information regarding your cycling power and cadence.
+First, let's look at the problem. If you're an Apple Watch user, you know that you can simply track your bike rides with it. If you do so, you get some neat information and graphs: heart rate, elevation, and speed through your ride. With watchOS 10, you can also pair power meters to add information regarding your cycling power and cadence.
 
 The eBike Flow app is neatly integrated with the Apple Watch and Apple Health. After tracking a ride, it synchronizes the workout to Apple Health and includes almost all information. The keyword is *almost*. It is missing the speed graph during the ride, as well as power and cadence. It includes the average speed though!
 
@@ -56,7 +56,7 @@ I am not giving them a hard time for the lack of power and cadence: after all, i
 
 The eBike Flow app allows me to export my ride data as both a [GPX](https://en.wikipedia.org/wiki/GPS_Exchange_Format) file, and as a [FIT](https://developer.garmin.com/fit/protocol/) file. The GPX file only contains GPS information, so it is not very interesting. The FIT (Flexible and Interoperable Data Transfer) file, however, can theoretically include everything related to the workout activity.
 
-I exported the FIT file, then imported it via [HealthFit](https://apps.apple.com/us/app/healthfit/id1202650514). HealthFit is an iOS ap which allows me to import FIT files to add to Apple Health. That's where I noticed something else: it did not include calories, or elevation information.
+I exported the FIT file, then imported it via [HealthFit](https://apps.apple.com/us/app/healthfit/id1202650514). HealthFit is an iOS app which allows me to import FIT files to add to Apple Health. That's where I noticed something else: it did not include calories, or elevation information.
 
 <figure>
 
@@ -74,7 +74,7 @@ I exported the FIT file, then imported it via [HealthFit](https://apps.apple.com
 
 </figure>
 
-After some back and forth with the creator of HealthFit, it seems that the FIT file from the Bosch's Flow includes elevation information, but is not properly formatted. I also tried importing it into Garmin's website, the creator the FIT format, and it failed. I thought that was enough validation to show me that the file is not correctly encoded.
+After some back and forth with the creator of HealthFit, it seems that the FIT file from the Bosch's Flow includes elevation information, but is not properly formatted. I also tried importing it into Garmin's website, the creator of the FIT format, and it failed. I thought that was enough validation to show me that the file is not correctly encoded.
 
 ## Analyzing Flow's FIT File
 
@@ -107,7 +107,7 @@ So I wrote a script and the first step was to just combine the duplicated entrie
 
 I programmatically added an activity entry at the end considering the information contained in the file. In this activity entry, I also added the calories information that I saw in the Flow app. Eureka! It can now be successfully imported into Garmin's website, which means the file should be valid. Nice! You can find the code [on GitHub](https://github.com/hacdias/flowfit).
 
-Then, I carefully analyzed the original FIT file in order to try to understand if and where and how I should put pauses. I compared to the original map in Flow's app, as well as the one it added to Apple Health. I could not figure out how the pauses worked. I tried to add some based on the lack of entries between timestamps, but that did not seem to be entirely correct. Also, the calories were somehow changing based on the pauses. I think it counted the calories for the entire time, and then it would reduce the ones from the pauses. Not sure. I think it's my script creates a good approximation of the real thing, but there are still some odd things. I also think some of the odd things come from HealthFit.
+Then, I carefully analyzed the original FIT file in order to try to understand if and where and how I should put pauses. I compared to the original map in Flow's app, as well as the one it added to Apple Health. I could not figure out how the pauses worked. I tried to add some based on the lack of entries between timestamps, but that did not seem to be entirely correct. Also, the calories were somehow changing based on the pauses. I think it counted the calories for the entire time, and then it would reduce the ones from the pauses. Not sure. I think my script creates a good approximation of the real thing, but there are still some odd things. I also think some of the odd things come from HealthFit.
 
 <figure>
 
@@ -127,7 +127,7 @@ Then, I carefully analyzed the original FIT file in order to try to understand i
 
 ## In Summary
 
-All the information for the bike ride exists. However, it is scattered across different file formats and apps. The Apple Health integration is lacking the speed, power and cadence thorough the ride. The FIT export is missing the energy (calories), the activity entry, and the pauses. In addition, the geographic data should be included in a single entry, not multiple.
+All the information for the bike ride exists. However, it is scattered across different file formats and apps. The Apple Health integration is lacking the speed, power and cadence through the ride. The FIT export is missing the energy (calories), the activity entry, and the pauses. In addition, the geographic data should be included in a single entry, not multiple.
 
 In the end, I contacted Bosch by e-mail. I tried to make it all clear, with screenshots to show everything that I mentioned. They replied, informing me that they forwarded the information to the developers in Germany. Considering the amount of updates the app has had over the past months, including improvements to the export feature, I am hopeful that Bosch will either fix their FIT file, or their Apple Health integration. Hopefully both, but I am happy with just one of them.
 

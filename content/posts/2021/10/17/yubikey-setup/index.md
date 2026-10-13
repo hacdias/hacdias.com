@@ -19,13 +19,13 @@ As usual, there is quite a bit of setup after purchasing a new YubiKey and I alw
 
 ## ✅ Pre-flight Checks {#checks}
 
-The first thing to do after getting a new YubiKey is to make you to **install** the [YubiKey Manager](https://www.yubico.com/support/download/yubikey-manager/). This application will be key - no pun intented - to the rest of the setup.
+The first thing to do after getting a new YubiKey is to make you to **install** the [YubiKey Manager](https://www.yubico.com/support/download/yubikey-manager/). This application will be key - no pun intended - to the rest of the setup.
 
 After installing the app, it is important to **check** if the YubiKey is **genuine** as there are many fakes out there. To do so, just go to [yubico.com/genuine](https://www.yubico.com/genuine/) and touch the device. As simple as that. If it's not genuine, you should file a complaint to whatever place you bought it from.
 
 Now, open the YubiKey Manager and **reset** all modules, as well as set **new PINs and PUKs** for all applications. Make sure to store them in a safe place and not lose them. In case you do, the only thing you can do is to reset the YubiKey.
 
-Optionally, change OTP to the long slot so you don't get random character without wanting them.
+Optionally, change OTP to the long slot so you don't get random characters without wanting them.
 
 ## 🔑 GPG {#gpg}
 

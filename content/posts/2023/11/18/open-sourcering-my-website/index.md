@@ -14,7 +14,7 @@ syndication:
 thumbnail: image:2023-11-18-noisy-glow
 ---
 
-For some, it may come as a surprise that my website's source code is not open-source. That hasn't, however, always been the case. Before I [fully switching](/2021/11/19/farewell-hugo-hello-eagle/) to my custom CMS - named Eagle -, it did use to be open-source.
+For some, it may come as a surprise that my website's source code is not open-source. That hasn't, however, always been the case. Before I [fully switched](/2021/11/19/farewell-hugo-hello-eagle/) to my custom CMS - named Eagle -, it did use to be open-source.
 
 <!--more-->
 
@@ -30,7 +30,7 @@ I started by asking on [Fosstodon](https://fosstodon.org/@hacdias/11134860166682
 
 ## The Git Magic 🪄
 
-After a bit of Internet searching, I found this nice Stackoverlow - of course - [post](https://stackoverflow.com/questions/3063097/remove-commits-before-specific-commit) that explains how to remove all commits before a certain commit. I started by investigating which commit it was. Let's call it `X`. These are the steps I followed:
+After a bit of Internet searching, I found this nice Stackoverflow - of course - [post](https://stackoverflow.com/questions/3063097/remove-commits-before-specific-commit) that explains how to remove all commits before a certain commit. I started by investigating which commit it was. Let's call it `X`. These are the steps I followed:
 
 
 ```bash
@@ -49,13 +49,13 @@ git gc
 
 Something that wasn't in the original post was the flag `--committer-date-is-author-date`, which I added. It simply ensures that the commit's date is preserved during the rebase. I think that was important.
 
-After this steps, I had a repository with only the latest commits. But there was still a problem! The unmoderated comments file was still around in the history. That was quite easy. Just installed [`git-filter-repo`](https://github.com/newren/git-filter-repo) with Homebrew. Then run:
+After these steps, I had a repository with only the latest commits. But there was still a problem! The unmoderated comments file was still around in the history. That was quite easy. Just installed [`git-filter-repo`](https://github.com/newren/git-filter-repo) with Homebrew. Then run:
 
 ```bash
 git filter-repo --invert-paths --path data/guestbook-unmoderated.json
 ```
 
-Et voilá! The next steps were reasonably easy: create a new repository, add the remote to the local repository, push, and done. After a few dances of renaming repositories, adding descriptions, archiving some, making other publics, it is alive.
+Et voilà! The next steps were reasonably easy: create a new repository, add the remote to the local repository, push, and done. After a few dances of renaming repositories, adding descriptions, archiving some, making other publics, it is alive.
 
 My website's [source code](https://github.com/hacdias/hacdias.com) is now open-source again. I like that. I have been learning more and more powerful things that Hugo can do and make it play nicely with my CMS.
 

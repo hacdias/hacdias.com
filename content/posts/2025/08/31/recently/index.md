@@ -49,7 +49,7 @@ I've also tried doing a few Yoga workouts, by following some videos on YouTube. 
 
 ## 🍿 Entertainment {#entertainment}
 
-This month, I've seen two artists life so far: IDER and Blanks. I say "so far", because there's a free music festival here in Eindhoven, "Hit the City", and there are quite a few nice artists playing today I also want to see. So today I'm still planning on going to Bente and Pommelien Thijs.
+This month, I've seen two artists live so far: IDER and Blanks. I say "so far", because there's a free music festival here in Eindhoven, "Hit the City", and there are quite a few nice artists playing today I also want to see. So today I'm still planning on going to Bente and Pommelien Thijs.
 
 When it comes to [🎬 movies](/logs/movies/), we didn't watch that many this month. We finally watched *Challengers*, which was in our list for quite some time, but we sadly missed the screenings at the cinema. And we also watched *My Oxford Year* and *Thursday Murder Club*.
 

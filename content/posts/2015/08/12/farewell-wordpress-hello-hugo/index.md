@@ -1,6 +1,6 @@
 ---
 title: Farewell, WordPress! Hello, Hugo
-description: I finally learned how to say goodbye to WordPress. Not forever. Nothing lasts forever. But for my blog. I'm using Hugo. A very simple static website generator."
+description: I finally learned how to say goodbye to WordPress. Not forever. Nothing lasts forever. But for my blog. I'm using Hugo. A very simple static website generator.
 date: 2015-08-12T11:30:00Z
 categories:
   - writings
@@ -12,13 +12,13 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cx5i6zvzk2ct
 ---
 
-Firstly, a little bit of history - when I begun this blog, I've already been using WordPress on Pplware for a while. So, I tought: I know it, it's simple, it's easy to use, I'm going to use it on my personal blog.
+Firstly, a little bit of history - when I began this blog, I've already been using WordPress on Pplware for a while. So, I thought: I know it, it's simple, it's easy to use, I'm going to use it on my personal blog.
 
 <!--more-->
 
 After deciding I was going to use WordPress, I bought a domain on [GoDaddy][1] (which I recommend) and paid for hosting on [PTServidor][2]. With the blog set up, I started writing posts in portuguese. I did it for some time.
 
-Less than an year afterwards, I moved my blog to [DigitalOcean][3] (which I recommend too). I had 100$ from GitHub Education for free to use on DigitalOcean and I give it a try. It was a nice and useful experience: I learned how to set up a server, apache and some of other things in a production environment.
+Less than a year afterwards, I moved my blog to [DigitalOcean][3] (which I recommend too). I had 100$ from GitHub Education for free to use on DigitalOcean and I gave it a try. It was a nice and useful experience: I learned how to set up a server, apache and some of other things in a production environment.
 
 I was using a cache plugin to speed up the blog and also using the Yoast SEO plugin. I think both are really useful and I recommend them if you're using WordPress.
 
@@ -26,9 +26,9 @@ I was using a cache plugin to speed up the blog and also using the Yoast SEO plu
 
 Two months later - I think it was two months, I'm not sure - I decided to use Jekyll on [GitHub Pages][4]. Jekyll is a static website generator, i.e., it converts some source files to static and plain HTML. After fighting a lot with Ruby on Windows, I moved my blog from WordPress to Jekyll.
 
-Everything was running fine until I formatted my computer. And then I tought: no, I'm not gonna install Ruby again, not on Windows, I'm not enter the hell. I searched for more static site generators and I found [Hugo][5].
+Everything was running fine until I formatted my computer. And then I thought: no, I'm not gonna install Ruby again, not on Windows, I'm not enter the hell. I searched for more static site generators and I found [Hugo][5].
 
-Hugo is a really nice and easy to use static website generator, built using Go (one of the languages I admire), that have standalone executables. It **doesn't have dependencies**. It's simple, easy. Why not?
+Hugo is a really nice and easy to use static website generator, built using Go (one of the languages I admire), that has standalone executables. It **doesn't have dependencies**. It's simple, easy. Why not?
 
 ![Writing a post](image:2015-08-12-writing-post "Writing a post")
 
@@ -38,9 +38,9 @@ I also configured [CloudFlare][8] and my website is very fast now. It's delivere
 
 ![My blog score's on Speed Insights](https://media.hacdias.com/2015-08-12-speed-insights.jpeg "My blog score's on Speed Insights")
 
-Concluding, I'm saving money because I'm only paying the domain. I'm using a easy to use system (of course Hugo is not for everyone, but it's simple). My blog is faster than ever. Google Page Speed Insights gives me a very high score. I'm very satisfied with Hugo.
+Concluding, I'm saving money because I'm only paying the domain. I'm using an easy to use system (of course Hugo is not for everyone, but it's simple). My blog is faster than ever. Google Page Speed Insights gives me a very high score. I'm very satisfied with Hugo.
 
-If you're confortable with Markdown, HTML, CSS and JS, I **recommend** you Hugo with GitHub Pages.
+If you're comfortable with Markdown, HTML, CSS and JS, I **recommend** you Hugo with GitHub Pages.
 
 [1]: https://godaddy.com/
 [2]: https://www.ptservidor.pt/

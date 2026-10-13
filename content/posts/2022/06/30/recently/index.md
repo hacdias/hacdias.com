@@ -14,12 +14,12 @@ aliases:
   - /2022/06/30/june-22/
 ---
 
-I have recently noticed I have been writing 'recently' posts since September 2020. Honestly, I wasn't expecting it to have been that long. Today, I am trying a different format. Sometimes I'm not sure on how to organize this monthly posts and I see some people posting bullet-list weekly or monthly posts so I decided to try.
+I have recently noticed I have been writing 'recently' posts since September 2020. Honestly, I wasn't expecting it to have been that long. Today, I am trying a different format. Sometimes I'm not sure on how to organize these monthly posts and I see some people posting bullet-list weekly or monthly posts so I decided to try.
 
 <!--more-->
 
 - Had the [opening](/2022/06/07/dm-lustrum-exhibition) of the Dekate Mousa Lustrum Exhibition with pictures that the members took during the school year. I was very happy to see 3 of my pictures there.
-- Went to a concert of Lorde in AFAS Live. This was my third concert in 2 months. It’s funny because I don’t think I can say I’ve been to an actual concert before last month… ever. Lorde was phenomenal. Vocals were very good and she sung quite some older songs. And the staging… uff.
+- Went to a concert of Lorde in AFAS Live. This was my third concert in 2 months. It’s funny because I don’t think I can say I’ve been to an actual concert before last month… ever. Lorde was phenomenal. Vocals were very good and she sang quite some older songs. And the staging… uff.
 - Went bowling and had dinner with the members from the committees at Dekate Mousa. It was my first time bowling and I enjoyed it a lot. The time and the conversations were equally nice.
 - Had a very nice BBQ with some people from Dekate Mousa. It's always fascinating to me that students here live in student houses with 8/9 students. And the best is that they're actually houses with 3 floors and a garden. Incredible.
 - Finally purchased loquats at the Turkish supermarket. It's been quite a long time since I've had them and I missed them a lot. It's a very nice fruit, which I would recommend anyone to try.

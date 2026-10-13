@@ -27,7 +27,7 @@ Today I had my last swimming lesson before the summer break. Since I haven't giv
 
 On my [last update](/2026/04/21/swimming-diploma/), I shared that I had gotten the National Swimming Diploma A, which is the first of three diplomas to reach the national swimming safety norms. Since then, I've also gotten my Diploma B, the second one.
 
-That happened a few weeks ago. For that, we did similar exercises as for Diploma A, but now for longer distances, both with and without clothes. There were a few other exercises that we had to do, but in general, it was fine, it was fun - you're gonna see (read?) me saying that more often. Last week, we even dit a bit of snorkeling during the lesson!
+That happened a few weeks ago. For that, we did similar exercises as for Diploma A, but now for longer distances, both with and without clothes. There were a few other exercises that we had to do, but in general, it was fine, it was fun - you're gonna see (read?) me saying that more often. Last week, we even did a bit of snorkeling during the lesson!
 
 ![National Swimming Diploma B](image:2026-07-09-swimming)
 {width="4000" height="3001"}

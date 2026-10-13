@@ -19,7 +19,7 @@ The year has just begun, which means, similarly to [previous years](/2025/01/03
 
 ## 📊 Statistics {#statistics}
 
-Starting with some quick statistics: in 2025, I scrobbled **19 222** times, with an average of **53** scrobbles per day. In total, I listened to **44 days, 11 hours** of music. I listed to the most music on Wednesdays, and peaked in the morning, which is different from last year. I think this reflects going to the office on Wednesdays, which means I listen to more music in the train.
+Starting with some quick statistics: in 2025, I scrobbled **19 222** times, with an average of **53** scrobbles per day. In total, I listened to **44 days, 11 hours** of music. I listened to the most music on Wednesdays, and peaked in the morning, which is different from last year. I think this reflects going to the office on Wednesdays, which means I listen to more music in the train.
 
 <div class='fg plots'>
 
@@ -57,7 +57,7 @@ I have listened to **9.90%** more music than the previous year. A reason for thi
 
 </div>
 
-The top 10 artists changed quite a bit, and more than half of the artists got lower positions. Marina is still my top 1 artists, while Lady Gaga moved up a position. Most of the other artists (re)entered my top 10. In comparison to the previous year, there's a lot less Dutch artists, only Merol survived this top list. I'm sure all other artists are still in the top 50, they just didn't make my top 10.
+The top 10 artists changed quite a bit, and more than half of the artists got lower positions. Marina is still my top 1 artist, while Lady Gaga moved up a position. Most of the other artists (re)entered my top 10. In comparison to the previous year, there's a lot less Dutch artists, only Merol survived this top list. I'm sure all other artists are still in the top 50, they just didn't make my top 10.
 
 <details>
   <summary>
@@ -273,7 +273,7 @@ As usual, looking at the songs is not that interesting for me, but it’s a nice
 
 ## 🎫 Concerts {#concerts}
 
-This past year, I went to nine concerts: that's five more than the year before. And not only that, but many of this were quite big artists, such as Lorde, Lady Gaga and Dua Lipa. I really enjoyed all the concerts I went to, but I think Lady Gaga's MAYHEM Ball takes the win.
+This past year, I went to nine concerts: that's five more than the year before. And not only that, but many of these were quite big artists, such as Lorde, Lady Gaga and Dua Lipa. I really enjoyed all the concerts I went to, but I think Lady Gaga's MAYHEM Ball takes the win.
 
 ---
 

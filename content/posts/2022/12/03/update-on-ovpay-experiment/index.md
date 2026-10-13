@@ -14,7 +14,7 @@ In the beginning of last month, I [wrote](/2022/11/04/trying-out-ovpay) a post a
 
 <!--more-->
 
-On the last post, I mentioned that one of the payments failed to be debited from my account. It finally got debited from my account successfully. However, the transaction is marked with a different type from the others. Instead of "Pinbetaling" (card payment), it says "Overschrijving" (transfer). I'm not exactly sure how this things are processed on the backend, but there's clearly a difference that is likely related to the first payment failing.
+On the last post, I mentioned that one of the payments failed to be debited from my account. It finally got debited from my account successfully. However, the transaction is marked with a different type from the others. Instead of "Pinbetaling" (card payment), it says "Overschrijving" (transfer). I'm not exactly sure how these things are processed on the backend, but there's clearly a difference that is likely related to the first payment failing.
 
 <figure class='right' style='max-width: 15rem'>
   <video controls>
@@ -22,7 +22,7 @@ On the last post, I mentioned that one of the payments failed to be debited from
   </video>
 </figure>
 
-As I mentioned in the beginning, I had more opportunities to travel with Hermes 🚍 over the last month. I noticed that validators in some buses behave differently from others. In some buses, the validator only says "Geaccepteerd" (accepted); while on others it actually says "In" or "Uit". Almost as it the former buses did not really know if the card was checking-in or checking-out of the bus. Perhaps there are different iterations of the validator software running on different buses. The validators themselves seem to be the same hardware.
+As I mentioned in the beginning, I had more opportunities to travel with Hermes 🚍 over the last month. I noticed that validators in some buses behave differently from others. In some buses, the validator only says "Geaccepteerd" (accepted); while on others it actually says "In" or "Uit". Almost as if the former buses did not really know if the card was checking-in or checking-out of the bus. Perhaps there are different iterations of the validator software running on different buses. The validators themselves seem to be the same hardware.
 
 In the last post, I also mentioned the validation was super slow on the Hermes 🚍 buses, even with the known OV-Chipkaart. On the video you can see the feedback loop on the validators on the buses. The time it takes between my phone touching the validator and it reacting is quite high. It may not look like a lot, but if there's a queue of people to leave a bus, you'll understand. On the other hand, HTM Trams 🚋 are virtually [instant](https://www.youtube.com/watch?v=436t5ET4i9k&t=24s). However, I also noticed that some buses are faster than others, perhaps related to possible different software versions running in different buses.
 

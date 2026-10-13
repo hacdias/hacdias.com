@@ -13,7 +13,7 @@ aliases:
   - /2015/12/31/new-year-resolutions-2016/
 ---
 
-One year more has passed. It seems like yesterday I was turning thirteen. Nostalgia. 2015 has been very turbulent and troubled year, but still amazing and meaningful. It has been very antithetical in so many ways I can't tell you. But being that way helped me to grow more than in the years before - growing is a continuous process we should never fear.
+One year more has passed. It seems like yesterday I was turning thirteen. Nostalgia. 2015 has been a very turbulent and troubled year, but still amazing and meaningful. It has been very antithetical in so many ways I can't tell you. But being that way helped me to grow more than in the years before - growing is a continuous process we should never fear.
 
 <!--more-->
 
@@ -30,4 +30,4 @@ After making a review of what happened this year, I have chosen some objectives 
 
 As you can see, I've only six New Year's resolutions. I don't need a lot of them, I do need good and challenging ones. I'm optimistic about the coming year. To finish this, I just wish you a **happy new year**!
 
-*P.S.: I have to thank my friend Malik because he's the reason why I'm writing about this. I would have never thought about doing such a thing if he didn't asked me about my New Year's resolutions.*
+*P.S.: I have to thank my friend Malik because he's the reason why I'm writing about this. I would have never thought about doing such a thing if he didn't ask me about my New Year's resolutions.*

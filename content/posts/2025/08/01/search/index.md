@@ -45,7 +45,7 @@ Now you know how the posts are indexed and searched on, but how does the renderi
 
 Afterwards, some magic happens. Eagle opens the already rendered file - by Hugo - for the search page and looks for a custom `<eagle-page>` element. Then, it renders an Eagle-specific template for the search results and replaces the content of the custom HTML element with the search results.
 
-Et voilá! Maybe not that creative, but it works quite well. By default, the search page contains a form which allows users to search my website using DuckDuckGo:
+Et voilà! Maybe not that creative, but it works quite well. By default, the search page contains a form which allows users to search my website using DuckDuckGo:
 
 ```html
 <eagle-page>

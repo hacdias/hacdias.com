@@ -24,7 +24,7 @@ It is the end of February and it is unbelievable. It feels like 2022 started yes
 
 In the beginning of the month, I did my last _ever_ exam. It was an Internet of Things exam. In the meanwhile, I have received the grade and I'm glad to be able to say that I finished all the courses of my master's program. From now on, I only have my master's thesis to focus on.
 
-During the past month, I had the opportunity to visit quite a few cities: Den Haag, Tilburg, Amsterdam, Rotterdam and others. Some of this visits were accompanied by three of my friends that came visit from Portugal, some were alone.
+During the past month, I had the opportunity to visit quite a few cities: Den Haag, Tilburg, Amsterdam, Rotterdam and others. Some of these visits were accompanied by three of my friends that came visit from Portugal, some were alone.
 
 I also visited a larger number than average of museums this month: the Mauritshuis, the Philips Museum, the Speelklok Museum, the Spoorwegmuseum and the Centraal Museum of Utrecht. Additionally, I also went to one of the last floors of the Dom Tower in Utrecht. Unfortunately, it was too windy and we weren't able to visit the last floor.
 

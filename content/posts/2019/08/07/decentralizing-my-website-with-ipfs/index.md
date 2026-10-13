@@ -17,7 +17,7 @@ It was about two years ago, in 2017, that I got to know IPFS through [David Dias
 
 <!--more-->
 
-By decentralizing my website, I want you to fetch it from the nearest source you can. If your accessing this through HTTP, that might not be what's really happening (_kinda_, will explain later). But if you already know IPFS and you're using [IPFS Companion][1], changes might be that you're loading this through a decentralized network.
+By decentralizing my website, I want you to fetch it from the nearest source you can. If you're accessing this through HTTP, that might not be what's really happening (_kinda_, will explain later). But if you already know IPFS and you're using [IPFS Companion][1], chances might be that you're loading this through a decentralized network.
 
 First of all, I use a static website generator called [Hugo][2] which does its job immensely well and I give my props to its creator and maintainers. However, we're not here to talk about static website generators, but about how does my website work and how you can do the same about yours.
 
@@ -46,7 +46,7 @@ DNSLink is a TXT record on your domain that points to a certain IPFS hash. Let's
 dnslink=/ipfs/QmHash
 ```
 
-DNSLink allows IPFS to know what the content of your website is just by looking at its domain. Certainly, you wouldn't to give people hashes to access your website.
+DNSLink allows IPFS to know what the content of your website is just by looking at its domain. Certainly, you wouldn't want to give people hashes to access your website.
 
 Let's now talk a bit about each service!
 
@@ -62,7 +62,7 @@ Pinata and Cloudflare maintain a persistent connection so the content discovery 
 
 **Uh, I already used Cloudflare and now 'Always on HTTPS' is not working anymore... What did I do wrong?**
 
-Nothing, you did nothing wrong. Right now, since your website is pointing to another Cloudflare website (their IPFS gateway), the rules applied at `cloudflare-ipfs.com` will ditacte how your website goes. And, for many different reasons, the IPFS gateway has 'Always use HTTPS` disabled.
+Nothing, you did nothing wrong. Right now, since your website is pointing to another Cloudflare website (their IPFS gateway), the rules applied at `cloudflare-ipfs.com` will dictate how your website goes. And, for many different reasons, the IPFS gateway has 'Always use HTTPS' disabled.
 
 But this will be solved! Cloudflare is working on a solution called [Orange to Orange, or O2O][10], which will allow you to override settings even if your website DNS points at another website served by them!
 
@@ -74,7 +74,7 @@ Then, just run:
 ipfs-deploy -p pinata -d cloudflare
 ```
 
-And you're website will be pinned to Pinata and your DNSLink at Cloudflare will be updated.
+And your website will be pinned to Pinata and your DNSLink at Cloudflare will be updated.
 
 **But that's a lot to make a website decentralized...**
 

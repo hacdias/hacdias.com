@@ -11,7 +11,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3bzgo5uhss2ct
 ---
 
-Como deve saber, PHP é umas das linguagens de servidor mais utilizadas no mundo. Hoje vou mostrar-vos uma fantástica forma de gerar **IDs (identificadores) únicos**.
+Como deve saber, PHP é uma das linguagens de servidor mais utilizadas no mundo. Hoje vou mostrar-vos uma fantástica forma de gerar **IDs (identificadores) únicos**.
 
 <!--more-->
 
@@ -48,7 +48,7 @@ E eu recebi o seguinte:
 540f25baa4659
 ```
 
-Como pode ver, existe um padrão que é seguido em cada entrada. Agora, vamos tornar isto mais interessante com prefixos. O primeiro parâmetro pode aer utilizado para prefixos. Exemplo:
+Como pode ver, existe um padrão que é seguido em cada entrada. Agora, vamos tornar isto mais interessante com prefixos. O primeiro parâmetro pode ser utilizado para prefixos. Exemplo:
 
 ```php
 <?php /*...*/
@@ -92,7 +92,7 @@ for ($i = 0; $i < 10; $i++) {
 // 635653d8a7a793e2a
 ```
 
-Pode aprender mais sobre esta função aqui [aqui](http://pt2.php.net/manual/en/function.rand.php). Podemos também ativar a entropia utilizando o segundo parâmetro.
+Pode aprender mais sobre esta função [aqui](http://pt2.php.net/manual/en/function.rand.php). Podemos também ativar a entropia utilizando o segundo parâmetro.
 
 ```php
 <?php /*...*/

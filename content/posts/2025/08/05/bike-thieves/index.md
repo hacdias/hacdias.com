@@ -28,16 +28,16 @@ It almost feels like a rite of passage: getting a bike stolen in the Netherlands
 
 On the 28th of August, a regular Monday, I woke up. That day I was going to the office in Utrecht, so I had to go get the train. I stepped outside, called the lift, went to the bike garage, unlocked my bike, and biked mindlessly to the station.
 
-When arriving, I contemplated trying to decide on whether to park the bike. You see, they are now building a *temporary* bike parking on the north side of the station, because the south side is under construction. Around half of this new, *temporary*, bike parking is already available.
+When arriving, I contemplated trying to decide on where to park the bike. You see, they are now building a *temporary* bike parking on the north side of the station, because the south side is under construction. Around half of this new, *temporary*, bike parking is already available.
 
 Somehow it is already full at 8 hours in the morning, so I just put my bike in one that was of a bit more hard access, or so I thought. Went to Utrecht. Fast forward a working day, I was back in Eindhoven. I went back to the bike rack where I had left my bike. It was nowhere to be seen.
 
 ![My Gazelle Esprit T3 With stickers](image:2025-08-05-gazelle-esprit-t3)
 {width="4032" height="3024"}
 
-In addition, I noticed that there were only a few bikes. Not only was my bike missing, but probably dozens others. The lower bike rack was almost empty, while the other ones were still buzzing with bikes. I thought I might've forgotten where I actual put the bike, so I went around and checked the rest.
+In addition, I noticed that there were only a few bikes. Not only was my bike missing, but probably dozens others. The lower bike rack was almost empty, while the other ones were still buzzing with bikes. I thought I might've forgotten where I actually put the bike, so I went around and checked the rest.
 
-I couldn't find it. Went back home with the bus, and decided to check again the day after, in the case that I actual had misplaced it. No, I didn't. It was indeed gone. I very quickly made an *aangifte* online at the police. The day after I got the police report, which I could now deliver to my insurance.
+I couldn't find it. Went back home with the bus, and decided to check again the day after, in the case that I actually had misplaced it. No, I didn't. It was indeed gone. I very quickly made an *aangifte* online at the police. The day after I got the police report, which I could now deliver to my insurance.
 
 Yes, I do have bike insurance, for both the normal and the e-bike. Considering the price of the bike and the price of the insurance and for how long I've had it, it just spared me a bit more than 500€. Nice!
 

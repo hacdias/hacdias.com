@@ -24,7 +24,7 @@ A few days ago, I [wrote](/2025/07/26/search-engines/) about my quest for a bett
 
 <!--more-->
 
-I have received a few answer e-mails and I decided to give DuckDuckGo one more chance. In one of this e-mails, there was a tip, which revealed to be very useful: [Christof](https://chdorner.com/) suggested turning on the country toggle in order to improve the local results.
+I have received a few answer e-mails and I decided to give DuckDuckGo one more chance. In one of these e-mails, there was a tip, which revealed to be very useful: [Christof](https://chdorner.com/) suggested turning on the country toggle in order to improve the local results.
 
 I have no idea how I missed the existence of such toggle, since it's a very in the UI, but it seems to do the trick. Fortunately, it doesn't seem to affect more generic searches, so I can just keep it on the whole time.
 

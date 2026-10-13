@@ -57,9 +57,9 @@ $db = new PDO('mysql:host=' . $host . ';dbname=' . $db, $username, $password);
 
 Se não conhecerem bem a extensão PDO, recomendo-vos uma pequena leitura no [manual oficial do PHP](http://php.net/manual/pt_BR/book.pdo.php). Não se esqueça de alterar os dados acima para ligar à base de dados.
 
-## 2. HTACESS e mais uns pormenores
+## 2. HTACCESS e mais uns pormenores
 
-Como vão ser listados `x` linhas por página, é provável que tenham que existir várias páginas. Estas irão ser do formato: `URL/NÚMERO_DA_PÁGINA`. Se estivermos a correr num servidor local (no nosso computador) será, por exemplo, `http://localhost/1`, `http://localhost/2`, etc.
+Como vão ser listadas `x` linhas por página, é provável que tenham que existir várias páginas. Estas irão ser do formato: `URL/NÚMERO_DA_PÁGINA`. Se estivermos a correr num servidor local (no nosso computador) será, por exemplo, `http://localhost/1`, `http://localhost/2`, etc.
 
 Mas, quando escrevemos esse URL, o Apache assume que estamos a tentar aceder a pastas cujo nome é 1, 2... por aí fora. Para que isto não aconteça, vamos criar um ficheiro chamado `.htaccess` na mesma pasta onde está o `index.php`.
 
@@ -79,7 +79,7 @@ Normalmente o `mod_rewrite` já vem ativado por padrão. Caso vocês tentem aced
 
 Não vou explicar de forma profunda o código acima, mas este faz com que todo o que escrevemos depois da barra do URL seja aberto na **index.php** através de um método GET. Podes ler mais sobre os métodos GET [aqui](http://www.w3schools.com/tags/ref_httpmethods.asp).
 
-Agora precisamos que o nosso ficheiro em PHP consiga saber qual a página em que estamos de forma a mais tarde mostrar apenas os itens referentes aquela página. Para isso copia e cola o código seguinte a seguir da ligação à base de dados:
+Agora precisamos que o nosso ficheiro em PHP consiga saber qual a página em que estamos de forma a mais tarde mostrar apenas os itens referentes àquela página. Para isso copia e cola o código seguinte a seguir da ligação à base de dados:
 
 ```php
 /*

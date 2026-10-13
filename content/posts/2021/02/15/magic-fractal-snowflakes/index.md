@@ -93,7 +93,7 @@ canvas.height = window.innerHeight
 ctx.translate(canvas.width / 2, canvas.height / 2)
 ```
 
-Fantastic! Now we can jump into the actual code. As you saw before, there are quite a few options we wil work with. Those are: the number of levels, the number of branches, the number of sides and the spread.
+Fantastic! Now we can jump into the actual code. As you saw before, there are quite a few options we will work with. Those are: the number of levels, the number of branches, the number of sides and the spread.
 
 Let's start by defining the sides variable. This variable determines how many branches out of the center the snowflake will have. I will keep it as 6, but feel free to change it. After that, we call a function `draw` the same amount of times as the number of sides.
 
@@ -114,7 +114,7 @@ for (let i = 0; i < sides; i++) {
 }
 ```
 
-Did you notice that we called `draw` with an argument of 0? That is the current level. The level represents the number of recursive iterations. To ensure that we don't run into an infinite loop, we must decide on a maximum levl. For now, I will set it as 5. If we reach that level, we stop.
+Did you notice that we called `draw` with an argument of 0? That is the current level. The level represents the number of recursive iterations. To ensure that we don't run into an infinite loop, we must decide on a maximum level. For now, I will set it as 5. If we reach that level, we stop.
 
 ```javascript
 // ... more variables ...
@@ -193,7 +193,7 @@ for (let i = 1; i <= branches; i++) {
 }
 ```
 
-The first translation and scale define where we start drawing the next branch. This value depends on the number of branches and the dimension of each branch. Here I set it to 150, even though the initial branch size is 125. You can play with this values for nicer results. I simply found out this to work better.
+The first translation and scale define where we start drawing the next branch. This value depends on the number of branches and the dimension of each branch. Here I set it to 150, even though the initial branch size is 125. You can play with these values for nicer results. I simply found out this to work better.
 
 <details>
   <summary>The whole code</summary>

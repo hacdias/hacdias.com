@@ -32,7 +32,7 @@ Looking back at the posts, I've released a record of 43 articles. That is more a
 
 **In 2024**, I plan on keeping writing on a schedule: at least a "Recently" and a "Vergeet niet om in te checken" per month. That already totalizes 24 articles per year. In addition, I think it would be nice if I could reach 50 articles within a year. We shall see. Not a hard goal, but an interesting one.
 
-Something else I am planning on doing in 2024 is trying to be more involved in the [IndieWeb](https://events.indieweb.org) community. I will try attending a IndieWeb Camp in person, as well as some Homebrew online meetings. As before, not a hard goal, or the most important one, but I think it could be quite nice.
+Something else I am planning on doing in 2024 is trying to be more involved in the [IndieWeb](https://events.indieweb.org) community. I will try attending an IndieWeb Camp in person, as well as some Homebrew online meetings. As before, not a hard goal, or the most important one, but I think it could be quite nice.
 
 ## 🍄 Life {#life}
 
@@ -51,11 +51,11 @@ Regarding my *Nederlands* skills, I would say that there have been quite a lot o
 
 I am also hoping that by the end of 2024, I am able to have regular conversations in Dutch with people without major problems. I think this will be a great challenge, and I definitely need to get more basic vocabulary. Right now, it is quite hard for me to explain something that I don't know.
 
-For example, if there's a word for something and I don't know the word, I want to be able to explain the thing whose word I'm looking for. However, I feel like I still have this problem with English, and even Portuguese. So maybe it's more of a skill I have to develop in general, not necessarily just for Dutch
+For example, if there's a word for something and I don't know the word, I want to be able to explain the thing whose word I'm looking for. However, I feel like I still have this problem with English, and even Portuguese. So maybe it's more of a skill I have to develop in general, not necessarily just for Dutch.
 
 ## 💪 Health {#health}
 
-The two greatest things I want to highlight is how consistent I have been with going to the gym, and how much my achilles has improved. I haven't had any major (or any?) complaints over the past month or two. I'm hoping it will stay like this, and I think this is mostly about knowing immediately how to manage it, and not pushing it too much when I start feeling something.
+The two greatest things I want to highlight is how consistent I have been with going to the gym, and how much my Achilles has improved. I haven't had any major (or any?) complaints over the past month or two. I'm hoping it will stay like this, and I think this is mostly about knowing immediately how to manage it, and not pushing it too much when I start feeling something.
 
 **In 2024**, I plan on continuing visiting the gym twice a week for both cardio and weightlifting exercises. Maybe I will be increasing this to three times a week, but that is not yet certain. It also depends a lot of my availability and other things in life.
 

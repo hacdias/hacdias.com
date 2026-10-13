@@ -29,6 +29,6 @@ But someone once said: “English is the most latinised Germanic language”. I 
 
 I’m trying. I’m reading in Dutch. Watching stuff in Dutch. Trying to speak Dutch even if it’s not the most. And I also think my current Dutch classes are actually helping more than I realise, especially when it comes to speaking.
 
-Tomorrow I have a *spreekbeurt*, that is, I must do a presentation. Am I nervous? Yes. Is that fine? Yes. What’s the worse that can happen? Nothing. That’s the worse that can happen. Not doing anything. I have to do something.
+Tomorrow I have a *spreekbeurt*, that is, I must do a presentation. Am I nervous? Yes. Is that fine? Yes. What’s the worst that can happen? Nothing. That’s the worst that can happen. Not doing anything. I have to do something.
 
 And keep doing something. At some point I’ll realise I started thinking in Dutch, albeit only in certain situations. But that’s how it goes. Learning worlds of words.

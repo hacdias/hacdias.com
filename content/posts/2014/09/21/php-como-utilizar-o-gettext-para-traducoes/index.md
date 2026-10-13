@@ -17,7 +17,7 @@ Como prometido no [último artigo](/2014/09/13/php-wordpress-comandos-printf-spr
 
 Com o **gettext** podemos ter um site disponível em diversas linguagens de forma muito fácil e sem complicações. Nesta primeira parte, irá ser abordado como **configurar o gettext** e as suas **funções**.
 
-O gettext pode ser configurado no PHP através de uma extensão nativa ou através do uso de uma biblioteca separada.Nós iremos utilizar o segundo método por ser mais simples e fácil de configurar.
+O gettext pode ser configurado no PHP através de uma extensão nativa ou através do uso de uma biblioteca separada. Nós iremos utilizar o segundo método por ser mais simples e fácil de configurar.
 
 ## Download e estruturação
 
@@ -54,7 +54,7 @@ Como pode visualizar, os ficheiros do gettext foram colocados dentro de uma past
 
 Inicialmente tem que ser definida uma linguagem padrão. Nós iremos utilizar "pt_PT" ou seja, Português de Portugal.
 
-Para isso, edite o seu ficheiro _config.php _e coloque o seguinte:
+Para isso, edite o seu ficheiro _config.php_ e coloque o seguinte:
 
 ```php
 <?php
@@ -71,7 +71,7 @@ Agora que já existe uma linguagem padrão definida, a inicialização do gettex
   * `textdomain` → quer dizer "domínio de texto" e é um local onde as traduções vão ser colocadas. No nosso caso, apenas iremos utilizar um _textdomain_.
 
 
-Agora, deve colocar no ficheiro **i18n.php **o seguinte conteúdo:
+Agora, deve colocar no ficheiro **i18n.php** o seguinte conteúdo:
 
 ```php
 <?php
@@ -104,17 +104,17 @@ function _e($string) {
 }
 ```
 
-Poça! Tanta coisa! Mas para que serve tudo isto? Na **linha 3**, o ficheiro `config.php` é chamado pois é este que contém a constante da linguagem. Assim podemos já podemos utilizar essa constante neste ficheiro.
+Poça! Tanta coisa! Mas para que serve tudo isto? Na **linha 3**, o ficheiro `config.php` é chamado pois é este que contém a constante da linguagem. Assim já podemos utilizar essa constante neste ficheiro.
 
 Nas linhas seguintes (**5 a 7**), a variável `$locale` é definida, tal como o domínio de texto e o local onde irão estar os ficheiros de tradução que, neste caso, será numa pasta chamada lang .
 
 Mais à frente, nas **linhas 8 a 9**, verificamos se existe uma variável chamada `lang` a ser passada pelo URL. Se sim, reescrevemos o valor da variável `$locale` com essa linguagem.
 
-Nas linhas seguintes, **12 a 5**, as variáveis de ambiente do sistema operativo são alteradas para o locale  que está a ser utilizado.
+Nas linhas seguintes, **12 a 15**, as variáveis de ambiente do sistema operativo são alteradas para o locale  que está a ser utilizado.
 
 Na linha cuja posição é **17**, a biblioteca php-gettext é carregada sendo logo a seguir (**19 a 20**), o locale também carregado para o gettext.
 
-Seguidamente, **nas linhas 22 a 24**, o textdomain é defido, tal como a codificação que será utilizada nesses ficheiros (UTF-8) e ainda dizemos onde vão estar as traduções.
+Seguidamente, **nas linhas 22 a 24**, o textdomain é definido, tal como a codificação que será utilizada nesses ficheiros (UTF-8) e ainda dizemos onde vão estar as traduções.
 
 De seguida é criada uma função chamada `_e()` que nos permite imprimir o resultado da função `__()`.
 

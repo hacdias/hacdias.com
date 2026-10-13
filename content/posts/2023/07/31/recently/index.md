@@ -24,7 +24,7 @@ Let's recap this month.
 
 This was a reasonably calm month when it comes to updates to my website. Maybe that means I was busy
 with other things. Nevertheless, I made a few updates to my [🚀 Impossible List](/impossible-list/), and,
-in a turn of events, added a dark theme to my website. It will be enabled by default if you're browser
+in a turn of events, added a dark theme to my website. It will be enabled by default if your browser
 or operating system is set to work with dark mode. In the end, the choice is always yours and you can
 set whether you want a light or dark experience in the footer of the website.
 

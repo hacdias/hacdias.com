@@ -39,7 +39,7 @@ I'm now on week 4, and I don't have much to say, besides that it is going well. 
 
 I've just completed the second run of week 4 and I noticed that, in comparison to the same run of the same week a few months ago, I am faster and yet my heart rate is slower. That is good, I think. My cardio condition has definitely improved.
 
-I still want to to try going slower. My goal is not to run fast, but to be able to withstand running for longer periods. I need to turn on the pace functionality on the watch so that I get notified if I'm going too fast. Besides running, I'm also doing some strength training two days a week and some lighter stretches on the other two days.
+I still want to try going slower. My goal is not to run fast, but to be able to withstand running for longer periods. I need to turn on the pace functionality on the watch so that I get notified if I'm going too fast. Besides running, I'm also doing some strength training two days a week and some lighter stretches on the other two days.
 
 Is running for me? I don't know. I like the idea, but if I get knee pain towards the later weeks again, I have to reconsider: what is causing the pain? Is there something I can do? Or should I just look into something else?
 

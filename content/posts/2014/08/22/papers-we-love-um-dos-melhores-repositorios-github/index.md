@@ -29,7 +29,7 @@ Neste repositório encontram das mais diversas informações relacionadas com es
   * Máquinas Virtuais
   * *Et cetera*, etc, etc...
 
-Este repositório nas contém apenas os "papéis" em si como também tem links para outros repositórios na Internet e documentos.
+Este repositório não contém apenas os "papéis" em si como também tem links para outros repositórios na Internet e documentos.
 
 Como achei o repositório extremamente útil e interessante decidi compartilhá-lo convosco pois tenho a certeza de que vos será útil.
 

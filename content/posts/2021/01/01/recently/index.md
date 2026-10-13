@@ -17,7 +17,7 @@ aliases:
 
 I am definitely not going to cover everything in this post - which is going to be rather quick - but I must say that 2020 has allowed me to grow in ways that I did not expect.
 
-From the lockdown to moving to a different country, all this experiences changed me in some special way. The Covid-19 pandemic just made everything slightly more difficult. Sometimes we need to pass through some difficulties to see the light ahead.
+From the lockdown to moving to a different country, all these experiences changed me in some special way. The Covid-19 pandemic just made everything slightly more difficult. Sometimes we need to pass through some difficulties to see the light ahead.
 
 I am hoping that the vaccines will have a long lasting effect in most people so that we can surpass this challenge together. The pandemic is far from its end. It's just the end of the beginning, not the beginning of the end!
 

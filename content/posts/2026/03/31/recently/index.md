@@ -45,7 +45,7 @@ Other than that, not much more happened: visited friends, friends visited, baked
 
 I've [written](/2026/03/31/swimming/) a bit about swimming earlier today, so you can read that. Spoiler alert: it's going well! When it comes to strength training, I've been increasing the weight slowly. I've gotten to the point where back in January - I think? - I started feeling my wrist a bit, not pain, but tiredness. Now, instead of cutting back the weight, I just decided to go ahead. And I think it's working.
 
-I planned an appointment with the physiotherapy anyways. It's all much better than before, but there are still two categories of movements that are painful, especially bending backwards with pressure. Imagine getting out of a swimming pool: I know use my forearms to climb out, but that's a lot of work. Maybe progressive loading exercises will help, but I just want to check with the PT first.
+I planned an appointment with the physiotherapy anyways. It's all much better than before, but there are still two categories of movements that are painful, especially bending backwards with pressure. Imagine getting out of a swimming pool: I now use my forearms to climb out, but that's a lot of work. Maybe progressive loading exercises will help, but I just want to check with the PT first.
 
 ## 🍿 Entertainment {#entertainment}
 

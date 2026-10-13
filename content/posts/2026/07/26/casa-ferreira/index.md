@@ -24,7 +24,7 @@ As someone living in a foreign country, it's always interesting to me to find pl
 
 <!--more-->
 
-Recently -- or maybe not that recently, maybe a few months ago -- I found a Portuguese bakery and café in Utrecht, right alongside the canal, called Casa Ferreira. They have a lot of things, and I've been there multiple times, mostly to buy pastries, but also sandwhiches and even gifts. Because it's mostly a takeaway place, there isn't much room to sit and they don't serve meals.
+Recently -- or maybe not that recently, maybe a few months ago -- I found a Portuguese bakery and café in Utrecht, right alongside the canal, called Casa Ferreira. They have a lot of things, and I've been there multiple times, mostly to buy pastries, but also sandwiches and even gifts. Because it's mostly a takeaway place, there isn't much room to sit and they don't serve meals.
 
 More recently, they opened a second place in Utrecht, on Wittevrouwenstraat. This one is a real café: you can sit inside, you can sit outside, there's plenty of seating, and they serve actual full meals instead of just pastries and other things to go.
 

@@ -78,7 +78,7 @@ WakeUp; DressUp; Breakfast; Work;
 
 The usage of a semicolon is usually mandatory when there is more than one
 instruction in one line. There are some programming languages that only require
-us to put a semicolon in this cases (JavaScript, for example). But in the
+us to put a semicolon in these cases (JavaScript, for example). But in the
 majority of them we have to put a semicolon after finish each instruction (like
 C, Java, C# and so on).
 
@@ -98,14 +98,14 @@ else
 endif
 ```
 
-As you can, it is easily comprehended. Note that Work will only be executed if
+As you can see, it is easily comprehended. Note that Work will only be executed if
 the individual Wake Up. Otherwise, the piece Don't work will be executed. Let's
 see a pretty flowchart for this:
 
 ![Simple decision flowchart](https://media.hacdias.com/2016-11-12-decision.jpeg)
 
 Now, let's see the second example. In this one, we will illustrate the condition
-"I have an headache. If it's a light one, I will work. But if it is moderate, I
+"I have a headache. If it's a light one, I will work. But if it is moderate, I
 will take a pill and go to work. If it's severe, I will go to the doctor and
 don't go to work".
 
@@ -143,7 +143,7 @@ endif
 ## Iteration
 
 There is one more kind of structures: iteration, also known as repetition. In
-this structures, a piece of code is repeated *n* number of times, usually
+these structures, a piece of code is repeated *n* number of times, usually
 depending on a logical test.
 
 Let's take a look at a pseudocode piece that represents the repetition "I will
@@ -156,7 +156,7 @@ do {
 ```
 
 The previous code can be read as: **do** "not leave the house" **while** "not
-dressed". Basically, you can say, do *x *while *y*.
+dressed". Basically, you can say, do *x* while *y*.
 
 Let's take a look to one more repetition. This time it is "while I sleep, I
 don't dress myself up":
@@ -200,7 +200,7 @@ used in Artificial Intelligence field.
 
 At a first glance, you could think that it's called functional paradigm because
 it uses functions (that's what I thought. Oops), but it isn't. It's called like
-this because it uses mathematical expressions and functions and avoid states.
+this because it uses mathematical expressions and functions and avoids states.
 These languages are heavily used on Math field.
 
 Some programming languages that follow this paradigm are, for example, Matlab,
@@ -210,7 +210,7 @@ Wolfram Language, B, etc.
 
 With the Object oriented paradigm, we can create **objects** based on
 **classes**. Those objects are instances of those classes and they have the same
-attributes and functions that the class have.
+attributes and functions that the class has.
 
 This paradigm is really extensive and there are a lot of programming languages
 nowadays that support this paradigm: Java, C++, C#, PHP, etc.

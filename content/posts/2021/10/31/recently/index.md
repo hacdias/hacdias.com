@@ -33,6 +33,6 @@ Three weeks into October and it was my birthday. I must say I do not feel much o
 
 Among the gifts I was given, there was a donut pillow, a wooden tompouce - thanks baby toys section at HEMA -, boxers with tompouce - you see the pattern? - and really nice socks. My parents also sent me some nice goodies!
 
-The last week has been more quite socially, even though my friends and I just watched a terror movie last night as part of our Halloween gathering.
+The last week has been more quiet socially, even though my friends and I just watched a terror movie last night as part of our Halloween gathering.
 
 Now, it is time to get ready and wrap up this quartile!

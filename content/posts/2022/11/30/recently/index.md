@@ -57,6 +57,6 @@ While my parents were here, I had my graduation 🎓 ceremony, where I dressed s
 
 </div>
 
-While my parents were here, we traveled a bit through Eindhoven to show them some nice corners. We also went to Amsterdam, which they enjoyed quite a lot. Unfortunately, I wasn't able to bring them to more places. I have been suffering from an Achillis Tendinitis since the end of September and it was getting better. Sadly it got worse during November. I think I didn't give it enough rest this month. There's been so many things happening and it's very hard to _not_ walk a lot. I am visiting the physiotherapist next week, let's see what they say. I really hope this resolves soon!
+While my parents were here, we traveled a bit through Eindhoven to show them some nice corners. We also went to Amsterdam, which they enjoyed quite a lot. Unfortunately, I wasn't able to bring them to more places. I have been suffering from an Achilles Tendinitis since the end of September and it was getting better. Sadly it got worse during November. I think I didn't give it enough rest this month. There's been so many things happening and it's very hard to _not_ walk a lot. I am visiting the physiotherapist next week, let's see what they say. I really hope this resolves soon!
 
 Looking forward for December!

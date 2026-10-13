@@ -131,7 +131,7 @@ In 2021, I listened to a lot of songs by Marina, Agnes and Lady Gaga, which are 
 
 </div>
 
-As expected, most of the top albums are from the arists I listened to the most. It was clearly a year where I listened to many Marina albums, as we can see by the listing below.
+As expected, most of the top albums are from the artists I listened to the most. It was clearly a year where I listened to many Marina albums, as we can see by the listing below.
 
 <details>
   <summary>
@@ -194,7 +194,7 @@ As expected, most of the top albums are from the arists I listened to the most. 
 
 ## 🎵 Songs {#songs}
 
-Finally, here's the songs I listened to the most in 2021. It is quite interesting to see that the top one song in 2021 is from a Portuguese artist which did not make top 20 of artists of albums.
+Finally, here's the songs I listened to the most in 2021. It is quite interesting to see that the top one song in 2021 is from a Portuguese artist which did not make top 20 of artists or albums.
 
 <details>
   <summary>

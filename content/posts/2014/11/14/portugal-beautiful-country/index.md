@@ -1,6 +1,6 @@
 ---
 title: Portugal Is a Beautiful Country
-description: 'Portugal is one of the small big countries, in other words, Portugal have too many things to offer: history, monuments, culture, beauty!'
+description: 'Portugal is one of the small big countries, in other words, Portugal has too many things to offer: history, monuments, culture, beauty!'
 date: 2014-11-14T20:34:01Z
 categories:
   - writings
@@ -22,12 +22,12 @@ After seeing this amazing city, I have searched about this city and I discover t
 
 The portugueses thinks that his own country - Portugal - is horrible and that have too many defects. Yes, it is true, but the portugueses only saw the "dark side" and not the "light side".
 
-Portugal have various problems related with the work world, economy... but the rest of the world also has this problems.
+Portugal has various problems related with the work world, economy... but the rest of the world also has these problems.
 
 ![Monastery of Alcobaça](image:2014-11-14-mosteiro-alcobaca "Monastery of Alcobaça")
 
-We should look at the "light side". Why many tourists visits Portugal? They have some reasons and one of them is that Portugal is splendid.
+We should look at the "light side". Why many tourists visit Portugal? They have some reasons and one of them is that Portugal is splendid.
 
-The last picture show you the Monastery of Alcobaça that is one of the most beautiful places to see and vistit and rich in history.
+The last picture shows you the Monastery of Alcobaça that is one of the most beautiful places to see and visit and rich in history.
 
 Portugal is a rich country in culture, history, monuments... So, if you are not from Portugal and have never visited it, I recommend you to travel to this country.

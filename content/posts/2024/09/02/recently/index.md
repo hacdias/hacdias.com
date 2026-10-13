@@ -48,7 +48,7 @@ I also watched the last season of *Young Sheldon*. I didn't realize it was the l
 
 Finally, and still within the series, we watched the last season of *The Umbrella Academy*. I saw a lot of mixed opinions about this one on the Internet. I agree that it was not as good as the first ones, but that's something I wouldn't expect either. Despite not being my favorite season, I think the ending was quite something: and also the obvious solution.
 
-Now, regarding movies: I went watch *Deadpool & Wolverine* at the beginning of the month. It was funny and quite meta. More recently, we went watch *MaXXXine*, which is an horror movie. We also went to an open-air cinema to watch *Love Lies Bleeding*, which was quite weird, but enjoyable.
+Now, regarding movies: I went watch *Deadpool & Wolverine* at the beginning of the month. It was funny and quite meta. More recently, we went watch *MaXXXine*, which is a horror movie. We also went to an open-air cinema to watch *Love Lies Bleeding*, which was quite weird, but enjoyable.
 
 In the same cinema, but now indoors, we watched *Kinds of Kindness*. The film has three parts and is three hours long. No breaks and it was late. Sadly, I fell asleep during the last part. Nevertheless, I think the movie was quite nice.
 

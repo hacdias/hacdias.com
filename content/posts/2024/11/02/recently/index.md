@@ -16,7 +16,7 @@ syndication:
 thumbnail: image:2024-11-02-fuengirola
 ---
 
-October is now two days away. Halloween is gone - which I always enjoying mentioning despite never doing anything for it -, and my birthday too. I'm now 25, a quarter of a century, a very interesting-feeling number. Some would say it's now closer to the 30s than to the 20s. Let's recap what's happened this last month!
+October is now two days away. Halloween is gone - which I always enjoy mentioning despite never doing anything for it -, and my birthday too. I'm now 25, a quarter of a century, a very interesting-feeling number. Some would say it's now closer to the 30s than to the 20s. Let's recap what's happened this last month!
 
 <!--more-->
 
@@ -31,7 +31,7 @@ If you're interested, here's a short changelog:
 - Colors, font-sizes and font-weights have been adjusted to be bolder.
 - The favicon has been updated to use a bolder shade of blue, as well as a bolder "H".
 - The appearance of links is now more consistent in the different pages.
-- The color highlighting has been updates to be consistent across browsers and in dark theme.
+- The color highlighting has been updated to be consistent across browsers and in dark theme.
 - The resume has been cleaned up to be more uniform and more aesthetically pleasing.
 - The tags are now capitalized.
 - The homepage now shows more articles and photos.
@@ -51,7 +51,7 @@ We also went to Sevilla on my birthday, and my parents met me there. We tried to
 
 ## 💪 Health {#health}
 
-Not a lot of updates: and that's mostly good. Kept going to the gym. I think my wrists are improving, but they still have some way to go. Sometimes I feel like this ridiculous things keep happening to me, and I have no idea why. It's quite annoying.
+Not a lot of updates: and that's mostly good. Kept going to the gym. I think my wrists are improving, but they still have some way to go. Sometimes I feel like these ridiculous things keep happening to me, and I have no idea why. It's quite annoying.
 
 ## 📚 Reading {#reading}
 

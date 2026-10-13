@@ -24,7 +24,7 @@ Reflecting about what I want to do and what I want to learn can be quite an eye-
 
 ## Learning Rust
 
-I have been eyeing Rust for quite some time. It lays down dormant in my "things to learn at some point" list. In my personal life, I also busy with learning Dutch. Work and learning Dutch at the same time, plus some other small projects, doesn't leave much time, or rather, mental capacity, for other large learning endeavors.
+I have been eyeing Rust for quite some time. It lays down dormant in my "things to learn at some point" list. In my personal life, I am also busy with learning Dutch. Work and learning Dutch at the same time, plus some other small projects, doesn't leave much time, or rather, mental capacity, for other large learning endeavors.
 
 I have followed a few tutorials, written very small programs, but I haven't had yet the need to make something bigger. I need ideas. I think that's one of the most challenging things for me at the moment is to get ideas of something to make. For some reason my mind always discards any idea if it doesn't have a very clear or practical use-case for someone else. That shouldn't be what I'm striving for though.
 

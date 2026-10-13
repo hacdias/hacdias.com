@@ -17,7 +17,7 @@ Last weekend was the first weekend of February, which means only one thing in th
 
 <!--more-->
 
-This year, I went with a coworker of mine, Timo, who's also quite active in the open source space. Especially in the world of OpenID for Verifiable Credentials, OpenWallet Foundation, and so on. It was his first FOSDEM, so it seems like it's becoming a [trend](/2024/02/05/fosdem/) for me to introduce people to this two chaotic days.
+This year, I went with a coworker of mine, Timo, who's also quite active in the open source space. Especially in the world of OpenID for Verifiable Credentials, OpenWallet Foundation, and so on. It was his first FOSDEM, so it seems like it's becoming a [trend](/2024/02/05/fosdem/) for me to introduce people to these two chaotic days.
 
 ## 😵‍💫 Saturday {#saturday}
 

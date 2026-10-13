@@ -37,7 +37,7 @@ In March, I wrote [*Update on File Browser*](/2026/03/11/filebrowser/): how the 
 
 ## Why I’m Stopping
 
-Not much has changed since March. The security vulnerability advisories kept coming. I reviewed each one and write a fix -- sometimes myself, sometimes with Claude, sometimes a better fix than others. For certain features, I decided not to touch them at all, because fixing the real source of the problem would require rewriting the whole feature. Those are documented in the repository, and they will stay unfixed.
+Not much has changed since March. The security vulnerability advisories kept coming. I reviewed each one and wrote a fix -- sometimes myself, sometimes with Claude, sometimes a better fix than others. For certain features, I decided not to touch them at all, because fixing the real source of the problem would require rewriting the whole feature. Those are documented in the repository, and they will stay unfixed.
 
 What I've come to accept is that this can't be patched into shape. File Browser would need to be rewritten from the ground up, with security and a good API in mind, neither of which was on my mind when I was 15. Sessions are the clearest example: expired tokens keep working in some situations, and logging out doesn't invalidate a token, so if someone stole it, it still works. There are many things like this, and each one is a rewrite of its own.
 

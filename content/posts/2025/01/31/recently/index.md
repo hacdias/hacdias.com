@@ -25,7 +25,7 @@ A few days after, it snowed ❄️. If you've been following me long enough, you
 
 Later during the month, we went to the [Efteling](https://www.efteling.com/nl). According to Wikipedia, it's the largest theme park in the Netherlands and one of the oldest in the world, having opened 72 years ago in 1952! The theme of this park is connected to ancient myths, legends and fairy tales. I don't have that much experience with theme parks, but I really enjoyed it - except for some scary rollercoasters 🎢 (but I tried them anyways)!
 
-Later this month, we went try a new restaurant here in Eindhoven: Matsu. They call themselves a beef atelier and fine wines. I just want to say that, despite being more expensive than the ordinary restaurant, it was extremely tasty 🥩. I go very rarely to this sort of restaurants, but it's always an enjoyable experience!
+Later this month, we went to try a new restaurant here in Eindhoven: Matsu. They call themselves a beef atelier and fine wines. I just want to say that, despite being more expensive than the ordinary restaurant, it was extremely tasty 🥩. I go very rarely to this sort of restaurants, but it's always an enjoyable experience!
 
 ## 💪 Health {#health}
 

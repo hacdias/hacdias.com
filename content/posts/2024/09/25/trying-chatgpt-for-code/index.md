@@ -25,7 +25,7 @@ Since a few days ago, we've had a team subscription for ChatGPT so I tried, for 
 
 And it did something. It spat out the types definitions in TypeScript, including enumerations, some nested interfaces, and so on. It looked reasonably fine, but it wasn't complete. So I kept asking it: "expand the interface to include all properties". I did that... 5 times until it had actually written the whole thing.
 
-After that, I was stil not really happy about the enumerations. They were correct according to the schema described in the XML file. However, they did not correspond exactly to what I needed. So I just asked it to update it the way I wanted. And it did it.
+After that, I was still not really happy about the enumerations. They were correct according to the schema described in the XML file. However, they did not correspond exactly to what I needed. So I just asked it to update it the way I wanted. And it did it.
 
 Copied the thing. Pasted on my code. Double checked, removed elements I didn't need. There were some mistakes in some places, and I can understand why. The values of some enumerations were actually based on their name and not actually on the description of the schema.
 
@@ -48,4 +48,4 @@ export type MandatoryStatus =
 
 I can see why it did it. And after all, it sort of makes sense if we consider it is an <abbr title="Large Language Model">LLM</abbr>. It makes sense that the "mandatory status" is either "optional" or "mandatory". But that's not what was described on the schema.
 
-My conclusion here is: it can be helpful, but I'm not yet very convinced it will save me a lot of time for this type of tasks. Especially when going double check everything takes likely as much time as just typing it out. Next time I want to try it out for something else, maybe brainstorming potential solutions and treating it like an [weirdly overconfident know-it-all intern](https://simonwillison.net/2024/Sep/20/using-llms-for-code/).
+My conclusion here is: it can be helpful, but I'm not yet very convinced it will save me a lot of time for this type of tasks. Especially when going double check everything takes likely as much time as just typing it out. Next time I want to try it out for something else, maybe brainstorming potential solutions and treating it like a [weirdly overconfident know-it-all intern](https://simonwillison.net/2024/Sep/20/using-llms-for-code/).

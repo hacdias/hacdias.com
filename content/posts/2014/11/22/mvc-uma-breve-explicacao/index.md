@@ -28,7 +28,7 @@ Em primeiro lugar, é importante saber o que quer dizer MVC e o que é e para qu
 
 ## Vista 👁
 
-A camada **Vista** (_View_) é aquela que é mostrada ao utilizador, aquela que com a qual o utilizador vai interagir. É a **camada de apresentação**. A camada dos estilos, do _design_.
+A camada **Vista** (_View_) é aquela que é mostrada ao utilizador, aquela com a qual o utilizador vai interagir. É a **camada de apresentação**. A camada dos estilos, do _design_.
 
 Geralmente, esta camada não conta com lógica de programação podendo, por vezes, ser "puro" HTML com alguns bocados de outra linguagem para, por exemplo, inserir algum dado necessário.
 
@@ -37,11 +37,11 @@ Geralmente, esta camada não conta com lógica de programação podendo, por vez
 
 A segunda camada a ser mencionada é a dos **Controladores** (_Controllers_) e é nela que **a magia acontece**. É a camada intermédia do padrão MVC e toda a lógica está aqui contida.
 
-Quando acedemos a um site cujo modelo de programação tenha sido MVC, automaticamente acedemos ao controlador que vai receber o nosso pedido. Logo de seguida, ele coordena todos os processos seguintes: pedir informação, receber informação, mostrar a página (**Vista**) ao utilizador, etc,
+Quando acedemos a um site cujo modelo de programação tenha sido MVC, automaticamente acedemos ao controlador que vai receber o nosso pedido. Logo de seguida, ele coordena todos os processos seguintes: pedir informação, receber informação, mostrar a página (**Vista**) ao utilizador, etc.
 
 ## Modelos 🦵
 
-Esta é a camada mais invisível ao utilizador. É nela que tudo o que tem haver com dados é feito: pedir coisas à base de dados, inserir coisas, eliminar coisas, trocar coisas, etc.
+Esta é a camada mais invisível ao utilizador. É nela que tudo o que tem a ver com dados é feito: pedir coisas à base de dados, inserir coisas, eliminar coisas, trocar coisas, etc.
 
 O controlador (mencionado acima), envia informação para o modelo armazenar/apagar/etc da base de dados. De forma generalizada, o **modelo** trabalha com os dados.
 

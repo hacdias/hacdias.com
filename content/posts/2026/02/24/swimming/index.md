@@ -19,7 +19,7 @@ syndication:
   - https://fosstodon.org/@hacdias/116126443074647849
 ---
 
-A few weeks ago, I [wrote](/2026/01/16/swimming/) about finally starting swimming lessons. Almost two months in, I thought it'd be nice to write a small check-in on how it's going. If I had summarize the past few weeks, it'd be simple: I'm loving it!
+A few weeks ago, I [wrote](/2026/01/16/swimming/) about finally starting swimming lessons. Almost two months in, I thought it'd be nice to write a small check-in on how it's going. If I had to summarize the past few weeks, it'd be simple: I'm loving it!
 
 <!--more-->
 

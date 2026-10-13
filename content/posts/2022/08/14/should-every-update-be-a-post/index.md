@@ -33,9 +33,9 @@ On this spectrum, we can include notes, replies, likes, reposts, and even RSVPs.
 
 Listens and watches probably constitute a large part of the posts of this website. Are they useful however? Do they bring anything to you, or to me? Honestly, I don't think so. However, I enjoy seeing the summary about what I have watched and my listening habits.
 
-I'm thinking of replacing this sections and storing the content in a different format, such as CSV files per month and year. Then, I could still use that data to show dynamic analyzes of my listening habits, as well as a summary of what I have watched without requiring a post for each one of them. This is kind of a regression because I had something similar to that in the past, which I then changed in favor of single posts.
+I'm thinking of replacing these sections and storing the content in a different format, such as CSV files per month and year. Then, I could still use that data to show dynamic analyses of my listening habits, as well as a summary of what I have watched without requiring a post for each one of them. This is kind of a regression because I had something similar to that in the past, which I then changed in favor of single posts.
 
-What do you think: is it worth having a post for every movie and episode I watch, as well as a daily recap of what I listened? Or is it just better to store the information in a easily parsable format that can be used to dynamically present a summary of what I listened and watched?
+What do you think: is it worth having a post for every movie and episode I watch, as well as a daily recap of what I listened? Or is it just better to store the information in an easily parsable format that can be used to dynamically present a summary of what I listened and watched?
 
 ## 🔖 Bookmarks {#bookmarks}
 
@@ -49,7 +49,7 @@ I love taking photos and my photos page shows that well. However, it also shows 
 
 ## 📍Checkins and 🗺 Itineraries {#checkins-itineraries}
 
-Both of this represent similar things: I was in a place, or I moved from a place to another. I like the flexibility of having both types of contents and in the future I would love to have an interactive map, like [@jlelse's](https://jlelse.blog/map), where I could dynamically set a period of time and see which trips and places I've been to. For now, I'm planning on merging both under "places".
+Both of these represent similar things: I was in a place, or I moved from a place to another. I like the flexibility of having both types of contents and in the future I would love to have an interactive map, like [@jlelse's](https://jlelse.blog/map), where I could dynamically set a period of time and see which trips and places I've been to. For now, I'm planning on merging both under "places".
 
 ## 📚 Reads {#reads}
 

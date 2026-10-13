@@ -73,7 +73,7 @@ We went to a concert in the Melkweg, in Amsterdam, where we saw *Allie X* live. 
 
 When it comes to movies, we did not watch that much this month. We watched *Jurassic World: Rebirth* and *Peacock* on the cinema. They were both enjoyable, in their own ways. They're very different, I don't know why I'm trying to compare them subconsciously.
 
-In the real of series, we watched the first seasons of *Foundation*, *Murderbot*, *Stick* and *Arcane*, as well as the last season from *The Sandman*. From these, I would definitely highlight *Foundation*, which I've been really enjoying.
+In the realm of series, we watched the first seasons of *Foundation*, *Murderbot*, *Stick* and *Arcane*, as well as the last season from *The Sandman*. From these, I would definitely highlight *Foundation*, which I've been really enjoying.
 
 <hr>
 

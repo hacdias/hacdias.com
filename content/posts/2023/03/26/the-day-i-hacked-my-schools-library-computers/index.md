@@ -1,5 +1,5 @@
 ---
-title: The Day I ”Hacked” My School’s Library Computers
+title: The Day I “Hacked” My School’s Library Computers
 date: 2023-03-26T14:53:29.237893399+02:00
 categories:
   - writings
@@ -41,15 +41,15 @@ void CrazyMouse() {
 
 However, for some reason, I thought this was not enough to make it look real. To achieve that, I did one more thing: kill the `explorer.exe` process, which would make it harder for non-IT people to figure out what to do next. In addition, I also hid the cursor after it going wild.
 
-Then, I made it such that the fake BSOD would only launch 30 minutes after the program started _and_ made it such that the the executable itself would copy itself to the startup folder of the computer. You can see where this is going.
+Then, I made it such that the fake BSOD would only launch 30 minutes after the program started _and_ made it such that the executable itself would copy itself to the startup folder of the computer. You can see where this is going.
 
 Some days later - possibly the day after? - I executed the file in a computer in the library, then in two, then in three? We only had five computers and I know I didn't do it to all of them. What happens next is that after the computer launching, after 30 minutes, a fake BSOD would show up.
 
-It is reasonably easy, for someone that knew a bit more about Windows, to "fix" it: just CTRL + SHIFT + ESC to open the Task Manager, kill the process and start `explorer.exe`. The computers were not broken per sea, but I was definitely the only one in the whole school who used the library computers that knew about this. 
+It is reasonably easy, for someone that knew a bit more about Windows, to "fix" it: just CTRL + SHIFT + ESC to open the Task Manager, kill the process and start `explorer.exe`. The computers were not broken per se, but I was definitely the only one in the whole school who used the library computers that knew about this. 
 
 Some time passes, and somehow no one finds it weird that I'm the only one able to use the computer that has "the virus". I think I even thought about trying to make it spread through the network, but thank - whatever entity might or not be out there - that I did not do it.
 
-After a few weeks, or perhaps months, the IT teacher solves it. The simple way of solving it was to just delete the file from the startup folder. However, I was surprised to discover the IT teacher went to great lengths and completely formatted the computer. Maybe it was very convincing _fake_ virus - which perhaps it is depending on the definition of computer virus.
+After a few weeks, or perhaps months, the IT teacher solves it. The simple way of solving it was to just delete the file from the startup folder. However, I was surprised to discover the IT teacher went to great lengths and completely formatted the computer. Maybe it was a very convincing _fake_ virus - which perhaps it is depending on the definition of computer virus.
 
 So here is the weird story of when I "hacked" the library computers of my school. Do I regret it? Yes, and no. On one hand, I know I should've not done it because it is not morally correct. On the other hand, it was still funny and I think that, as kids, we all do questionable things, and they sometimes make an arguably good story.
 

@@ -24,7 +24,7 @@ syndication:
 
 First, let's see what brought me here. On a not very eventful week of my life, I go to the office once or twice. This involves cycling to the station, taking the train, seeing people on the way, seeing people at the office, talking to people, etc.
 
-Even if I don't go the office, I usually still have online meetings. Granted that it doesn't happen every day, but still most of the days. I also see my partner every day, of course. And, on weekends, we sometimes go somewhere, or I have some plans with friends.
+Even if I don't go to the office, I usually still have online meetings. Granted that it doesn't happen every day, but still most of the days. I also see my partner every day, of course. And, on weekends, we sometimes go somewhere, or I have some plans with friends.
 
 However, the past two weeks have been a bit more calm: a large proportion of coworkers were either on vacation, or working remotely. So I ended up not going to the office nearly as often, because no one was there. We also had virtually no online meetings, since most were on actual vacation.
 
@@ -32,6 +32,6 @@ In addition to those things, I also did not have anything planned with friends, 
 
 I became slightly more negative, and also nostalgic in regards to my years in Lisbon. Maybe the approaching of the [5th anniversary](/2025/08/06/road-to-eindhoven/) living in The Netherlands did not make it better. Of course, it also depends on the interactions, and the people with whom I interact.
 
-Positive interactions makes you more positive, and negative more negative. And the lack thereof, likely also more negative. Important to say that this applies to me, I think it can be generalized to a lot of people, but it definitely won't be the case for everyone.
+Positive interactions make you more positive, and negative more negative. And the lack thereof, likely also more negative. Important to say that this applies to me, I think it can be generalized to a lot of people, but it definitely won't be the case for everyone.
 
 Now, that's what I wanted to say. Go out and say hi to someone!

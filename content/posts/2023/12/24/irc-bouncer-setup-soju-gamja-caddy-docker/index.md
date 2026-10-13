@@ -225,7 +225,7 @@ And now create a `layer4.json` file with the configuration to proxy the IRC traf
 
 ## The Docker Compose
 
-Now, the last piece of the puzzle is the Docker compose file combining all this things. My `compose.yaml` directly references the directories in which the Dockerfiles for both soju and Caddy are located, such that I can just build them directly. Don't forget to change the paths to the correct paths in your system.
+Now, the last piece of the puzzle is the Docker compose file combining all these things. My `compose.yaml` directly references the directories in which the Dockerfiles for both soju and Caddy are located, such that I can just build them directly. Don't forget to change the paths to the correct paths in your system.
 
 ```yaml
 version: '3'

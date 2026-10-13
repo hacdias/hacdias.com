@@ -15,7 +15,7 @@ aliases:
 ![](https://media.hacdias.com/2021-05-01-vibing-music.gif "Cute entity listening to music")
 {.right .pixelated style="max-width: 100px"}
 
-2022 marked the year that I went to my first actual concert. By actual concert I mean a concert that I paid for for an artist I wanted to see, in an actual concert hall. And, of course, I listened to a lot o songs thorough the year. This is the recap of 2022 in Music. Let's see what I've been listening to this year.
+2022 marked the year that I went to my first actual concert. By actual concert I mean a concert that I paid for for an artist I wanted to see, in an actual concert hall. And, of course, I listened to a lot of songs through the year. This is the recap of 2022 in Music. Let's see what I've been listening to this year.
 
 <!--more-->
 
@@ -137,7 +137,7 @@ Regarding artists, we see Years & Years, Marina and Lorde at the top, which does
 
 </div>
 
-Unsurprisingly, my top albums of the year are from the top artists I've listed to to. It's quite funny to see that two versions of the same album (Ancient Dreams in a Modern Land) got to the Tpp 10. If I were to count it as one, it would likely go up to second place.
+Unsurprisingly, my top albums of the year are from the top artists I've listened to. It's quite funny to see that two versions of the same album (Ancient Dreams in a Modern Land) got to the Top 10. If I were to count it as one, it would likely go up to second place.
 
 <details>
   <summary>
@@ -201,7 +201,7 @@ Unsurprisingly, my top albums of the year are from the top artists I've listed t
 
 ## 🎵 Songs {#songs}
 
-Not as interesting as the albums and artists, but, for the record, I am also keeping here the top 50 songs of the year. Nevertheless, it is curious to see that the songs I've listened to the most are not necessarily by the same order as the albums I have listened to the most. I guess it means that some songs really got stuck in my head thorough the year.
+Not as interesting as the albums and artists, but, for the record, I am also keeping here the top 50 songs of the year. Nevertheless, it is curious to see that the songs I've listened to the most are not necessarily by the same order as the albums I have listened to the most. I guess it means that some songs really got stuck in my head through the year.
 
 <details>
   <summary>

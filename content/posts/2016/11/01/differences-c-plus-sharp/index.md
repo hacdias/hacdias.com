@@ -24,14 +24,14 @@ any more similarities between these languages beyond their name?
 The programming language C was created at Bell Labs by a computer scientist
 whose name is Dennis Ritchie. This was back in 1969. The language C was based on
 another language called B. C can be considered the most popular programming
-language ever made. On of the biggest reasons for that is that programs written
+language ever made. One of the biggest reasons for that is that programs written
 in C can run on a lot of operating systems (from Macs to Windows, for example).
 
 ![Bell Laboratories in Murray Hill, New Jersey](image:2016-11-01-bell-labs "Bell Laboratories in Murray Hill, New Jersey")
 
 Nowadays, C is a language mainly used to programs that need to run quickly and
 smoothly without using much memory. C is a low level language, which means that
-it has small abstraction layer compared to other language such as Java or C#; it
+it has small abstraction layer compared to other languages such as Java or C#; it
 also means that C can have a more direct contact with the hardware.
 
 Making a little characterization of this language: C is a general-purpose and

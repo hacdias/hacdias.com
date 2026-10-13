@@ -23,7 +23,7 @@ I joined Protocol Labs way back in 2017, not long after I started my bachelor's 
 
 In the beginning, after I joined, I was mostly working on user-facing applications, such as [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) and [IPFS Web UI](https://github.com/ipfs/ipfs-webui). Then, I moved to something a bit more technical and was part of the founding team of [Testground](https://github.com/testground/testground), a platform to test peer-to-peer and decentralized systems using Docker. That was all when working part-time.
 
-Once I joined full time, I really wanted to focus on more technical aspects of IPFS itself, so I joined the stewards team. In a nutshell, our responsability is to maintain, improve and keep the base systems alive. More specifically, I have been working with the team working on [Kubo](https://github.com/ipfs/kubo) and [Boxo](https://github.com/ipfs/boxo). That's given me the opportunity to work on the lower level pieces and libraries of IPFS.
+Once I joined full time, I really wanted to focus on more technical aspects of IPFS itself, so I joined the stewards team. In a nutshell, our responsibility is to maintain, improve and keep the base systems alive. More specifically, I have been working with the team working on [Kubo](https://github.com/ipfs/kubo) and [Boxo](https://github.com/ipfs/boxo). That's given me the opportunity to work on the lower level pieces and libraries of IPFS.
 
 ## How has it been?
 

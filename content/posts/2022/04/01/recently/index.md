@@ -18,7 +18,7 @@ This is going to be a relatively short post, even though many things happened la
 
 <!--more-->
 
-During March, I went to more in-person events than I did in February. I went to an AI Code Session from [FruitPunch](https://fruitpunch.ai/) given by a friend of mine. I also finally watched Spider-Men: No Way Home and I quite enjoyed it. Additionally, I had a few dinners with friends. One of my friends left for their home country and we had a goodbye dinner a few days ago, which was quite nice.
+During March, I went to more in-person events than I did in February. I went to an AI Code Session from [FruitPunch](https://fruitpunch.ai/) given by a friend of mine. I also finally watched Spider-Man: No Way Home and I quite enjoyed it. Additionally, I had a few dinners with friends. One of my friends left for their home country and we had a goodbye dinner a few days ago, which was quite nice.
 
 I also had the amazing opportunity to visit the [Bloesempark](/2022/03/27/visit-to-the-bloesempark) in Amsterdam. You should see the pictures - previous link - and visit if you can. It is very very pretty.
 

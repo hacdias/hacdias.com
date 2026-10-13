@@ -33,7 +33,7 @@ Another nicety of viaduct is the statistics: the statistics come in many ways an
 - I have visited at least 110 stations across 12 countries so far: Netherlands, Portugal, Belgium, Switzerland, Germany, Italy, Austria, Japan, France, Spain, Czechia and United Kingdom.
 - I have traveled with around 28 different operators, being NS - the Dutch Railways - the one I traveled with the most, followed by CP, the Portuguese Rail services.
 - I have traveled at least 40.000 km by rail. I say at least because I could not include any travels from 2023 since I lacked the data. That was a mistake from my part from not having stored it.
-- I have ridden 45% of the railway network in the Netherlands. That is crazy. Ad second place there's Portugal with 28% coverage.
+- I have ridden 45% of the railway network in the Netherlands. That is crazy. At second place there's Portugal with 28% coverage.
 
 ![My Coverage of the Dutch Rail Network](image:2025-07-19-netherlands-rail-coverage)
 {width="1306" height="1042"}

@@ -36,7 +36,7 @@ Para o fazermos, apenas temos que utilizar o comando  OFFSET . Então, para o
 SELECT * FROM `mytable` LIMIT 15 OFFSET 15
 ```
 
-Em Português, *offset* quer dizer deslocamento. Podemos então dizer que a *query* está a ser deslocada para outro local da tabeça passando à frente das primeira 15 linhas, selecionando as segundas 15.
+Em Português, *offset* quer dizer deslocamento. Podemos então dizer que a *query* está a ser deslocada para outro local da tabela passando à frente das primeiras 15 linhas, selecionando as segundas 15.
 
 Poderíamos ainda simplificar o código acima para o seguinte:
 
@@ -48,4 +48,4 @@ Estes comandos podem ser utilizados com outros como o WHERE .
 
 Em breve irei lançar um tutorial que explique como criar uma listagem de uma tabela, com páginas utilizando PHP, HTML e MySQL. Este sistema irá contar com um número fixo de linhas por página, botões de navegação e forma de impedir que o utilizador tente aceder páginas inexistentes.
 
-Espero que esta explicação vos tenha sido útil que voltem a visitar o blog :)
+Espero que esta explicação vos tenha sido útil e que voltem a visitar o blog :)

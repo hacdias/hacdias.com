@@ -22,16 +22,16 @@ So it’s basically a simple common protocol that could let any website get upda
 
 What I’ve been trying to do is to implement this on my own website. There aren’t  many open source [server implementations](https://indieweb.org/Micropub/Servers) unfortunately. However, I understand the reason: most of them are highly specific for their author’s website and so is the one I’m building.
 
-I’ve been building it using [express.js](https://expressjs.com/) and I’ve already published two different nom modules:
+I’ve been building it using [express.js](https://expressjs.com/) and I’ve already published two different npm modules:
 
 * [@hacdias/micropub-parser](https://www.npmjs.com/package/@hacdias/micropub-parser)
 * [@hacdias/indieauth-middleware](https://www.npmjs.com/package/@hacdias/indieauth-middleware)
 
-Apart from that, I’m mostly calling APIs directly: I’m relying a lot on some of [@aaronpk’s](https://aaronparecki.com/) modules, such as [Compass](https://compass.p3k.io) and [XRay](https://xray.p3k.io/) . Those are, btw, awesome modules and you should try them out if you’re interested in this subject.
+Apart from that, I’m mostly calling APIs directly: I’m relying a lot on some of [@aaronpk’s](https://aaronparecki.com/) modules, such as [Compass](https://compass.p3k.io) and [XRay](https://xray.p3k.io/). Those are, btw, awesome modules and you should try them out if you’re interested in this subject.
 
 The current status is that I pass almost all the tests provided by [micropub.rocks](https://micropub.rocks) even though I’m not satisfied with the solution I’ve come across. Why?
 
-First of all, if you’ve been following me for more time, you might’ve came across an [old blog post](/2015/08/12/farewell-wordpress-hello-hugo) talking about how I am using [Hugo](https://gohugo.io) to generate my website. But that is not the only “problem” of this: I’m also using IPFS to store my website for the folks using it. So there’s quite a few constraints.
+First of all, if you’ve been following me for more time, you might’ve come across an [old blog post](/2015/08/12/farewell-wordpress-hello-hugo) talking about how I am using [Hugo](https://gohugo.io) to generate my website. But that is not the only “problem” of this: I’m also using IPFS to store my website for the folks using it. So there’s quite a few constraints.
 
 ## Problems
 ### Build Speed and Complexity
@@ -59,7 +59,7 @@ Another interesting option here would be to continuously run `hugo —watch`. Th
 ### Static
 Two solutions: one would be what I said on the previous point and just make the website server-side rendered. It would open an immense sea of opportunities and things I could do.
 
-Or, another interesting way of putting things, build JSON indexes that could be used by client-side server engines such as [Lunr](https://lunrjs.com/). However, as the website would become bigger and bigger, I am pretty sure the indexes would become bigger and bigger and the load times slower and slower.
+Or, another interesting way of putting things, build JSON indexes that could be used by client-side search engines such as [Lunr](https://lunrjs.com/). However, as the website would become bigger and bigger, I am pretty sure the indexes would become bigger and bigger and the load times slower and slower.
 
 - - - -
 

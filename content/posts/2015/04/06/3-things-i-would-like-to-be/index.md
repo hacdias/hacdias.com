@@ -1,6 +1,6 @@
 ---
 title: 3 Things I Would Like To Be
-description: I don't want to be just one thing. Where's the fun of being just one thing? There are 3 things I would like to be and there is nothing in the way."
+description: I don't want to be just one thing. Where's the fun of being just one thing? There are 3 things I would like to be and there is nothing in the way.
 date: 2015-04-06T20:05:27Z
 categories:
   - writings
@@ -18,14 +18,14 @@ When we choose to be something or to follow some field of study, we should think
 
 I don't really know how I've chosen to follow the technology field. I know it's not late to change, but I really like that.  But where's the fun of being just **ONE** thing?
 
-There are two more things that fascinates me and I want to share it with you. So, **the 3 things I would like to be are:**
+There are two more things that fascinate me and I want to share it with you. So, **the 3 things I would like to be are:**
 
   * Software Engineer;
   * Writer;
   * Photographer.
 
 
-Yes, I know that those three things does not have a lot in common. But I like them. So now I'm going to answer the three big questions: **why do you want to be "something"?**
+Yes, I know that those three things do not have a lot in common. But I like them. So now I'm going to answer the three big questions: **why do you want to be "something"?**
 
 ## Why do you want to be Software Engineer?
 
@@ -33,7 +33,7 @@ Yes, I know that those three things does not have a lot in common. But I like th
 
 I like technology since I was a little child. It always fascinated me. Technology is a way to **create** things, to **do** things, to **help** people in a big number of ways.
 
-With technology we can do a lot of things we couldn't ever imagine it was possible: help the older woman crossing the zebra crossing with more security; helping that little kids of Africa giving them food faster; a lot of etc.
+With technology we can do a lot of things we couldn't ever imagine it was possible: help the older woman crossing the zebra crossing with more security; helping those little kids of Africa giving them food faster; a lot of etc.
 
 I would like to be [Software Engineer](https://en.wikipedia.org/wiki/Software_engineer) to, mainly, help people finding technological solutions to its problems.
 

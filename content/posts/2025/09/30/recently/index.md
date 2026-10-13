@@ -24,7 +24,7 @@ At the beginning of the month, Chris and I went to Copenhagen. He's been there b
 
 However, there were also differences: food was generally much better, there was just a general charm, a cleanliness that I had never seen before. I would definitely visit again, and maybe work remotely for a month or two. Who knows? We also quickly visited Malmö as a day trip, which was also quite nice.
 
-After coming back, we went to a Portuguese restaurant in Amsterdam which we needed to book around a month and a half in advance: [Dona](https://www.donarestaurant.com/)! Dona is run by a couple: the Portuguese chef and the Dutch server. The atmosphere was incredible, the food was on point, and it overall just a very nice experience. I'll definitely come back once the Chef's menu has rotated.
+After coming back, we went to a Portuguese restaurant in Amsterdam which we needed to book around a month and a half in advance: [Dona](https://www.donarestaurant.com/)! Dona is run by a couple: the Portuguese chef and the Dutch server. The atmosphere was incredible, the food was on point, and it was overall just a very nice experience. I'll definitely come back once the Chef's menu has rotated.
 
 Later in the month, De Wielewaal, a once forbidden and secret terrain in Eindhoven, opened as park. This terrain was originally from the Philips family, and has been private property for the past hundred years. It was incredible to be at the opening ceremony and being one of the first people in such a long period of time to be there. De Wielewaal was once a heathland, but is now a forest with a unique ecosystem.
 

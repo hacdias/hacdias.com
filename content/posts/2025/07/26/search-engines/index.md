@@ -26,7 +26,7 @@ From February up until now, I have been using a paid search engine, Kagi. Two we
 
 For the past years, I have been trying to avoid using Google services. There are many reasons for that, and I'm definitely not the best example, since I'm still a Chrome user. However, Google Search is something I try to use very rarely. And it's not as if it's as good as it was before.
 
-When I begun this journey, I started by just using DuckDuckGo, since that was what everyone suggested. Nevertheless, I don't think DuckDuckGo gives me the best results, or the results I want, most of the times. I got into the habit of appending `!g` to the search query and [banging](https://duckduckgo.com/bangs) my way into Google.
+When I began this journey, I started by just using DuckDuckGo, since that was what everyone suggested. Nevertheless, I don't think DuckDuckGo gives me the best results, or the results I want, most of the times. I got into the habit of appending `!g` to the search query and [banging](https://duckduckgo.com/bangs) my way into Google.
 
 Until Kagi. Kagi is a paid-for search engine. You pay a specific amount of money per month, and then you can do... well... searches. The argument is that if you're paying for it, you're not the product anymore. And I must say: Kagi actually gave me good results time and time again. And my habit of appending a Google bang to the query faded away.
 
@@ -44,7 +44,7 @@ Web Browsers are also intrinsically annoying, at least the ones I use: Google Ch
 
 I understand Apple has not been the biggest fan of customization, but it's a search engine, it should not be that complicated to use a different one. The EU has demanded so many things from Apple, from opening the App Store to letting use other browsers as their defaults, but changing the default search engine to anything custom? No.
 
-And yes, I could use a different browser on my iPhone, but Safari works just fine, and I have no other issues besides setting the search engine. On the laptop I do want to use something other than Chrome, but I've had my issues with Firefox before, and Safari always gives me the vibes of being too minimalistic, but I have never tried it with for a long period.
+And yes, I could use a different browser on my iPhone, but Safari works just fine, and I have no other issues besides setting the search engine. On the laptop I do want to use something other than Chrome, but I've had my issues with Firefox before, and Safari always gives me the vibes of being too minimalistic, but I have never tried it for a long period.
 
 ---
 

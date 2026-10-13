@@ -18,7 +18,7 @@ After almost 7 years working on projects surrounding [IPFS](https://ipfs.tech/),
 
 ## ⭐️ Joining Protocol Labs {#joining}
 
-Back in November 2017, just a month after starting my bachelor's degree, I joined Protocol Labs. It was an incredible opportunity and I will forever be grateful to [David](https://daviddias.me/), who trusted a random 18-year boy with no working experience from a small village to work on a project to decentralize the Internet, [IPFS](https://ipfs.tech/), the InterPlanetary File System. The fact that this happened is still crazy to me, and I can't express how lucky I feel.
+Back in November 2017, just a month after starting my bachelor's degree, I joined Protocol Labs. It was an incredible opportunity and I will forever be grateful to [David](https://daviddias.me/), who trusted a random 18-year-old boy with no working experience from a small village to work on a project to decentralize the Internet, [IPFS](https://ipfs.tech/), the InterPlanetary File System. The fact that this happened is still crazy to me, and I can't express how lucky I feel.
 
 During the [first years](/2018/10/27/working-at-protocol-labs/) at Protocol Labs, I mainly worked on user-facing projects, such as IPFS Desktop and IPFS Web UI, an Electron desktop application and a React web application, respectively. Later on, I worked on a more technical backend project, Testground, a testing platform for peer-to-peer systems.
 
@@ -84,8 +84,8 @@ From June, I will be working on a completely different project, on a completely 
 
 This will be my first company with an office, where I will be able to see coworkers on a regular basis. In addition, the offices are very close to where I live, so commuting will still not be a problem as I can just walk there. Not even bike.
 
-The topic, decentralized identity, has always sparked me interest. I've been following all the EU legislation and progress regarding the digital wallet for quite some time. I can see the use cases and the potential. And I'm extremely excited to work on this topic more closely.
+The topic, decentralized identity, has always sparked my interest. I've been following all the EU legislation and progress regarding the digital wallet for quite some time. I can see the use cases and the potential. And I'm extremely excited to work on this topic more closely.
 
 For this job, I also accepted a pay cut, albeit I would argue the new salary is still quite generous. Maybe I could've negotiated more, who knows. Some people would call me crazy or not understand my decision at all: but it's my happiness, and, after all, I'm still 24 years old. There's time to grow!
 
-I'm looking forward the new challenges that will be waiting for me on the first of June!
+I'm looking forward to the new challenges that will be waiting for me on the first of June!

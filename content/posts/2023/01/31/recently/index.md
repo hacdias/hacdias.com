@@ -21,7 +21,7 @@ January, the infamous first month of the year, is reaching an end. It was a very
 
 ## ✍️ Website {#website}
 
-During January, I did not made large changes to this website. In general, they were rather small even though they may seem large. In addition to fixing some bugs, as usual, I also removed by checkins 📍 and itineraries 🗺️. I decided to do so as I felt like they did not add much to the website.
+During January, I did not make large changes to this website. In general, they were rather small even though they may seem large. In addition to fixing some bugs, as usual, I also removed my checkins 📍 and itineraries 🗺️. I decided to do so as I felt like they did not add much to the website.
 
 Finally, I made my [Trips 🚆](/logs/places) page better. I think it displays the trips in a better way and it is slightly inspired by [Tim's](https://timharek.no/) logs. I still want to backup my Swarm checkins and I still have to write a script to do so. I will probably try Deno 🦖, as I have been slightly curious about it for a while!
 
@@ -40,7 +40,7 @@ Around two weeks ago I finished reading "Sweet Bean Paste", yet another Japanese
 
 ## 🍿 Watching {#watching}
 
-I watched M3GAN in the cinema. M3GAN is this mix of science fiction and horror movie. I usually don't enjoy horror movies, but this one was quite interesting. I think the main problem of most horror movies is that they're only about jump scared. But if there's a psychological element attached to it, it becomes much more interesting.
+I watched M3GAN in the cinema. M3GAN is this mix of science fiction and horror movie. I usually don't enjoy horror movies, but this one was quite interesting. I think the main problem of most horror movies is that they're only about jump scares. But if there's a psychological element attached to it, it becomes much more interesting.
 
 ## 🎮 Gaming {#gaming}
 

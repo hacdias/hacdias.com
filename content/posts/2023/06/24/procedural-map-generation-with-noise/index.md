@@ -76,7 +76,7 @@ I'm not the best at explaining this, so I would recommend you to just try it out
 
 ## The Code
 
-Now, onto the code! For our noise, we will be using this [noise library](https://gist.github.com/Demonstrandum/4dcebc41e54961abd0b0a1b0ecfdd97d), which provides functions to generate both Perlin and Simples noise within a 2D environment. Let's just quickly go over some variable definitions that we will need to use later in the code:
+Now, onto the code! For our noise, we will be using this [noise library](https://gist.github.com/Demonstrandum/4dcebc41e54961abd0b0a1b0ecfdd97d), which provides functions to generate both Perlin and Simplex noise within a 2D environment. Let's just quickly go over some variable definitions that we will need to use later in the code:
 
 ```javascript
 // The noise library. We will use it as 'Noise'.
@@ -96,7 +96,7 @@ const lacunarity = 2.5
 const canvas = document.querySelector('#map canvas')
 ```
 
-As you see, we will not be dynamically creating a `canvas`, but you could do that. Here's an example of you could build that canvas to ensure it would have a 16 : 9 aspect ratio. This is also similar to the one being used in this page.
+As you see, we will not be dynamically creating a `canvas`, but you could do that. Here's an example of how you could build that canvas to ensure it would have a 16 : 9 aspect ratio. This is also similar to the one being used in this page.
 
 
 ```html

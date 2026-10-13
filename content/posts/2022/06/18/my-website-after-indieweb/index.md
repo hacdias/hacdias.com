@@ -53,7 +53,7 @@ Not long after, I introduced version 12. I made a few changes inspired by other 
 
 </div>
 
-After a few iterations, version 13 was released. It is quite similar to version 12 in what I wanted it to be. The changes are mostly style related. You can also note that this is when I decided to have a knowledge base - there's a `kb` link on the header. After some time, I ended up removing this page as it did not work out for e.
+After a few iterations, version 13 was released. It is quite similar to version 12 in what I wanted it to be. The changes are mostly style related. You can also note that this is when I decided to have a knowledge base - there's a `kb` link on the header. After some time, I ended up removing this page as it did not work out for me.
 
 ![v13 (2020) Home](image:2022-06-18-v13-home)
 
@@ -65,7 +65,7 @@ After a few iterations, version 13 was released. It is quite similar to version 
 
 </div>
 
-Onto version 15: I really don't know what happened to version 14. Since I took this screenshots in March, perhaps I didn't manage to run version 14 or it was too similar to 13 or 15 and I decided not t o post about it. Either way, here we can see a very similar design style compared to previous iterations, but more clean.
+Onto version 15: I really don't know what happened to version 14. Since I took these screenshots in March, perhaps I didn't manage to run version 14 or it was too similar to 13 or 15 and I decided not to post about it. Either way, here we can see a very similar design style compared to previous iterations, but more clean.
 
 ![v15 (2020) Home](image:2022-06-18-v15-home)
 
@@ -77,7 +77,7 @@ Onto version 15: I really don't know what happened to version 14. Since I took t
 
 </div>
 
-Later in the year I decided to go back to the 90s and got immensely inspired on [this website](https://neustadt.fr/). My website's pages looked like actual paper pages and I started playing with backgrounds and GIFs and emojis all around. Some of this things are still around!
+Later in the year I decided to go back to the 90s and got immensely inspired on [this website](https://neustadt.fr/). My website's pages looked like actual paper pages and I started playing with backgrounds and GIFs and emojis all around. Some of these things are still around!
 
 ![v16 (2020) Article](image:2022-06-18-v16-article)
 
@@ -91,7 +91,7 @@ Later in the year I decided to go back to the 90s and got immensely inspired on 
 
 ## 2021
 
-After so many deep changes thorough 2020, I reached a style for 2021 that I kept for the whole year. From time to time I would make slight changes and modifications, but this is what probably most of you remember.
+After so many deep changes throughout 2020, I reached a style for 2021 that I kept for the whole year. From time to time I would make slight changes and modifications, but this is what probably most of you remember.
 
 ![v17 (2021) Home](image:2022-06-18-v17-home)
  
@@ -111,4 +111,4 @@ At this time, I also decided to introduce a resume on my website such that I can
 
 ![v17 (2021) Resume](image:2022-06-18-v17-resume)
 
-And we reached the end. The current iteration of this website it very similar to what you see on version 17, introduced during 2021. There are a few improvements here and there, some backgrounds removed, some corners are rounded. But the spirit is still the same! I hope you enjoyed this post to see how this website evolved over the years!
+And we reached the end. The current iteration of this website is very similar to what you see on version 17, introduced during 2021. There are a few improvements here and there, some backgrounds removed, some corners are rounded. But the spirit is still the same! I hope you enjoyed this post to see how this website evolved over the years!

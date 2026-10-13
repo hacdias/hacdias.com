@@ -55,6 +55,6 @@ thumbnail: image:2022-07-03-kunstmuseum-01
 .fg-2022-07-03-kunstmuseum> *:nth-child(7) { grid-area: g; }
 </style>
 
-Today I went to the weirdest museum I’ve been lately, the Kunstmuseum in The Hague. There were _many_ wicked artworks. Fortunately there were also very pleasing ones. The best ones were the kinectic sculptures by Theo Jansen that you could interact with - I don’t have pictures of those so they’re not shared here.
+Today I went to the weirdest museum I’ve been lately, the Kunstmuseum in The Hague. There were _many_ wicked artworks. Fortunately there were also very pleasing ones. The best ones were the kinetic sculptures by Theo Jansen that you could interact with - I don’t have pictures of those so they’re not shared here.
 
 My friends and I ended up having lunch very late (at 5pm) in Rotterdam where we ate Turkish, Greek, Portuguese and some Russian things. A lot. But a nice day.

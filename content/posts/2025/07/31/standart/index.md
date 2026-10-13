@@ -23,7 +23,7 @@ rating: 10
 thumbnail: image:2025-07-31-standart
 ---
 
-I've rarely bought magazines in my life, let alone subscribe to them. Recently, however, I learned about the [Standart](https://standartmag.com/) magazine, a print magazine that focus on the world of coffee culture. I felt compelled to try it out, and, luckily, they have a trial subscription.
+I've rarely bought magazines in my life, let alone subscribe to them. Recently, however, I learned about the [Standart](https://standartmag.com/) magazine, a print magazine that focuses on the world of coffee culture. I felt compelled to try it out, and, luckily, they have a trial subscription.
 
 <!--more-->
 

@@ -18,7 +18,7 @@ last post I wrote was in June 2017. This is something I want to change.
 
 In November 2017, just one month after I've started my first year at university, I learned
 about the existence of [IPFS][0] and what it was. Immediately I saw the potential of this
-technology and the benefits it an bring to the society in the future and in the present.
+technology and the benefits it can bring to the society in the future and in the present.
 
 ![Part of the team](image:2018-10-27-working-pl "Part of the team")
 
@@ -50,7 +50,7 @@ Working at PL has been an amazing experience: being a decentralized company, we 
 from everywhere, from every possible timezone and from every possible location. But that's
 not the best part: everyone is incredibly smart and amazing and has a lot of value.
 
-I am really grateful for the opportunity of being surround by all of this amazing people.
+I am really grateful for the opportunity of being surrounded by all of these amazing people.
 It's mind blowing 🤯. I really hope the IPFS project succeeds and we will use a distributed
 and peer-to-peer Internet in the near future.
 

@@ -12,13 +12,13 @@ syndication:
   - https://fosstodon.org/@hacdias/111254553482769587
 ---
 
-Learning a new language is though. It is certainly easier for some than for others and there are countless of variables that will change your experience. For the past three years, I have been learning Dutch, which has been quite of a rollercoaster.
+Learning a new language is tough. It is certainly easier for some than for others and there are countless of variables that will change your experience. For the past three years, I have been learning Dutch, which has been quite of a rollercoaster.
 
 <!--more-->
 
-In this post, I want to sort of reflect on how the learning process has been and what I'm doing to improve it, and, hopefully, accelerate it. In the beginning, I started with Duolingo and aso having some classes at the university.
+In this post, I want to sort of reflect on how the learning process has been and what I'm doing to improve it, and, hopefully, accelerate it. In the beginning, I started with Duolingo and also having some classes at the university.
 
-The university offered free Dutch courses, so why not taking them? I think they were okay-ish. Maybe the fact that it was only one hour per week or the fact that it was online didn't make it feel incredible useful. Nevertheless, they were extremely useful as an introduction to the language.
+The university offered free Dutch courses, so why not taking them? I think they were okay-ish. Maybe the fact that it was only one hour per week or the fact that it was online didn't make it feel incredibly useful. Nevertheless, they were extremely useful as an introduction to the language.
 
 I've also recently finished Duolingo's Dutch course. I know Duolingo is not usually regarded as the best and there's way too many memes of *Ik ben een appel*. However, after the first introductory sessions, I think Duolingo is quite good at introducing a lot of new vocabulary for different topics.
 

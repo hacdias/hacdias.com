@@ -26,7 +26,7 @@ My parents and I have visited a few places, including Den Bosch, de Keukenhof an
 
 ## 📚 Reading {#reading}
 
-As I said in the beginning, I've probably read too much in April. I read all the books from Harry Potter, from the Goblet of Fire to the Deathly Hallows. That was 4 (four!) entire books in Dutch. In. A. Single. Month. I think I entered a bit of a addicted phase because I just wanted to read more and more.
+As I said in the beginning, I've probably read too much in April. I read all the books from Harry Potter, from the Goblet of Fire to the Deathly Hallows. That was 4 (four!) entire books in Dutch. In. A. Single. Month. I think I entered a bit of an addicted phase because I just wanted to read more and more.
 
 ## 🍿 Entertainment {#entertainment}
 

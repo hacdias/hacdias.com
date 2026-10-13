@@ -17,7 +17,7 @@ Over a bit more than a year ago, I started going to the gym. Since then, I went 
 
 ## 💡 The Decision {#decision}
 
-If you've been following this blog for some time, you may know that I developed an achilles tendinitis around less than two years ago. This was around the same time I had started becoming more active after *the pandemic 🦠*, started playing badminton, sometimes squash and going to spinning classes. Unfortunately, I then stopped with all this things. My anxiety around health-related issues didn't really help.
+If you've been following this blog for some time, you may know that I developed an achilles tendinitis around less than two years ago. This was around the same time I had started becoming more active after *the pandemic 🦠*, started playing badminton, sometimes squash and going to spinning classes. Unfortunately, I then stopped with all these things. My anxiety around health-related issues didn't really help.
 
 So in the first few months of last year, already feeling better about my achilles but occasionally still struggling, I considered starting going to a gym. With a personal trainer. My goal was two folded: help me overcome and deal with my achilles issues, as well as being consistent with being active and sports.
 
@@ -29,7 +29,7 @@ In the beginning, I did a [DEXA scan](https://en.wikipedia.org/wiki/Dual-energy_
 
 On one hand, I was slightly disappointed with the fact that my fat percentage was about the same. However, I understand it: I've never actually done something to my diet, and despite having talked about it with the PT, it's not something I worked actively on.
 
-On the other hand, I had gained quite a few muscle. That's nice and good to know that all the effort I put into the exercises at the gym had a result. And I also enjoyed the process, the feeling of pushing my limits there. All of this have helped me with my strength and endurance.
+On the other hand, I had gained quite a few muscle. That's nice and good to know that all the effort I put into the exercises at the gym had a result. And I also enjoyed the process, the feeling of pushing my limits there. All of this has helped me with my strength and endurance.
 
 From now on I want to focus more on my nutrition. I don't want to track caloric intake and measure every single thing I eat, even though I think I would love to see all of this data. But it's so much work! I will start by focusing on not eating things that are obviously *not good*, and also not eating too much. Especially when I go to Portugal.
 

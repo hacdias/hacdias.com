@@ -22,7 +22,7 @@ syndication:
 thumbnail: image:2026-04-30-recently
 ---
 
-April is now coming to and end, and with it, a new blog post is born. Around 33% of the year has now gone by, and we're starting to head into the prime time of the spring. Looking back at this month, it's been quite quiet. I know I said the same thing [last month](/2026/03/31/recently/), but now it's for real.
+April is now coming to an end, and with it, a new blog post is born. Around 33% of the year has now gone by, and we're starting to head into the prime time of the spring. Looking back at this month, it's been quite quiet. I know I said the same thing [last month](/2026/03/31/recently/), but now it's for real.
 
 <!--more-->
 
@@ -35,7 +35,7 @@ There weren't any major events happening this month in my life. Well, there were
 
 On a completely different note, yesterday I hit a door and the left temple of my eyeglasses almost broke off. The optician managed to fix it a bit. They'll check if they can order another temple. Otherwise, I might need to get new glasses, which is a shame since I got new lenses back in August.
 
-On a brighter side: spring has started, and it's been quite sunny and warm. It's a nice feeling, but also not good for the Netherlands. Too dry. I'm also trying to get back on taking more photos again. I really enjoy it, but lately I haven't done it as much. I know have my camera on my desk, and I notice I take it much more often with me.
+On a brighter side: spring has started, and it's been quite sunny and warm. It's a nice feeling, but also not good for the Netherlands. Too dry. I'm also trying to get back on taking more photos again. I really enjoy it, but lately I haven't done it as much. I now have my camera on my desk, and I notice I take it much more often with me.
 
 ## 💪 Health {#health}
 

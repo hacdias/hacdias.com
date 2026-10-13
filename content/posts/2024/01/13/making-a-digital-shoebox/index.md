@@ -17,9 +17,9 @@ A few days ago, I was navigating the web as normal. After some clicks here and t
 
 <!--more-->
 
-Much like the author of the linked shoebox, I do also keep around boxes with stuff. Stuff from postcards, to photo film, to a the ticket from a train years ago, or just a flyer from a museum I visited in some other country. And I do often look at this boxes. I do enjoy the idea of having them and checking them every now and then.
+Much like the author of the linked shoebox, I do also keep around boxes with stuff. Stuff from postcards, to photo film, to a ticket from a train years ago, or just a flyer from a museum I visited in some other country. And I do often look at these boxes. I do enjoy the idea of having them and checking them every now and then.
 
-Digitally, I've also had something similar: a directory named "random" where I put all sorts of things that do not have a really good place to go. It has happened before that I've wanted to share one or two of these things, but I've always had to wait until I has back at my laptop in order to do so.
+Digitally, I've also had something similar: a directory named "random" where I put all sorts of things that do not have a really good place to go. It has happened before that I've wanted to share one or two of these things, but I've always had to wait until I was back at my laptop in order to do so.
 
 ![My Digital Shoebox in Dark Mode](image:2024-01-13-shoebox)
 

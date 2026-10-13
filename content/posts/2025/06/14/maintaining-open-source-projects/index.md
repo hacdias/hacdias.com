@@ -21,7 +21,7 @@ syndication:
   - https://news.indieweb.org/en
 ---
 
-Last month was Maintainer Month, a month were open source software maintainers are celebrated. A lot of the software in the world - and thus society itself - runs on open source software, which is something not known to a lot of people. During this past month, I read a few posts here and there about people sharing their journey and experience as an open source maintainer, and today I wanted to give my take on it.
+Last month was Maintainer Month, a month where open source software maintainers are celebrated. A lot of the software in the world - and thus society itself - runs on open source software, which is something not known to a lot of people. During this past month, I read a few posts here and there about people sharing their journey and experience as an open source maintainer, and today I wanted to give my take on it.
 
 <!--more-->
 
@@ -45,7 +45,7 @@ This prompted for a [new search](https://github.com/filebrowser/filebrowser/disc
 
 - The README now includes information about the status of the project and what that means.
 - Issues can only be opened if they involve a bug. Otherwise, the discussions feature can be used. Issues must also conform to a template and users are not allowed to start a blank issue.
-- Disable the GitHub stale bot, which didn't really help the situation considering the state of the project, since no one really had time to take look at the issues, and they ended up being automatically closed, or with many users just commenting once in a while to ensure the issues or PRs were not closed.
+- Disable the GitHub stale bot, which didn't really help the situation considering the state of the project, since no one really had time to take a look at the issues, and they ended up being automatically closed, or with many users just commenting once in a while to ensure the issues or PRs were not closed.
 
 I'm not really sure where I want to go to this post, but one lesson I've learned over the years is that communication is important, not just in open source, but in life. And sometimes, hard decisions need to be made. This project is depended on by many, but, if after a few months, no one is still interested in actively maintaining the project, I will need to make a decision on archiving it.
 

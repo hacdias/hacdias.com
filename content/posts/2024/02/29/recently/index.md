@@ -22,7 +22,7 @@ February is complete. That means that around 16% of the year is also gone. Many 
 
 In the beginning of the month, I went to FOSDEM with Sebastiaan, where I also ended up meeting Thor. I have already written about [surviving FOSDEM](/2024/02/05/fosdem/). I recommend taking a look at that post if you want to know more about my FOSDEM experience.
 
-Towards the end of the month, my partner and I went together to Vienna, with the [night train](/2024/02/27/traveling-to-vienna-with-the-nightjet/). It was quite an interesting experience, which I've already talked about in the linked post. Both Vienna and Bratislava positively surprised me. I don't really know what I was expected, but everything looked orderly, clean, and beautiful. The weather was also great ☀️.
+Towards the end of the month, my partner and I went together to Vienna, with the [night train](/2024/02/27/traveling-to-vienna-with-the-nightjet/). It was quite an interesting experience, which I've already talked about in the linked post. Both Vienna and Bratislava positively surprised me. I don't really know what I was expecting, but everything looked orderly, clean, and beautiful. The weather was also great ☀️.
 
 ![Inception in Vienna](image:2024-02-29-vienna-inception)
 
@@ -38,7 +38,7 @@ During our trip to Vienna, and Bratislava, we walked quite a lot. On a certain d
 
 On the book department, I concluded reading the Dutch version of *Harry Potter en de Geheime Kamer*. I have not, however, begun with the third book. I hope I will start it next month.
 
-In the meanwhile, I also started reading an easier adaption of *Het diner*, a quite famous Dutch book. This book was gifted to nme by Sebastiaan a few years ago for my birthday. I want to start reading a bit more original literature, so I decided to read this before adventuring into something else.
+In the meanwhile, I also started reading an easier adaption of *Het diner*, a quite famous Dutch book. This book was gifted to me by Sebastiaan a few years ago for my birthday. I want to start reading a bit more original literature, so I decided to read this before adventuring into something else.
 
 ## 🍿 Entertainment {#entertainment}
 

@@ -26,7 +26,7 @@ A friend of mine just sent the link to this AI-powered [accent guesser](https://
 - Portuguese: 37%
 - Czech: 7%
 
-An hypothesis is that I've improved my Portuguese accent to the point where it's still clear that I'm not native, but it's not clear that it comes from a specific country. Something I've tried to improve over the years has been the pronunciation of the letter 'H', which is silent in Portugese. Portuguese speakers tend to add a 'H' sound to words that don't have it ('hadd' instead of 'add'), and not say it when it needs to be said ('as' instead of 'has').
+An hypothesis is that I've improved my Portuguese accent to the point where it's still clear that I'm not native, but it's not clear that it comes from a specific country. Something I've tried to improve over the years has been the pronunciation of the letter 'H', which is silent in Portuguese. Portuguese speakers tend to add a 'H' sound to words that don't have it ('hadd' instead of 'add'), and not say it when it needs to be said ('as' instead of 'has').
 
 I hope that the fact that the confidence in a Portuguese accent was always low means that I've been able to correct some errors over the time. I can still hear a lot of Portuguese people speaking English and I know they're Portuguese before they tell me. I wonder if they'd say the same about me.
 

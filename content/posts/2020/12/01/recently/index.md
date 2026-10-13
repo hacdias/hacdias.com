@@ -24,7 +24,7 @@ We're almost half-way our second quarter of university and there's things to do 
 
 It's much more intensive in my opinion. I think the fact that we use a quartile system is the main culprit. It makes deadlines tight, not much time between quarters (only two weeks, with exams...). Nevertheless, everything seems to be coming up together!
 
-Unfortunately, I haven't been able to use my camera as much as I hoped but I count on going to a few *virtual* photography workshops this month. In two weeks I'm flyinng back to Portugal for my Christmas break.
+Unfortunately, I haven't been able to use my camera as much as I hoped but I count on going to a few *virtual* photography workshops this month. In two weeks I'm flying back to Portugal for my Christmas break.
 
 Enjoy your Holidays, enjoy Sinterklaas, enjoy Christmas!
 

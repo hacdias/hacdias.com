@@ -24,7 +24,7 @@ Next week, I will have 4 three hour exams. I have never, in my entire academic l
 
 I've been preparing for weeks already. I feel I can probably pass all of them, some with good grades, but I'm still not confident enough. There's still a few days, and that can change. Besides, two of the exams are open book so, hopefully, they will be reasonable.
 
-All of the exams are going to be on campus. They're going to be my first exams on campus in over a year, and my first exams on campus at TU/e so I have no clue what to expect. I just know that the cases are increasing, there's more cases than in January and we still have to do exams om campus.
+All of the exams are going to be on campus. They're going to be my first exams on campus in over a year, and my first exams on campus at TU/e so I have no clue what to expect. I just know that the cases are increasing, there's more cases than in January and we still have to do exams on campus.
 
 I wouldn't mind if we also had classes on campus. But I do mind because they'll put 50 people inside each room - which I think are quite large - with no mask when seated. But who am I to decide the seated people infect or not others?
 

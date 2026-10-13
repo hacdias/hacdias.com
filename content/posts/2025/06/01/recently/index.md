@@ -28,7 +28,7 @@ May has now come to an end. We started seeing the first signs of summer, warmth 
 
 ## ✍️ Website {#website}
 
-Not a lot has happened on this website, I would say. I wrote a few photos, published a few photos, and finally [integrated](/2025/05/30/integrating-bluesky/) Bluesky into this website. That means that posts I write will more often than not also be shared on Bluesky, automatically. That's a good thing.
+Not a lot has happened on this website, I would say. I wrote a few posts, published a few photos, and finally [integrated](/2025/05/30/integrating-bluesky/) Bluesky into this website. That means that posts I write will more often than not also be shared on Bluesky, automatically. That's a good thing.
 
 If you're viewing my website from a relatively modern web browser, you may also notice something different when navigating pages: transitions are somewhat smoother. I added a [view transition](https://developer.mozilla.org/en-US/docs/Web/CSS/@view-transition) with automatic navigation transition. I'm actually surprised by how well it works. A website where I see this sort of transitions very often is on [Jim Nielsen's blog](https://blog.jim-nielsen.com/).
 
@@ -56,7 +56,7 @@ Yesterday, I also celebrated [Sebastiaan's](https://seblog.nl/) birthday. He org
 
 Wrist is improving. I'm no longer using the brace during the day, only at night. The physiotherapist gave me a few more exercises to do, including stretches. And I'm allowed - and I should - push a bit through the pain. I was surprised by that. But it's working. Mobility is much better than a month before, it's crazy.
 
-When it comes to other sport, I'm really trying to get back on track. I've been doing some functional strength training workouts at home, considering that I still should not use a lot of my hands. I've also done reasonably long walks very often thorough the month. I hope to continue that into June, or maybe back to running.
+When it comes to other sport, I'm really trying to get back on track. I've been doing some functional strength training workouts at home, considering that I still should not use a lot of my hands. I've also done reasonably long walks very often throughout the month. I hope to continue that into June, or maybe back to running.
 
 ## 📚 Reading {#reading}
 
@@ -68,7 +68,7 @@ There are quite a lot of LGBT books written by women, but I feel like the depict
 
 I did not watch a single movie, but I guess I binged way too many series. So I'm just going to focus on some of the most enjoyable. Firstly, the seventh season of *Black Mirror*. I think a lot of you know the concept: each episode is a completely different story, depicting some technological *thing* in the future and how dystopian it is. Not all episodes are good, but it was a really enjoyable season.
 
-We also watched the *Amsterdam Centraal 24/7* documentary series by National Geographic. I found it to be too short, but maybe that's just because I like trains. In this series, we the inner workings of Amsterdam Centraal, and got to see places that people would usually not be able to see, like the tunnels and the Royal Waiting Room.
+We also watched the *Amsterdam Centraal 24/7* documentary series by National Geographic. I found it to be too short, but maybe that's just because I like trains. In this series, we saw the inner workings of Amsterdam Centraal, and got to see places that people would usually not be able to see, like the tunnels and the Royal Waiting Room.
 
 Finally, I want to highlight the last season of *The Handmaid's Tale*. I quite enjoyed how it ended, how the story was brought to an end. And it also makes you think: this series is telling us to be very cautious about who we give power to.
 

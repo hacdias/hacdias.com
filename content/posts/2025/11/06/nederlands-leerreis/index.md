@@ -34,7 +34,7 @@ Tegelijkertijd had ik het echt druk op de uni. Ik was niet gewend aan het kwarta
 
 ## Het Intensieve Jaar
 
-Op een bepaald moment was ik klaar met de uni en begon full-time te werken. Toen besloot ik om weer aan de slag te gaan en mijn Nederlands te verbeteren. Dit was januari 2023, dus ik woonde al drie jaar in Nederland. Ik heb toen voor een meer informelere school gekozen omdat die goedkoper was, en ik heb daar een B1-cursus gevolgd.
+Op een bepaald moment was ik klaar met de uni en begon full-time te werken. Toen besloot ik om weer aan de slag te gaan en mijn Nederlands te verbeteren. Dit was januari 2023, dus ik woonde al drie jaar in Nederland. Ik heb toen voor een informelere school gekozen omdat die goedkoper was, en ik heb daar een B1-cursus gevolgd.
 
 Die cursus duurde een paar maanden en daarna besloot ik om een pauze te nemen. Eerlijk gezegd was B1 een te grote stap, en ik had wat meer structuur nodig. Dat is gewoon hoe ik werk. Rond die tijd begon ik mijn Nederlands meer te gebruiken in winkels, met mijn partner, bij de kapper, etc. Maar het was niet genoeg. Ik wilde meer.
 

@@ -14,7 +14,7 @@ A few days ago, I wrote a bit about our [filter coffee setup](/2024/01/04/curren
 
 <!--more-->
 
-Our espresso journey started towards the begin of 2023. I don't remember precisely when, but I remember that we looked at Simon Lévelt and they had quite a large discount on the Sage Barista Express. If you're reading this from some other continents, you may know Sage as Breville.
+Our espresso journey started towards the beginning of 2023. I don't remember precisely when, but I remember that we looked at Simon Lévelt and they had quite a large discount on the Sage Barista Express. If you're reading this from some other continents, you may know Sage as Breville.
 
 So, we decided to buy it. It came with some additional things, such as a puck disposal basket. I wasn't home for the delivery, but my partner was. It was directly delivered by the store and they helped setting it up and everything. Despite not being present, I think that's quite a nice service they give.
 

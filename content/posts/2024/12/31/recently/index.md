@@ -53,7 +53,7 @@ In addition, also made a **few** *Chocolate Salami*. "A few". A coworker of mine
 
 </div>
 
-During the course of the month, I've also met with friends for different occasions: from an international dinner, to holiday parties. For the international dinner and to break the habit, we all cooked something from someone else's land. That was a very nice challenge and I'm very happy with the results, including the Portuguese dish done by a friend of mine: Bacalhau à Gomes de Sà.
+During the course of the month, I've also met with friends for different occasions: from an international dinner, to holiday parties. For the international dinner and to break the habit, we all cooked something from someone else's land. That was a very nice challenge and I'm very happy with the results, including the Portuguese dish done by a friend of mine: Bacalhau à Gomes de Sá.
 
 I also spent a week in Portugal, where I got the chance to have a lot of lunches and dinners. It was the Christmas week, so we did what we do in Portugal: eat. Eat for Christmas Eve with some family. Eat for lunch for Christmas Day with some family, and this time we also had lunch with family the day after. Lots of delicious foods.
 
@@ -85,7 +85,7 @@ Just like last month, we attended one more concert, also from a Dutch artist: S1
 
 When it comes to [🎬 movies](/logs/movies/), we watched way too many, so I'm just going to highlight a few good ones. We watched *Conclave* and *Heretic*, which are both related to religion, but in very different ways. The first one follows the story of a conclave after a pope has died, while the second is a holy horror movie. Both interesting and nice. I also want to highlight *Flow*, an animated, but mute, film, which follows a cat after a natural disaster.
 
-This month in the series [📺 series](/logs/shows/) department, we have finished the first season of *Dwars door de Lage Landen*, which is a sort of documentary series, where the presenters walk from Ostende to Maastricht and then to the north of the Netherlands through the east side. On the second season they go back through the west side.
+This month in the [📺 series](/logs/shows/) department, we have finished the first season of *Dwars door de Lage Landen*, which is a sort of documentary series, where the presenters walk from Ostende to Maastricht and then to the north of the Netherlands through the east side. On the second season they go back through the west side.
 
 We also finished the first season of *Dune: Prophecy*, which gives background information about the history of the Sisterhood. We've also watched the two first seasons of *Shrinking*, which was quite heartwarming.
 

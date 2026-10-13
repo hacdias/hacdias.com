@@ -33,6 +33,6 @@ We started in Eindhoven, biked to Geldrop, then to Nuenen, then back to Eindhove
 
 I was planning on visiting a German Christmas Market this month, but I'm not sure if they're still happening. It seems the [Aachen market](https://www.aachen-tourismus.de/en/discover/events/aachen-christmas-market/) may be an option? It's also the closest to me.
 
-There's a lot of complicated things happening to, but this is not the place to talk about them!
+There's a lot of complicated things happening too, but this is not the place to talk about them!
 
 Have a fantastic December! 🎄

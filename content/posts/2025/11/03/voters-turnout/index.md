@@ -25,7 +25,7 @@ The Netherlands is amidst a turbulent election, where a progressive party and a 
 
 <!--more-->
 
-The turnout of this elections is expected to be around 78%. The postal votes from abroad have not yet been counted, and therefore the turnout is not yet definitive. In either case, I find it to be a fantastic high number. Yes, it still means that a fifth of the country has not casted their vote. But it doesn't mean it isn't high.
+The turnout of these elections is expected to be around 78%. The postal votes from abroad have not yet been counted, and therefore the turnout is not yet definitive. In either case, I find it to be a fantastic high number. Yes, it still means that a fifth of the country has not casted their vote. But it doesn't mean it isn't high.
 
 For comparison, Portugal's national elections usually have a turnout below 60%. The only year I "fully" participated in the parliamentary elections - and with "fully" I mean that my vote actually had some proportional voice because I did not live abroad - the turnout was just 48%. Forty-eight! What the actual... f. That's terrible.
 
@@ -49,7 +49,7 @@ In Portugal, your ID card is your voting pass. I could not even find information
 
 ---
 
-These are all factors that I think make it so much easier to vote in the Netherlands, and that if they were implemented in Portugal, the voters turnout would also increase. The Netherlands facilitates voting by doing it during a workday, letting you vote anywhere within your municipality, even on your own to or back to work, with extended voting times.
+These are all factors that I think make it so much easier to vote in the Netherlands, and that if they were implemented in Portugal, the voters turnout would also increase. The Netherlands facilitates voting by doing it during a workday, letting you vote anywhere within your municipality, even on your way to or back to work, with extended voting times.
 
 Delegation also makes it accessible to groups of people that would otherwise not vote. Portugal is so sparse, many people need a car to vote, and many people just have difficulty voting, especially elderly and ill people. Making the voting process more accessible is important.
 

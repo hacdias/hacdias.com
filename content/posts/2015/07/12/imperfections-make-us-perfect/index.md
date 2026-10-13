@@ -11,7 +11,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cuprbvf5s2ct
 ---
 
-Sometimes, I look through a window. My bedroom window. It faces the road. I see cars. There are thousand of them. All different: in shape, in colour, in size. But that's only the outside. Their inside is all made of the same essence.
+Sometimes, I look through a window. My bedroom window. It faces the road. I see cars. There are thousands of them. All different: in shape, in colour, in size. But that's only the outside. Their inside is all made of the same essence.
 
 <!--more-->
 

@@ -27,7 +27,7 @@ $bar = "Eu sou $foo!"; // => 3
 $bar = "Eu sou {$foo}!"; // => 4
 ```
 
-Vamos analisar os quatro exemplos acima sendo que os primeiros dois é utilizada **concatenação** e nos últimos dois **interpolação**.
+Vamos analisar os quatro exemplos acima sendo que nos primeiros dois é utilizada **concatenação** e nos últimos dois **interpolação**.
 
 ## Métodos 1 e 2
 
@@ -45,7 +45,7 @@ Caso sejam variáveis simples, o uso de chavetas é desnecessário não trazendo
 
 Depende! Geralmente, a interpolação é mais lenta porém, a concatenação pode tornar-se mais lenta caso sejam utilizadas muitas variáveis.
 
-Executei seguinte teste para confirmar as velocidades que cada um demora a correr (função [timeFunc](http://stackoverflow.com/questions/13620/speed-difference-in-using-inline-strings-vs-concatenation-in-php5) obtida aqui):
+Executei o seguinte teste para confirmar as velocidades que cada um demora a correr (função [timeFunc](http://stackoverflow.com/questions/13620/speed-difference-in-using-inline-strings-vs-concatenation-in-php5) obtida aqui):
 
 ```php
 <?php
