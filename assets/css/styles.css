@@ -223,10 +223,7 @@ mark {
 
 .lg {
   color: var(--light-text);
-}
-
-.wn {
-  font-weight: 400;
+  font-weight: 300;
 }
 
 .ah {
@@ -296,7 +293,6 @@ main header h2 {
 
 main header p {
   margin: 0;
-  font-weight: 300;
 }
 
 main footer .tb,
@@ -717,7 +713,6 @@ main pre {
   font-variant-numeric: tabular-nums;
   letter-spacing: -0.012em;
   white-space: pre;
-  font-weight: 300;
 }
 
 .tbh {
@@ -729,10 +724,6 @@ main pre {
   border-bottom: var(--border) solid var(--fg);
   color: var(--c);
   z-index: 100;
-}
-
-.tbh small {
-  font-weight: 300;
 }
 
 .tb {
@@ -1036,4 +1027,20 @@ figure,
   #contacts .available .dot {
     background: #40c057;
   }
+}
+
+.header-link {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0 var(--s2);
+}
+
+.header-link > :is(h1, h2) {
+  margin: 0;
+}
+
+.header-link:has(> h2) {
+  margin: 2rem 0 1rem;
 }

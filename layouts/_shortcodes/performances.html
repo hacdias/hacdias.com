@@ -11,7 +11,7 @@
       {{ range $entry := . }}
         <details name='performance' class='tbm'>
           <summary class='tbi'>
-            <span>{{ if .name }}{{ .name }}{{- with .author }} <span class='lg wn'>by {{ . -}}</span>{{ end }}{{ else }}{{ .author }}{{ end }}</span>
+            <span>{{ if .name }}{{ .name }}{{- with .author }} <span class='lg'>by {{ . -}}</span>{{ end }}{{ else }}{{ .author }}{{ end }}</span>
             {{ with .rating }}
               <span>{{ partialCached "helpers/stars" . . }}</span>
             {{ else }}

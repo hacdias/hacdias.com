@@ -1,6 +1,10 @@
 {{ define "main" }}
-  <header>
+  <header {{ if .Params.archivePage }}class="header-link"{{ end }}>
     <h1>{{ if eq .Data.Singular "tag" }}<span style='color: var(--c);'>#</span>{{ end }}{{ partialCached "fns/title" . .Title .Data.Singular }}</h1>
+    {{- if .Params.archivePage }}
+      {{- $page := .Site.GetPage .Params.archivePage }}
+      <a href='{{ $page.RelPermalink }}' class='nl lg small'>Archive →</a>
+    {{ end }}
   </header>
 
   {{ partialCached "post/content" . .Permalink }}

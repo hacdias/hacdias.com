@@ -1,10 +1,11 @@
 ---
 title: Writings
 description: My blog posts.
+archivePage: /categories/writings/archive/
 aliases:
   - /articles/
   - /fragments/
 ---
 
-✏️ Attempts at putting down thoughts. Visit the [archive](/writings/archive/) for an yearly overview.
+✏️ Attempts at putting down thoughts.
 {.box}

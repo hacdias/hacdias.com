@@ -9,11 +9,17 @@
 
   <div class='h-feed'>
     {{- $writings := .Site.GetPage "/categories/writings" -}}
-    <h2 id="freshly-planted"><a href='{{ $writings.RelPermalink }}' title='Or at least once upon a time fresh...'>🌿 Freshly Planted <span class='lg'>⇢</span></a></h2>
+    <header class="header-link">
+      <h2 id="freshly-planted">🌿 Freshly Planted</h2>
+      <a href='{{ $writings.RelPermalink }}' class='nl lg small'>All Writings →</a>
+    </header>
     {{- partial "logs" (dict "Pages" (first 8 $writings.Pages) "WithMicroformats" true) -}}
 
     {{- $photos := .Site.GetPage "/categories/photos" -}}
-    <h2 id="freshly-captured"><a href='{{ $photos.RelPermalink }}'>📸 Freshly Captured <span class='lg'>⇢</span></a></h2>
+    <header class="header-link">
+      <h2 id="freshly-captured">📸 Freshly Captured</h2>
+      <a href='{{ $photos.RelPermalink }}' class='nl lg small'>All Photos →</a>
+    </header>
     {{- template "index.photos" (dict "pages" (first 8 $photos.Pages)) -}}
   </div>
 
