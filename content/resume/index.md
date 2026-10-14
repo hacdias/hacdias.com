@@ -24,10 +24,11 @@ noIndex: true
 
 </div>
 
-Senior Software Engineer building open source systems and products in Go and TypeScript. Spent six and a half years at Protocol Labs on IPFS, from high-traffic Go services to a widely used desktop app. Created File Browser (35K+ GitHub stars, 100M+ downloads). Now building products around the EU Digital Identity Wallet standards.
+Senior Software Engineer building open source systems and products in Go and TypeScript. Spent six and a half years at Protocol Labs on IPFS, from high-traffic Go services to a widely used desktop app. Created File Browser (35K+ GitHub stars, 100M+ downloads). Now building digital identity products.
 
-<small>**Technologies**: Go, TypeScript, Node.js, React, React Native, GraphQL, PostgreSQL, Redis, Docker, OpenTelemetry<br>
-**Languages** (fluent): English, Dutch, Portuguese</small>
+<small>**Skills**: Go, TypeScript, Node.js, React, PostgreSQL, Redis, Docker, OAuth, OpenID4VC, X.509, OpenTelemetry<br>
+**Languages** (fluent): English, Dutch, and Portuguese</small>
+
 
 <!-- OAuth 2.0, OpenID4VC -->
 
@@ -35,13 +36,15 @@ Senior Software Engineer building open source systems and products in Go and Typ
 
 {{< resume-position 
   title="Senior Software Engineer"
-  location="Animo Solutions" href="https://animo.id/"
+  location="Paradym (Animo Solutions)" href="https://paradym.id/"
   from="06/2025" to="present" >}}
 
-- Develop [Paradym](https://paradym.id/), a SaaS platform for issuing and verifying digital credentials, and [Paradym Wallet](https://paradym.id/products/paradym-mobile-wallet), its companion React Native app. Design and ship features end to end, from protocol libraries and backend services to the API and dashboard. Co-maintain [Credo](https://credo.js.org/), the OpenWallet Foundation TypeScript framework both are built on, along with related libraries.
-- Implemented OpenID4VC 1.0, the protocol behind the EU Digital Identity Wallet, and W3C VCDM 2.0 across Credo, Paradym, and Paradym Wallet, as the specifications were being finalized, and made them interoperable with pilots across the EU.
-- Designed and built certificate-based trust for Paradym (certificate management, revocation, and EU Trusted List validation), enabling customers to issue, verify, and revoke credentials backed by standard X.509 trust.
-- Designed and built integrations that let customers issue credentials without Paradym ever storing personal data: users sign in through the customer's existing identity provider, and credential data is fetched from their systems at issuance time.
+- Own features end to end across the SaaS platform for digital credentials and its React Native [wallet](https://paradym.id/products/paradym-mobile-wallet), from protocol libraries to API and dashboard. Co-maintain [Credo](https://github.com/openwallet-foundation/credo-ts) and the OpenWallet Foundation libraries underneath.
+- Implemented OpenID4VC 1.0, the protocol behind the EU Digital Identity Wallet, and W3C VCDM 2.0 across Credo, Paradym, and Paradym Wallet as the specifications were finalized, making them interoperable with EU pilots.
+- Designed and built the key and trust infrastructure: hardware-backed key storage behind a provider-agnostic API (Google Cloud HSM), X.509 certificate management and revocation, and EU Trusted List validation <span class="hide-print">([▶ demo](https://www.youtube.com/watch?v=sr3Z1uCDHK4))</span>.
+- Integrated with customers' own infrastructure: issuance through their identity provider and data sources <span class="hide-print">([▶ demo](https://www.youtube.com/watch?v=6NJCTI9LpIQ))</span>, so Paradym never stores personal data, and an on-premise Admin API secured by their authorization server.
+
+<!-- Employed by Animo Solutions, the company behind Paradym. -->
 
 {{</ resume-position >}}
 
@@ -61,7 +64,7 @@ Senior Software Engineer building open source systems and products in Go and Typ
   from="11/2017" to="05/2024" >}}
 
 - Maintained [Kubo](https://github.com/ipfs/kubo), the reference Go implementation of [IPFS](https://ipfs.tech/), a decentralized, P2P, and content-addressed network. Led the extraction of its HTTP gateway into [Boxo](https://github.com/ipfs/boxo), a reusable Go SDK consolidating more than 20 repositories.
-- Co-maintained [Rainbow](https://github.com/ipfs/rainbow) and [Someguy](https://github.com/ipfs/someguy), the gateway and routing services behind IPFS's public gateways, serving hundreds of millions of daily requests, instrumented with OpenTelemetry and Prometheus. Previously built their predecessor, [Bifrost](https://github.com/ipfs-inactive/bifrost-gateway).
+- Co-maintained [Rainbow](https://github.com/ipfs/rainbow) and [Someguy](https://github.com/ipfs/someguy), the gateway and routing services behind IPFS's public gateways, serving hundreds of millions of daily requests, with OpenTelemetry and Prometheus. Built their predecessor, [Bifrost](https://github.com/ipfs-inactive/bifrost-gateway).
 - Designed [specifications](https://specs.ipfs.tech/) for HTTP gateways, naming, and delegated routing, implemented them in Go and TypeScript, and contributed to a suite of hundreds of implementation-agnostic conformance tests.
 - Owned [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) (Electron, 2.4M+ downloads) for five years, leading its redesign, auto-updates, and OS integrations. Rebuilt [IPFS Web UI](https://github.com/ipfs/ipfs-webui)'s file manager (React).
 - Co-authored [Testground](http://testground.ai/), a platform for testing and simulating P2P systems at scale. Built its task supervisor, network routing policies, JavaScript SDK, and a standalone HTTP sync service.
@@ -75,14 +78,14 @@ Senior Software Engineer building open source systems and products in Go and Typ
   location="File Browser" href="https://github.com/filebrowser/filebrowser"
   from="09/2015" to="09/2026" >}}
 
-- Created a self-hosted web file manager in Go and Vue.js that grew to 35K+ GitHub stars and 100M+ downloads. Maintained it for a decade, handling issues, pull requests, and security reports, and led its wind-down in 2026, from maintenance mode to final release and archival.
+- Created a self-hosted web file manager in Go and Vue.js that grew to 35K+ GitHub stars and 100M+ downloads. Maintained it for a decade, handling issues, pull requests, and 60+ security advisories, and led its wind-down in 2026, from maintenance mode to final release and archival.
 
 {{</ resume-position >}}
 
 {{< resume-position title="Creator" >}}
 
 - [webdav](https://github.com/hacdias/webdav): a standalone WebDAV server in Go with configurable users and permissions (5K+ stars).
-- [Eagle](https://github.com/hacdias/eagle) and [indielib](https://github.com/hacdias/indielib): a Go backend and IndieWeb toolkit (IndieAuth, Micropub, and Microformats) powering my personal website, where I experiment with different open web protocols, such as AT Protocol, ActivityPub, and Webmentions.
+- [Eagle](https://github.com/hacdias/eagle) and [indielib](https://github.com/hacdias/indielib): a Go backend and IndieWeb toolkit (IndieAuth, Micropub, and Microformats) powering my website, where I experiment with open web protocols, such as AT Protocol, ActivityPub, and Webmentions.
 
 {{</ resume-position >}}
 
@@ -132,7 +135,7 @@ Senior Software Engineer building open source systems and products in Go and Typ
   location="Pplware" href="https://pplware.sapo.pt"
   from="06/2013" to="09/2016" >}}
 
-- Wrote over 400 tutorials and tech articles for [Pplware](https://pplware.sapo.pt/author/henrique_dias/) and [Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/).
+- Wrote 400+ tutorials and tech articles for [Pplware](https://pplware.sapo.pt/author/henrique_dias/) and [Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/).
 - Published a 60-page [e-book](https://media.hacdias.com/2015-02-27-aprenda-a-programar.pdf) on how to program in C for beginners at the age of 15.
 
 {{</ resume-position >}}
