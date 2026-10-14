@@ -6,7 +6,7 @@ categories:
 tags:
   - now
   - life
-  - heath
+  - health
   - reading
   - entertainment
 syndication:

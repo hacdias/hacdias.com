@@ -17,7 +17,7 @@ location:
 categories:
   - photos
 tags:
-  - healthland
+  - heathland
   - netherlands
   - nature
 syndication:
