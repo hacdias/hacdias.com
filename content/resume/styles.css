@@ -1,7 +1,7 @@
 #resume-header {
   display: none;
   grid-template-columns: 4.5rem 1fr max-content;
-  grid-gap: .5rem;
+  grid-gap: 0.5rem;
   border-bottom: 1px dashed var(--c);
   padding-bottom: 1rem;
   align-items: center;
@@ -76,22 +76,26 @@
     font-size: 1.25rem;
   }
 
-  h3, h4 {
+  h3,
+  h4 {
     font-size: 1rem;
   }
 
-  .resume-position > div  {
-    margin: 1rem 0 .25rem;
+  .resume-position > div {
+    margin: 1rem 0 0.25rem;
   }
 
   .resume-position h4 {
-    font-size: var(--f4)
+    font-size: var(--f4);
+  }
+
+  .resume-position {
+    break-inside: avoid;
   }
 
   .resume-position ul {
-    break-before: avoid;
     font-size: var(--f5);
-    margin-top: .25rem;
+    margin-top: 0.25rem;
   }
 
   #resume-header {
@@ -100,6 +104,7 @@
 
   h2 .emoji,
   main header,
+  .hide-print,
   #printing-hint {
     display: none;
   }
