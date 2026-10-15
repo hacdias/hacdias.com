@@ -311,13 +311,15 @@ main header p {
   margin: 2rem 0 1rem;
 }
 
-main footer .tb,
-main .tb.p-read-of {
+main footer {
+  margin-top: var(--s3);
+}
+
+main footer .tb {
   grid-template-columns: 6rem 1fr;
 }
 
-main footer .tb li,
-main .tb.p-read-of .tb li {
+main footer .tb li {
   grid-column: span 2;
 }
 
