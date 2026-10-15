@@ -6,7 +6,7 @@ thumbnail: image:2024-09-01-stratumse-heide
 
 <div class='intro'>
 
-I'm a software engineer from Portugal 🇵🇹, living in The Netherlands 🇳🇱. Now working on digital identity at Animo Solutions, and maintaining several open source projects. I'm passionate about open source, web technology, and user agency. I enjoy staying active, photography, and a tasty cup of coffee or tea. Welcome to my web corner!
+I''m a software engineer from Portugal 🇵🇹, living in the Netherlands 🇳🇱. Now working on [Paradym](https://paradym.id/) at Animo Solutions, and maintaining several open source projects. I'm passionate about open source, web technology, and user agency. I enjoy staying active, photography, and a tasty cup of coffee or tea. Welcome to my web corner!
 
 </div>
 
