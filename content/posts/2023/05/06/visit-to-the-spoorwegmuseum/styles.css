@@ -1,9 +1,0 @@
-:root {
-  --c-h: 21;
-  --c-s: 27%;
-  --c-l: 47%;
-}
-
-.fg-3 {
-  grid-template-columns: repeat(3, 1fr);
-}

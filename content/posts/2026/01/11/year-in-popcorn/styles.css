@@ -1,15 +1,3 @@
-:root {
-  --c-h: 354;
-  --c-s: 90%;
-  --c-l: 43%;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --c-l: 60%;
-  }
-}
-
 .plots {
   grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
 }
