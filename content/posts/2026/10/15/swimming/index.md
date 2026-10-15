@@ -1,7 +1,6 @@
 ---
 title: Getting My Last Swimming Diploma
 date: 2026-10-15T11:37:30+02:00
-thumbnail: image:2026-10-15-swimming
 location:
   latitude: 51.4765013
   longitude: 5.4545685
@@ -16,6 +15,11 @@ tags:
   - sports
   - swimming
   - milestones
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mxvr7y5uo2i4
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mxvr7y5uo2i4
+  - https://fosstodon.org/@hacdias/117444256015115240
+thumbnail: image:2026-10-15-swimming
 ---
 
 Today was the day: I got my National Swimming Diploma C, the last of the three diplomas to reach the national swimming safety norms in The Netherlands. It's been an incredible journey, and I'm very curious about what's going to come from this.
