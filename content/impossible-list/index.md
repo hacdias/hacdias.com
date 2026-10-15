@@ -135,7 +135,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
   - [x] Go 🏃‍♂️ running for 2 months <small>[[March 2025](/2025/03/30/c25k-completed/)] [September 2025]</small>
   - [x] Go 🏃‍♂️ running for 4 months <small>[November 2025]</small>
 - [x] Overcome my 💦 [deep water](/2024/09/09/fear-of-deep-water/) fear <small>[[April 2026]](/2026/04/21/swimming-diploma/)</small>
-  - [ ] Get the National Swimming Diploma A, B, and C <small>[[July 2026, B]](/2026/07/09/swimming/)</small>
+  - [x] Get the National Swimming Diploma A, B, and C <small>[[October 2026]](/2026/10/15/swimming/)</small>
   - [ ] Get the National Swimming Proficiency Diploma 1, 2, and 3
 - [x] Participate in a 🏊 Zwem4daagse <small>[[July 2026, Zwem4daagse]](/2026/07/17/zwem4daagse/)</small>
   - [ ] Participate in a 2<sup>nd</sup> 🏊 Zwem4daagse
