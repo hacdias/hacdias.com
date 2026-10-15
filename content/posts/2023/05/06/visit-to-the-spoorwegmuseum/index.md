@@ -49,7 +49,7 @@ To go from A, Utrecht Centraal, to B, Utrecht Maliebaan, the train has to stop f
 
 Inside the museum, there is a variety of things you can do. We started by taking a look at the trains. Below you can find a collection of some photos of my favorite train heads today. These are all minimally "recent" trains from the last century.
 
-<div class='fg fg-3'>
+<div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
 ![](image:2023-05-06-spoorwegmuseum-ns-20 "NS 20")
 
@@ -106,7 +106,7 @@ Besides seeing old trains, and entering some of them, such as the royal family t
 
 Among these activities is the Stalen Monsters (*Steel Monsters*) ride, De Vuurproef (*Trial By Fire*) and De Grote Ontdekking (*The Great Discovery*). Each one offers you a different kind of thing with its uniqueness and greatness. From a thrilling ride where you go even under a train, to a traveling back to the reconstruction of a town in 1839. Here's some unrelated pictures that I took at the museum:
 
-<div class='fg fg-3'>
+<div class='fg' style='grid-template-columns: repeat(3, 1fr);'>
 
 ![](image:2023-05-06-spoorwegmuseum-automatiek "Automatiek")
 
