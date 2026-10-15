@@ -15,6 +15,7 @@ tags:
   - reflections
   - open source
   - projects
+  - file browser
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mropnbvim2nm
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mropnbvim2nm

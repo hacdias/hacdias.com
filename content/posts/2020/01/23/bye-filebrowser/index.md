@@ -10,6 +10,7 @@ tags:
   - reflections
   - projects
   - open source
+  - file browser
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqmy5a3ch2u
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gwtg2r34k2ct

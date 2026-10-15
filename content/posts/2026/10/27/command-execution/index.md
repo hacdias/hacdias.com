@@ -13,6 +13,8 @@ tags:
 
 Back [in July](/2026/07/28/filebrowser/), I made the decision to finally archive File Browser, and I won't go over it again. In this post I want to address one category of features of File Browser that was the root of many of the security advisories that have been disclosed in the past year: command execution.
 
+<!--more-->
+
 When you hear that, bells start ringing immediately, since it sounds way too much like "remote code execution", a very well known category of security vulnerabilities. I'm not a security specialist, so take all my opinions with a grain of salt.
 
 ## How It Started
