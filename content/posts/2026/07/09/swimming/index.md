@@ -14,6 +14,7 @@ categories:
 tags:
   - swimming
   - sports
+  - milestones
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mq7dxesvq2t4
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mq7dxesvq2t4
