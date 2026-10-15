@@ -11,7 +11,7 @@ location:
 categories:
   - writings
 tags:
-  - reflection
+  - reflections
   - politics
   - portugal
   - netherlands
