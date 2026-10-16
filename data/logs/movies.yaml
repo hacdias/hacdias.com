@@ -1,10 +1,3 @@
-# - name:
-#   date:
-#   rating:
-#   location:
-#   room:
-#   row:
-#   seat:
 - name: Toutes Directions
   date: 2026-10-04T17:00:00+02:00
   rating: 7
@@ -18,42 +11,42 @@
   location: Natlab
   room: The Tube
   row: C
-  seat: 5
+  seat: "5"
 - name: The Invite
   date: 2026-09-06T21:15:00+02:00
   rating: 8
   location: Natlab
   room: The Tube
   row: C
-  seat: 6
+  seat: "6"
 - name: Jim Queen
   date: 2026-08-22T20:00:00+02:00
   rating: 8
   location: Natlab
   room: Auditorium
   row: D
-  seat: 6
+  seat: "6"
 - name: The Odyssey
   date: 2026-08-16T16:00:00+02:00
   rating: 8
   location: Natlab
-  room: 2
+  room: "2"
   row: F
-  seat: 3
+  seat: "3"
 - name: Backrooms
   date: 2026-07-04T18:00:00+02:00
   rating: 7
   location: Lab-1
-  room: 5
-  row: 9
-  seat: 4
+  room: "5"
+  row: "9"
+  seat: "4"
 - name: Disclosure Day
   date: 2026-06-28T21:30:00+02:00
   rating: 9
   location: Natlab
   room: Main Stage
   row: K
-  seat: 6
+  seat: "6"
 - name: Hoppers
   date: 2026-06-22T12:00:00+02:00
   rating: 7
@@ -61,9 +54,9 @@
   date: 2026-06-14T12:00:00+02:00
   rating: 7
   location: Lab-1
-  room: 5
-  row: 9
-  seat: 5
+  room: "5"
+  row: "9"
+  seat: "5"
 - name: Michael
   date: 2026-05-28T17:00:00+01:00
   rating: 8
@@ -72,57 +65,57 @@
   date: 2026-04-30T22:00:00+02:00
   rating: 8
   location: Lab-1
-  room: 3
-  row: 8
-  seat: 4
+  room: "3"
+  row: "8"
+  seat: "4"
 - name: The Devil Wears Prada
   date: 2026-04-30T22:00:00+02:00
   rating: 8
-- name: "Avatar Aang: The Last Airbender"
+- name: 'Avatar Aang: The Last Airbender'
   date: 2026-04-24T21:00:00+02:00
   rating: 6
 - name: The History of Sound
   date: 2026-04-19T15:40:00+02:00
   rating: 9
   location: Natlab
-  room: 3
+  room: "3"
   row: C
-  seat: 3
+  seat: "3"
 - name: The Drama
   date: 2026-04-16T19:10:00+02:00
   rating: 7
   location: Lab-1
-  room: 3
-  row: 7
-  seat: 1
+  room: "3"
+  row: "7"
+  seat: "1"
 - name: Project Hail Mary
   date: 2026-04-03T18:10:00+02:00
   rating: 9
   location: Lab-1
-  room: 3
-  row: 8
-  seat: 4
+  room: "3"
+  row: "8"
+  seat: "4"
 - name: Joe Speedboot
   date: 2026-03-27T20:30:00+01:00
   rating: 7
   location: Natlab
   room: Cinema 2
   row: H
-  seat: 4
+  seat: "4"
 - name: Pillion
   date: 2026-03-22T19:50:00+01:00
   rating: 7
   location: Lab-1
-  room: 5
-  row: 8
-  seat: 8
+  room: "5"
+  row: "8"
+  seat: "8"
 - name: Marty Supreme
   date: 2026-03-08T16:00:00+01:00
   rating: 5
   location: Natlab
   room: Auditorium
   row: G
-  seat: 4
+  seat: "4"
 - name: Saltburn
   date: 2026-02-21T21:20:00+01:00
   rating: 8
@@ -130,9 +123,9 @@
   date: 2026-02-20T18:40:00+01:00
   rating: 8
   location: Natlab
-  room: 2
+  room: "2"
   row: F
-  seat: 5
+  seat: "5"
 - name: Wuthering Heights (2026)
   date: 2026-02-14T16:30:00+01:00
   rating: 6
@@ -144,36 +137,36 @@
   date: 2026-01-25T14:00:00+01:00
   rating: 10
   location: Lab-1
-  room: 4
-  row: 11
-  seat: 5
+  room: "4"
+  row: "11"
+  seat: "5"
 - name: Rental Family
   date: 2026-01-18T16:30:00+01:00
   rating: 10
   location: Lab-1
-  room: 2
-  row: 3
-  seat: 5
+  room: "2"
+  row: "3"
+  seat: "5"
 - name: Wake Up Dead Man
-  date: 2026-01-01
+  date: 2026-01-01T00:00:00Z
   rating: 8
 - name: The Instigators
-  date: 2025-12-23
+  date: 2025-12-23T00:00:00Z
   rating: 8
 - name: Spirited
-  date: 2025-12-22
+  date: 2025-12-22T00:00:00Z
   rating: 6
 - name: The Family Plan 2
-  date: 2025-12-21
+  date: 2025-12-21T00:00:00Z
   rating: 8
 - name: The Family Plan
-  date: 2025-12-20
+  date: 2025-12-20T00:00:00Z
   rating: 8
 - name: Twinless
-  date: 2025-12-05
+  date: 2025-12-05T00:00:00Z
   rating: 6
-- name: "Wicked: For Good"
-  date: 2025-11-21
+- name: 'Wicked: For Good'
+  date: 2025-11-21T00:00:00Z
   rating: 8
 - name: Cas
   date: 2025-11-01T20:30:00+01:00
@@ -187,7 +180,7 @@
   location: Natlab
   room: Auditorium
   row: G
-  seat: 5
+  seat: "5"
 - name: My Neighbor Totoro
   date: 2025-10-19T19:20:00+02:00
   rating: 8
@@ -195,16 +188,16 @@
   date: 2025-09-22T21:45:00+02:00
   rating: 8
   location: Natlab
-  room: 2
+  room: "2"
   row: F
-  seat: 5
+  seat: "5"
 - name: Weapons
   date: 2025-09-14T18:30:00+02:00
   rating: 8
   location: Lab-1
-  room: 3
-  row: 6
-  seat: 5
+  room: "3"
+  row: "6"
+  seat: "5"
 - name: Thursday Murder Club
   date: 2025-08-28T21:50:00+02:00
   rating: 8
@@ -218,16 +211,16 @@
   date: 2025-07-27T16:30:00+02:00
   rating: 8
   location: Lab-1
-  room: 5
-  row: 8
-  seat: 3
+  room: "5"
+  row: "8"
+  seat: "3"
 - name: 'Jurassic World: Rebirth'
   date: 2025-07-06T17:00:00+02:00
   rating: 8
   location: Lab-1
-  room: 3
-  row: 7
-  seat: 4
+  room: "3"
+  row: "7"
+  seat: "4"
 - name: Fountain of Youth
   date: 2025-06-29T21:35:00+02:00
   rating: 6
@@ -235,23 +228,23 @@
   date: 2025-06-28T14:30:00+02:00
   rating: 8
   location: Lab-1
-  room: 5
-  row: 9
-  seat: 7
+  room: "5"
+  row: "9"
+  seat: "7"
 - name: The Phoenician Scheme
   date: 2025-06-27T18:30:00+02:00
   rating: 8
   location: Natlab
-  room: 2
+  room: "2"
   row: H
-  seat: 5
+  seat: "5"
 - name: Materialists
   date: 2025-06-22T14:25:00+02:00
   rating: 8
   location: Lab-1
-  room: 5
-  row: 7
-  seat: 4
+  room: "5"
+  row: "7"
+  seat: "4"
 - name: Mickey 17
   date: 2025-03-18T19:30:00+01:00
   rating: 8
@@ -269,420 +262,420 @@
   location: Natlab
   room: Podiumzaal
   row: I
-  seat: 7
+  seat: "7"
 - name: Babygirl
   date: 2025-01-14T20:30:00+01:00
   rating: 8
   location: Natlab
   room: Auditorium
   row: G
-  seat: 6
+  seat: "6"
 - name: Anora
   date: 2025-01-11T15:40:00+01:00
   rating: 8
   location: Lab-1
-  room: 5
-  row: 5
-  seat: 7
+  room: "5"
+  row: "5"
+  seat: "7"
 - name: We Live in Time
   date: 2025-01-10T20:30:00+01:00
   rating: 10
   location: Natlab
   room: Auditorium
   row: G
-  seat: 5
+  seat: "5"
 - name: Fairlane
-  date: 2025-01-06
+  date: 2025-01-06T00:00:00Z
   rating: 8
 - name: Young Hearts
   date: 2025-01-05T15:30:00+01:00
   rating: 8
   location: Natlab
-  room: 3
+  room: "3"
   row: B
-  seat: 3
+  seat: "3"
 - name: Triangle of Sadness
-  date: 2025-01-04
+  date: 2025-01-04T00:00:00Z
   rating: 4
 - name: Nosferatu
-  date: 2025-01-02T20:30:00+01:00   
+  date: 2025-01-02T20:30:00+01:00
   rating: 6
   location: Natlab
-  room: 4
+  room: "4"
   row: D
-  seat: 6
+  seat: "6"
 - name: Family Switch
-  date: 2024-12-26
+  date: 2024-12-26T00:00:00Z
   rating: 6
 - name: Our Little Secret
-  date: 2024-12-25
+  date: 2024-12-25T00:00:00Z
   rating: 6
 - name: Moana 2
   date: 2024-12-22T12:15:00+01:00
   rating: 8
   location: Lab-1
-  room: 2
-  row: 3
-  seat: 6
+  room: "2"
+  row: "3"
+  seat: "6"
 - name: Flow
   date: 2024-12-21T14:30:00+01:00
   rating: 8
   location: Lab-1
-  room: 2
-  row: 3
-  seat: 4
+  room: "2"
+  row: "3"
+  seat: "4"
 - name: Wicked
-  date: 2024-12-14
+  date: 2024-12-14T00:00:00Z
   rating: 8
 - name: Heretic
   date: 2024-12-12T19:00:00+01:00
   rating: 8
   location: Lab-1
-  room: 5
-  row: 8
-  seat: 5
+  room: "5"
+  row: "8"
+  seat: "5"
 - name: Conclave
   date: 2024-12-08T11:30:00+01:00
   rating: 8
   location: Natlab
-  room: 4
+  room: "4"
   row: E
-  seat: 3
+  seat: "3"
 - name: Here
   date: 2024-11-29T20:40:00+01:00
   rating: 8
   location: Natlab
-  room: 2
+  room: "2"
   row: G
-  seat: 4
+  seat: "4"
 - name: 'Juror #2'
-  rating: 10
   date: 2024-11-20T18:30:00+01:00
-  location: Natlab
-  room: 3
-  row: D
-  seat: 8
-- name: The Wild Robot
   rating: 10
+  location: Natlab
+  room: "3"
+  row: D
+  seat: "8"
+- name: The Wild Robot
   date: 2024-10-28T19:00:00+01:00
+  rating: 10
   location: Lab-1
 - name: 'Glass Onion: A Knives Out Mystery'
+  date: 2024-10-20T00:00:00Z
   rating: 8
-  date: 2024-10-20
 - name: 'Dertigers: de Kerstfilm'
+  date: 2024-10-14T00:00:00Z
   rating: 6
-  date: 2024-10-14
 - name: 'Joker: Folie à Deux'
-  rating: 6
   date: 2024-10-13T16:00:00+02:00
-  location: Natlab
-  room: 1
-  row: F
-  seat: 4
-- name: Joker
   rating: 6
-  date: 2024-10-08
+  location: Natlab
+  room: "1"
+  row: F
+  seat: "4"
+- name: Joker
+  date: 2024-10-08T00:00:00Z
+  rating: 6
 - name: Strange Darling
-  rating: 8
   date: 2024-10-05T21:00:00+02:00
+  rating: 8
   location: Natlab
 - name: The Substance
-  rating: 8
   date: 2024-09-28T20:20:00+02:00
+  rating: 8
   location: Natlab
   room: Podiumzaal
   row: J
-  seat: 7
+  seat: "7"
 - name: Beetlejuice
+  date: 2024-09-22T00:00:00Z
   rating: 8
-  date: 2024-09-22
 - name: Uglies
+  date: 2024-09-17T00:00:00Z
   rating: 4
-  date: 2024-09-17
 - name: Beetlejuice Beetlejuice
-  rating: 8
   date: 2024-09-14T20:40:00+02:00
+  rating: 8
   location: Natlab
-  room: 3
+  room: "3"
   row: D
-  seat: 3
+  seat: "3"
 - name: The Darkest Minds
+  date: 2024-09-08T00:00:00Z
   rating: 6
-  date: 2024-09-08
 - name: Blink Twice
-  rating: 8
   date: 2024-09-03T18:45:00+02:00
+  rating: 8
   location: Lab-1
-  room: 1
-  row: 2
-  seat: 16
+  room: "1"
+  row: "2"
+  seat: "16"
 - name: MaXXXine
-  rating: 8
   date: 2024-08-25T18:20:00+02:00
+  rating: 8
   location: Lab-1
-  room: 2
-  row: 4
-  seat: 4
+  room: "2"
+  row: "4"
+  seat: "4"
 - name: Kinds of Kindness
-  rating: 8
   date: 2024-08-17T20:15:00+02:00
+  rating: 8
   location: Natlab
-  room: 3
+  room: "3"
   row: D
-  seat: 1
+  seat: "1"
 - name: Love Lies Bleeding
-  rating: 6
   date: 2024-08-08T21:30:00+02:00
+  rating: 6
   location: Outside
-- name: 'Deadpool & Wolverine'
-  rating: 10
+- name: Deadpool & Wolverine
   date: 2024-08-04T14:10:00+02:00
-  location: Lab-1
-  room: 3
-  row: 8
-  seat: 5
-- name: Inside Out 2
   rating: 10
+  location: Lab-1
+  room: "3"
+  row: "8"
+  seat: "5"
+- name: Inside Out 2
   date: 2024-07-12T19:20:00+02:00
+  rating: 10
   location: Lab-1
-  room: 2
-  row: 1
-  seat: 6
+  room: "2"
+  row: "1"
+  seat: "6"
 - name: Inside Out
+  date: 2024-06-29T00:00:00Z
   rating: 8
-  date: 2024-06-29
 - name: Civil War
-  rating: 8
   date: 2024-05-24T16:50:00+02:00
+  rating: 8
   location: Natlab
-  room: 1
+  room: "1"
   row: D
-  seat: 7
+  seat: "7"
 - name: Mother of the Bride
+  date: 2024-05-20T00:00:00Z
   rating: 6
-  date: 2024-05-20
 - name: Alles is nog steeds zoals het zou moeten zijn
+  date: 2024-05-20T00:00:00Z
   rating: 6
-  date: 2024-05-20
 - name: The Others
+  date: 2024-05-10T00:00:00Z
   rating: 8
-  date: 2024-05-10
 - name: Irish Wish
+  date: 2024-04-27T00:00:00Z
   rating: 6
-  date: 2024-04-27
 - name: Free Guy
+  date: 2024-04-27T00:00:00Z
   rating: 6
-  date: 2024-04-27
 - name: Wish
+  date: 2024-04-20T00:00:00Z
   rating: 6
-  date: 2024-04-20
 - name: Kung Fu Panda 4
-  rating: 8
   date: 2024-04-14T10:00:00+02:00
+  rating: 8
   location: Lab-1
-  room: 4
-  row: 6
-  seat: 4
+  room: "4"
+  row: "6"
+  seat: "4"
 - name: La Chimera
-  rating: 8
   date: 2024-04-08T20:20:00+02:00
+  rating: 8
   location: Natlab
-  room: 4
+  room: "4"
   row: D
-  seat: 9
+  seat: "9"
 - name: Kung Fu Panda 3
+  date: 2024-04-06T00:00:00Z
   rating: 8
-  date: 2024-04-06
 - name: Kung Fu Panda 2
+  date: 2024-04-01T00:00:00Z
   rating: 8
-  date: 2024-04-01
-- name: Kung Fu Panda
-  rating: 8
-  date: 2024-03-29
 - name: Humanist Vampire Seeking Consenting Suicidal Person
-  rating: 8
   date: 2024-03-29T11:30:00+02:00
+  rating: 8
   location: Lab-1
+- name: Kung Fu Panda
+  date: 2024-03-29T00:00:00Z
+  rating: 8
 - name: Dream Scenario
-  rating: 6
   date: 2024-03-22T20:00:00+01:00
+  rating: 6
   location: Natlab
 - name: Robot Dreams
   date: 2024-03-10T10:00:00+01:00
   rating: 8
   location: Lab-1
-  room: 4
-  row: 9
-  seat: 5
-- name: "Dune: Part Two"
+  room: "4"
+  row: "9"
+  seat: "5"
+- name: 'Dune: Part Two'
   date: 2024-03-03T19:30:00+01:00
   rating: 10
   location: LUX
 - name: Spirited Away
+  date: 2024-03-01T00:00:00Z
   rating: 8
-  date: 2024-03-01
 - name: The Zone of Interest
-  rating: 6
   date: 2024-02-28T19:00:00+01:00
+  rating: 6
   location: Natlab
-- name: "Dune: Part One"
-  date: 2024-02-17
+- name: 'Dune: Part One'
+  date: 2024-02-17T00:00:00Z
   rating: 8
 - name: The Boy and the Heron
   date: 2024-02-16T16:40:00+01:00
   rating: 8
   location: Lab-1
-  room: 3
-  row: 6
-  seat: 3
+  room: "3"
+  row: "6"
+  seat: "3"
 - name: Poor Things
   date: 2024-02-14T20:00:00+01:00
   rating: 8
   location: Natlab
   room: Auditorium
   row: H
-  seat: 3
+  seat: "3"
 - name: All of Us Strangers
-  date: 2024-02-05
+  date: 2024-02-05T00:00:00Z
   rating: 8
 - name: De Luizenmoeder
-  date: 2024-01-21
+  date: 2024-01-21T00:00:00Z
   rating: 6
 - name: Mean Girls (2024)
-  date: 2024-01-19
+  date: 2024-01-19T00:00:00Z
   rating: 6
 - name: Wonka
-  date: 2024-01-13
+  date: 2024-01-13T00:00:00Z
   rating: 8
   location: Pathé Eindhoven
-  room: 6
-  row: 4
-  seat: 8
+  room: "6"
+  row: "4"
+  seat: "8"
 - name: Aquaman
-  date: 2024-01-11
+  date: 2024-01-11T00:00:00Z
   rating: 6
 - name: Mean Girls
-  date: 2024-01-05
+  date: 2024-01-05T00:00:00Z
   rating: 6
   location: Pathé Eindhoven
-  room: 5
-  row: 5
-  seat: 5
+  room: "5"
+  row: "5"
+  seat: "5"
 - name: Happy Ending
-  date: 2023-12-29
+  date: 2023-12-29T00:00:00Z
   rating: 6
 - name: 'Top Gun: Maverick'
-  date: 2023-12-27
+  date: 2023-12-27T00:00:00Z
   rating: 8
 - name: Leave The World Behind
-  date: 2023-12-15
+  date: 2023-12-15T00:00:00Z
   rating: 6
 - name: 'The Hunger Games: The Ballad of Songbirds & Snakes'
-  date: 2023-11-18
+  date: 2023-11-18T00:00:00Z
   rating: 8
   location: Pathé Eindhoven
-  room: 8
-  row: 6
-  seat: 12
+  room: "8"
+  row: "6"
+  seat: "12"
 - name: Paradise
-  date: 2023-11-10
+  date: 2023-11-10T00:00:00Z
   rating: 6
 - name: Sonic the Hedgehog 2
-  date: 2023-10-21
+  date: 2023-10-21T00:00:00Z
   rating: 6
 - name: Downsizing
-  date: 2023-09-30
+  date: 2023-09-30T00:00:00Z
   rating: 6
 - name: Marry My Dead Body
-  date: 2023-08-30
+  date: 2023-08-30T00:00:00Z
   rating: 6
 - name: You Are So Not Invited To My Bat Mitzvah
-  date: 2023-08-30
+  date: 2023-08-30T00:00:00Z
   rating: 6
-- name: 'Guardians of the Galaxy Vol. 3'
-  date: 2023-08-25
+- name: Guardians of the Galaxy Vol. 3
+  date: 2023-08-25T00:00:00Z
   rating: 8
 - name: Oppenheimer
-  date: 2023-08-20
+  date: 2023-08-20T00:00:00Z
   rating: 8
   location: Vue Eindhoven
-  room: 6
-  row: 9
-  seat: 9
-- name: 'Red, White & Royal Blue'
-  date: 2023-08-13
+  room: "6"
+  row: "9"
+  seat: "9"
+- name: Red, White & Royal Blue
+  date: 2023-08-13T00:00:00Z
   rating: 8
 - name: Murder on the Oriente Express
-  date: 2023-07-31
+  date: 2023-07-31T00:00:00Z
   rating: 8
 - name: Barbie
-  date: 2023-07-20
+  date: 2023-07-20T00:00:00Z
   rating: 10
   location: Vue Eindhoven
-  room: 7
-  row: 8
-  seat: 4
+  room: "7"
+  row: "8"
+  seat: "4"
 - name: Growing Up Gay
-  date: 2023-07-19
+  date: 2023-07-19T00:00:00Z
   rating: 8
 - name: Elemental
-  date: 2023-07-17
+  date: 2023-07-17T00:00:00Z
   rating: 10
 - name: We Have a Ghost
-  date: 2023-07-04
+  date: 2023-07-04T00:00:00Z
   rating: 8
-- name: "Ant-Man and The Wasp: Quantumania"
-  date: 2023-07-03
+- name: 'Ant-Man and The Wasp: Quantumania'
+  date: 2023-07-03T00:00:00Z
   rating: 10
 - name: The Little Mermaid
-  date: 2023-07-02
+  date: 2023-07-02T00:00:00Z
   rating: 8
   location: Pathé Eindhoven
-  room: 6
-  row: 4
-  seat: 7
+  room: "6"
+  row: "4"
+  seat: "7"
 - name: Eternals
-  date: 2023-07-02
+  date: 2023-07-02T00:00:00Z
   rating: 10
 - name: Shang-Chi and the Legend of the Ten Rings
-  date: 2023-07-02
+  date: 2023-07-02T00:00:00Z
   rating: 10
 - name: Bullet Train
-  date: 2023-05-07
+  date: 2023-05-07T00:00:00Z
   rating: 8
 - name: Murder Mystery 2
-  date: 2023-04-02
+  date: 2023-04-02T00:00:00Z
   rating: 6
 - name: Wakanda Forever
-  date: 2023-02-16
+  date: 2023-02-16T00:00:00Z
   rating: 8
 - name: M3GAN
-  date: 2023-01-22
+  date: 2023-01-22T00:00:00Z
   rating: 8
 - name: A Kindhearted Christmas
-  date: 2022-12-28
+  date: 2022-12-28T00:00:00Z
   rating: 6
 - name: Too Close for Christmas
-  date: 2022-12-27
+  date: 2022-12-27T00:00:00Z
   rating: 6
 - name: The Holiday
   date: 2022-12-25T23:01:00+01:00
   rating: 8
 - name: I Believe in Santa
-  date: 2022-12-25
+  date: 2022-12-25T00:00:00Z
   rating: 6
-- name: 'The Noel Diary'
-  date: 2022-12-23
+- name: The Noel Diary
+  date: 2022-12-23T00:00:00Z
   rating: 6
 - name: 'Avatar: The Way of Water'
-  date: 2022-12-20
+  date: 2022-12-20T00:00:00Z
   rating: 10
   location: Pathé Eindhoven
-  room: 1
-  row: 3
-  seat: 14
+  room: "1"
+  row: "3"
+  seat: "14"
 - name: Slumberland
-  date: 2022-12-16
+  date: 2022-12-16T00:00:00Z
   rating: 8
 - name: Falling for Christmas
   date: 2022-12-11T17:18:44Z
@@ -711,9 +704,9 @@
 - name: 'Thor: Love and Thunder'
   date: 2022-08-10T12:06:14Z
   location: Vue Eindhoven
-  room: 6
-  row: 9
-  seat: 11
+  room: "6"
+  row: "9"
+  seat: "11"
 - name: Purple Hearts
   date: 2022-07-30T14:55:25Z
 - name: Tall Girl 2
@@ -731,23 +724,23 @@
   date: 2022-05-07T13:54:26Z
   rating: 8
   location: Vue Eindhoven
-  room: 1
-  row: 3
-  seat: 8
+  room: "1"
+  row: "3"
+  seat: "8"
 - name: Doctor Strange in the Multiverse of Madness
   date: 2022-05-05T11:09:31Z
   location: Vue Eindhoven
-  room: 6
-  row: 4
-  seat: 12
+  room: "6"
+  row: "4"
+  seat: "12"
 - name: 'Escape Room: Tournament of Champions'
   date: 2022-05-03T17:32:35Z
 - name: 'Fantastic Beasts: The Secrets of Dumbledore'
   date: 2022-04-08T19:59:44Z
   location: Vue Eindhoven
-  room: 3
-  row: 6
-  seat: 9
+  room: "3"
+  row: "6"
+  seat: "9"
 - name: The Adam Project
   date: 2022-04-02T21:32:20Z
 - name: Turning Red
@@ -755,9 +748,9 @@
 - name: 'Spider-Man: No Way Home'
   date: 2022-03-05T17:44:05Z
   location: Pathé Eindhoven
-  room: 6
-  row: 6
-  seat: 10
+  room: "6"
+  row: "6"
+  seat: "10"
 - name: Bem Bom
   date: 2022-03-05T12:46:24Z
 - name: Compartment No. 6
@@ -767,9 +760,9 @@
 - name: The Matrix Resurrections
   date: 2022-02-12T11:29:20Z
   location: Pathé Eindhoven
-  room: 1
-  row: 11
-  seat: 7
+  room: "1"
+  row: "11"
+  seat: "7"
 - name: Brazen
   date: 2022-01-23T16:06:02Z
 - name: 'Ice Age: Continental Drift'
@@ -1003,8 +996,8 @@
 - name: 'Jumanji: The Next Level'
   date: 2019-12-29T11:06:30Z
 - name: 'Variações: Guardian Angel'
-  rating: 10
   date: 2019-12-22T22:01:41Z
+  rating: 10
 - name: Can You Keep a Secret?
   date: 2019-12-21T00:08:42Z
 - name: Where'd You Go, Bernadette
@@ -1026,8 +1019,8 @@
 - name: The Last Summer
   date: 2019-09-04T13:53:32Z
 - name: Rocketman
-  rating: 8
   date: 2019-08-24T23:03:31Z
+  rating: 8
 - name: Juanita
   date: 2019-08-16T22:12:35Z
 - name: Wine Country
@@ -1070,8 +1063,8 @@
   date: 2019-02-11T17:52:24Z
   location: Vue Cambridge
 - name: Boy Erased
-  rating: 10
   date: 2019-01-26T22:10:17Z
+  rating: 10
 - name: Escape Room
   date: 2019-01-22T23:23:44Z
 - name: 'John Wick: Chapter 2'
@@ -1217,8 +1210,8 @@
 - name: Life of the Party
   date: 2018-07-09T12:24:25Z
 - name: Incredibles 2
-  rating: 10
   date: 2018-07-06T17:57:38Z
+  rating: 10
 - name: The Incredibles
   date: 2018-07-03T15:53:50Z
 - name: Colossal
@@ -1228,20 +1221,20 @@
 - name: Alex Strangelove
   date: 2018-06-14T23:12:21Z
 - name: BPM (Beats per Minute)
-  rating: 6
   date: 2018-06-11T18:18:55Z
+  rating: 6
 - name: Center of My World
   date: 2018-06-09T14:23:35Z
 - name: Boys
-  rating: 8
   date: 2018-06-08T21:24:04Z
+  rating: 8
 - name: God's Own Country
   date: 2018-06-07T22:01:13Z
 - name: Handsome Devil
   date: 2018-06-07T14:45:13Z
 - name: How to Talk to Girls at Parties
-  rating: 4
   date: 2018-06-05T22:00:07Z
+  rating: 4
 - name: Moonlight
   date: 2018-06-04T18:12:19Z
 - name: Call Me by Your Name
@@ -1275,8 +1268,8 @@
 - name: Loving Vincent
   date: 2017-12-08T12:19:50Z
 - name: 'Kingsman: The Golden Circle'
-  rating: 8
   date: 2017-09-22T00:00:00Z
+  rating: 8
 - name: The Hitman's Bodyguard
   date: 2017-08-18T00:00:00Z
 - name: The Mummy
@@ -1286,8 +1279,8 @@
 - name: 'Dragonheart: Battle for the Heartfire'
   date: 2017-08-11T23:06:54Z
 - name: The Student
-  rating: 4
   date: 2017-08-09T16:06:08Z
+  rating: 4
 - name: Frequency
   date: 2017-08-08T17:03:30Z
 - name: 'King Arthur: Legend of the Sword'
@@ -1333,11 +1326,11 @@
 - name: The Shack
   date: 2017-03-03T00:00:00Z
 - name: Inferno
-  rating: 8
   date: 2017-02-23T20:54:19Z
+  rating: 8
 - name: Inception
-  rating: 10
   date: 2017-02-23T20:49:28Z
+  rating: 10
 - name: The Great Wall
   date: 2017-02-17T00:00:00Z
 - name: Fantastic Beasts and Where to Find Them
