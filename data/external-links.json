@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 102,
+    "count": 113,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -398,6 +398,50 @@
       {
         "sourceUrl": "https://hacdias.com/2026/08/31/recently/",
         "targetUrl": "https://github.com/filebrowser/filebrowser"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/27/command-execution/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-x8jc-jvqm-pm3f"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/27/command-execution/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-7526-j432-6ppp"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/27/command-execution/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-w7qc-6grj-w7r8"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/27/command-execution/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-3q2w-42mv-cph4"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/27/command-execution/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-8c9q-7855-wfxq"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/27/command-execution/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-hc8f-m8g5-8362"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/27/command-execution/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-jvpw-637p-h3pw"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/27/command-execution/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-m93h-4hw7-5qcm"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/27/command-execution/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser/commit/34ae34e"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/27/command-execution/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-39cx-23x9-5c8p"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/27/command-execution/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser/issues/5199"
       },
       {
         "sourceUrl": "https://hacdias.com/about/",
@@ -3434,6 +3478,16 @@
     ]
   },
   {
+    "domain": "go.dev",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/27/command-execution/",
+        "targetUrl": "https://pkg.go.dev/os/exec"
+      }
+    ]
+  },
+  {
     "domain": "godaddy.com",
     "count": 1,
     "links": [
@@ -3600,6 +3654,16 @@
       {
         "sourceUrl": "https://hacdias.com/2022/10/31/recently/",
         "targetUrl": "https://2022.ipfs.camp/"
+      }
+    ]
+  },
+  {
+    "domain": "iso.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/20/summer-failure/",
+        "targetUrl": "https://www.iso.org/standard/69084.html"
       }
     ]
   },
@@ -4070,6 +4134,16 @@
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
         "targetUrl": "http://papers-we-love.github.io/"
+      }
+    ]
+  },
+  {
+    "domain": "paradym.id",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/",
+        "targetUrl": "https://paradym.id/"
       }
     ]
   },
