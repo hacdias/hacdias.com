@@ -1,7 +1,6 @@
 ---
-title: "Managing My Website's Logs with MCP"
+title: Managing My Website's Logs with MCP
 date: 2026-10-17T09:30:00+02:00
-thumbnail: image:2026-10-17-mcp-1
 categories:
   - writings
 tags:
@@ -10,6 +9,7 @@ tags:
   - artificial intelligence
   - go
   - tracking
+thumbnail: image:2026-10-17-mcp-1
 ---
 
 Yesterday I added an MCP server to Eagle, my website's Go backend. Now I can manage the logs on my website much more easily: I can just snap a picture of a cinema ticket and ask Claude to add it to my website.
@@ -19,7 +19,7 @@ Yesterday I added an MCP server to Eagle, my website's Go backend. Now I can man
 ![Logging Film From Ticket](image:2026-10-17-mcp-2)
 {width="1326" height="2742" class="right"}
 
-The main driver was me wanting to try out how MCP servers worked and get some hands-on experience with AI agents and how they interact with APIs. My usual problem with these sorts of challenges is finding something that is actually useful. I like learning while doing something useful, it helps with retention.
+The main driver was me wanting to try out how <abbr title="Model Context Protocol">MCP</abbr> servers worked and get some hands-on experience with AI agents and how they interact with APIs. My usual problem with these sorts of challenges is finding something that is actually useful. I like learning while doing something useful, it helps with retention.
 
 Until yesterday, when I wanted to log a movie, series, live performance, or book reading, I would usually go to the web editor I have for my website and update the file there. It's just a `<textarea>` with absolutely no syntax highlighting. I usually use it for quick edits on the go. At home, I'd probably just update it locally and push it.
 
