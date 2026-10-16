@@ -1,0 +1,49 @@
+{{- /* Photo strip card on top of assets/og/photos.jpg (see `make og`). Takes a
+  dict with "photos", "title" and "accent" (date or path, may be empty).
+  Returns false if any photo can't be fetched. */}}
+{{- $n := len .photos }}
+{{- $photos := first 3 .photos }}
+{{- $w := div (sub 1200 (mul 6 (sub (len $photos) 1))) (len $photos) }}
+{{- $filters := slice }}
+{{- $ok := true }}
+{{- range $i, $p := $photos }}
+  {{- with partial "og/photo.html" $p }}
+    {{- $tile := .Fill (printf "%dx490 Smart" $w) }}
+    {{- if and (eq $i 2) (gt $n 3) }}
+      {{- $tile = $tile | images.Filter
+        (images.Overlay (resources.Get "og/shade.png") 0 0)
+        (images.Text (printf "+%d" (sub $n 3)) (dict "font" (resources.Get "fonts/Inter-Bold.ttf") "size" 80 "color" "#ffffff" "x" (div $w 2) "y" 196 "alignx" "center"))
+      }}
+    {{- end }}
+    {{- /* Hugo keys a processed image differently once it's read back from the
+      cache, so overlay a copy to keep the card's key stable between builds. */}}
+    {{- $tile = resources.FromString (printf "og/%s" (path.Base $tile.RelPermalink)) $tile.Content }}
+    {{- $filters = $filters | append (images.Overlay $tile (mul $i (add $w 6)) 0) }}
+  {{- else }}
+    {{- $ok = false }}
+  {{- end }}
+{{- end }}
+
+{{- $title := .title | replaceRE `[\x{1F000}-\x{1FAFF}\x{2600}-\x{27BF}\x{FE0F}\x{200D}]` "" | strings.TrimSpace | truncate 44 "…" | htmlUnescape }}
+{{- $filters = $filters | append (images.Text $title (dict "font" (resources.Get "fonts/Inter-Bold.ttf") "size" 34 "color" "#1a1a1a" "x" 56 "y" 518)) }}
+
+{{- /* Meta line: accent, then "· N photos" one monospace column after it. */}}
+{{- $mono := dict "font" (resources.Get "fonts/JetBrainsMono-Regular.ttf") "size" 22 "color" "#6b6560" "y" 572 }}
+{{- $count := cond (gt $n 1) (printf "%d photos" $n) "" }}
+{{- $x := 56 }}
+{{- with .accent }}
+  {{- $filters = $filters | append (images.Text . (merge $mono (dict "x" 56 "color" "#ae4829"))) }}
+  {{- $x = math.Round (add 56 (mul (add (len .) 1) 13.2)) }}
+  {{- with $count }}
+    {{- $count = printf "· %s" . }}
+  {{- end }}
+{{- end }}
+{{- with $count }}
+  {{- $filters = $filters | append (images.Text . (merge $mono (dict "x" $x))) }}
+{{- end }}
+
+{{- $img := false }}
+{{- if $ok }}
+  {{- $img = images.Filter $filters (resources.Get "og/photos.jpg") }}
+{{- end }}
+{{- return $img }}

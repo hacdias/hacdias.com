@@ -1,0 +1,30 @@
+{{- $img := false }}
+{{- $alt := .Title }}
+{{- $date := .Date.Format "Mon 2 Jan 2006" }}
+{{- if .IsHome }}
+  {{- $img = resources.Get "og/home.jpg" }}
+  {{- $alt = "Henrique Dias" }}
+{{- else if eq .RelPermalink "/photos/" }}
+  {{- $photos := slice }}
+  {{- range .Pages }}
+    {{- $photos = $photos | append .Params.photos }}
+  {{- end }}
+  {{- $img = partial "og/strip.html" (dict "photos" $photos "title" .Title "accent" .RelPermalink) }}
+{{- else if and .IsPage .Params.photos }}
+  {{- $opts := dict "photos" .Params.photos "title" .Title "accent" $date }}
+  {{- if not .Title }}
+    {{- $opts = dict "photos" .Params.photos "title" $date "accent" "" }}
+    {{- $alt = (index .Params.photos 0).alt }}
+  {{- end }}
+  {{- $img = partial "og/strip.html" $opts }}
+{{- end }}
+{{- if not $img }}
+  {{- $header := cond (and .IsPage (eq .Section "posts")) $date .RelPermalink }}
+  {{- $img = partial "og/text.html" (dict "title" .Title "header" $header) }}
+{{- end }}
+
+<meta property='og:image' content='{{ $img.Permalink }}' />
+<meta property='og:image:width' content='{{ $img.Width }}' />
+<meta property='og:image:height' content='{{ $img.Height }}' />
+<meta property='og:image:alt' content='{{ $alt }}' />
+<meta name='twitter:card' content='summary_large_image' />

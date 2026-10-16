@@ -1,0 +1,11 @@
+{{- /* Text card on top of assets/og/text.png (see `make og`).
+  Takes a dict with "title" and "header" (the date or the page path). */}}
+{{- $title := .title | replaceRE `[\x{1F000}-\x{1FAFF}\x{2600}-\x{27BF}\x{FE0F}\x{200D}]` "" | strings.TrimSpace | truncate 64 "…" | htmlUnescape }}
+{{- /* images.Text wraps at (width - 20 - x), so draw on a 1140px crop for an
+  80px right margin, then pad back to 1200px. */}}
+{{- return images.Filter
+  (images.Text .header (dict "font" (resources.Get "fonts/JetBrainsMono-Regular.ttf") "size" 24 "color" "#ae4829" "x" 80 "y" 96))
+  (images.Text $title (dict "font" (resources.Get "fonts/Inter-Bold.ttf") "size" 64 "color" "#1a1a1a" "x" 80 "y" 160 "linespacing" 12))
+  (images.Padding 0 60 0 0 "#fafaf9")
+  ((resources.Get "og/text.png").Crop "1140x630 TopLeft")
+}}
