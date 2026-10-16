@@ -1,9 +1,12 @@
 [
   {
     "name": "Toutes Directions",
-    "date": "2026-10-04T17:00:00+02:00",
+    "date": "2026-10-04T15:00:00+02:00",
     "rating": 7,
-    "location": "Natlab"
+    "location": "Natlab",
+    "room": "Main Stage",
+    "row": "J",
+    "seat": "6"
   },
   {
     "name": "A Nice Indian Boy",
@@ -686,9 +689,12 @@
   },
   {
     "name": "Humanist Vampire Seeking Consenting Suicidal Person",
-    "date": "2024-03-29T11:30:00+02:00",
+    "date": "2024-03-29T11:30:00+01:00",
     "rating": 8,
-    "location": "Lab-1"
+    "location": "Lab-1",
+    "room": "5",
+    "row": "8",
+    "seat": "4"
   },
   {
     "name": "Kung Fu Panda",
