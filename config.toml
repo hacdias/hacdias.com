@@ -137,6 +137,11 @@ printPathWarnings = true
   section = ['HTML']
   page = ['HTML']
 
+[caches]
+  [caches.getresource]
+    dir = ':resourceDir/_gen'
+    maxAge = -1
+
 [services]
   [services.rss]
     limit = 10

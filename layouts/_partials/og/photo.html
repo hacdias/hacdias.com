@@ -1,0 +1,17 @@
+{{- /* Returns the source image resource for a photo, or false if unavailable. */}}
+{{- $res := false }}
+{{- $url := urls.Parse .url }}
+{{- $src := .url }}
+{{- if eq $url.Scheme "image" }}
+  {{- $src = printf "https://media.hacdias.com/image/1800/%s.jpeg" $url.Opaque }}
+{{- end }}
+{{- with try (resources.GetRemote $src) }}
+  {{- with .Err }}
+    {{- warnf "og: failed to fetch %s: %s" $src . }}
+  {{- else with .Value }}
+    {{- $res = . }}
+  {{- else }}
+    {{- warnf "og: %s not found" $src }}
+  {{- end }}
+{{- end }}
+{{- return $res }}

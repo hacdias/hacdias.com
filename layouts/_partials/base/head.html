@@ -17,17 +17,7 @@
 <meta property='og:site_name' content='{{ .Site.Title }}' />
 <meta name="fediverse:creator" content="{{ .Site.Params.author.fediverse }}" />
 
-{{ $imageUrl := or .Params.thumbnail (index (index .Params.photos 0) "url") }}
-{{ with $imageUrl }}
-  {{ $url := urls.Parse . }}
-  {{ $src := "" }}
-  {{- if eq $url.Scheme "image" }}
-    {{- $src = printf "https://media.hacdias.com/image/1800/%s.jpeg" $url.Opaque }}
-  {{- else }}
-    {{- $src = printf "%s://%s%s" $url.Scheme $url.Host $url.Path }}
-  {{- end }}
-  <meta property='og:image' content='{{ $src | safeURL }}' />
-{{ end }}
+{{ partial "base/og-image.html" . }}
 
 {{ if not .Date.IsZero }}
   <meta property='article:published_time' content='{{ .Date.Format "2006-01-02T15:04:05-07:00" }}' />
