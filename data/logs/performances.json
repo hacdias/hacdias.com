@@ -244,7 +244,7 @@
     "rating": 8,
     "date": "2024-10-12T20:15:00+02:00",
     "location": "Muziekgebouw, Eindhoven, NL",
-    "category": "comedy"
+    "category": "comedy show"
   },
   {
     "name": "Dead Inside",
@@ -252,7 +252,7 @@
     "rating": 10,
     "date": "2024-10-04T20:00:00+02:00",
     "location": "Royal Theatre Carré, Amsterdam, NL",
-    "category": "comedy"
+    "category": "comedy show"
   },
   {
     "name": "Moulin Rouge! De Musical",
@@ -275,7 +275,7 @@
     "rating": 8,
     "date": "2024-02-09T20:30:00+01:00",
     "location": "Pand P, Eindhoven, NL",
-    "category": "comedy"
+    "category": "comedy show"
   },
   {
     "name": "COCK",
@@ -306,7 +306,7 @@
     "rating": 10,
     "date": "2023-08-03T19:30:00+02:00",
     "location": "Theater Amsterdam, Amsterdam, NL",
-    "category": "comedy"
+    "category": "comedy show"
   },
   {
     "name": "Foundscape Orchestra",
@@ -337,7 +337,7 @@
     "rating": 10,
     "date": "2023-03-14T18:30:00+01:00",
     "location": "Holy Moly Club, Breda, NL",
-    "category": "comedy"
+    "category": "comedy show"
   },
   {
     "author": "Caroline Polachek",
@@ -362,7 +362,7 @@
     "rating": 8,
     "date": "2022-11-16T20:00:00+01:00",
     "location": "AFAS Live, Amsterdam, NL",
-    "category": "comedy"
+    "category": "comedy show"
   },
   {
     "name": "Dirt Femme Tour",
@@ -381,7 +381,7 @@
     "rating": 10,
     "date": "2022-08-04T21:00:00+02:00",
     "location": "Theater Amsterdam, Amsterdam, NL",
-    "category": "comedy"
+    "category": "comedy show"
   },
   {
     "name": "The Chromatica Ball",
