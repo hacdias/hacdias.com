@@ -146,6 +146,7 @@ h5 {
 
 h1 {
   font-size: var(--f1);
+  text-wrap: pretty;
 }
 
 h2 {
