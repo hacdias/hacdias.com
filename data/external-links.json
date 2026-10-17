@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 113,
+    "count": 115,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -398,6 +398,14 @@
       {
         "sourceUrl": "https://hacdias.com/2026/08/31/recently/",
         "targetUrl": "https://github.com/filebrowser/filebrowser"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/17/mcp/",
+        "targetUrl": "https://github.com/modelcontextprotocol/go-sdk"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/17/mcp/",
+        "targetUrl": "https://github.com/hacdias/indielib/releases/tag/v0.6.0"
       },
       {
         "sourceUrl": "https://hacdias.com/2026/10/27/command-execution/",
@@ -2570,6 +2578,20 @@
     ]
   },
   {
+    "domain": "rfc-editor.org",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/17/mcp/",
+        "targetUrl": "https://www.rfc-editor.org/rfc/rfc9728"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/17/mcp/",
+        "targetUrl": "https://www.rfc-editor.org/rfc/rfc7591"
+      }
+    ]
+  },
+  {
     "domain": "semble.so",
     "count": 2,
     "links": [
@@ -3608,6 +3630,16 @@
     ]
   },
   {
+    "domain": "ietf.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/17/mcp/",
+        "targetUrl": "https://datatracker.ietf.org/doc/draft-ietf-oauth-client-id-metadata-document/"
+      }
+    ]
+  },
+  {
     "domain": "imasters.com.br",
     "count": 1,
     "links": [
@@ -3974,6 +4006,16 @@
       {
         "sourceUrl": "https://hacdias.com/2016/11/14/fundamentals-programming-language-c/",
         "targetUrl": "http://www.mingw.org/download/installer"
+      }
+    ]
+  },
+  {
+    "domain": "modelcontextprotocol.io",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/17/mcp/",
+        "targetUrl": "https://modelcontextprotocol.io/docs/2026-07-28/tools/inspector"
       }
     ]
   },
