@@ -12,7 +12,7 @@ tags:
 thumbnail: image:2026-10-17-mcp-1
 ---
 
-Yesterday I added an MCP server to Eagle, my website's Go backend. Now I can manage the logs on my website much more easily: I can just snap a picture of a cinema ticket and ask Claude to add it to my website.
+Yesterday I added an MCP server to Eagle, my website's Go backend. Now I can manage the [logs](/more/) on my website much more easily: I can just snap a picture of a cinema ticket and ask Claude to add it to my website.
 
 <!--more-->
 
@@ -47,7 +47,7 @@ While I was implementing authentication, it wasn't very clear to me which mechan
 
 The largest piece of work was actually updating my IndieAuth library to include full redirect URI discovery, which CIMD needs. Up until now I hadn't found a reason to fully implement this since I hadn't come across a use case where I needed this for myself, but there was indeed a `TODO` on the code that I had left there at the time. With this, `indielib@0.6.0` has [been released](https://github.com/hacdias/indielib/releases/tag/v0.6.0)!
 
-After implementing and massaging all the rough edges, it started working. It took a few minutes to start working in Claude, so I assumed they were just caching the authorization server's metadata because it started automagically working.
+After implementing and massaging all the rough edges, it started working. It only started working in Claude after a few minutes, so I assume they cache the authorization server’s metadata because it started automagically working.
 
 ## Designing the Tools
 
@@ -102,6 +102,4 @@ Something else that could be improved are the log getters, since I'm always retu
 
 All in all, it was quite straightforward - how often did I type this in this post? - to implement this MCP server. It's just an API with some bells and whistles. Almost everything is standard: OAuth authentication, JSON schemas, HTTP. No surprises there.
 
-Some of the considerations I noticed that are important to have is to make sure that the JSON Schema is clear, and that the descriptions of the fields are clear enough to make sure that whatever chat you're using makes the right decisions on the data.
-
-I was quite surprised and happy on how CIMD really matched what I had already implemented for IndieAuth. It's always fun when two different worlds collide!
+The main thing that I learned is that the JSON Schema and that the descriptions of the fields need are clear enough for the model to make the right decisions. I was quite surprised and happy on how CIMD really matched what I had already implemented for IndieAuth. It's always fun when two different worlds collide!
