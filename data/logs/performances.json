@@ -1,5 +1,17 @@
 [
   {
+    "name": "Serial Diva Tour",
+    "author": "Allie X",
+    "rating": 9,
+    "date": "2026-10-17T19:00:00+02:00",
+    "location": "Melkweg, Amsterdam, NL",
+    "category": "concert",
+    "supportingAct": [
+      "BEKS",
+      "Boyish"
+    ]
+  },
+  {
     "author": "S10",
     "rating": 7,
     "date": "2026-08-29T00:00:00Z",
