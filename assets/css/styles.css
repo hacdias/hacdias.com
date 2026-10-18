@@ -1022,6 +1022,8 @@ figure,
   }
 
   #container {
+    display: block;
+    min-height: 0;
     width: 100%;
     max-width: 100%;
     margin: 0;
@@ -1038,6 +1040,10 @@ figure,
   a:hover {
     background: none;
   }
+}
+
+@page {
+  margin: 1cm;
 }
 
 @keyframes available-pulse {
