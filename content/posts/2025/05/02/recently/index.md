@@ -13,8 +13,10 @@ categories:
 tags:
   - now
   - travel
+  - japan
   - cultures
-  - life
+  - health
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqd7gi3fxs2k
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lo6btcpbs2f4

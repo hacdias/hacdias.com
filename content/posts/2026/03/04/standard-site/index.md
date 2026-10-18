@@ -14,6 +14,7 @@ tags:
   - at protocol
   - social web
   - web
+  - meta
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mg7t5huhmc2t
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mg7t3tvo36bl

@@ -5,7 +5,6 @@ categories:
   - writings
 tags:
   - now
-  - life
   - health
   - reading
   - entertainment

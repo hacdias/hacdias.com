@@ -4,9 +4,10 @@ date: 2023-05-06T22:22:09+02:00
 categories:
   - writings
 tags:
-  - infrastructure
-  - museums
   - trains
+  - museums
+  - netherlands
+  - utrecht
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3jv3kojhrm2i4
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jv3kojhrm25c

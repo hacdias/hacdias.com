@@ -6,6 +6,7 @@ categories:
   - writings
 tags:
   - art
+  - programming
   - javascript
   - mathematics
 syndication:

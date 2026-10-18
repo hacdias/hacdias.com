@@ -4,9 +4,8 @@ date: 2025-10-26T09:20:38+01:00
 categories:
   - writings
 tags:
-  - recipe
-  - cake
   - cooking
+  - recipe
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3m43humncg2f4
 thumbnail: image:2025-10-26-bolo-de-cenoura

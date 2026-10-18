@@ -5,9 +5,6 @@ categories:
   - writings
 tags:
   - now
-  - art
-  - personal website
-  - life
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3j4psrer4dzln
 aliases:

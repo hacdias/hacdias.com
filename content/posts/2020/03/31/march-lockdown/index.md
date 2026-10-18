@@ -53,10 +53,9 @@ photos:
 categories:
   - photos
 tags:
-  - lockdown
-  - covid19
-  - hometown
   - portugal
+  - hometown
+  - covid19
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqw3ydxkb2e
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqw3zd7a326

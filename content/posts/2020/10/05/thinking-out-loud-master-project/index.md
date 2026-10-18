@@ -7,9 +7,10 @@ categories:
   - writings
 tags:
   - masters
-  - reflections
   - thesis
   - university
+  - reflections
+  - decentralization
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqn2jkz4x2u
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hkww5yfz22ct

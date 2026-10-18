@@ -7,7 +7,6 @@ categories:
   - writings
 tags:
   - meta
-  - personal website
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ciuxn6aps2ct
 ---

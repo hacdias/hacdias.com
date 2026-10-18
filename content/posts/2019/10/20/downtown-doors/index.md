@@ -8,9 +8,9 @@ photos:
 categories:
   - photos
 tags:
-  - architecture
   - portugal
   - lisbon
+  - architecture
   - urban
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rpuznbo24

@@ -4,10 +4,11 @@ date: 2024-01-10T18:33:27.841874546+01:00
 categories:
   - writings
 tags:
-  - government
   - identity
-  - personal growth
   - reflections
+  - personal growth
+  - government
+  - dutch
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kinfe4xc4m5c
   - https://fosstodon.org/@hacdias/111732926348776375

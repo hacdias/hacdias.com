@@ -6,9 +6,8 @@ date: 2020-02-22T22:05:00Z
 categories:
   - writings
 tags:
-  - meta
-  - reflections
   - year in popcorn
+  - meta
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqmyexrv42b
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gza7e6qys2ct

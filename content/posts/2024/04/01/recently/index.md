@@ -6,9 +6,12 @@ categories:
 tags:
   - now
   - travel
-  - theft
+  - germany
+  - switzerland
   - trains
-  - life
+  - language learning
+  - reading
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kp2movkqvzf4
 ---

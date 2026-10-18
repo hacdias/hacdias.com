@@ -4,11 +4,10 @@ date: 2021-02-01T09:00:00+01:00
 categories:
   - writings
 tags:
-  - masters
   - now
+  - masters
   - university
   - covid19
-  - life
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hucaytik22ct
 aliases:

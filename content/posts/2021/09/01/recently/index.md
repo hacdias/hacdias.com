@@ -6,8 +6,8 @@ categories:
 tags:
   - now
   - travel
+  - belgium
   - covid19
-  - life
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3iex3arlif5ct
 aliases:

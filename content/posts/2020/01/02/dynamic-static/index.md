@@ -4,9 +4,8 @@ date: 2020-01-02T23:40:00Z
 categories:
   - writings
 tags:
-  - indieweb
   - meta
-  - personal website
+  - indieweb
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqmxocmyo26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gva4v46x22ct

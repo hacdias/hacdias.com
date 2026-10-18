@@ -6,9 +6,10 @@ date: 2014-07-17T14:51:56Z
 categories:
   - writings
 tags:
-  - html
-  - mysql
+  - programming
   - php
+  - mysql
+  - html
   - portugues
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3bygn65fqs2ct

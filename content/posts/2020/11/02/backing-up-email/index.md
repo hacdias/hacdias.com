@@ -4,9 +4,9 @@ date: 2020-11-02T09:00:00+01:00
 categories:
   - writings
 tags:
+  - email
   - backup
-  - e mail
-  - security
+  - infrastructure
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hn5gl2kc22ct
 ---

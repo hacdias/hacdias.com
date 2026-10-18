@@ -50,7 +50,7 @@ categories:
 tags:
   - portugal
   - alentejo
-  - boats
+  - travel
   - ocean
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx3ixwez2q

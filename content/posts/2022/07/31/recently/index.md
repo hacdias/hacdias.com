@@ -5,9 +5,7 @@ categories:
   - writings
 tags:
   - now
-  - travel
-  - life
-  - people
+  - sports
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3j75ayik5alln
 aliases:

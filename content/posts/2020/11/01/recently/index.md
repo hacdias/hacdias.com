@@ -5,8 +5,8 @@ categories:
   - writings
 tags:
   - now
-  - life
-  - portugal
+  - cycling
+  - university
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hn2w453k22ct
 aliases:

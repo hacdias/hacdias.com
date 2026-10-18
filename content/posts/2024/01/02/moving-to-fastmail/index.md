@@ -4,8 +4,9 @@ date: 2024-01-02T17:54:54.613633361+01:00
 categories:
   - writings
 tags:
-  - e mail
+  - email
   - infrastructure
+  - dns
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3khz7ht76635c
 ---

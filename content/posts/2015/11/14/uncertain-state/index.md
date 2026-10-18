@@ -6,7 +6,7 @@ date: 2015-11-14T13:50:00Z
 categories:
   - writings
 tags:
-  - creative
+  - creative writing
   - reflections
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3d6k3tw46k2cz

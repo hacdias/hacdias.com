@@ -14,7 +14,6 @@ tags:
   - coffee
   - espresso coffee
   - art
-  - creative
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lvvdsuf2bg2o
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lvvcngpp22f4

@@ -6,6 +6,7 @@ categories:
   - writings
 tags:
   - go
+  - programming
   - indieweb
   - open source
 syndication:

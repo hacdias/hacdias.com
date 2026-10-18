@@ -4,10 +4,9 @@ date: 2024-07-12T12:58:10.081545086+02:00
 categories:
   - writings
 tags:
-  - meta
+  - personal website
   - milestones
   - personal growth
-  - personal website
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kx3f2oqosdf4
 ---

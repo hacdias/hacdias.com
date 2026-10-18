@@ -11,9 +11,9 @@ location:
 categories:
   - writings
 tags:
-  - fun
-  - indieweb
+  - small web
   - personal website
+  - fun
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m46kzpijiz2x
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3m46kx2gcc2f4

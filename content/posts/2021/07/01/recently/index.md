@@ -7,7 +7,6 @@ tags:
   - now
   - masters
   - university
-  - life
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ia3hklbb2vct
 aliases:

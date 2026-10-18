@@ -7,6 +7,7 @@ categories:
 tags:
   - networking
   - wireguard
+  - infrastructure
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hpdtmthc22ct
 ---

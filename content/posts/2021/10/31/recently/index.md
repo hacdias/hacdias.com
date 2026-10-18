@@ -7,9 +7,8 @@ categories:
 tags:
   - now
   - travel
+  - france
   - university
-  - life
-  - art
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ijpagdyunlct
 aliases:

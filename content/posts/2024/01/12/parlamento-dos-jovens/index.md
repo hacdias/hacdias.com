@@ -4,7 +4,8 @@ date: 2024-01-12T22:02:51+01:00
 categories:
   - writings
 tags:
-  - debating
+  - politics
+  - school
   - portugal
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kisryezxa2f4

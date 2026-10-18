@@ -8,9 +8,8 @@ categories:
   - writings
 tags:
   - work
-  - life
-  - reflections
   - tips
+  - reflections
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3czikh5h222ct
 ---

@@ -11,9 +11,7 @@ location:
 categories:
   - writings
 tags:
-  - language learning
-  - multilingualism
-  - educational
+  - languages
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lsdxrmnh3723
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lsdxri4txvf4

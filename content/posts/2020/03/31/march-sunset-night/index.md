@@ -25,10 +25,11 @@ photos:
 categories:
   - photos
 tags:
-  - sunset
-  - nature
   - portugal
   - hometown
+  - sunset
+  - night
+  - nature
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx247k2x2s
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3h46pta3xk2kz

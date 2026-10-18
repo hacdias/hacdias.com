@@ -4,9 +4,9 @@ date: 2016-11-11T00:00:00Z
 categories:
   - writings
 tags:
-  - computer science
-  - computers
+  - programming
   - fundamentals of programming
+  - computer science
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3e2zgpxh222ct
 ---

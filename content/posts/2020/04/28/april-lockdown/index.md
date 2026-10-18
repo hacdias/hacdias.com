@@ -34,6 +34,10 @@ photos:
     height: 2000
 categories:
   - photos
+tags:
+  - portugal
+  - hometown
+  - covid19
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx2kviii2u
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx2lst5h26

@@ -4,7 +4,6 @@ date: 2023-06-14T16:22:58.390314618+02:00
 categories:
   - writings
 tags:
-  - meta
   - security
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3jy4ys66mdecd

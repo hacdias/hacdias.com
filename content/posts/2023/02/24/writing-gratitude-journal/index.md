@@ -5,7 +5,7 @@ categories:
   - writings
 tags:
   - reflections
-  - second brain
+  - personal growth
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jphxt7e4ynln
 ---

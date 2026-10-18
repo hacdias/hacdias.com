@@ -5,9 +5,9 @@ noIndex: true
 categories:
   - writings
 tags:
-  - personal growth
-  - reflections
   - work
+  - reflections
+  - personal growth
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3krtdwsigo2f4
 ---

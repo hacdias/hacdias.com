@@ -5,6 +5,7 @@ categories:
   - writings
 tags:
   - year in popcorn
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3jld2ve3ms2cd
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jld2ve3ms2ln

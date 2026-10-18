@@ -5,6 +5,7 @@ categories:
   - writings
 tags:
   - c
+  - programming
   - computer science
   - data types
   - fundamentals of programming

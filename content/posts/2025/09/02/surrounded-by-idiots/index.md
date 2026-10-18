@@ -6,6 +6,7 @@ categories:
 tags:
   - reviews
   - book reviews
+  - non-fiction
   - personal growth
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lxuhsr7gq2f4

@@ -6,8 +6,10 @@ date: 2019-12-24T20:00:00Z
 categories:
   - writings
 tags:
-  - privacy
   - reflections
+  - indieweb
+  - personal website
+  - user agency
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqmwzafsc26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3guj4fgk622ct

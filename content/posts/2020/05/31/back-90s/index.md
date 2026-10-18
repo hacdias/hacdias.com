@@ -5,8 +5,9 @@ date: 2020-05-31T21:24:00Z
 categories:
   - writings
 tags:
+  - personal website
   - meta
-  - web3
+  - small web
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqmz7ttbz2s
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3haz37zdz22ct

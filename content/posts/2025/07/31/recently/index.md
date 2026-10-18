@@ -12,9 +12,9 @@ categories:
   - writings
 tags:
   - now
-  - life
+  - meta
   - health
-  - personal website
+  - reading
   - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lvbcj5dkyw27

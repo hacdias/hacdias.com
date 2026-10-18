@@ -5,9 +5,8 @@ categories:
   - writings
 tags:
   - now
-  - life
-  - entertainment
-  - covid19
+  - reading
+  - politics
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3iqy22lbmiyct
 aliases:

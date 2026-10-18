@@ -4,10 +4,11 @@ date: 2024-10-21T15:33:28+02:00
 categories:
   - writings
 tags:
+  - book reviews
+  - reviews
+  - non-fiction
   - cultures
   - personal growth
-  - reviews
-  - book reviews
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l6zmtekqk2f4
 rating: 8

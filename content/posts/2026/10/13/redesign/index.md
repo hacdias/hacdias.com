@@ -5,7 +5,6 @@ categories:
   - writings
 tags:
   - meta
-  - personal website
   - design
   - artificial intelligence
 syndication:

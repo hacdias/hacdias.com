@@ -6,6 +6,7 @@ date: 2014-07-20T10:41:11Z
 categories:
   - writings
 tags:
+  - programming
   - javascript
   - php
   - portugues

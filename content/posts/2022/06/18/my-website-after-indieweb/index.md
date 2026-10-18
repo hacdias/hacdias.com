@@ -6,7 +6,6 @@ categories:
 tags:
   - indieweb
   - meta
-  - personal website
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3j3rib3dffmln
 ---

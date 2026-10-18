@@ -4,9 +4,9 @@ date: 2023-06-12T09:26:30.096860512+02:00
 categories:
   - writings
 tags:
-  - educational
   - reviews
   - book reviews
+  - non-fiction
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jxxalmkvyw5c
   - https://fosstodon.org/@hacdias/110530107064412338

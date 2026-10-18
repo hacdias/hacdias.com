@@ -6,6 +6,8 @@ categories:
 tags:
   - inchecken
   - nederlands
+  - dutch
+  - language learning
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kif2yvuw225c
   - https://fosstodon.org/@hacdias/111714188031262494

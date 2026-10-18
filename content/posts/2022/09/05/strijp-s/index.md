@@ -18,7 +18,6 @@ tags:
   - eindhoven
   - architecture
   - urban
-  - design
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rxmrr3b2d
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3jbwy6lsqgukz

@@ -6,9 +6,10 @@ date: 2023-06-24T09:17:30+02:00
 categories:
   - writings
 tags:
-  - art
-  - creative
+  - programming
   - javascript
+  - art
+  - algorithms
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3jyvfokzho2cd
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jyvfokzho25c

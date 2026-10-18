@@ -11,7 +11,7 @@ location:
 categories:
   - writings
 tags:
-  - at-protocol
+  - at protocol
   - tools
   - links
 syndication:

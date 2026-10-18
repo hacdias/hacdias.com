@@ -5,10 +5,11 @@ categories:
   - writings
 tags:
   - now
-  - travel
-  - portugal
-  - work
-  - life
+  - university
+  - masters
+  - photography
+  - covid19
+  - meta
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hjtrcql5k2ct
 ---

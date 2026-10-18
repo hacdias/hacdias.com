@@ -12,9 +12,9 @@ categories:
   - writings
 tags:
   - artificial intelligence
-  - machine learning
-  - tools
+  - programming
   - meta
+  - tools
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mgzk5qh6mbam
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mgzk5qh6mbam

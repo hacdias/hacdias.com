@@ -12,9 +12,12 @@ categories:
   - writings
 tags:
   - now
-  - personal website
-  - fediverse
-  - life
+  - meta
+  - travel
+  - bulgaria
+  - health
+  - reading
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqjr3exer623
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lqjr2aghq2f4

@@ -34,8 +34,8 @@ categories:
 tags:
   - fire
   - long exposure
-  - sparks
   - night
+  - netherlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx7jmvch2b
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx7kf3uq26

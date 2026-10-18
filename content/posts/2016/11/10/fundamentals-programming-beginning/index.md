@@ -4,11 +4,10 @@ date: 2016-11-10T00:00:00Z
 categories:
   - writings
 tags:
-  - algorithms
-  - c
-  - computer science
-  - computers
+  - programming
   - fundamentals of programming
+  - algorithms
+  - computer science
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3e2wwazyc22ct
 ---

@@ -12,9 +12,11 @@ categories:
   - writings
 tags:
   - now
-  - entertainment
-  - life
+  - travel
+  - england
+  - london
   - health
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mncmeeegu2li
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mncmeeegu2li

@@ -5,9 +5,7 @@ lastmod: 2025-02-04T19:48:32+01:00
 categories:
   - writings
 tags:
-  - indieweb
   - meta
-  - personal website
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kiu45w22hgf4
   - https://news.indieweb.org/en

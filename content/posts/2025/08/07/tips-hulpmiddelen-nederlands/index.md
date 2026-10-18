@@ -4,9 +4,10 @@ date: 2025-08-07T09:00:00+02:00
 categories:
   - writings
 tags:
-  - nederlands
   - language learning
+  - dutch
   - tips
+  - nederlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lvs62rvb22f4
 ---

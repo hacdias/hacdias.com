@@ -12,8 +12,9 @@ categories:
   - writings
 tags:
   - open source
-  - reflections
+  - file browser
   - projects
+  - reflections
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lrl3uuk5nj2v
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lrl3upoodtf4

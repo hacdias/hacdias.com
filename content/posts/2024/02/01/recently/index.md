@@ -5,9 +5,12 @@ categories:
   - writings
 tags:
   - now
-  - personal website
-  - archival
-  - life
+  - meta
+  - language learning
+  - government
+  - health
+  - reading
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kkdsjyidu2f4
 ---

@@ -17,7 +17,6 @@ categories:
 tags:
   - portugal
   - lisbon
-  - stairs
   - architecture
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rpabwer2g

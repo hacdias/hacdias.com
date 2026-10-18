@@ -12,7 +12,7 @@ categories:
   - writings
 tags:
   - decentralization
-  - matrix
+  - infrastructure
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merb4wwbzi2q
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3j2raf7sfcdct

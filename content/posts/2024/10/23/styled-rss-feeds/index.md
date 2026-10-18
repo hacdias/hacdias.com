@@ -5,7 +5,6 @@ categories:
   - writings
 tags:
   - rss
-  - personal website
   - meta
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3l76sax2ji2li

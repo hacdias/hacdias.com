@@ -11,11 +11,11 @@ photos:
 categories:
   - photos
 tags:
+  - switzerland
+  - travel
   - snow
   - winter
-  - travel
   - mountains
-  - switzerland
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rq3aa3y23
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3gtsp6nxas2kz

@@ -4,10 +4,10 @@ date: 2026-03-11T19:27:39+01:00
 categories:
   - writings
 tags:
-  - reflections
+  - file browser
   - open source
   - projects
-  - file browser
+  - reflections
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mgsje5n76c2a
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mgsj7b3za2zg

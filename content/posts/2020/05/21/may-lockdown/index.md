@@ -20,11 +20,11 @@ photos:
 categories:
   - photos
 tags:
-  - nature
-  - spring
-  - covid19
   - portugal
   - hometown
+  - covid19
+  - nature
+  - spring
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx2ulzrw2b
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx2yeais2g

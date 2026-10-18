@@ -6,7 +6,7 @@ categories:
 tags:
   - indieweb
   - meta
-  - micropub
+  - standards
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ik3dqche4cct
 ---

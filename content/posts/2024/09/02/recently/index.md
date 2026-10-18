@@ -7,7 +7,9 @@ tags:
   - now
   - travel
   - transit
-  - life
+  - health
+  - reading
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l36ntke7k2f4
 thumbnail: image:2024-09-02-ejv-beatrix

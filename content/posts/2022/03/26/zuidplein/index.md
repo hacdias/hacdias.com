@@ -16,10 +16,8 @@ location:
 categories:
   - photos
 tags:
-  - amsterdam
   - netherlands
   - urban
-  - perspective
   - architecture
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rwc3rvd23

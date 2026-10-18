@@ -32,7 +32,6 @@ photos:
 categories:
   - photos
 tags:
-  - leiden
   - travel
   - netherlands
   - architecture

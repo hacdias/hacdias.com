@@ -21,6 +21,7 @@ tags:
   - nature
   - forest
   - netherlands
+  - eindhoven
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rzaiist2u
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3k5x6y5p7u2kz

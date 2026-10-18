@@ -12,10 +12,11 @@ categories:
   - writings
 tags:
   - reviews
-  - nederlands
-  - politics
   - book reviews
+  - non-fiction
+  - politics
   - society
+  - nederlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lzbdmtys7724
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lzbdj22s62f4

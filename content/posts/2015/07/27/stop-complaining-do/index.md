@@ -6,7 +6,6 @@ date: 2015-07-27T08:00:00Z
 categories:
   - writings
 tags:
-  - creative
   - reflections
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cvuuysak22ct

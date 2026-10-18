@@ -5,9 +5,11 @@ categories:
   - writings
 tags:
   - now
+  - meta
   - trains
-  - personal website
-  - life
+  - cycling
+  - reading
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3k6ah7mjgq2nj
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3k6ah7mjgq25c

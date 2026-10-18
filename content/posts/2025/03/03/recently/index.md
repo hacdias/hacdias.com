@@ -12,8 +12,12 @@ categories:
   - writings
 tags:
   - now
-  - personal website
-  - life
+  - meta
+  - travel
+  - london
+  - england
+  - health
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ljiidmvhutf4
   - https://fosstodon.org/@hacdias/114099703066951894

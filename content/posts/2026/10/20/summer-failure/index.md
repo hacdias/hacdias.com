@@ -4,6 +4,7 @@ date: 2026-10-20T09:00:00+02:00
 categories:
   - writings
 tags:
+  - programming
   - testing
   - javascript
   - time zones

@@ -5,6 +5,7 @@ categories:
   - writings
 tags:
   - docker
+  - infrastructure
   - maintenance
   - tips
 syndication:

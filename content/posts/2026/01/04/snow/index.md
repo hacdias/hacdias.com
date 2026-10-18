@@ -26,6 +26,8 @@ categories:
 tags:
   - eindhoven
   - netherlands
+  - snow
+  - winter
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7so7uorl26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3mbm6cnuyqdkz

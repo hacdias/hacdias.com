@@ -13,6 +13,7 @@ categories:
 tags:
   - ipfs
   - talks
+  - standards
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3jtqrjb7622nj
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jtqrjb76225c

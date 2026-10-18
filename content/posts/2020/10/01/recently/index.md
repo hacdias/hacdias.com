@@ -5,11 +5,11 @@ categories:
   - writings
 tags:
   - now
-  - personal website
-  - art
+  - meta
+  - photography
   - thesis
-  - life
   - university
+  - masters
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqn2gsb4h24
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hkmucckz22ct

@@ -6,7 +6,8 @@ categories:
   - writings
 tags:
   - ipfs
-  - web3
+  - decentralization
+  - archival
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ggy7vor522ct
 ---

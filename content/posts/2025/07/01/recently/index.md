@@ -14,7 +14,12 @@ tags:
   - now
   - travel
   - portugal
+  - madeira
   - work
+  - file browser
+  - health
+  - reading
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lsvwdnmnsz2c
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lsvwdijw6cf4

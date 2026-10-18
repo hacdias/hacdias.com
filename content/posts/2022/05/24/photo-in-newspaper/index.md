@@ -15,11 +15,10 @@ location:
 categories:
   - photos
 tags:
-  - exhibition
-  - university
-  - newspaper
-  - achievement
   - art
+  - university
+  - milestones
+  - netherlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rws3nrl23
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3izsxl6dz2rkz

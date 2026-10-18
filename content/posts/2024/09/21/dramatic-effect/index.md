@@ -9,7 +9,6 @@ categories:
   - photos
 tags:
   - architecture
-  - dramatic
   - eindhoven
   - netherlands
 syndication:

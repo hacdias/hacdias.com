@@ -7,7 +7,7 @@ tags:
   - now
   - university
   - covid19
-  - life
+  - travel
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3i3bx5ibz22ct
 aliases:

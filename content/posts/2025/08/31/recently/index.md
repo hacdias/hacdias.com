@@ -12,9 +12,8 @@ categories:
   - writings
 tags:
   - now
-  - entertainment
   - health
-  - life
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lxomhdlyaq2n
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lxomft2ca2f4

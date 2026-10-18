@@ -6,6 +6,8 @@ categories:
   - writings
 tags:
   - mathematics
+  - school
+  - tips
   - portugues
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3chkfcwjs22ct

@@ -4,8 +4,10 @@ date: 2023-03-26T14:53:29.237893399+02:00
 categories:
   - writings
 tags:
-  - school
   - story time
+  - school
+  - programming
+  - cpp
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jrtoiiv3g75c
   - https://fosstodon.org/@hacdias/110089813295606267

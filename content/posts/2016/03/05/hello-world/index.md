@@ -6,10 +6,9 @@ date: 2016-03-05T10:25:00Z
 categories:
   - writings
 tags:
-  - personal website
-  - milestones
-  - reflections
   - meta
+  - milestones
+  - links
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3dhdemhjxs2ct
 ---

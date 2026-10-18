@@ -12,8 +12,9 @@ categories:
   - writings
 tags:
   - at protocol
-  - web
   - social web
+  - web
+  - meta
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meegqa2am42d
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3meegpmimi2f4

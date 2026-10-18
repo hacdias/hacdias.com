@@ -7,6 +7,7 @@ categories:
   - writings
 tags:
   - reflections
+  - society
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cl7e5uqkw2ct
 ---

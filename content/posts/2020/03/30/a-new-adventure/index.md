@@ -7,6 +7,7 @@ tags:
   - life
   - masters
   - university
+  - covid19
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merb4oeur723
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3h447imhockct

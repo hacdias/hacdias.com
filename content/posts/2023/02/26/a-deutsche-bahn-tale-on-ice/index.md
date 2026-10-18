@@ -4,10 +4,11 @@ date: 2023-02-26T11:44:12.868255483+01:00
 categories:
   - writings
 tags:
-  - infrastructure
+  - travel
   - trains
   - transit
-  - travel
+  - switzerland
+  - germany
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jpn27kwhozln
   - https://fosstodon.org/@hacdias/109932662144169291

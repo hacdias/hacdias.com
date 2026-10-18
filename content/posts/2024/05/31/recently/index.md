@@ -5,9 +5,10 @@ categories:
   - writings
 tags:
   - now
-  - personal website
+  - meta
+  - health
   - gym
-  - life
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ktryfi2t42f4
 ---

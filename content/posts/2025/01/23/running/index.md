@@ -6,6 +6,7 @@ categories:
 tags:
   - running
   - sports
+  - health
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lgg7gxira2f4
 ---

@@ -5,8 +5,9 @@ categories:
   - writings
 tags:
   - gym
-  - reflections
   - sports
+  - health
+  - reflections
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kw37xmo4fxf4
 ---

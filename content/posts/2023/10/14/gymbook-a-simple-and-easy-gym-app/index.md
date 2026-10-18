@@ -4,9 +4,8 @@ date: 2023-10-14T17:55:25+02:00
 categories:
   - writings
 tags:
-  - data
-  - gym
   - reviews
+  - gym
   - sports
   - tracking
 syndication:

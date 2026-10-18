@@ -5,7 +5,8 @@ categories:
   - writings
 tags:
   - trains
-  - infrastructure
+  - transit
+  - denmark
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merb66p5aw24
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lyirsdojm2f4

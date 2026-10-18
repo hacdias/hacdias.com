@@ -4,8 +4,8 @@ date: 2023-01-02T08:18:47.603761302+01:00
 categories:
   - writings
 tags:
-  - spotify wrapped
   - year in music
+  - spotify wrapped
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jlcf3mbyllln
 aliases:

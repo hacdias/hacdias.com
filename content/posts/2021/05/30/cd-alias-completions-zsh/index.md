@@ -4,6 +4,7 @@ date: 2021-05-30T10:23:57.3713559Z
 categories:
   - writings
 tags:
+  - programming
   - software
   - terminal
   - tips

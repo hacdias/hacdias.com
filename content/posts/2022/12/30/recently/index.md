@@ -5,9 +5,10 @@ categories:
   - writings
 tags:
   - now
-  - personal website
-  - life
-  - travel
+  - meta
+  - entertainment
+  - reading
+  - health
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3jl3lxtfghvnj
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jl3lxtfghvln

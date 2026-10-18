@@ -5,6 +5,7 @@ categories:
   - writings
 tags:
   - php
+  - programming
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3e424rwgs22ct
 ---

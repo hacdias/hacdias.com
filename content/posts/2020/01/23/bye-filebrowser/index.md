@@ -6,11 +6,10 @@ date: 2020-01-23T09:10:00Z
 categories:
   - writings
 tags:
-  - go
-  - reflections
+  - file browser
   - projects
   - open source
-  - file browser
+  - reflections
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqmy5a3ch2u
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gwtg2r34k2ct

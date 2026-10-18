@@ -6,8 +6,8 @@ date: 2015-07-12T13:45:00Z
 categories:
   - writings
 tags:
-  - creative
   - reflections
+  - society
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cuprbvf5s2ct
 ---

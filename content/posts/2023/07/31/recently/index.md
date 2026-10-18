@@ -5,8 +5,12 @@ categories:
   - writings
 tags:
   - now
+  - meta
   - travel
-  - personal website
+  - germany
+  - trains
+  - dutch
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3k3t73zuv425c
 aliases:

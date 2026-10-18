@@ -5,9 +5,11 @@ categories:
   - writings
 tags:
   - now
-  - life
-  - art
+  - work
   - christmas
+  - museums
+  - reading
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lcavey72623q
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lcavey7262f4

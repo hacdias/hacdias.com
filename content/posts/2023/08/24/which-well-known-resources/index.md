@@ -5,7 +5,7 @@ categories:
   - writings
 tags:
   - meta
-  - well known
+  - standards
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3k5pjzaqni25c
 ---

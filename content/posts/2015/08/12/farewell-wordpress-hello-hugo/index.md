@@ -6,9 +6,8 @@ date: 2015-08-12T11:30:00Z
 categories:
   - writings
 tags:
-  - blog engine
   - meta
-  - personal website
+  - infrastructure
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3cx5i6zvzk2cd
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cx5i6zvzk2ct

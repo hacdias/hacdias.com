@@ -5,6 +5,7 @@ categories:
   - writings
 tags:
   - fun
+  - christmas
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kiawjx45kq5c
   - https://fosstodon.org/@hacdias/111704795704782212

@@ -17,6 +17,9 @@ location:
   countryCode: DK
 categories:
   - photos
+tags:
+  - travel
+  - denmark
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7s3q7xhg26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lz766tupfmkz

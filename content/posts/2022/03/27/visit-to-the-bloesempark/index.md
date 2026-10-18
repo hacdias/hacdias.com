@@ -45,9 +45,9 @@ categories:
   - photos
 tags:
   - spring
-  - flowers
   - nature
   - netherlands
+  - travel
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxacci3y26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxae6uq52u

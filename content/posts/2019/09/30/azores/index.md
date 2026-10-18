@@ -16,8 +16,6 @@ categories:
 tags:
   - portugal
   - travel
-  - islands
-  - panorama
   - landscape
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rpq7hbt2e

@@ -6,8 +6,8 @@ categories:
 tags:
   - now
   - travel
-  - life
   - entertainment
+  - thesis
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3j2ghpzszbpnj
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3j2ghpzszbpct

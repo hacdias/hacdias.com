@@ -5,8 +5,9 @@ categories:
   - writings
 tags:
   - now
-  - personal website
-  - life
+  - gym
+  - entertainment
+  - security
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jsax6tfwx45c
 aliases:

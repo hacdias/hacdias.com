@@ -55,6 +55,8 @@ categories:
 tags:
   - belgium
   - nature
+  - forest
+  - landscape
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mkwmtvdn62vi
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mkwmtwc5q2vi

@@ -12,8 +12,8 @@ location:
 categories:
   - writings
 tags:
-  - sports
   - swimming
+  - sports
   - milestones
   - personal growth
 syndication:

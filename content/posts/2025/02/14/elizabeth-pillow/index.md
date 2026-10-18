@@ -18,8 +18,10 @@ location:
 categories:
   - writings
 tags:
-  - trains
   - travel
+  - trains
+  - london
+  - england
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3li4qcgjnwwf4
   - https://fosstodon.org/@hacdias/114001185305726133

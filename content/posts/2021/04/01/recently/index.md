@@ -6,8 +6,7 @@ categories:
 tags:
   - now
   - university
-  - life
-  - school
+  - covid19
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hywe4wmlk2ct
 aliases:

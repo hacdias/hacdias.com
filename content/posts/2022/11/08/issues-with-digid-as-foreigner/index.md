@@ -4,9 +4,8 @@ date: 2022-11-08T23:50:15.28719991+01:00
 categories:
   - writings
 tags:
-  - bureaucracy
   - government
-  - infrastructure
+  - dutch
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jgzpikligzln
 ---
