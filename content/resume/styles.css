@@ -69,7 +69,7 @@
 
   h2 {
     color: var(--c);
-    break-after: avoid;
+    break-after: avoid-page;
     line-height: 1.5;
     border-bottom: 0.5px solid var(--fg);
     margin: 1rem 0 0.5rem;
@@ -108,8 +108,4 @@
   #printing-hint {
     display: none;
   }
-}
-
-@page {
-  margin: 1cm;
 }
