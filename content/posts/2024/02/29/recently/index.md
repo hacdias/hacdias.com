@@ -5,10 +5,13 @@ categories:
   - writings
 tags:
   - now
+  - travel
+  - austria
   - fosdem
   - dutch
-  - travel
-  - life
+  - health
+  - reading
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kmkkthbyo2f4
 thumbnail: image:2024-02-29-vienna-inception

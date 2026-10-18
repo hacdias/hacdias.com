@@ -4,11 +4,11 @@ date: 2026-10-17T08:30:00+02:00
 categories:
   - writings
 tags:
-  - personal website
-  - indieweb
-  - artificial intelligence
+  - meta
+  - programming
   - go
-  - tracking
+  - artificial intelligence
+  - indieweb
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3my2hokamk2wz
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3my2hokamk2wz

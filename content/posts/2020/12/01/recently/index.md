@@ -5,9 +5,7 @@ categories:
   - writings
 tags:
   - now
-  - life
   - university
-  - work
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hpgbua3u22ct
 aliases:

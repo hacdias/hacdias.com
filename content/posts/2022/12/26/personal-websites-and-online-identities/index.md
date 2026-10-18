@@ -4,8 +4,10 @@ date: 2022-12-26T12:33:09.201511323+01:00
 categories:
   - writings
 tags:
-  - indieweb
   - personal website
+  - meta
+  - indieweb
+  - fediverse
   - reflections
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jkr7zynqnbln

@@ -11,8 +11,8 @@ location:
 categories:
   - writings
 tags:
-  - dns
   - infrastructure
+  - dns
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mfbj3yzlm3xn
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mfbj3yzlm3xn

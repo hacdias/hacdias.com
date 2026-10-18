@@ -5,9 +5,8 @@ categories:
   - writings
 tags:
   - now
-  - cycling
-  - health
-  - life
+  - reading
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3krgxygbbrsf4
 ---

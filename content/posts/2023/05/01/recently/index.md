@@ -5,9 +5,12 @@ categories:
   - writings
 tags:
   - now
-  - travel
-  - personal website
+  - meta
   - work
+  - travel
+  - france
+  - dutch
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3juo2vcfkc25c
 aliases:

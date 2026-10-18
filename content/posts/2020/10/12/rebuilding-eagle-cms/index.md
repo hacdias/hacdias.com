@@ -5,9 +5,9 @@ date: 2020-10-12T09:00:00+02:00
 categories:
   - writings
 tags:
-  - go
   - meta
-  - personal website
+  - go
+  - fediverse
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hlijggnb22ct
 ---

@@ -9,7 +9,6 @@ categories:
   - writings
 tags:
   - art
-  - creative
   - pixel art
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gaserir222ct

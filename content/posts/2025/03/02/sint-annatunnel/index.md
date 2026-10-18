@@ -19,10 +19,10 @@ location:
 categories:
   - photos
 tags:
+  - travel
   - belgium
   - architecture
   - urban
-  - transit
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3ljfk5hwui2og
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3ljfk5hwui2og

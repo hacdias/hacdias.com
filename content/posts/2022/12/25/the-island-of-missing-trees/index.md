@@ -4,10 +4,10 @@ date: 2022-12-25T11:20:30.172268833+01:00
 categories:
   - writings
 tags:
-  - fantasy
-  - literature
   - reviews
   - book reviews
+  - fiction
+  - literature
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jkolj63y5gln
 rating: 8

@@ -5,9 +5,10 @@ lastmod: 2025-03-12T20:33:32.926213276+01:00
 categories:
   - writings
 tags:
-  - caddy
-  - docker
   - irc
+  - infrastructure
+  - docker
+  - caddy
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3khc4o33i425c
   - https://fosstodon.org/@hacdias/111635436784320724

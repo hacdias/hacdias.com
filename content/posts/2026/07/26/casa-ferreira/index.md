@@ -12,8 +12,8 @@ location:
 categories:
   - writings
 tags:
-  - netherlands
   - utrecht
+  - netherlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mrkdu244innm
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mrkdu244innm

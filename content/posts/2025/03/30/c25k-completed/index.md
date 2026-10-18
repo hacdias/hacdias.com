@@ -13,6 +13,7 @@ categories:
 tags:
   - running
   - sports
+  - health
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3llleti43ucf4
   - https://fosstodon.org/@hacdias/114250327123733693

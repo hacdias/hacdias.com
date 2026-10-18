@@ -4,9 +4,10 @@ date: 2024-02-05T18:16:01+01:00
 categories:
   - writings
 tags:
-  - conference
   - fosdem
+  - conference
   - open source
+  - belgium
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kkoqiulpm2f4
 thumbnail: image:2024-02-05-git

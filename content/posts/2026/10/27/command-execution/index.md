@@ -4,11 +4,12 @@ date: 2026-10-27T09:00:00+02:00
 categories:
   - writings
 tags:
+  - file browser
   - security
+  - programming
   - open source
   - go
   - reflections
-  - file browser
 ---
 
 Back [in July](/2026/07/28/filebrowser/), I made the decision to finally archive File Browser, and I won't go over it again. In this post I want to address one category of features of File Browser that was the root of many of the security advisories that have been disclosed in the past year: command execution.

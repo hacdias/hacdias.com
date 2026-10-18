@@ -18,10 +18,10 @@ location:
 categories:
   - photos
 tags:
-  - nature
   - eindhoven
+  - netherlands
+  - nature
   - forest
-  - insects
   - animals
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mlutn5ckdxab

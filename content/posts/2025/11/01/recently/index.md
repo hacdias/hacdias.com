@@ -12,8 +12,9 @@ categories:
   - writings
 tags:
   - now
-  - life
   - travel
+  - germany
+  - politics
   - health
   - entertainment
 syndication:

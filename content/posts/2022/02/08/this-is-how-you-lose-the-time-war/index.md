@@ -4,9 +4,9 @@ date: 2022-02-08T19:26:31.634184415+01:00
 categories:
   - writings
 tags:
-  - fantasy
   - reviews
   - book reviews
+  - fiction
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3irkrhn56ccct
 rating: 5

@@ -36,10 +36,10 @@ categories:
   - photos
 tags:
   - london
+  - england
   - travel
   - friends
   - museums
-  - transit
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxapsp7f2q
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxaqprmg2k

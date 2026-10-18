@@ -6,8 +6,8 @@ categories:
 tags:
   - now
   - work
-  - travel
-  - life
+  - health
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kw4za57estf4
 ---

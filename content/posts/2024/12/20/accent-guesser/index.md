@@ -6,6 +6,7 @@ categories:
 tags:
   - artificial intelligence
   - machine learning
+  - languages
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ldqhwacz22f4
 ---

@@ -35,7 +35,6 @@ photos:
 categories:
   - photos
 tags:
-  - maastricht
   - travel
   - netherlands
   - architecture

@@ -5,9 +5,8 @@ categories:
   - writings
 tags:
   - cycling
-  - data
+  - tracking
   - reviews
-  - sports
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kvg36vnzc2f4
 rating: 6

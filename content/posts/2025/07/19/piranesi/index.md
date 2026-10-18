@@ -6,8 +6,7 @@ categories:
 tags:
   - reviews
   - book reviews
-  - fantasy
-  - literature
+  - fiction
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lucwaoeos2f4
 rating: 8

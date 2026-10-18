@@ -27,7 +27,6 @@ categories:
 tags:
   - travel
   - germany
-  - water
   - long exposure
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7snqopml2d

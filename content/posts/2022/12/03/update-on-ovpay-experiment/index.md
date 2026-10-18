@@ -4,7 +4,6 @@ date: 2022-12-03T19:33:52.155473488+01:00
 categories:
   - writings
 tags:
-  - infrastructure
   - transit
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jiy4t4mculln

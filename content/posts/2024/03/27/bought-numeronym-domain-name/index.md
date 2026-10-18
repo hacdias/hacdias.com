@@ -4,9 +4,7 @@ date: 2024-03-27T12:56:24.992260999+01:00
 categories:
   - writings
 tags:
-  - web
   - dns
-  - personal website
   - meta
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kooggdgnk6f4

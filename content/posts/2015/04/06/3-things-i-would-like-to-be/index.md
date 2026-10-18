@@ -7,6 +7,7 @@ categories:
   - writings
 tags:
   - reflections
+  - goals
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cn4jcv75y2ct
 ---

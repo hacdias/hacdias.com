@@ -12,8 +12,8 @@ location:
 categories:
   - writings
 tags:
-  - sports
   - swimming
+  - sports
   - milestones
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mxvr7y5uo2i4

@@ -7,8 +7,8 @@ categories:
   - writings
 tags:
   - meta
-  - personal website
   - second brain
+  - automation
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gzrr2ksps2ct
 ---

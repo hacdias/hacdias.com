@@ -12,6 +12,7 @@ location:
 categories:
   - writings
 tags:
+  - meta
   - personal website
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merb53rxis2u

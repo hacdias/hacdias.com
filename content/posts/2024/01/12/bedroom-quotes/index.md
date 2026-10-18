@@ -5,7 +5,6 @@ date: 2024-01-12T19:33:38+01:00
 categories:
   - writings
 tags:
-  - inspiration
   - quotes
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kisjnks3625c

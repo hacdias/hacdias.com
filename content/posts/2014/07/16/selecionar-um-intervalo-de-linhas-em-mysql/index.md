@@ -6,6 +6,7 @@ date: 2014-07-16T20:00:19Z
 categories:
   - writings
 tags:
+  - programming
   - mysql
   - sql
   - portugues

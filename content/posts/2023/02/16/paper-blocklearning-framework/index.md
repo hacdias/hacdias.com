@@ -5,10 +5,9 @@ date: 2023-02-16T12:00:00+01:00
 categories:
   - writings
 tags:
+  - publications
   - masters
   - milestones
-  - papers
-  - publications
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3jotwgll522nj
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jotwgll522ln

@@ -15,10 +15,11 @@ location:
 categories:
   - photos
 tags:
+  - travel
   - portugal
   - madeira
   - nature
-  - travel
+  - fog
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lrj6qye3fmgv
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lrj6qye3fmgv

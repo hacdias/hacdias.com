@@ -5,6 +5,7 @@ date: 2014-07-22T09:08:08Z
 categories:
   - writings
 tags:
+  - programming
   - php
   - portugues
 syndication:

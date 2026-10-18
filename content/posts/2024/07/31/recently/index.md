@@ -5,9 +5,11 @@ categories:
   - writings
 tags:
   - now
-  - personal website
+  - meta
   - milestones
-  - life
+  - dutch
+  - health
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kym47hp2f4f4
 ---

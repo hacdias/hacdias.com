@@ -4,9 +4,10 @@ date: 2020-07-16T17:01:05.464Z
 categories:
   - writings
 tags:
-  - creative
   - poetry
+  - creative writing
   - reflections
+  - covid19
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hembyaruq2ct
 ---

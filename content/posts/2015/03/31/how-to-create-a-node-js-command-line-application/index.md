@@ -6,8 +6,10 @@ date: 2015-03-31T18:55:49Z
 categories:
   - writings
 tags:
+  - programming
   - javascript
   - nodejs
+  - terminal
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cmncmty7u2ct
 ---

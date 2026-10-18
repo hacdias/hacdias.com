@@ -5,7 +5,6 @@ lastmod: 2022-06-04T12:48:59.992786835+02:00
 categories:
   - writings
 tags:
-  - git
   - security
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3iilrjf7deuct

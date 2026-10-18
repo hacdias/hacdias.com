@@ -7,8 +7,6 @@ tags:
   - now
   - travel
   - portugal
-  - university
-  - life
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3icje5w7plzct
 aliases:

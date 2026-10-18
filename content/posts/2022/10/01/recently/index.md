@@ -7,9 +7,9 @@ tags:
   - now
   - university
   - thesis
-  - work
   - milestones
-  - life
+  - travel
+  - italy
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jdzepzbbu3ln
 aliases:

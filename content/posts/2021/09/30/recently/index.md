@@ -5,6 +5,7 @@ categories:
   - writings
 tags:
   - now
+  - university
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ihbbct43dmct
 aliases:

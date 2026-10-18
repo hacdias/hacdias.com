@@ -6,7 +6,9 @@ date: 2014-11-14T20:34:01Z
 categories:
   - writings
 tags:
+  - travel
   - portugal
+  - alentejo
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cbuyacv242ct
 ---

@@ -12,9 +12,10 @@ categories:
 tags:
   - reviews
   - book reviews
+  - non-fiction
+  - dutch
+  - languages
   - nederlands
-  - educational
-  - language
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lviica6wz62l
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lvii7hlhm2f4

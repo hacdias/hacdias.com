@@ -24,9 +24,11 @@ categories:
   - photos
 tags:
   - eindhoven
-  - forest
-  - nature
   - netherlands
+  - nature
+  - forest
+  - snow
+  - winter
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mbjgosqroc2h
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3mbjgdhlby2kz

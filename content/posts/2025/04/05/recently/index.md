@@ -12,9 +12,10 @@ categories:
   - writings
 tags:
   - now
-  - entertainment
   - travel
-  - life
+  - belgium
+  - health
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqd7ktsbec27
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lm2ufrts42f4

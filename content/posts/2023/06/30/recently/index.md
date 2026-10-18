@@ -5,8 +5,10 @@ categories:
   - writings
 tags:
   - now
-  - personal website
-  - life
+  - meta
+  - trains
+  - reading
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jzf37wfb425c
 aliases:

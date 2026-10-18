@@ -4,9 +4,8 @@ date: 2025-12-06T08:58:45+01:00
 categories:
   - writings
 tags:
-  - recipe
-  - pudding
   - cooking
+  - recipe
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3m7cjraehu2f4
 thumbnail: image:2024-12-31-arroz-doce-4

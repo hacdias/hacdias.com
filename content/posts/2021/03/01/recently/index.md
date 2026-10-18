@@ -6,9 +6,7 @@ categories:
 tags:
   - now
   - covid19
-  - travel
   - university
-  - life
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hwiizokmk2ct
 aliases:

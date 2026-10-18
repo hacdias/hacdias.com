@@ -5,6 +5,7 @@ categories:
   - writings
 tags:
   - now
+  - covid19
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hru76yxz22ct
 aliases:

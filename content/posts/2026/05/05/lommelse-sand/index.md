@@ -43,6 +43,7 @@ categories:
 tags:
   - belgium
   - nature
+  - landscape
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3ml3fq4p6w2ab
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3ml3fq5npi2ab

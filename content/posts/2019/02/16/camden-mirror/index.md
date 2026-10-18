@@ -15,8 +15,8 @@ location:
 categories:
   - photos
 tags:
-  - london
   - england
+  - london
   - travel
   - street art
 syndication:

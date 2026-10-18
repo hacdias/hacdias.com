@@ -4,9 +4,10 @@ date: 2024-01-21T09:14:45.594135506+01:00
 categories:
   - writings
 tags:
-  - automation
-  - data
   - monitoring
+  - infrastructure
+  - automation
+  - tracking
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kji3b7pq2rf4
   - https://fosstodon.org/@hacdias/111805226174007741

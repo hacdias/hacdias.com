@@ -5,7 +5,7 @@ date: 2015-11-14T13:45:00Z
 categories:
   - writings
 tags:
-  - creative
+  - creative writing
   - reflections
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3d6k3kxyvs2ct

@@ -7,6 +7,7 @@ tags:
   - trains
   - transit
   - travel
+  - austria
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kmg3wxvjy2f4
   - https://fosstodon.org/@hacdias/112004673006559756

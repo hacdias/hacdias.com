@@ -4,9 +4,8 @@ date: 2023-06-20T16:53:31.690771654+02:00
 categories:
   - writings
 tags:
-  - indieweb
   - meta
-  - personal website
+  - design
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3jym5cdcysn3q
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jym5cdcysn5c

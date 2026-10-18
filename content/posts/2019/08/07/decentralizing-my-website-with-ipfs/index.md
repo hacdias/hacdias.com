@@ -6,10 +6,11 @@ date: 2019-08-07T18:45:00Z
 categories:
   - writings
 tags:
-  - dns
-  - ipfs
   - meta
-  - web3
+  - ipfs
+  - decentralization
+  - dns
+  - infrastructure
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gjlhfdwss2ct
 ---

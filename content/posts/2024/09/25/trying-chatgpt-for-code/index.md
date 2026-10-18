@@ -5,7 +5,7 @@ categories:
   - writings
 tags:
   - artificial intelligence
-  - machine learning
+  - programming
   - tools
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l4ygdcxds2f4

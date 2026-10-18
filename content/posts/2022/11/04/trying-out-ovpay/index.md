@@ -5,7 +5,6 @@ lastmod: 2022-11-05T08:36:49.865887742+01:00
 categories:
   - writings
 tags:
-  - infrastructure
   - transit
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jgpeozcflgln

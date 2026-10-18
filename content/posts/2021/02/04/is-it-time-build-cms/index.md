@@ -5,7 +5,6 @@ lastmod: 2021-02-16T20:20:27.750516656Z
 categories:
   - writings
 tags:
-  - blog engine
   - meta
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hul77oonk2ct

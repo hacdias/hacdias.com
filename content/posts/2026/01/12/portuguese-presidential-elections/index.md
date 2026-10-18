@@ -12,8 +12,8 @@ categories:
   - writings
 tags:
   - politics
-  - portugal
   - government
+  - portugal
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mecdqnw5wr23
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mcabgyqt4qf4

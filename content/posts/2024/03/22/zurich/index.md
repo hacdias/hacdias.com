@@ -26,10 +26,9 @@ categories:
   - photos
 tags:
   - travel
-  - zurich
   - switzerland
-  - architecture
   - urban
+  - architecture
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rzy3pyp2g
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3koc4ziw6w2kz

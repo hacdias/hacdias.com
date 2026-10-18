@@ -7,8 +7,8 @@ tags:
   - now
   - university
   - travel
-  - thesis
-  - life
+  - museums
+  - covid19
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3it42kw7qwxct
 aliases:

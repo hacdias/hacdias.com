@@ -14,7 +14,6 @@ tags:
   - travel
   - japan
   - urban
-  - street
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqfefffgpfgv
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lqfefffgpfgv

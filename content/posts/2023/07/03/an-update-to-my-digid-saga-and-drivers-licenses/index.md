@@ -5,9 +5,8 @@ lastmod: 2023-07-07T10:35:49+01:00
 categories:
   - writings
 tags:
-  - bureaucracy
   - government
-  - infrastructure
+  - dutch
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jzmsipivw25c
   - https://fosstodon.org/@hacdias/110651139023843183

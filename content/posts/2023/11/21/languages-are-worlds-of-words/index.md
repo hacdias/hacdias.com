@@ -4,8 +4,9 @@ date: 2023-11-21T20:58:49+01:00
 categories:
   - writings
 tags:
-  - dutch
   - language learning
+  - languages
+  - dutch
   - reflections
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3kepw7xuld52q

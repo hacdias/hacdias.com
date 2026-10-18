@@ -12,7 +12,6 @@ categories:
   - writings
 tags:
   - meta
-  - personal website
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lvcxwqzr4j2k
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lvcxvxvi22f4

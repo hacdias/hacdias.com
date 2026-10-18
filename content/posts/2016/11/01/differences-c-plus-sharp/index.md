@@ -4,8 +4,8 @@ date: 2016-11-01T00:00:00Z
 categories:
   - writings
 tags:
+  - programming
   - c
-  - computers
   - cpp
   - csharp
 syndication:

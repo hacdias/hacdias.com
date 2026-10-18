@@ -5,7 +5,7 @@ categories:
   - writings
 tags:
   - poetry
-  - creative
+  - creative writing
   - portugues
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kisnschek2f4

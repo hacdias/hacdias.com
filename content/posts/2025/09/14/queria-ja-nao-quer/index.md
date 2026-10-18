@@ -6,9 +6,9 @@ categories:
 tags:
   - reviews
   - book reviews
+  - non-fiction
+  - languages
   - portugues
-  - educational
-  - language
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lyrprx4ug2f4
 rating: 9

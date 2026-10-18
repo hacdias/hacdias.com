@@ -13,7 +13,7 @@ categories:
 tags:
   - now
   - health
-  - life
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mdv5ygj2b72e
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mdv5yap6xgf4

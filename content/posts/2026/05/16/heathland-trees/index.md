@@ -17,9 +17,9 @@ location:
 categories:
   - photos
 tags:
-  - heathland
   - netherlands
   - nature
+  - heathland
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mlxvm7oljium
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3mlxvm7oljium

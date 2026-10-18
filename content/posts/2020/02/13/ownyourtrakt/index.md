@@ -6,10 +6,9 @@ date: 2020-02-13T20:50:00Z
 categories:
   - writings
 tags:
-  - indieweb
   - meta
-  - personal website
-  - security
+  - indieweb
+  - tracking
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3gyjgxs35k2nj
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gyjgxs35k2ct

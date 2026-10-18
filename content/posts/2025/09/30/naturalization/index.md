@@ -4,10 +4,11 @@ date: 2025-09-30T16:52:33+02:00
 categories:
   - writings
 tags:
-  - identity
-  - government
-  - reflections
   - politics
+  - government
+  - identity
+  - dutch
+  - reflections
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m22rovzvt22a
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3m22rnicnm2f4

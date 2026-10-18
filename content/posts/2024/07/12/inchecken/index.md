@@ -6,6 +6,9 @@ categories:
 tags:
   - inchecken
   - nederlands
+  - dutch
+  - language learning
+  - work
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kx33eytxtrf4
 ---

@@ -5,7 +5,7 @@ date: 2015-11-15T13:45:00Z
 categories:
   - writings
 tags:
-  - creative
+  - creative writing
   - reflections
   - portugues
 syndication:

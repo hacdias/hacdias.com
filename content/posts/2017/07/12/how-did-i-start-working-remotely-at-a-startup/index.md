@@ -6,7 +6,9 @@ date: 2017-07-12T11:30:00Z
 categories:
   - writings
 tags:
+  - work
   - reflections
+  - personal growth
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3eo5olikzk2ct
 ---

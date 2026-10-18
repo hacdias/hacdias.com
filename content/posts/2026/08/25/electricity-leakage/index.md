@@ -11,6 +11,9 @@ location:
   postalCode: 5617AS
 categories:
   - writings
+tags:
+  - housing
+  - story time
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mtvx7sim22et
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mtvx7sim22et

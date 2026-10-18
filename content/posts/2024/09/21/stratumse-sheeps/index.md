@@ -17,7 +17,7 @@ categories:
 tags:
   - animals
   - nature
-  - wildlife
+  - heathland
   - eindhoven
   - netherlands
 syndication:

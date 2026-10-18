@@ -5,10 +5,9 @@ categories:
   - writings
 tags:
   - now
-  - life
-  - travel
-  - people
-  - christmas
+  - entertainment
+  - health
+  - university
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jiqdszqaguln
 aliases:

@@ -6,8 +6,9 @@ date: 2015-08-26T22:40:00Z
 categories:
   - writings
 tags:
+  - travel
   - portugal
-  - reflections
+  - alentejo
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cybu5y3622ct
 ---

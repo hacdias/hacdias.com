@@ -4,10 +4,9 @@ date: 2023-11-18T11:17:52+01:00
 categories:
   - writings
 tags:
-  - git
   - meta
+  - git
   - open source
-  - personal website
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kehecggx225c
   - https://fosstodon.org/@hacdias/111431044010749799

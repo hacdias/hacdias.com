@@ -8,10 +8,10 @@ photos:
 categories:
   - photos
 tags:
+  - netherlands
   - eindhoven
   - university
   - masters
-  - netherlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rsaj6bp2h
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3hjvgyuqrqckz

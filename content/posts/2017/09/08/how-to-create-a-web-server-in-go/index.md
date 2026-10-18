@@ -5,6 +5,7 @@ categories:
   - writings
 tags:
   - go
+  - programming
   - web
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3esod336s22ct

@@ -6,6 +6,7 @@ date: 2014-09-02T14:09:59Z
 categories:
   - writings
 tags:
+  - programming
   - git
   - portugues
 syndication:

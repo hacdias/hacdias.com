@@ -8,6 +8,7 @@ tags:
   - sports
   - tracking
   - projects
+  - programming
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3m7uaovfe62zg
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3m7uaovfe62f4

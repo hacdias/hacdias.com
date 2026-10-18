@@ -5,6 +5,8 @@ categories:
   - writings
 tags:
   - travel
+  - netherlands
+  - nature
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l2xjvz5hvef4
 thumbnail: image:2024-08-30-drielandenpunt

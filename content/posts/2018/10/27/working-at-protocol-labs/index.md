@@ -6,7 +6,9 @@ date: 2018-10-27T00:00:00Z
 categories:
   - writings
 tags:
+  - work
   - reflections
+  - ipfs
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ft7e47zc22ct
 ---

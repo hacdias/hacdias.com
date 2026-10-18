@@ -8,10 +8,10 @@ photos:
 categories:
   - photos
 tags:
-  - snow
-  - winter
   - belgium
   - travel
+  - snow
+  - winter
   - urban
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rpcovby26

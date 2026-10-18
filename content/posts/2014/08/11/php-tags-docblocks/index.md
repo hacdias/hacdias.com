@@ -6,6 +6,7 @@ date: 2014-08-11T20:26:21Z
 categories:
   - writings
 tags:
+  - programming
   - php
   - portugues
 syndication:

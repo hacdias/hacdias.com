@@ -6,9 +6,11 @@ categories:
 tags:
   - now
   - year in review
+  - goals
+  - meta
   - dutch
   - work
-  - goals
+  - health
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lem5movky2f4
 ---

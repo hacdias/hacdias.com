@@ -7,7 +7,7 @@ date: 2020-09-20T18:45:00+02:00
 categories:
   - writings
 tags:
-  - web3
+  - decentralization
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hjs7uahqs2ct
 ---

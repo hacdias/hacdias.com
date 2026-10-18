@@ -6,6 +6,7 @@ date: 2014-08-22T09:38:31Z
 categories:
   - writings
 tags:
+  - computer science
   - portugues
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3c3amgu5oy2ct

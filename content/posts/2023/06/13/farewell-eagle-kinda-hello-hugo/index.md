@@ -4,9 +4,8 @@ date: 2023-06-13T21:54:05.361338989+02:00
 categories:
   - writings
 tags:
-  - blog engine
   - meta
-  - personal website
+  - indieweb
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jy32tddp7u5c
 ---

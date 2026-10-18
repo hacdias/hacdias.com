@@ -4,9 +4,9 @@ date: 2024-10-04T08:42:35.351682529+02:00
 categories:
   - writings
 tags:
+  - languages
   - identity
   - indieweb
-  - multilingualism
   - indieweb carnival
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l5o5wz4uo4f4

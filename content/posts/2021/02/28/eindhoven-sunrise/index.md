@@ -11,7 +11,6 @@ photos:
 categories:
   - photos
 tags:
-  - sunrise
   - eindhoven
   - netherlands
   - architecture

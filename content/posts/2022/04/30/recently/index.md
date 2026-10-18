@@ -6,9 +6,9 @@ categories:
 tags:
   - now
   - travel
-  - thesis
-  - entertainment
   - portugal
+  - england
+  - entertainment
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ixwkww35czct
 aliases:

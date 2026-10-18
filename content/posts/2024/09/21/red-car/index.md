@@ -8,9 +8,7 @@ photos:
 categories:
   - photos
 tags:
-  - bratislava
   - travel
-  - vintage
   - slovakia
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7s27i5gh2g

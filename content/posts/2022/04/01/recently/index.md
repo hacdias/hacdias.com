@@ -5,9 +5,6 @@ categories:
   - writings
 tags:
   - now
-  - life
-  - entertainment
-  - artificial intelligence
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ivmkic66n2ct
 aliases:

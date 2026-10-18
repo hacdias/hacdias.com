@@ -12,6 +12,9 @@ categories:
   - writings
 tags:
   - travel
+  - trains
+  - transit
+  - england
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merb4r3t5c26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ixnmgxqj6zct
