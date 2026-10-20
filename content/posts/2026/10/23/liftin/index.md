@@ -1,14 +1,14 @@
 ---
-title: "Liftin': My Go-To Strength Training App"
+title: 'Liftin'': My Go-To Strength Training App'
 date: 2026-10-23T09:00:00+02:00
 categories:
   - writings
-rating: 9
 tags:
   - gym
   - reviews
   - sports
   - tracking
+rating: 9
 ---
 
 We all use apps and services from large corporations and I'd bet that most of us also pay for some of those. What we more often forget are the small apps and services maintained by one or just a couple of people.
