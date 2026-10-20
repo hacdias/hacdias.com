@@ -3,7 +3,7 @@ title: About
 thumbnail: image:2024-09-01-stratumse-heide
 ---
 
-I come from a little town in the countryside of Portugal 🇵🇹, and I've been living The Netherlands 🇳🇱 for over five years. I'm a software engineer who cares open source, user agency, decentralization, identity, and building impactful tools and products. In my spare time, I enjoy staying active, programming, photography, and a nice cup of coffee or tea.
+I come from a little town in the countryside of Portugal 🇵🇹, and I've been living in The Netherlands 🇳🇱 for over five years. I'm a software engineer who cares about open source, user agency, decentralization, identity, and building impactful tools and products. In my spare time, I enjoy staying active, programming, photography, and a nice cup of coffee or tea.
 
 <!--more-->
 
@@ -12,27 +12,27 @@ I come from a little town in the countryside of Portugal 🇵🇹, and I've been
 
 I started playing with computers at an early age. When my father bought his first computer, I carved a monitor, keyboard and mouse out of the cardboard boxes and made my own "computer". As the years passed, I decided to learn programming. I spent hours researching which programming language to learn first and decided on C#. I bought a book, which I never read, and ended up learning PHP instead.
 
-During secondary school, I had the opportunity to write for [Pplware](https://pplware.sapo.pt/), which is one of the largest tech blogs in Portugal. At the same time, I had the opportunity to do some software development work for [Upframe](/2017/07/12/how-did-i-start-working-remotely-at-a-startup/), which was the time I started getting introduced to a bit more of the startup world. On the side, I created [File Browser](https://filebrowser.org/), which turned to become very popular over the years.
+During secondary school, I had the opportunity to write for [Pplware](https://pplware.sapo.pt/), which is one of the largest tech blogs in Portugal. At the same time, I had the opportunity to do some software development work for [Upframe](/2017/07/12/how-did-i-start-working-remotely-at-a-startup/), which was the time I started getting introduced to a bit more of the startup world. On the side, I created [File Browser](https://filebrowser.org/), which turned out to become very popular over the years.
 
 After graduating, in 2017, I moved to Lisbon to pursue a BSc in Computer Science and Engineering at [Técnico](https://tecnico.ulisboa.pt/pt/). A few months after, I got recruited by [Protocol Labs](https://protocol.ai/), where I had the opportunity to work on the decentralization of the web in a full open source manner. I am forever grateful for this [opportunity](/2018/10/27/working-at-protocol-labs/).
 
-A few years later, in 2020, in the midst of the pandemic, I [moved](/2020/03/30/a-new-adventure/) to [The Netherlands](/2025/08/06/road-to-eindhoven/), where I [obtained](/2022/11/25/msc-graduation-ceremony/) my MSc in Computer Science and Engineering degree at the [TU/e](https://tue.nl). Moving to a new country - especially during such turbulent times - has given me the opportunity to grow in ways I was not expecting and a new place to [call home](/2024/01/10/when-does-abroad-stop-being-abroad/).
+A few years later, in 2020, in the midst of the pandemic, I [moved](/2020/03/30/a-new-adventure/) to [The Netherlands](/2025/08/06/road-to-eindhoven/), where I [obtained](/2022/11/25/msc-graduation-ceremony/) my MSc in Computer Science and Engineering at the [TU/e](https://tue.nl). Moving to a new country -- especially during such turbulent times -- has given me the opportunity to grow in ways I was not expecting and a new place to [call home](/2024/01/10/when-does-abroad-stop-being-abroad/).
 
 After finishing university, in 2022, I joined Protocol Labs full-time. About a year and a half in, I decided to say goodbye to the interplanetary journey, and join [Ver.iD](https://ver.id/), where I worked on building a platform to verify and issue verifiable credentials.
 
-Now, I work at [Animo Solutions](https://animo.id), where I get to work on open-source projects in the decentralized identity space. On the side, I work on multiple [open source](https://github.com/hacdias) projects, usually related to the IndieWeb, AT Protocol, while maintaining File Browser.
+Now, I work at [Animo Solutions](https://animo.id) on [Paradym](https://paradym.id), a SaaS for issuing and verifying digital credentials, as well as on the open-source identity libraries that power it. On the side, I work on multiple [open source](https://github.com/hacdias) projects, usually related to the IndieWeb and the AT Protocol.
 
 ## Colophon {#colophon}
 
-I [started](/2014/07/12/apresentacao/) this website back in 2014, when I was just 14. At the time, I was running multiple blogs, in multiple languages. After a while, motivated by the idea of improving my English skills and reduce the amount of websites I was running, I [unified](/2015/02/11/i-have-moved-again/) all of them under a single roof. The website has also seen quite a [few](/2022/03/25/my-website-before-indieweb) [redesigns](/2022/06/18/my-website-after-indieweb) over the years, but that has not changed as often in the recent times.
+I [started](/2014/07/12/apresentacao/) this website back in 2014, when I was just 14. At the time, I was running multiple blogs, in multiple languages. After a while, motivated by the idea of improving my English skills and reducing the amount of websites I was running, I [unified](/2015/02/11/i-have-moved-again/) all of them under a single roof. The website has also seen quite a [few](/2022/03/25/my-website-before-indieweb) [redesigns](/2022/06/18/my-website-after-indieweb) over the years, but that has not changed as often in recent times.
 
-This website has been almost always statically-generated by [Hugo](/2015/08/12/farewell-wordpress-hello-hugo/), but things [have](/2021/11/19/farewell-hugo-hello-eagle/) [changed](/2023/06/13/farewell-eagle-kinda-hello-hugo/) a few times. In addition to Hugo, there's [Eagle](https://github.com/hacdias/eagle), which is a custom made engine to support additional, more dynamic features, like [IndieWeb](https://indieweb.org/) integrations and the search page.
+This website has been almost always statically generated by [Hugo](/2015/08/12/farewell-wordpress-hello-hugo/), but things [have](/2021/11/19/farewell-hugo-hello-eagle/) [changed](/2023/06/13/farewell-eagle-kinda-hello-hugo/) a few times. In addition to Hugo, there's [Eagle](https://github.com/hacdias/eagle), which is a custom-made engine to support additional, more dynamic features, like [IndieWeb](https://indieweb.org/) integrations and the search page.
 
-All the content on this website is produced by me, including photos. It is, by default, copyrighted unless otherwise noted. I do not use LLMs or other AIs to write or generate any of the content of this website. Other tools I use, whether to run this website, or not, can be found in my [uses](/uses/) page. I also write often about how this website [works](/tags/meta/).
+If you want to learn more about how this website works, I write often about it under the tag ["meta"](/tags/meta/). Tools that I use, whether to run this website or not, can be found in my [uses](/uses/) page. All the content on this website is produced by me, including photos. It is, by default, copyrighted unless otherwise stated.
 
 ## Get In Touch {#contact}
 
-Do you have any feedback, or just want to chat? Feel free to reach out! You can easily reach out to me by mail at [**mail@hacdias.com**](mailto:mail@hacdias.com) ([PGP key](/pubkey.asc)), or by messaging me on [**{{< favicon "signal.org" >}} Signal**](https://signal.me/#eu/NpDa7rvcj4CAXsiOpHqM2ADYyxXXmGTKr3HBXNPZXDPJ2JEgvBVPyJJah27RJe66). I can also be found [elsewhere](https://indieweb.org/elsewhere), usually as @hacdias. Here are some relevant places:
+Do you have any feedback, or just want to chat? Feel free to reach out! You can easily do it by email at [**mail@hacdias.com**](mailto:mail@hacdias.com) ([PGP key](/pubkey.asc)), or by messaging me on [**{{< favicon "signal.org" >}} Signal**](https://signal.me/#eu/NpDa7rvcj4CAXsiOpHqM2ADYyxXXmGTKr3HBXNPZXDPJ2JEgvBVPyJJah27RJe66). I can also be found [elsewhere](https://indieweb.org/elsewhere), usually as @hacdias. Here are some relevant places:
 
 - [🦋 Bluesky](https://bsky.app/profile/hacdias.com "@hacdias.com")
 - [🐙 GitHub](https://github.com/hacdias "@hacdias")
