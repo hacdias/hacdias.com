@@ -146,7 +146,7 @@ You can try changing the values to see what you get. For now, you should see som
   <div class="snowflakes">
     <canvas data-mode=static data-levels=0 data-branches=0 data-spread=0 data-sides=6 />
   </div>
-  <figcaption><p>Partial snowflake with 6 sides</p></figcaption>
+  <figcaption>Partial snowflake with 6 sides</figcaption>
 </figure>
 
 Quite bare, mhmm? Now (almost) the most exciting part: the `branches`! This number represents the number of branches coming out of each branch. Thus, inside the `draw` function, we need to add a loop for each branch.
@@ -257,7 +257,7 @@ In order to actually draw the branches, we now rotate the context by the angle a
   <div class="snowflakes">
     <canvas data-mode=static data-levels="5" data-branches="2" data-spread="0.83" data-sides="6" />
   </div>
-  <figcaption><p>Snowflake: 5 levels, 2 branches, 0.83 spread, 6 sides</p></figcaption>
+  <figcaption>Snowflake: 5 levels, 2 branches, 0.83 spread, 6 sides</figcaption>
 </figure>
 
 Right now, you should be able to see a similar snowflake as the one above. Play with the values, share with me your results. I hope you enjoyed this article as much as I did writing it.
