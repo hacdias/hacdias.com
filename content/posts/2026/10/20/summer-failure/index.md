@@ -9,6 +9,10 @@ tags:
   - javascript
   - time zones
   - story time
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3myc2qxaj2272
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3myc2qxaj2272
+  - https://fosstodon.org/@hacdias/117471943422472730
 ---
 
 In the summer, while I was working on a feature locally, I noticed a test started failing. I initially dismissed it: I assumed there was some flakiness, and CI was green, so everything must've been good, right? Until it kept failing, only locally. A test that a few days before was working as normal.
