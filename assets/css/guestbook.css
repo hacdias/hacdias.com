@@ -2,7 +2,7 @@
   display: grid;
   display: grid-lanes;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  grid-gap: var(--s2);
+  gap: var(--s2);
   margin: 2rem 0;
 }
 
@@ -13,7 +13,7 @@
   background: var(--mg);
   transform: rotate(-0.5deg);
   position: relative;
-  border: var(--border) solid rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
   clip-path: polygon(
     0 0,
     calc(100% - var(--fold)) 0,
