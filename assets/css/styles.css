@@ -87,7 +87,8 @@ pre {
 }
 
 :not(pre) > code {
-  border-radius: calc(var(--radius) / 2);
+  border-radius: var(--radius);
+  color: var(--c);
   padding: 1px 2px;
   background: var(--mg);
   border: var(--border) solid var(--fg);
