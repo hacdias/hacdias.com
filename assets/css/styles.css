@@ -786,7 +786,7 @@ ul.tb > li,
 .tb .tbi {
   display: grid;
   grid-template-columns: subgrid;
-  grid-column: span 2;
+  grid-column: 1 / -1;
   margin: 0;
   align-items: center;
   transition: all 0.2s ease;
@@ -819,7 +819,7 @@ ul.tb > li > *:first-child,
 .tb .tbm {
   display: grid;
   grid-template-columns: subgrid;
-  grid-column: span 2;
+  grid-column: 1 / -1;
 }
 
 .tb details summary.tbi:hover > *:first-child {
@@ -827,7 +827,7 @@ ul.tb > li > *:first-child,
 }
 
 .tb details::details-content {
-  grid-column: span 2;
+  grid-column: 1 / -1;
   display: block;
   width: 100%;
 }

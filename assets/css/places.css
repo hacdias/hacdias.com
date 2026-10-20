@@ -2,12 +2,6 @@
   grid-template-columns: 1fr 16rem max-content;
 }
 
-.places .tbi,
-.places .tbm,
-.places details::details-content {
-  grid-column: span 4;
-}
-
 .places > .tb details .tb {
   grid-template-columns: 1fr;
 }
