@@ -743,6 +743,10 @@ main pre {
   flex-grow: 1;
 }
 
+figure > .fg {
+  margin: 0;
+}
+
 .fg figure img {
   object-fit: cover;
   height: 100%;
