@@ -2,12 +2,6 @@
   grid-template-columns: 15rem 1fr max-content max-content;
 }
 
-.coffee .tbi,
-.coffee .tbm,
-.coffee details::details-content {
-  grid-column: span 4;
-}
-
 .coffee > .tb details .tb {
   grid-template-columns: max-content 1fr;
 }
