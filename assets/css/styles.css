@@ -24,10 +24,8 @@
   --fg: hsl(var(--n-h), var(--n-s), var(--fg-l));
 
   /* Highlight colors */
-  --h-a: var(--c);
   --h-b: hsl(95 40% 30%);
   --h-c: hsl(205 50% 36%);
-  --h-d: var(--light-text);
 
   /* Spacings */
   --s3: 2rem;
@@ -36,7 +34,7 @@
 
   /* Others */
   --max-width: 48rem;
-  --border: 1px;
+  --border: 1px solid var(--fg);
   --radius: 0.4rem;
 }
 
@@ -91,7 +89,7 @@ pre {
   color: var(--c);
   padding: 1px 2px;
   background: var(--mg);
-  border: var(--border) solid var(--fg);
+  border: var(--border);
 }
 
 svg,
@@ -130,7 +128,6 @@ figure img {
 
 .media iframe {
   height: 100%;
-  display: block;
 }
 
 .footnotes::before,
@@ -172,8 +169,7 @@ small {
   font-size: var(--f5);
 }
 
-a,
-a:visited {
+a {
   color: inherit;
   text-decoration: underline;
   word-wrap: break-word;
@@ -217,10 +213,6 @@ mark {
   display: none !important;
 }
 
-.db {
-  display: block;
-}
-
 .br {
   border-radius: var(--radius);
   overflow: hidden;
@@ -239,7 +231,7 @@ input,
 select,
 textarea {
   padding: 0.5rem;
-  border: var(--border) solid var(--fg);
+  border: var(--border);
   outline: 0;
   min-width: 0;
   border-radius: var(--radius);
@@ -247,15 +239,11 @@ textarea {
   color: var(--text);
 }
 
-input:focus,
-select:focus,
-textarea:focus {
+:is(input, select, textarea):focus {
   border-color: var(--c);
 }
 
-input:disabled,
-select:disabled,
-textarea:disabled {
+:is(input, select, textarea):disabled {
   background-color: var(--mg);
   cursor: not-allowed;
 }
@@ -266,12 +254,11 @@ textarea {
 
 .pixelated {
   image-rendering: pixelated;
-  image-rendering: crisp-edges;
 }
 
 hr {
   border: 0;
-  border-top: var(--border) solid var(--fg);
+  border-top: var(--border);
   margin: var(--s2) auto;
 }
 
@@ -287,16 +274,7 @@ figcaption {
   font-style: italic;
 }
 
-main header {
-  margin: var(--s2) 0;
-}
-
-main header h1,
-main header h2 {
-  margin: 0;
-}
-
-main header p {
+main header :is(h1, h2, p) {
   margin: 0;
 }
 
@@ -306,10 +284,6 @@ main header p {
   align-items: baseline;
   justify-content: space-between;
   gap: 0 var(--s2);
-}
-
-.header-link > :is(h1, h2) {
-  margin: 0;
 }
 
 .header-link:has(> h2) {
@@ -322,10 +296,6 @@ main footer {
 
 main footer .tb {
   grid-template-columns: 6rem 1fr;
-}
-
-main footer .tb li {
-  grid-column: span 2;
 }
 
 table {
@@ -343,11 +313,11 @@ table thead {
 table th,
 table td {
   padding: var(--s1);
-  border: var(--border) solid var(--fg);
+  border: var(--border);
 }
 
 table tr {
-  border-top: var(--border) solid var(--fg);
+  border-top: var(--border);
 }
 
 table tr:nth-child(2n) {
@@ -364,7 +334,7 @@ blockquote {
   margin-right: 0;
 }
 
-details summary {
+summary {
   cursor: pointer;
 }
 
@@ -390,7 +360,6 @@ details summary {
 #header > a {
   display: flex;
   align-items: center;
-  padding: 0;
   text-decoration: none;
   margin: var(--s2) 0;
   width: fit-content;
@@ -417,7 +386,7 @@ details summary {
   grid-area: contacts;
 }
 
-#contacts a.available {
+.available {
   display: inline-flex;
   align-items: center;
   gap: 0.4em;
@@ -425,11 +394,7 @@ details summary {
   font-weight: 700;
 }
 
-#contacts a.available:hover {
-  color: var(--c);
-}
-
-#contacts .available .dot {
+.available .dot {
   flex-shrink: 0;
   width: 0.5em;
   height: 0.5em;
@@ -440,8 +405,7 @@ details summary {
 
 #navbar {
   grid-area: nav;
-  border-top: var(--border) solid var(--fg);
-  border-bottom: var(--border) solid var(--fg);
+  border-block: var(--border);
 }
 
 #navbar,
@@ -449,7 +413,6 @@ details summary {
   display: flex;
   align-items: center;
   white-space: nowrap;
-  flex-wrap: nowrap;
   gap: var(--s2);
   scrollbar-width: none;
 }
@@ -507,14 +470,11 @@ details summary {
 
 .inline-form {
   display: flex;
+  gap: var(--s1);
 }
 
 .inline-form input:first-of-type {
   flex-grow: 1;
-}
-
-.inline-form button {
-  margin-left: var(--s1);
 }
 
 .box,
@@ -522,16 +482,16 @@ button,
 .button,
 .buttons a,
 .buttons a:visited,
-.highlight > pre,
+#pagination a,
 main pre {
-  border: var(--border) solid var(--fg);
+  border: var(--border);
   background-color: var(--mg);
   border-radius: var(--radius);
 }
 
 .card {
   border-radius: var(--radius);
-  border: var(--border) solid var(--fg);
+  border: var(--border);
   display: block;
   text-decoration: none;
   padding: 0 var(--s2);
@@ -554,10 +514,7 @@ main pre {
 
 .card .extra span {
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  inset: 0;
   background: color(srgb 0 0 0 / 0.5);
   color: white;
   display: flex;
@@ -584,11 +541,11 @@ main pre {
   padding: var(--s1) var(--s2);
 }
 
-.box > *:first-child {
+.box > :first-child {
   margin-top: 0;
 }
 
-.box > *:last-child {
+.box > :last-child {
   margin-bottom: 0;
 }
 
@@ -620,8 +577,7 @@ button:hover,
   padding: 0;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
-  grid-gap: var(--s1);
-  margin: 0 0 var(--s1) 0;
+  gap: var(--s1);
   font-size: var(--f5);
 }
 
@@ -637,7 +593,6 @@ button:hover,
   overflow: hidden;
 }
 
-.highlight > pre,
 main pre {
   overflow: auto;
   padding: var(--s2);
@@ -652,7 +607,7 @@ main pre {
 .highlight .kr,
 .highlight .kd,
 .highlight .nb {
-  color: var(--h-a);
+  color: var(--c);
 }
 
 .highlight .s,
@@ -670,24 +625,17 @@ main pre {
 .highlight .c,
 .highlight .c1,
 .highlight .cm {
-  color: var(--h-d);
+  color: var(--light-text);
   font-style: italic;
-}
-
-#preview,
-#preview::after {
-  left: 0;
-  width: 100%;
 }
 
 #preview {
   position: fixed;
-  top: 0;
+  inset: 0;
   z-index: 9999;
   padding: 2.5rem var(--s3);
   background: rgba(255, 255, 255, 0.9);
   color: black;
-  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -697,7 +645,7 @@ main pre {
 #preview::after {
   content: 'tap anywhere to close';
   position: absolute;
-  bottom: 0;
+  inset: auto 0 0;
   text-align: center;
   line-height: 2.5rem;
   font-size: var(--f5);
@@ -709,9 +657,8 @@ main pre {
 
 .fg {
   display: grid;
-  grid-gap: 1rem;
+  gap: 1rem;
   grid-template-columns: repeat(2, 1fr);
-  margin: 1rem 0;
 }
 
 .fg figure {
@@ -746,7 +693,7 @@ figure > .fg {
   margin-bottom: 0;
   padding: var(--s1) 0;
   background: var(--bg);
-  border-bottom: var(--border) solid var(--fg);
+  border-bottom: var(--border);
   color: var(--c);
   z-index: 100;
 }
@@ -776,7 +723,7 @@ ul.tb > li,
 
 ul.tb > li:not(:last-of-type),
 .tb > .tbm:not(:last-of-type) .tbi {
-  border-bottom: var(--border) solid var(--fg);
+  border-bottom: var(--border);
 }
 
 ul.tb > li:hover,
@@ -830,7 +777,7 @@ ul.tb > li > *:first-child,
 .fg,
 .buttons,
 .card,
-.card header,
+main header,
 figure,
 .media {
   margin: var(--s2) 0;
@@ -859,15 +806,11 @@ figure,
   gap: var(--s1);
 }
 
-#pagination a,
-#pagination label {
+#pagination a {
   flex-grow: 1;
   padding: var(--s1);
   text-align: center;
   text-decoration: none;
-  border-radius: var(--radius);
-  border: var(--border) solid var(--fg);
-  background-color: var(--mg);
 }
 
 #pagination a[aria-current='page'],
@@ -921,12 +864,12 @@ figure,
     --h-c: hsl(205 55% 70%);
   }
 
-  :root #preview {
+  #preview {
     background: rgba(0, 0, 0, 0.9);
     color: white;
   }
 
-  #contacts .available .dot {
+  .available .dot {
     background: #40c057;
   }
 }
@@ -951,13 +894,6 @@ figure,
     padding-inline: var(--s2);
   }
 
-  #header,
-  #navbar,
-  #contacts {
-    border-bottom: var(--border) solid var(--fg);
-    border-top: 0;
-  }
-
   #navbar,
   #contacts {
     overflow: auto;
@@ -973,7 +909,7 @@ figure,
   }
 
   #contacts {
-    border-top: var(--border) solid var(--fg);
+    border-block: var(--border);
   }
 
   .tb,
@@ -1018,10 +954,6 @@ figure,
   #footer {
     display: none;
   }
-
-  a:hover {
-    background: none;
-  }
 }
 
 @page {
@@ -1041,7 +973,7 @@ figure,
 }
 
 @media (prefers-reduced-motion: reduce) {
-  #contacts .available .dot {
+  .available .dot {
     animation: none;
   }
 }
