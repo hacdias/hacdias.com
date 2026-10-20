@@ -180,6 +180,9 @@ a:visited {
   overflow-wrap: anywhere;
   cursor: pointer;
   transition: all 0.2s ease;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  text-decoration-color: color-mix(in srgb, currentColor 40%, transparent);
 }
 
 .nl {
@@ -189,6 +192,7 @@ a:visited {
 a:active,
 a:hover {
   color: var(--c);
+  text-decoration-color: currentColor;
 }
 
 li {
