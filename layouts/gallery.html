@@ -1,5 +1,4 @@
 {{ define "main" }}
-  <style>{{ (resources.Get "css/gallery.css").Content | safeCSS }}</style>
   {{- $page := .Site.GetPage .Params.layoutPage -}}
 
   <header>

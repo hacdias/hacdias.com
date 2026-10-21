@@ -29,9 +29,15 @@
 
 {{ partialCached "assets/css.html" . }}
 
-{{ with .Resources.GetMatch "styles.css" }}
-<style>{{ .Content | safeCSS }}</style>
-{{ end }}
+{{- with cond .IsHome "home" .Layout }}
+  {{- with resources.Get (printf "css/layouts/%s.css" .) }}
+    <style>{{ .Content | safeCSS }}</style>
+  {{- end }}
+{{- end }}
+
+{{- with .Resources.GetMatch "styles.css" }}
+  <style>{{ .Content | safeCSS }}</style>
+{{- end }}
 
 {{ if .IsHome }}
   <link rel='site.standard.publication' href='at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.publication/3me7k4wsueo2b' />
