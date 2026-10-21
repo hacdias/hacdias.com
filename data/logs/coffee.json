@@ -1,5 +1,17 @@
 [
   {
+    "name": "Banko On It",
+    "origin": "Banko Chelchele, Gedeb, Ethiopia",
+    "process": "Super Natural",
+    "variety": "74112, 74110",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "date": "2026-10-20"
+  },
+  {
     "name": "Pitcher Perfect",
     "origin": "Colombia, Ethiopia",
     "roast": "Medium",
@@ -37,6 +49,7 @@
       "location": "Eindhoven, NL",
       "website": "https://sproutcoffeeroasters.art/"
     },
+    "rating": 8,
     "date": "2026-09-08"
   },
   {
@@ -62,6 +75,7 @@
       "location": "Utrecht, NL",
       "website": "https://keencoffee.com/"
     },
+    "rating": 7,
     "date": "2026-08-09"
   },
   {
