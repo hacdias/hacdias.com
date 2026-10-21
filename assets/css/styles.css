@@ -711,7 +711,7 @@ figure > .fg {
   margin: 0;
 }
 
-ul.tb > li,
+ul.tb > li:not(.tbm),
 .tb .tbi {
   display: grid;
   grid-template-columns: subgrid;
@@ -721,17 +721,17 @@ ul.tb > li,
   transition: all 0.2s ease;
 }
 
-ul.tb > li:not(:last-of-type),
+ul.tb > li:not(.tbm):not(:last-of-type),
 .tb > .tbm:not(:last-of-type) .tbi {
   border-bottom: var(--border);
 }
 
-ul.tb > li:hover,
+ul.tb > li:not(.tbm):hover,
 .tb .tbi:hover {
   background-color: var(--mg);
 }
 
-ul.tb > li > *,
+ul.tb > li:not(.tbm) > *,
 .tb .tbi > * {
   display: block;
   margin: var(--s1) 0;
@@ -740,15 +740,17 @@ ul.tb > li > *,
   overflow: hidden;
 }
 
-ul.tb > li > *:first-child,
+ul.tb > li:not(.tbm) > *:first-child,
 .tb .tbi > *:first-child {
   font-weight: 600;
 }
 
-.tb .tbm {
+.tb .tbm,
+.tb .tbm > details {
   display: grid;
   grid-template-columns: subgrid;
   grid-column: 1 / -1;
+  margin: 0;
 }
 
 .tb details summary.tbi:hover > *:first-child {
@@ -913,13 +915,13 @@ figure,
   }
 
   .tb,
-  ul.tb > li,
+  ul.tb > li:not(.tbm),
   .tb .tbi {
     display: flow-root;
     line-height: 1.5;
   }
 
-  ul.tb > li > *,
+  ul.tb > li:not(.tbm) > *,
   .tb .tbi > * {
     text-wrap: wrap;
   }

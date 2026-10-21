@@ -7,31 +7,33 @@
 
     <h3 class='tbh' id='{{ $year }}'>{{ $year }} <small class='lg'>({{ len $entries }} entries)</small></h3>
 
-    <div class='tb'>
+    <ul class='tb'>
     {{ with $entries }}
       {{ range $entry := . }}
-        <details name='trip' class='tbm'>
-          <summary class='tbi'>
-            <span>{{ .name }}</span>
-            <span>{{ .place }}</span>
-            <span>
-              <time class='tab lg small'>{{ dateFormat "2006-01-02" .start }}</time>
-              <small class='lg'>→</small>
-              <time class='tab lg small'>{{ dateFormat "2006-01-02" .date }}</time>
-            </span>
-          </summary>
+        <li class='tbm'>
+          <details name='trip'>
+            <summary class='tbi'>
+              <span>{{ .name }}</span>
+              <span>{{ .place }}</span>
+              <span>
+                <time class='tab lg small'>{{ dateFormat "2006-01-02" .start }}</time>
+                <small class='lg'>→</small>
+                <time class='tab lg small'>{{ dateFormat "2006-01-02" .date }}</time>
+              </span>
+            </summary>
 
-          {{ with $entry.itinerary }}
-            <ul class='tb'>
-              {{ range . }}
-                <li>{{ template "leg" (dict "Itinerary" . "Site" $.Site) }}</li>
-              {{ end }}
-            </ul>
-          {{ end }}
-        </details>
+            {{ with $entry.itinerary }}
+              <ul class='tb'>
+                {{ range . }}
+                  <li>{{ template "leg" (dict "Itinerary" . "Site" $.Site) }}</li>
+                {{ end }}
+              </ul>
+            {{ end }}
+          </details>
+        </li>
       {{ end }}
     {{ end }}
-    </div>
+    </ul>
   </section>
 {{ end }}
 
