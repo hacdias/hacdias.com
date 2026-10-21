@@ -1,6 +1,4 @@
 {{ define "main" }}
-  <style>{{ (resources.Get "css/guestbook.css").Content | safeCSS }}</style>
-
   <article class='h-entry'>
     {{- partialCached "post/header" (dict "Listing" false "Page" .) .Permalink false -}}
     {{- partialCached "post/content" . .Permalink }}
