@@ -2550,6 +2550,20 @@
     ]
   },
   {
+    "domain": "paradym.id",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/",
+        "targetUrl": "https://paradym.id/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/about/",
+        "targetUrl": "https://paradym.id"
+      }
+    ]
+  },
+  {
     "domain": "pyropus.ca",
     "count": 2,
     "links": [
@@ -3860,6 +3874,16 @@
     ]
   },
   {
+    "domain": "liftinapp.co",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/23/liftin/",
+        "targetUrl": "https://www.liftinapp.co/"
+      }
+    ]
+  },
+  {
     "domain": "lipsum.com",
     "count": 1,
     "links": [
@@ -4176,16 +4200,6 @@
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
         "targetUrl": "http://papers-we-love.github.io/"
-      }
-    ]
-  },
-  {
-    "domain": "paradym.id",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/",
-        "targetUrl": "https://paradym.id/"
       }
     ]
   },

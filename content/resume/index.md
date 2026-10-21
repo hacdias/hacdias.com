@@ -28,7 +28,7 @@ noIndex: true
 Senior Software Engineer building open source systems and products in Go and TypeScript. Spent six and a half years at Protocol Labs on IPFS, from high-traffic Go services to a widely used desktop app. Created File Browser (35K+ GitHub stars, 100M+ downloads). Now building digital identity products.
 
 <small>**Skills**: Go, TypeScript, Node.js, React, PostgreSQL, Redis, Docker, OAuth, OpenID4VC, X.509, OpenTelemetry<br>
-**Languages** (fluent): English, Dutch, and Portuguese</small>
+**Languages** (fluent): English, Dutch, Portuguese</small>
 
 ## Experience {#experience}
 
