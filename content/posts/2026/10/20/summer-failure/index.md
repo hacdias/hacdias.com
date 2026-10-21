@@ -19,7 +19,7 @@ In the summer, while I was working on a feature locally, I noticed a test starte
 
 <!--more-->
 
-It was not just a single test. Multiple tests were failing, so the immediate thought was that they must be related. The question was: why are they failing on my machine, but not on CI? The exact same code, the exact same setup — or so I thought. After cleaning caches and dependencies, and retrying multiple times, it was definitely not flaky, nor a cache issue.
+It was not just a single test. Multiple tests were failing, so the immediate thought was that they must be related. The question was: why are they failing on my machine, but not on CI? The exact same code, the exact same setup -- or so I thought. After cleaning caches and dependencies, and retrying multiple times, it was definitely not flaky, nor a cache issue.
 
 Some background: the failing tests were all about X.509 certificate validity. We create leaf certificates for mdoc, whose specification ([ISO/IEC 18013-5](https://www.iso.org/standard/69084.html)) limits their validity to 457 days. The service rejects certificates that are valid for longer than that, and the tests made sure that the limit was correctly enforced: create a certificate that is valid for exactly 457 days from now and check that it is accepted.
 
