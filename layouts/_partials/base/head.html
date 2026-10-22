@@ -35,6 +35,12 @@
   {{- end }}
 {{- end }}
 
+{{- range resources.Match "css/shortcodes/*.css" }}
+  {{- if $.HasShortcode (path.BaseName .Name) }}
+    <style>{{ .Content | safeCSS }}</style>
+  {{- end }}
+{{- end }}
+
 {{- with .Resources.GetMatch "styles.css" }}
   <style>{{ .Content | safeCSS }}</style>
 {{- end }}

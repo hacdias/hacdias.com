@@ -13,4 +13,4 @@ This is a list of ☕️ coffee bags I have bought, brewed, and - hopefully - en
 
 <!--more-->
 
-{{< coffee >}}
+{{< logs data="logs.coffee" type="coffee" unit="bean bags" >}}

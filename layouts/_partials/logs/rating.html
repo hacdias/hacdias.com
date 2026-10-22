@@ -1,0 +1,5 @@
+{{ with . }}
+  <span>{{ partialCached "helpers/stars" . . }}</span>
+{{ else }}
+  <span class="ah" alt="No rating">☆☆☆☆☆</span>
+{{ end }}

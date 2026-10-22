@@ -1,7 +1,0 @@
-.coffee > .tb {
-  grid-template-columns: 15rem 1fr max-content max-content;
-}
-
-.coffee > .tb details .tb {
-  grid-template-columns: max-content 1fr;
-}

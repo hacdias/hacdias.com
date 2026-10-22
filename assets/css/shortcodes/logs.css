@@ -1,0 +1,15 @@
+.rated > .tb {
+  grid-template-columns: 1fr max-content max-content;
+}
+
+.coffee > .tb {
+  grid-template-columns: 15rem 1fr max-content max-content;
+}
+
+.places > .tb {
+  grid-template-columns: 1fr 16rem max-content;
+}
+
+.places > .tb details .tb {
+  grid-template-columns: 1fr;
+}

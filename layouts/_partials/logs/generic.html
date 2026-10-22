@@ -1,0 +1,23 @@
+{{- $mf2 := .WithMicroformats }}
+{{- $rating := .WithRating }}
+
+{{ with .Log }}
+  <li{{if $mf2 }} class='h-entry'{{ end }}>
+      {{- with .url -}}<a href='{{ relURL . }}' class='nl {{if $mf2 }}u-url{{ end }}'>{{- else -}}<span>{{- end -}}
+        {{- if $mf2 }}<span class='p-name'>{{ end -}}
+          {{- .name -}}{{ with .season }} (Season {{. }}){{- end -}}
+        {{- if $mf2 }}</span>{{- end -}}
+        {{- with .author }} <span class='lg'>by {{ . -}}</span>{{ end }}
+        {{- with .publication }} <span class='lg'>in {{ . -}}</span>{{ end }}
+        {{- with .location }} <span class='lg'>at {{ . -}}</span>{{ end }}
+      {{- with .url }}</a>{{- else -}}</span>{{- end -}}
+    {{- if $rating }}
+      {{ partial "logs/rating" .rating }}
+    {{- end }}
+    {{- with .date }}
+      <time datetime='{{ dateFormat "2006-01-02T15:04:05Z07:00" . }}' class='tab lg small{{if $mf2 }} dt-published{{ end }}'>{{ dateFormat "2006-01-02" . }}</time>
+    {{- else }}
+      <span class='tab lg small ah' alt="Unknown date">0000-00-00</span>
+    {{- end }}
+  </li>
+{{ end }}

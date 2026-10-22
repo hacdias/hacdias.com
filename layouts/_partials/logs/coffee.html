@@ -1,0 +1,23 @@
+{{ with .Log }}
+  <li class='tbm'>
+    <details name='coffee-bag'>
+      <summary class='tbi'>
+        <span>{{ .name }}</span>
+        <span>{{ .roaster.name }}</span>
+        {{ partial "logs/rating" .rating }}
+        <span>
+          <small class='tab lg small'>{{ dateFormat "2006-01-02" .date }}</small>
+        </span>
+      </summary>
+
+      <ul class='tb'>
+        <li><strong>📍 Origin</strong> <span>{{ .origin }}</span></li>
+        <li><strong>🏭 Roaster</strong> <span><a href='{{ .roaster.website }}'>{{ .roaster.name }}</a> ({{ .roaster.location }})</span></li>
+        {{ with .roast }}<li><strong>🔥 Roast Level</strong> <span>{{ . }}</span></li>{{ end }}
+        {{ with .process }}<li><strong>🧪 Process</strong> <span>{{ . }}</span></li>{{ end }}
+        {{ with .variety }}<li><strong>🌱 Variety</strong> <span>{{ . }}</span></li>{{ end }}
+        {{ with .elevation }}<li><strong>🗻 Elevation</strong> <span>{{ . }}</span></li>{{ end }}
+      </ul>
+    </details>
+  </li>
+{{ end }}

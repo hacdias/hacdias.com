@@ -1,0 +1,19 @@
+{{ with .Log }}
+  <li class='tbm'>
+    <details name='performance'>
+      <summary class='tbi'>
+        <span>{{ if .name }}{{ .name }}{{- with .author }} <span class='lg'>by {{ . -}}</span>{{ end }}{{ else }}{{ .author }}{{ end }}</span>
+        {{ partial "logs/rating" .rating }}
+        <span>
+          <small class='tab lg small'>{{ dateFormat "2006-01-02" .date }}</small>
+        </span>
+      </summary>
+
+      <ul class='tb'>
+        <li><strong>📍 Venue</strong> <span>{{ .location }}</span></li>
+        {{ with .supportingAct }}<li><strong>🧑‍🎤 Supporting Act</strong> <span>{{ delimit . ", " }}</span></li>{{ end }}
+        {{ with .category }}<li><strong>📁 Type</strong> <span>{{ inflect.Humanize . }}</span></li>{{ end }}
+      </ul>
+    </details>
+  </li>
+{{ end }}
