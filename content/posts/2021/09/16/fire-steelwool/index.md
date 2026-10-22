@@ -29,12 +29,6 @@ photos:
   - url: image:2021-09-16-steelwool-02
     width: 3000
     height: 2000
-grid:
-  - "a a a b b b"
-  - "c c c d d d"
-  - "e e e e e e"
-  - "f f g g h h"
-  - "i i i i i i"
 categories:
   - photos
 tags:
@@ -47,6 +41,12 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx7kf3uq26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx7l7hhp2b
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3ig4wwnoxk2kz
+grid:
+  - a a a b b b
+  - c c c d d d
+  - e e e e e e
+  - f f g g h h
+  - i i i i i i
 thumbnail: image:2021-09-16-steelwool-07
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: We Don’t Own Our Data, Do We?
-description: Data is a topic I've been wanting to write about for quite some time.
-  Do we own our data? What should we do about it?
+description: Data is a topic I've been wanting to write about for quite some time. Do we own our data? What should we do about it?
 date: 2019-12-24T20:00:00Z
 categories:
   - writings

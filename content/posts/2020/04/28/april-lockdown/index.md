@@ -32,14 +32,6 @@ photos:
   - url: image:2020-04-28-hometown-09
     width: 3000
     height: 2000
-grid:
-  - "a a a a a a a a a a"
-  - "b b b b b c c c c c"
-  - "d d d d d d d d d d"
-  - "e e e e e e e e e e"
-  - "f f f f f g g g g g"
-  - "h h h h h h h i i i"
-  - "j j j j j j j j j j"
 categories:
   - photos
 tags:
@@ -51,6 +43,14 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx2lst5h26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx2mpivj2h
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3h6f62bx6qckz
+grid:
+  - a a a a a a a a a a
+  - b b b b b c c c c c
+  - d d d d d d d d d d
+  - e e e e e e e e e e
+  - f f f f f g g g g g
+  - h h h h h h h i i i
+  - j j j j j j j j j j
 thumbnail: image:2020-04-28-hometown-02
 ---
 

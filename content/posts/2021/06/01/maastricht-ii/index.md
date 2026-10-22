@@ -17,10 +17,6 @@ photos:
   - url: image:2021-06-01-maastricht-12
     width: 3000
     height: 2000
-grid:
-  - "a a a a a a a a a a"
-  - "b b b c c c c c c c"
-  - "d d d d d e e e e e"
 categories:
   - photos
 tags:
@@ -32,6 +28,10 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx6wceel2g
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3i5p64yyc22kz
   - https://www.instagram.com/p/CO6P31uLDLN/
+grid:
+  - a a a a a a a a a a
+  - b b b c c c c c c c
+  - d d d d d e e e e e
 thumbnail: image:2021-06-01-maastricht-07
 ---
 

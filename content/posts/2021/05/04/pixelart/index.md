@@ -5,8 +5,6 @@ photos:
   - url: https://media.hacdias.com/2021-04-18-pirilampos.gif
   - url: https://media.hacdias.com/2021-04-16-bedroom-lamp.gif
   - url: https://media.hacdias.com/2021-04-16-common-room-lamps.gif
-grid:
-  - "a b c"
 categories:
   - writings
 tags:
@@ -15,6 +13,8 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merafkjzcy26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3i3jnx75rdqct
+grid:
+  - a b c
 ---
 
 Some years ago, when I first tried doing [pixel art](/2019/04/18/trying-pixel-art/), I ended up making a few other things that I never shared. I now just found them again, and thought it would be nice to share them. They all date from April 2019 and are made after something in my life.

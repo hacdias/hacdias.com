@@ -20,11 +20,6 @@ photos:
   - url: image:2021-02-28-eindhoven-snow-06
     width: 3000
     height: 2000
-grid:
-  - "a b"
-  - "a c"
-  - "d d"
-  - "e f"
 categories:
   - photos
 tags:
@@ -36,6 +31,11 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqvqw5spy2g
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqvqx5nai23
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3hwgecbfe22kz
+grid:
+  - a b
+  - a c
+  - d d
+  - e f
 thumbnail: image:2021-02-28-eindhoven-snow-01
 ---
 

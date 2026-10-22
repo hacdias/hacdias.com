@@ -1,7 +1,6 @@
 ---
 title: Comandos 'printf' e 'sprintf' em PHP e WordPress
-description: Existem vários comandos que nos permitem imprimir frases. Porque é que
-  existem vários? Alguns tornam o texto mais claro, como o 'printf' e o 'sprintf'.
+description: Existem vários comandos que nos permitem imprimir frases. Porque é que existem vários? Alguns tornam o texto mais claro, como o 'printf' e o 'sprintf'.
 date: 2014-09-13T09:16:48Z
 categories:
   - writings

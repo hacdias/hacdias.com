@@ -11,8 +11,6 @@ photos:
   - url: image:2022-09-05-strijp-s-03
     width: 1536
     height: 2048
-grid:
-  - "a b c"
 categories:
   - photos
 tags:
@@ -23,6 +21,8 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rxmrr3b2d
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3jbwy6lsqgukz
+grid:
+  - a b c
 thumbnail: image:2022-09-05-strijp-s-01
 ---
 

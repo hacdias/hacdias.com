@@ -8,9 +8,6 @@ photos:
   - url: image:2021-09-16-fire-02
     width: 3000
     height: 2000
-grid:
-  - "a"
-  - "b"
 categories:
   - photos
 tags:
@@ -19,6 +16,9 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx74424r26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3ig4wnplos2kz
+grid:
+  - a
+  - b
 thumbnail: image:2021-09-16-fire-01
 ---
 

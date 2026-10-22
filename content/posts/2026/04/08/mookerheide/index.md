@@ -17,9 +17,6 @@ photos:
     alt: A person walking along a sandy path through dry heathland under a cloudy sky
     width: 4000
     height: 3000
-grid:
-  - "a a"
-  - "b c"
 location:
   latitude: 51.7515619
   longitude: 5.8920346
@@ -37,6 +34,9 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mixlqwcisezt
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3mixlqwcisevp
+grid:
+  - a a
+  - b c
 ---
 
 The Netherlands might not have mountains, but there are always incredible pieces of nature here and there. This is where we took a walk on Monday, the Mookerheide, in Nijmegen, next to the German border. The weather was not the best, but we got to see some Highlanders.

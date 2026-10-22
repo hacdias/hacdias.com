@@ -11,9 +11,6 @@ photos:
   - url: image:2025-06-14-pico-do-areeiro-03
     width: 3000
     height: 2000
-grid:
-  - "a a"
-  - "b c"
 location:
   latitude: 32.7355731
   longitude: -16.9391887
@@ -34,6 +31,9 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lrkbrbwlvhdf
   - https://fosstodon.org/@hacdias/114680205332731874
   - https://www.instagram.com/p/DK3_dkEt-YT/
+grid:
+  - a a
+  - b c
 ---
 
 When we left to go to Pico do Areeiro, we didn't expect to see this incredible scenery. On our journey up, we went through the clouds, and came right on top, leaving these blankets of air floating under us.

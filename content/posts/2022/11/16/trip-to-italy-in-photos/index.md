@@ -30,11 +30,6 @@ photos:
   - url: image:2022-11-16-trip-to-italy-in-photos-09
     width: 3000
     height: 2000
-grid:
-  - "a a a b b b"
-  - "c c d d e e"
-  - "f f f f f f"
-  - "g g h h i i"
 categories:
   - photos
 tags:
@@ -47,6 +42,11 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxcftmk226
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxcgpory26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3jhmttfsvf5kz
+grid:
+  - a a a b b b
+  - c c d d e e
+  - f f f f f f
+  - g g h h i i
 thumbnail: image:2022-11-16-trip-to-italy-in-photos-02
 ---
 

@@ -41,16 +41,6 @@ photos:
   - url: image:2022-03-27-cherry-blossoms-group
     width: 3000
     height: 2000
-grid:
-  - "a a"
-  - "b c"
-  - "d d"
-  - "e f"
-  - "g g"
-  - "h i"
-  - "j j"
-  - "k l"
-  - "m m"
 categories:
   - photos
 tags:
@@ -64,6 +54,16 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxafcvtp2b
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxagsjhy26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3iv7xvhaxszkz
+grid:
+  - a a
+  - b c
+  - d d
+  - e f
+  - g g
+  - h i
+  - j j
+  - k l
+  - m m
 thumbnail: image:2022-03-27-cherry-blossoms-06
 ---
 

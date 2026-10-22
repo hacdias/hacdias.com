@@ -42,13 +42,6 @@ photos:
     alt: A panoramic view of an open grass field with a long line of pine trees on the horizon
     width: 4843
     height: 1788
-grid:
-  - "a a"
-  - "b b"
-  - "c c"
-  - "d e"
-  - "f g"
-  - "h h"
 location:
   latitude: 51.2475946
   longitude: 5.2883714
@@ -70,6 +63,13 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3mkwmtvdn62vi
   - https://fosstodon.org/@hacdias/116509598804472933
   - https://www.instagram.com/p/DX3rx3GjSei/?igsh=MWhxbHIyZHI1NHJmNw==
+grid:
+  - a a
+  - b b
+  - c c
+  - d e
+  - f g
+  - h h
 thumbnail: image:2026-05-03-lommelse-land-3
 ---
 

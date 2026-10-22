@@ -32,11 +32,6 @@ photos:
     alt: The historic white Philips tower in Eindhoven topped with Dutch flags and a Philips sign, at dusk
     width: 3000
     height: 2000
-grid:
-  - "z z z z z z"
-  - "a a a b b b"
-  - "c c c d d d"
-  - "e e e e e e"
 categories:
   - photos
 tags:
@@ -49,5 +44,10 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx44mcz32e
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3hu7p33soe2kz
   - https://www.instagram.com/p/COUnXtrrMQJ/
+grid:
+  - z z z z z z
+  - a a a b b b
+  - c c c d d d
+  - e e e e e e
 thumbnail: image:2021-01-31-strijps
 ---

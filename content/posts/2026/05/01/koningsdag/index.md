@@ -64,16 +64,6 @@ photos:
     alt: A small child's bicycle leaning against a green fence with a handwritten "Te Koop" (For Sale) sign attached
     width: 4000
     height: 2667
-grid:
-  - "a a"
-  - "b c"
-  - "d d"
-  - "e f"
-  - "g g"
-  - "h i"
-  - "j j"
-  - "k l"
-  - "m m"
 location:
   latitude: 51.44592
   longitude: 5.46165
@@ -92,6 +82,16 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mkrqbnghw2vi
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mkrqboeyi2vi
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3mkrqbljgs2vi
+grid:
+  - a a
+  - b c
+  - d d
+  - e f
+  - g g
+  - h i
+  - j j
+  - k l
+  - m m
 thumbnail: image:2026-05-01-koningsdag-06
 ---
 
