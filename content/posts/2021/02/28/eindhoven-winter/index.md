@@ -20,6 +20,11 @@ photos:
   - url: image:2021-02-28-eindhoven-snow-06
     width: 3000
     height: 2000
+grid:
+  - "a b"
+  - "a c"
+  - "d d"
+  - "e f"
 categories:
   - photos
 tags:
@@ -35,20 +40,3 @@ thumbnail: image:2021-02-28-eindhoven-snow-01
 ---
 
 I saw real life snowing for many days for the first time. It was also one of the coldest Februaries in the Netherlands over the past years.
-
-<style>
-.fg-2021-02-28-eindhoven-winter{
-  grid-template-areas:
-    "a b"
-    "a c"
-    "d d"
-    "e f";
-}
-
-.fg-2021-02-28-eindhoven-winter> *:nth-child(1) { grid-area: a; }
-.fg-2021-02-28-eindhoven-winter> *:nth-child(2) { grid-area: b; }
-.fg-2021-02-28-eindhoven-winter> *:nth-child(3) { grid-area: c; }
-.fg-2021-02-28-eindhoven-winter> *:nth-child(4) { grid-area: d; }
-.fg-2021-02-28-eindhoven-winter> *:nth-child(5) { grid-area: e; }
-.fg-2021-02-28-eindhoven-winter> *:nth-child(6) { grid-area: f; }
-</style>

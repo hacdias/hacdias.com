@@ -64,6 +64,16 @@ photos:
     alt: A small child's bicycle leaning against a green fence with a handwritten "Te Koop" (For Sale) sign attached
     width: 4000
     height: 2667
+grid:
+  - "a a"
+  - "b c"
+  - "d d"
+  - "e f"
+  - "g g"
+  - "h i"
+  - "j j"
+  - "k l"
+  - "m m"
 location:
   latitude: 51.44592
   longitude: 5.46165
@@ -84,35 +94,5 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3mkrqbljgs2vi
 thumbnail: image:2026-05-01-koningsdag-06
 ---
-
-<style>
-.fg-2026-05-01-koningsdag {
-  grid-template-areas:
-    "a a"
-    "b c"
-    "d d"
-    "e f"
-    "g g"
-    "h i"
-    "j j"
-    "k l"
-    "m m"
-}
-
-.fg-2026-05-01-koningsdag > *:nth-child(1) { grid-area: a; }
-.fg-2026-05-01-koningsdag > *:nth-child(2) { grid-area: b; }
-.fg-2026-05-01-koningsdag > *:nth-child(3) { grid-area: c; }
-.fg-2026-05-01-koningsdag > *:nth-child(4) { grid-area: d; }
-.fg-2026-05-01-koningsdag > *:nth-child(5) { grid-area: e; }
-.fg-2026-05-01-koningsdag > *:nth-child(6) { grid-area: f; }
-.fg-2026-05-01-koningsdag > *:nth-child(7) { grid-area: g; }
-.fg-2026-05-01-koningsdag > *:nth-child(8) { grid-area: h; }
-.fg-2026-05-01-koningsdag > *:nth-child(9) { grid-area: i; }
-.fg-2026-05-01-koningsdag > *:nth-child(10) { grid-area: j; }
-.fg-2026-05-01-koningsdag > *:nth-child(11) { grid-area: k; }
-.fg-2026-05-01-koningsdag > *:nth-child(12) { grid-area: l; }
-.fg-2026-05-01-koningsdag > *:nth-child(13) { grid-area: m; }
-
-</style>
 
 This week was King's Day here in The Netherlands, where the whole country unites as a gigantic flea market. I took some photos here in Eindhoven during that day, and I thought it'd be nice to share the ✨ *vibes* ✨. I also ate some orange tompouce as one should, but I didn't take a nice photo of it!

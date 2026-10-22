@@ -11,6 +11,8 @@ photos:
   - url: image:2025-06-17-untitled-03
     width: 3000
     height: 4501
+grid:
+  - "a b c"
 location:
   latitude: 32.6384505
   longitude: -16.8554634
@@ -32,7 +34,3 @@ syndication:
   - https://fosstodon.org/@hacdias/114697155979190094
 thumbnail: image:2025-06-17-untitled-03
 ---
-
-<style>
-.fg-2025-06-17-untitled { grid-template-columns: repeat(3, 1fr); }
-</style>

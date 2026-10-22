@@ -15,6 +15,9 @@ photos:
     alt: Two brown slugs intertwined on the forest floor among pine needles, fallen leaves, and twigs
     width: 3000
     height: 2000
+grid:
+  - "a b"
+  - "c c"
 categories:
   - photos
 tags:
@@ -27,18 +30,6 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3k5x6y5p7u2kz
 thumbnail: image:2023-08-27-mushrooms-nest
 ---
-
-<style>
-.fg-2023-08-27-forest-delicacies {
-  grid-template-areas:
-    "a b"
-    "c c";
-}
-
-.fg-2023-08-27-forest-delicacies> *:nth-child(1) { grid-area: a; }
-.fg-2023-08-27-forest-delicacies> *:nth-child(2) { grid-area: b; }
-.fg-2023-08-27-forest-delicacies> *:nth-child(3) { grid-area: c; }
-</style>
 
 Three simple pictures I took during a walk in the Stratumse Heide. It's already starting
 to look somewhat like autumn, which I appreciate. I also haven't used my camera for quite

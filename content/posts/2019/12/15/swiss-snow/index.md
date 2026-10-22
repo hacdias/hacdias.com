@@ -8,6 +8,9 @@ photos:
   - url: image:2019-12-15-swiss-snow-02
     width: 3000
     height: 2000
+grid:
+  - "a"
+  - "b"
 categories:
   - photos
 tags:
@@ -21,9 +24,3 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3gtsp6nxas2kz
 thumbnail: image:2019-12-15-swiss-snow-01
 ---
-
-<style>
-.fg-2019-12-15-swiss-snow {
-  grid-template-columns: repeat(1, 1fr);
-}
-</style>
