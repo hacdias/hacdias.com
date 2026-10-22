@@ -12,8 +12,12 @@
     <section class='{{ $type }}{{ if $.WithRating }} rated{{ end }}'>
       {{ $year := . }}
       {{ $logs := index $groups.map $year }}
+      {{ $unit := or $.Unit "entries" }}
+      {{ if eq (len $logs) 1 }}
+        {{ $unit = inflect.Singularize $unit }}
+      {{ end }}
 
-      <h3 class='tbh' id='{{ $year }}'>{{ if eq $year "0" }}Past{{ else }}{{ $year }}{{ end }} <small class='lg'>({{ len $logs }} {{ or $.Unit "entries" }})</small></h3>
+      <h3 class='tbh' id='{{ $year }}'>{{ if eq $year "0" }}Past{{ else }}{{ $year }}{{ end }} <small class='lg'>({{ len $logs }} {{ $unit }})</small></h3>
 
       {{ template "logs/list" (dict "Logs" $logs "Type" $type "WithMicroformats" $.WithMicroformats "WithRating" $.WithRating) }}
     </section>
