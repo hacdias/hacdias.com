@@ -9,4 +9,4 @@ This is an extensive list of all live performances I've attended, in the broad s
 
 <!--more-->
 
-{{< performances >}}
+{{< logs data="logs.performances" type="performances" withRating=true >}}

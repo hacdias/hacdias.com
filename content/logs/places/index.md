@@ -9,4 +9,4 @@ This is where I list the trips 🚅 I have done in the past. I like keeping a re
 
 <!--more-->
 
-{{< places >}}
+{{< logs data="logs.places" type="places" >}}

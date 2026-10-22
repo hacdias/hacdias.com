@@ -1,0 +1,54 @@
+{{ with .Log }}
+  <li class='tbm'>
+    <details name='trip'>
+      <summary class='tbi'>
+        <span>{{ .name }}</span>
+        <span>{{ .place }}</span>
+        <span>
+          <time class='tab lg small'>{{ dateFormat "2006-01-02" .start }}</time>
+          <small class='lg'>→</small>
+          <time class='tab lg small'>{{ dateFormat "2006-01-02" .date }}</time>
+        </span>
+      </summary>
+
+      {{ with .itinerary }}
+        <ul class='tb'>
+          {{ range . }}
+            <li>{{ template "leg" . }}</li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </details>
+  </li>
+{{ end }}
+
+{{ define "leg" }}
+  <span>
+    {{ template "transit-type" .type }}
+    {{ $departure := time.AsTime .departure }}
+    {{ $arrival := time.AsTime .arrival }}
+
+    <time class='tab lg'>{{ $departure.Format "2006-01-02 15:04" }}</time>
+    {{ .origin }}
+    →
+    <time class='tab lg'>
+      {{- $arrival.Format "15:04" -}}
+      {{- if ne $departure.Day $arrival.Day}}<sup>+1</sup>{{ end -}}
+    </time>
+
+    {{ .destination }}
+    {{ if eq .type "air" -}}
+      <span class='lg'>({{ .operator }} {{.number}})</span>
+    {{- end }}
+  </span>
+{{ end }}
+
+{{ define "transit-type" }}
+  {{- if eq . "train" }}🚆
+  {{ else if eq . "bus" }}🚍
+  {{ else if eq . "air" }}✈️
+  {{ else if eq . "boat" }}🛳
+  {{ else if eq . "car" }}🚙
+  {{ else }}🚀
+  {{ end -}}
+{{ end }}

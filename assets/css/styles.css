@@ -769,6 +769,7 @@ ul.tb > li:not(.tbm) > *:first-child,
 }
 
 .tb details .tb {
+  grid-template-columns: max-content 1fr;
   font-size: var(--f5);
   background: var(--mg);
   margin: 0;
