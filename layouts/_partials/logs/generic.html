@@ -5,7 +5,7 @@
   <li{{if $mf2 }} class='h-entry'{{ end }}>
       {{- with .url -}}<a href='{{ relURL . }}' class='nl {{if $mf2 }}u-url{{ end }}'>{{- else -}}<span>{{- end -}}
         {{- if $mf2 }}<span class='p-name'>{{ end -}}
-          {{- .name -}}{{ with .season }} (Season {{. }}){{- end -}}
+          {{- .name -}}{{ with .season }} <span class='lg'>(Season {{ . }})</span>{{- end -}}
         {{- if $mf2 }}</span>{{- end -}}
         {{- with .author }} <span class='lg'>by {{ . -}}</span>{{ end }}
         {{- with .publication }} <span class='lg'>in {{ . -}}</span>{{ end }}
