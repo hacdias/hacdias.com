@@ -12,6 +12,8 @@ photos:
   - url: image:2022-10-23-strijp-s-fall-03
     width: 3000
     height: 4000
+grid:
+  - "a b c"
 categories:
   - photos
 tags:
@@ -24,11 +26,5 @@ syndication:
   - https://www.instagram.com/p/CkDRZ2bIIfy/
 thumbnail: image:2022-10-23-strijp-s-fall-01
 ---
-
-<style>
-.fg-2022-10-23-strijp-s-fall {
-  grid-template-columns: repeat(3, 1fr);
-}
-</style>
 
 The fall is settling down in Strijp-S.

@@ -20,6 +20,10 @@ photos:
   - url: image:2021-04-30-utrecht-25
     width: 3000
     height: 2000
+grid:
+  - "a a a a a a"
+  - "b b c c d d"
+  - "e e f f f f"
 categories:
   - photos
 tags:
@@ -34,20 +38,3 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3i37xis6ps2kz
 thumbnail: image:2021-04-30-utrecht-17
 ---
-
-<style>
-.fg-2021-04-30-utrecht-ii {
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-areas:
-    "a a a a a a"
-    "b b c c d d"
-    "e e f f f f";
-}
-
-.fg-2021-04-30-utrecht-ii > *:nth-child(1) { grid-area: a; }
-.fg-2021-04-30-utrecht-ii > *:nth-child(2) { grid-area: b; }
-.fg-2021-04-30-utrecht-ii > *:nth-child(3) { grid-area: c; }
-.fg-2021-04-30-utrecht-ii > *:nth-child(4) { grid-area: d; }
-.fg-2021-04-30-utrecht-ii > *:nth-child(5) { grid-area: e; }
-.fg-2021-04-30-utrecht-ii > *:nth-child(6) { grid-area: f; }
-</style>

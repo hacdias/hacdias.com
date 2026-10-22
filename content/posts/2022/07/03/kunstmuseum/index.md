@@ -23,6 +23,11 @@ photos:
   - url: image:2022-07-03-kunstmuseum-07
     width: 3000
     height: 4000
+grid:
+  - "a a"
+  - "b c"
+  - "d e"
+  - "f g"
 categories:
   - photos
 tags:
@@ -36,24 +41,6 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3j4vajwt3apkz
 thumbnail: image:2022-07-03-kunstmuseum-01
 ---
-
-<style>
-.fg-2022-07-03-kunstmuseum {
-  grid-template-areas:
-    "a a"
-    "b c"
-    "d e"
-    "f g";
-}
-
-.fg-2022-07-03-kunstmuseum> *:nth-child(1) { grid-area: a; }
-.fg-2022-07-03-kunstmuseum> *:nth-child(2) { grid-area: b; }
-.fg-2022-07-03-kunstmuseum> *:nth-child(3) { grid-area: c; }
-.fg-2022-07-03-kunstmuseum> *:nth-child(4) { grid-area: d; }
-.fg-2022-07-03-kunstmuseum> *:nth-child(5) { grid-area: e; }
-.fg-2022-07-03-kunstmuseum> *:nth-child(6) { grid-area: f; }
-.fg-2022-07-03-kunstmuseum> *:nth-child(7) { grid-area: g; }
-</style>
 
 Today I went to the weirdest museum I’ve been lately, the Kunstmuseum in The Hague. There were _many_ wicked artworks. Fortunately there were also very pleasing ones. The best ones were the kinetic sculptures by Theo Jansen that you could interact with - I don’t have pictures of those so they’re not shared here.
 

@@ -20,13 +20,22 @@
     {{- end -}}
     {{- with .Content }}{{ . }}{{ end -}}
     {{- if .Params.photos }}
-      {{ $slug := strings.TrimSuffix "/" .RelPermalink }}
-      {{ $slug = strings.TrimPrefix "/" $slug }}
-      {{ $slug = strings.Replace $slug "/" "-" }}
-
       {{ if gt (len .Params.photos) 1 }}
-        <div class='fg fg-{{ $slug }}'>
-        {{ range .Params.photos }}
+        {{ $style := "" }}
+        {{ $areas := slice }}
+        {{ with .Params.grid }}
+          {{ $rows := slice }}
+          {{ range . }}{{ $rows = $rows | append (printf "'%s'" .) }}{{ end }}
+          {{ $areas = uniq (split (delimit . " ") " ") }}
+          {{ $style = printf "grid-template-columns: repeat(%d, 1fr); grid-template-areas: %s" (len (split (index . 0) " ")) (delimit $rows " ") }}
+        {{ end }}
+
+        <div class='fg'{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
+        {{ range $i, $photo := .Params.photos }}
+          {{ $area := "" }}
+          {{ if lt $i (len $areas) }}
+            {{ $area = printf "grid-area: %s" (index $areas $i) }}
+          {{ end }}
           {{ partial "helpers/figure" (dict
             "Destination" .url
             "Title" .title
@@ -34,6 +43,7 @@
             "IsBlock" true
             "Width" .width
             "Height" .height
+            "Style" $area
             "Page" $.Page
           )}}
         {{ end }}

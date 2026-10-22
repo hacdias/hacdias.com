@@ -41,6 +41,16 @@ photos:
   - url: image:2022-03-27-cherry-blossoms-group
     width: 3000
     height: 2000
+grid:
+  - "a a"
+  - "b c"
+  - "d d"
+  - "e f"
+  - "g g"
+  - "h i"
+  - "j j"
+  - "k l"
+  - "m m"
 categories:
   - photos
 tags:
@@ -56,36 +66,6 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3iv7xvhaxszkz
 thumbnail: image:2022-03-27-cherry-blossoms-06
 ---
-
-<style>
-.fg-2022-03-27-visit-to-the-bloesempark {
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-areas:
-    "a a"
-  "b c"
-  "d d"
-  "e f"
-  "g g"
-  "h i"
-  "j j"
-  "k l"
-  "m m";
-}
-
-.fg-2022-03-27-visit-to-the-bloesempark > *:nth-child(1) { grid-area: a; }
-.fg-2022-03-27-visit-to-the-bloesempark > *:nth-child(2) { grid-area: b; }
-.fg-2022-03-27-visit-to-the-bloesempark > *:nth-child(3) { grid-area: c; }
-.fg-2022-03-27-visit-to-the-bloesempark > *:nth-child(4) { grid-area: d; }
-.fg-2022-03-27-visit-to-the-bloesempark > *:nth-child(5) { grid-area: e; }
-.fg-2022-03-27-visit-to-the-bloesempark > *:nth-child(6) { grid-area: f; }
-.fg-2022-03-27-visit-to-the-bloesempark > *:nth-child(7) { grid-area: g; }
-.fg-2022-03-27-visit-to-the-bloesempark > *:nth-child(8) { grid-area: h; }
-.fg-2022-03-27-visit-to-the-bloesempark > *:nth-child(9) { grid-area: i; }
-.fg-2022-03-27-visit-to-the-bloesempark > *:nth-child(10) { grid-area: j; }
-.fg-2022-03-27-visit-to-the-bloesempark > *:nth-child(11) { grid-area: k; }
-.fg-2022-03-27-visit-to-the-bloesempark > *:nth-child(12) { grid-area: l; }
-.fg-2022-03-27-visit-to-the-bloesempark > *:nth-child(13) { grid-area: m; }
-</style>
 
 ![](https://media.hacdias.com/2022-03-27-cherry-blossom-tree.gif)
 {.pixelated .right style="max-width: 11rem"}

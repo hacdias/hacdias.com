@@ -11,6 +11,10 @@ photos:
   - url: image:2019-09-30-azores-03
     width: 3000
     height: 1068
+grid:
+  - "a"
+  - "b"
+  - "c"
 categories:
   - photos
 tags:
@@ -23,11 +27,5 @@ syndication:
   - https://www.instagram.com/p/B3Bx76glifj/
 thumbnail: image:2019-09-30-azores-01
 ---
-
-<style>
-.fg-2019-09-30-azores {
-  grid-template-columns: repeat(1, 1fr);
-}
-</style>
 
 I went to Azores in the summer of 2019 and took these few really nice panoramas. One day, I hope to go back there. I would recommend everyone to visit any of the islands.

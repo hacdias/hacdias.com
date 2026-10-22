@@ -17,6 +17,9 @@ photos:
   - url: image:2022-06-07-dm-instant
     width: 3000
     height: 4000
+grid:
+  - "a a b b c c"
+  - "d d d e e e"
 location:
   latitude: 51.4324
   longitude: 5.48616
@@ -33,21 +36,6 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3j2uvh6wrsect
 thumbnail: image:2022-06-07-dm-photo-1
 ---
-
-<style>
-.fg-2022-06-07-dm-lustrum-exhibition {
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-areas:
-    "a a b b c c"
-    "d d d e e e";
-}
-
-.fg-2022-06-07-dm-lustrum-exhibition > *:nth-child(1) { grid-area: a; }
-.fg-2022-06-07-dm-lustrum-exhibition > *:nth-child(2) { grid-area: b; }
-.fg-2022-06-07-dm-lustrum-exhibition > *:nth-child(3) { grid-area: c; }
-.fg-2022-06-07-dm-lustrum-exhibition > *:nth-child(4) { grid-area: d; }
-.fg-2022-06-07-dm-lustrum-exhibition > *:nth-child(5) { grid-area: e; }
-</style>
 
 A few days ago, we had the Lustrum Gala of Dekate Mousa, the photography association and it was a very nice experience! During the gala, we all had the opportunity to see the Lustrum Exhibition! Today at 8pm, the exhibition officially opens for the public at the [CKE](https://cke.nl/) in Eindhoven.
 

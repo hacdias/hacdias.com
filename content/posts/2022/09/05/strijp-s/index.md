@@ -11,6 +11,8 @@ photos:
   - url: image:2022-09-05-strijp-s-03
     width: 1536
     height: 2048
+grid:
+  - "a b c"
 categories:
   - photos
 tags:
@@ -25,9 +27,3 @@ thumbnail: image:2022-09-05-strijp-s-01
 ---
 
 Some pictures of the [Strijp-S](https://www.thisiseindhoven.com/en/see-and-do/dynamic-districts/strijp-s) district in Eindhoven.
-
-<style>
-.fg-2022-09-05-strijp-s {
-  grid-template-columns: repeat(3, 1fr);
-}
-</style>

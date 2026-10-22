@@ -11,6 +11,9 @@ photos:
   - url: image:2025-10-03-wielewaal-03
     width: 3024
     height: 4032
+grid:
+  - "a a"
+  - "b c"
 location:
   latitude: 51.4555493
   longitude: 5.4221742
@@ -29,15 +32,3 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3m2c227gj22kz
   - https://fosstodon.org/@hacdias/115310174182165071
 ---
-
-<style>
-.fg-2025-10-03-wielewaal {
-  grid-template-areas:
-    "a a"
-    "b c";
-}
-
-.fg-2025-10-03-wielewaal> *:nth-child(1) { grid-area: a; }
-.fg-2025-10-03-wielewaal> *:nth-child(2) { grid-area: b; }
-.fg-2025-10-03-wielewaal> *:nth-child(3) { grid-area: c; }
-</style>

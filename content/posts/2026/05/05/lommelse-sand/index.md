@@ -30,6 +30,14 @@ photos:
     alt: A panoramic view of a wide flat sandy expanse with a line of pine trees rising along the back edge
     width: 7885
     height: 2911
+grid:
+  - "a"
+  - "b"
+  - "c"
+  - "d"
+  - "e"
+  - "f"
+  - "g"
 location:
   latitude: 51.2475946
   longitude: 5.2883714
@@ -54,9 +62,3 @@ thumbnail: image:2026-05-05-lommelse-sand-3
 ---
 
 Today, I bring you the final chapter of the Lommelse Sahara: sand, the reason why it is called a "sahara" in the first place. After the land, and the water, we end this series focusing on the fine grains that make this landscape. This is the third of three mini photo galleries: [land](/2026/05/03/lommelse-land/), [water](/2026/05/04/lommelse-water/), and sand.
-
-<style>
-.fg-2026-05-05-lommelse-sand {
-  grid-template-columns: 1fr;
-}
-</style>

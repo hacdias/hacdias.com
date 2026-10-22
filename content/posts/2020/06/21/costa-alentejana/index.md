@@ -45,6 +45,12 @@ photos:
     alt: Several small fishing boats moored in a turquoise cove flanked by two beached boats, with a steep rocky cliff in the background
     width: 3000
     height: 2000
+grid:
+  - "z z z z z z z z z z"
+  - "a a a a a a a b b b"
+  - "c c c c c d d d d d"
+  - "e e e e e f f f f f"
+  - "g g g h h h h h h h"
 categories:
   - photos
 tags:
@@ -59,28 +65,5 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3hco446drqckz
 thumbnail: image:2020-06-21-costa-alentejana-2
 ---
-
-<style>
-.fg-2020-06-21-costa-alentejana {
-  grid-template-columns: repeat(10, 1fr);
-  grid-template-areas:
-    "z z z z z z z z z z"
-    "a a a a a a a b b b"
-    "c c c c c d d d d d"
-    "e e e e e f f f f f"
-    "g g g h h h h h h h";
-}
-
-.fg-2020-06-21-costa-alentejana > *:nth-child(1) { grid-area: z; }
-.fg-2020-06-21-costa-alentejana > *:nth-child(2) { grid-area: a; }
-.fg-2020-06-21-costa-alentejana > *:nth-child(3) { grid-area: b; }
-.fg-2020-06-21-costa-alentejana > *:nth-child(4) { grid-area: c; }
-.fg-2020-06-21-costa-alentejana > *:nth-child(5) { grid-area: d; }
-.fg-2020-06-21-costa-alentejana > *:nth-child(6) { grid-area: e; }
-.fg-2020-06-21-costa-alentejana > *:nth-child(7) { grid-area: f; }
-.fg-2020-06-21-costa-alentejana > *:nth-child(8) { grid-area: g; }
-.fg-2020-06-21-costa-alentejana > *:nth-child(9) { grid-area: h; }
-
-</style>
 
 Had the opportunity to travel through a bit of the Portuguese coast, which can be mesmerizing in some places.
