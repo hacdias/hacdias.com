@@ -29,13 +29,6 @@ photos:
   - url: image:2022-10-19-capturing-leiden-09
     width: 3000
     height: 2000
-grid:
-  - "a a"
-  - "b c"
-  - "d d"
-  - "e f"
-  - "g g"
-  - "h i"
 categories:
   - photos
 tags:
@@ -49,6 +42,13 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxbvi2gy26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3jfg2e2tgzvkz
   - https://www.instagram.com/p/Cj5DHBpIARA/
+grid:
+  - a a
+  - b c
+  - d d
+  - e f
+  - g g
+  - h i
 thumbnail: image:2022-10-19-capturing-leiden-04
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Criar Identificadores Únicos em PHP
-description: Como você sabe, PHP é das linguagens de servidor mais utilizadas no mundo.
-  Hoje trago-vos uma das funções mais interessantes desta linguagem.
+description: Como você sabe, PHP é das linguagens de servidor mais utilizadas no mundo. Hoje trago-vos uma das funções mais interessantes desta linguagem.
 date: 2014-07-30T08:34:52Z
 categories:
   - writings

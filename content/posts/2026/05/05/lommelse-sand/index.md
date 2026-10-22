@@ -30,14 +30,6 @@ photos:
     alt: A panoramic view of a wide flat sandy expanse with a line of pine trees rising along the back edge
     width: 7885
     height: 2911
-grid:
-  - "a"
-  - "b"
-  - "c"
-  - "d"
-  - "e"
-  - "f"
-  - "g"
 location:
   latitude: 51.2475946
   longitude: 5.2883714
@@ -58,6 +50,14 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3ml3fq4p6w2ab
   - https://fosstodon.org/@hacdias/116520207228657222
   - https://www.instagram.com/p/DX8dBsYikht/?igsh=aGxjcHNvdW1zbHJt
+grid:
+  - a
+  - b
+  - c
+  - d
+  - e
+  - f
+  - g
 thumbnail: image:2026-05-05-lommelse-sand-3
 ---
 

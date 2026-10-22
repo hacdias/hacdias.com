@@ -17,10 +17,6 @@ photos:
   - url: image:2020-05-21-nature-05
     width: 3000
     height: 2000
-grid:
-  - "a a"
-  - "b c"
-  - "d e"
 categories:
   - photos
 tags:
@@ -33,6 +29,10 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx2ulzrw2b
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx2yeais2g
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3haa5nn2jqckz
+grid:
+  - a a
+  - b c
+  - d e
 thumbnail: image:2020-05-21-nature-02
 ---
 

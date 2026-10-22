@@ -45,12 +45,6 @@ photos:
     alt: Several small fishing boats moored in a turquoise cove flanked by two beached boats, with a steep rocky cliff in the background
     width: 3000
     height: 2000
-grid:
-  - "z z z z z z z z z z"
-  - "a a a a a a a b b b"
-  - "c c c c c d d d d d"
-  - "e e e e e f f f f f"
-  - "g g g h h h h h h h"
 categories:
   - photos
 tags:
@@ -63,6 +57,12 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx3js5vq24
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx3kmsvp26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3hco446drqckz
+grid:
+  - z z z z z z z z z z
+  - a a a a a a a b b b
+  - c c c c c d d d d d
+  - e e e e e f f f f f
+  - g g g h h h h h h h
 thumbnail: image:2020-06-21-costa-alentejana-2
 ---
 

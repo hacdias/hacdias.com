@@ -35,13 +35,6 @@ photos:
   - url: image:2021-05-30-eindhoven-18
     width: 3000
     height: 4500
-grid:
-  - "a a a"
-  - "b b c"
-  - "d e f"
-  - "d g f"
-  - "h h h"
-  - "i j k"
 categories:
   - photos
 tags:
@@ -54,6 +47,13 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx647oel23
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx653wui26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3i5k5762s22kz
+grid:
+  - a a a
+  - b b c
+  - d e f
+  - d g f
+  - h h h
+  - i j k
 thumbnail: image:2021-05-30-eindhoven-11
 ---
 

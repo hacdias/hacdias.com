@@ -17,9 +17,6 @@ photos:
   - url: image:2022-06-07-dm-instant
     width: 3000
     height: 4000
-grid:
-  - "a a b b c c"
-  - "d d d e e e"
 location:
   latitude: 51.4324
   longitude: 5.48616
@@ -34,6 +31,9 @@ tags:
   - art
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3j2uvh6wrsect
+grid:
+  - a a b b c c
+  - d d d e e e
 thumbnail: image:2022-06-07-dm-photo-1
 ---
 

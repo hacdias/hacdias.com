@@ -8,9 +8,6 @@ photos:
   - url: image:2025-09-19-copenhagen-02
     width: 5000
     height: 3750
-grid:
-  - "a"
-  - "b"
 location:
   latitude: 55.6841168
   longitude: 12.5756016
@@ -26,6 +23,9 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7s3q7xhg26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3lz766tupfmkz
+grid:
+  - a
+  - b
 ---
 
 Such a beautiful and multi-faceted city.

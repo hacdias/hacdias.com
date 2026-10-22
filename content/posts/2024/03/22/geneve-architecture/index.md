@@ -11,9 +11,6 @@ photos:
   - url: image:2024-03-22-geneve-architecture-3
     width: 3000
     height: 2000
-grid:
-  - "a b"
-  - "c c"
 categories:
   - photos
 tags:
@@ -23,6 +20,9 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rzl3u7b2b
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3koc5ji3mg2kz
+grid:
+  - a b
+  - c c
 thumbnail: image:2024-03-22-geneve-architecture-3
 ---
 

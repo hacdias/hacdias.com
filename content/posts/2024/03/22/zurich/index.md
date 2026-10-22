@@ -22,10 +22,6 @@ photos:
     alt: A wide view over Zürich's rooftops at dusk, with the lake and snow-capped Alps stretching across the horizon
     width: 3000
     height: 1688
-grid:
-  - "a a"
-  - "b c"
-  - "d d"
 categories:
   - photos
 tags:
@@ -36,6 +32,10 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rzy3pyp2g
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3koc4ziw6w2kz
+grid:
+  - a a
+  - b c
+  - d d
 thumbnail: image:2024-03-22-zurich
 ---
 

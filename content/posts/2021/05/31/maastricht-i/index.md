@@ -32,13 +32,6 @@ photos:
   - url: image:2021-05-31-maastricht-02
     width: 3000
     height: 2000
-grid:
-  - "z z z z z z"
-  - "a a a b b b"
-  - "c c c d d d"
-  - "e e e e e e"
-  - "f f g g h h"
-  - "i i i i i i"
 categories:
   - photos
 tags:
@@ -51,6 +44,13 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx6m4xag2k
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx6myak32q
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3i5mno3jk22kz
+grid:
+  - z z z z z z
+  - a a a b b b
+  - c c c d d d
+  - e e e e e e
+  - f f g g h h
+  - i i i i i i
 thumbnail: image:2021-05-31-maastricht-03
 ---
 

@@ -15,9 +15,6 @@ photos:
     alt: Two brown slugs intertwined on the forest floor among pine needles, fallen leaves, and twigs
     width: 3000
     height: 2000
-grid:
-  - "a b"
-  - "c c"
 categories:
   - photos
 tags:
@@ -28,6 +25,9 @@ tags:
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me7rzaiist2u
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3k5x6y5p7u2kz
+grid:
+  - a b
+  - c c
 thumbnail: image:2023-08-27-mushrooms-nest
 ---
 

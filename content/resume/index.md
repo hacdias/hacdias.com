@@ -143,5 +143,3 @@ Senior Software Engineer building open source systems and products in Go and Typ
     🖨️ Print Resume
   </a>
 </p>
-
-

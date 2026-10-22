@@ -30,14 +30,6 @@ photos:
     alt: A bird's-eye view of a forest-encircled lake with a small islet in the centre, under a soft cloudy sky
     width: 7964
     height: 4480
-grid:
-  - "a"
-  - "b"
-  - "c"
-  - "d"
-  - "e"
-  - "f"
-  - "g"
 location:
   latitude: 51.2475946
   longitude: 5.2883714
@@ -58,6 +50,14 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3mkyxliqra2ab
   - https://fosstodon.org/@hacdias/116514710496440525
   - https://www.instagram.com/p/DX59IiwDULH/?igsh=a2dlaWU5OTdwcDhq
+grid:
+  - a
+  - b
+  - c
+  - d
+  - e
+  - f
+  - g
 ---
 
 Yesterday, I brought you the first of three mini photo galleries of the Lommelse Sahara, where I focused on [the land](/2026/05/03/lommelse-land/). As magical as it may have been, that was just one of the three highlights of our hike through the Lommelse Sahara. Today, I want to focus on water. This is the second of three mini photo galleries: [land](/2026/05/03/lommelse-land/), water, and [sand](/2026/05/05/lommelse-sand/).

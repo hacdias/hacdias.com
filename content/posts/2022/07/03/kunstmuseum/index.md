@@ -23,11 +23,6 @@ photos:
   - url: image:2022-07-03-kunstmuseum-07
     width: 3000
     height: 4000
-grid:
-  - "a a"
-  - "b c"
-  - "d e"
-  - "f g"
 categories:
   - photos
 tags:
@@ -39,6 +34,11 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxbbcxuv2u
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqxbcdcta2b
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3j4vajwt3apkz
+grid:
+  - a a
+  - b c
+  - d e
+  - f g
 thumbnail: image:2022-07-03-kunstmuseum-01
 ---
 

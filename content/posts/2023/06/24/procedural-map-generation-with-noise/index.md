@@ -1,7 +1,6 @@
 ---
 title: Procedural Map Generation With Noise
-description: Using JavaScript and Perlin and Simplex noise to procedurally generate
-  a map with different biomes.
+description: Using JavaScript and Perlin and Simplex noise to procedurally generate a map with different biomes.
 date: 2023-06-24T09:17:30+02:00
 categories:
   - writings

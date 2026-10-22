@@ -23,11 +23,6 @@ photos:
   - url: image:2021-04-09-foggy-morning-08
     width: 3000
     height: 2000
-grid:
-  - "z z z z z z"
-  - "a a b b c c"
-  - "d d d d d d"
-  - "e e e f f f"
 categories:
   - photos
 tags:
@@ -39,5 +34,10 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx4lszwu2u
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqx4msbwi26
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3hzjvg7kk22kz
+grid:
+  - z z z z z z
+  - a a b b c c
+  - d d d d d d
+  - e e e f f f
 thumbnail: image:2021-04-09-foggy-morning-02
 ---
