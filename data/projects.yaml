@@ -38,7 +38,7 @@
 - name: BlockLearning
   description: A modular framework for blockchain-based federated learning.
   url: https://github.com/hacdias/blocklearning
-  image: image:2026-10-24-blocklearning
+  image: https://media.hacdias.com/2026-10-24-blocklearning.jpeg
   start: 2022-07-05
   end: 2022-11-09
 
@@ -59,7 +59,7 @@
 - name: Aprenda a Programar
   description: A 60-page e-book, in Portuguese, on programming in C for beginners.
   url: https://media.hacdias.com/2015-02-27-aprenda-a-programar.pdf
-  image: image:2026-10-24-aprenda-a-programar
+  image: https://media.hacdias.com/2026-10-24-aprenda-a-programar.jpeg
   start: 2015-02-27
   end: 2015-02-27
 
