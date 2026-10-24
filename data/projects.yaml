@@ -42,6 +42,13 @@
   start: 2022-07-05
   end: 2022-11-09
 
+- name: Egg Tart Emoji
+  description: A proposal to Unicode. It was rejected.
+  url: https://nata.cafe/docs/proposal_v2.pdf
+  image: image:2026-10-24-egg-tart
+  start: 2021-04-05
+  end: 2021-07-02
+
 - name: mapgen
   description: Random maps from OpenSimplex noise.
   url: https://github.com/hacdias/mapgen
