@@ -48,17 +48,21 @@ printPathWarnings = true
   pageRef = '/categories/photos'
   weight = 3
 [[menu.main]]
+  name = 'Projects'
+  pageRef = '/projects'
+  weight = 4
+[[menu.main]]
   name = 'Guestbook'
   pageRef = '/guestbook'
-  weight = 4
+  weight = 5
 [[menu.main]]
   name = 'More'
   pageRef = '/more'
-  weight = 5
+  weight = 6
 [[menu.main]]
   name = 'Search'
   pageRef = '/search'
-  weight = 6
+  weight = 7
 
 [[menu.contacts]]
   name = 'Email'
