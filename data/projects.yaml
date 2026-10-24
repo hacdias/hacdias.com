@@ -28,6 +28,13 @@
   image: https://media.hacdias.com/2026-10-23-webdav.svg
   start: 2017-08-03
 
+- name: File Browser
+  description: A lightweight, single binary web file browser.
+  url: https://github.com/filebrowser/filebrowser
+  image: image:2026-10-23-filebrowser
+  start: 2015-09-11
+  end: 2026-08-31
+
 - name: mapgen
   description: Random maps from OpenSimplex noise.
   url: https://github.com/hacdias/mapgen
