@@ -10,6 +10,12 @@
   image: image:2026-10-23-trmnl-ns-station
   start: 2026-07-23
 
+- name: FlowFit
+  description: Fixes FIT files from Bosch's eBike Flow app so other tools can import them.
+  url: https://hacdias.github.io/flowfit/
+  image: image:2026-10-23-flowfit
+  start: 2023-10-12
+
 - name: indielib
   description: An IndieWeb toolkit in Go.
   url: https://github.com/hacdias/indielib
