@@ -8,7 +8,13 @@
         </time>
       {{- end -}}
     </p>
-    {{- end -}}
+    {{- else -}}
+      {{- with .Parent }}
+        {{- if and (not .IsHome) .RelPermalink }}
+          <p class='lg small'><a href='{{ .RelPermalink }}' class='nl'>← {{ .Title }}</a></p>
+        {{- end }}
+      {{- end }}
+    {{- end }}
 
     {{- if index .Params "read" -}}
       <h1>
