@@ -1,0 +1,26 @@
+{{- $current := sort (where hugo.Data.projects "end" "eq" nil) "start" "desc" }}
+{{- $past := sort (where hugo.Data.projects "end" "ne" nil) "end" "desc" }}
+{{- $projects := $current | append $past }}
+
+<div class='fg projects'>
+  {{- range $p := $projects }}
+    {{- $start := (time.AsTime .start).Year }}
+    {{- $years := printf "Since %d." $start }}
+    {{- with .end }}
+      {{- $end := (time.AsTime .).Year }}
+      {{- $years = cond (eq $start $end) (printf "%d." $start) (printf "%d–%d." $start $end) }}
+    {{- end }}
+    {{- $caption := printf "<strong>%s</strong> %s %s" (htmlEscape .name) (htmlEscape .description) $years }}
+
+    <a href='{{ .url }}' class='nl'{{ if (urls.Parse .url).IsAbs }} rel='noopener noreferrer'{{ end }}>
+      {{ partial "helpers/figure" (dict
+          "Destination" .image
+          "Alt" $p.name
+          "Text" $caption
+          "IsBlock" true
+          "Sizes" (slice 600 900)
+          "Page" $.Page
+        )}}
+    </a>
+  {{- end }}
+</div>
