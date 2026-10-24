@@ -272,6 +272,12 @@ figcaption {
   color: var(--light-text);
   margin: 0.5rem 0 0;
   font-style: italic;
+  transition: color 0.2s ease;
+}
+
+a:active figcaption,
+a:hover figcaption {
+  color: var(--c);
 }
 
 main header :is(h1, h2, p) {
