@@ -939,6 +939,12 @@ figure,
   }
 }
 
+@media screen and (min-width: 50rem) {
+  .wide {
+    margin-inline: calc(50% - min(50vw - 1rem, 40rem));
+  }
+}
+
 @media print {
   html,
   body,

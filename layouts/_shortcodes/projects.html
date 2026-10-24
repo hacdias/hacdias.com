@@ -2,7 +2,7 @@
 {{- $past := sort (where hugo.Data.projects "end" "ne" nil) "end" "desc" }}
 {{- $projects := $current | append $past }}
 
-<div class='fg projects'>
+<div class='fg projects wide'>
   {{- range $p := $projects }}
     {{- $start := (time.AsTime .start).Year }}
     {{- $years := printf "Since %d." $start }}
