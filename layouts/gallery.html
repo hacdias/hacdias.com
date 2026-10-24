@@ -8,7 +8,7 @@
 
   {{ partialCached "post/content" . .Permalink }}
 
-  <div class='fg archive'>
+  <div class='fg archive wide'>
     {{ range $page := $page.Pages }}
       {{ range $photo := .Params.photos }}
         <a href='{{ $page.RelPermalink }}'>

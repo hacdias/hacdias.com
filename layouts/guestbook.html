@@ -15,7 +15,7 @@
   </article>
 
   {{ with .Resources.Get "sidecar.json" | unmarshal -}}
-    <div class="entries">
+    <div class="entries wide">
       {{- range .replies }}
         <div class="entry">
           <p>

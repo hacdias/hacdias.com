@@ -3,7 +3,7 @@
   display: grid-lanes;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: var(--s2);
-  margin: 2rem 0;
+  margin-block: 2rem;
 }
 
 .entry {
@@ -77,11 +77,5 @@
   .entry:nth-last-child(5n + 0) {
     background: var(--fg);
     border-color: rgba(255, 255, 255, 0.05);
-  }
-}
-
-@media screen and (min-width: 50rem) {
-  .entries {
-    margin-inline: calc(50% - min(50vw - 1rem, 40rem));
   }
 }
