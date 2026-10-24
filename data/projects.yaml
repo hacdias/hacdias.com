@@ -10,6 +10,12 @@
   image: image:2026-10-23-trmnl-ns-station
   start: 2026-07-23
 
+- name: Vinyl Shelf
+  description: An NFC-powered shelf that logs the vinyl records we play.
+  url: /2026/10/24/vinyl-shelf/
+  image: image:2026-10-24-vinyl-shelf-2
+  start: 2024-02-09
+
 - name: FlowFit
   description: Fixes FIT files from Bosch's eBike Flow app so other tools can import them.
   url: https://hacdias.github.io/flowfit/
