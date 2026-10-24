@@ -51,7 +51,7 @@
 - name: BlockLearning
   description: A modular framework for blockchain-based federated learning.
   url: https://github.com/hacdias/blocklearning
-  image: https://media.hacdias.com/2026-10-24-blocklearning.jpeg
+  image: https://media.hacdias.com/2026-10-24-blocklearning-bricks.svg
   start: 2022-07-05
   end: 2022-11-09
 
