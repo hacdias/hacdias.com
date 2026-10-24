@@ -8,6 +8,10 @@ tags:
   - reviews
   - sports
   - tracking
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3myjm5pmr227f
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3myjm5pmr227f
+  - https://fosstodon.org/@hacdias/117488930607677942
 rating: 9
 ---
 
