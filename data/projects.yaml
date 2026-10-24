@@ -1,0 +1,37 @@
+- name: Miniflux Plugin
+  description: Your Miniflux feed entries on your TRMNL.
+  url: https://trmnl.com/recipes/392974
+  image: image:2026-10-23-trmnl-miniflux
+  start: 2026-07-23
+
+- name: NS Station Plugin
+  description: Arrivals and departures at your NS station on your TRMNL.
+  url: https://trmnl.com/recipes/390680
+  image: image:2026-10-23-trmnl-ns-station
+  start: 2026-07-23
+
+- name: indielib
+  description: An IndieWeb toolkit in Go.
+  url: https://github.com/hacdias/indielib
+  image: https://media.hacdias.com/2026-10-23-indielib.svg
+  start: 2021-11-22
+
+- name: webdav
+  description: A simple and standalone WebDAV server.
+  url: https://github.com/hacdias/webdav
+  image: https://media.hacdias.com/2026-10-23-webdav.svg
+  start: 2017-08-03
+
+- name: mapgen
+  description: Random maps from OpenSimplex noise.
+  url: https://github.com/hacdias/mapgen
+  image: image:2026-10-23-mapgen
+  start: 2018-11-27
+  end: 2020-07-18
+
+- name: Caddy Plugins
+  description: Six plugins for Caddy v1, from WebDAV support to running Caddy as a system service.
+  url: /projects/caddy-plugins/
+  image: https://media.hacdias.com/2026-10-23-caddy-plugins.svg
+  start: 2016-06-08
+  end: 2020-07-18

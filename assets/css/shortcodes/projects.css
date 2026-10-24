@@ -1,0 +1,16 @@
+.projects {
+  grid-template-columns: repeat(auto-fill, minmax(min(18rem, 100%), 1fr));
+}
+
+.projects figure {
+  height: auto;
+}
+
+.projects img {
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.projects a:hover figcaption {
+  color: var(--c);
+}
