@@ -1,7 +1,6 @@
 ---
 title: WordPress Widgets
 description: Three WordPress plugins, in PHP, to show your IMDb, GitHub and HackerRank profiles as widgets.
-noIndex: true
 ---
 
 Between 2015 and 2017, Luís Soares and I developed and maintained several WordPress widget plugins, in PHP. The idea of these widgets was to display a user's profile summary from certain platforms on their WordPress website. The plugins have since been archived.
