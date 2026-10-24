@@ -2,12 +2,16 @@
 title: Our Records Know When They're Played
 date: 2026-10-24T16:11:26+02:00
 categories:
-- writings
+  - writings
 tags:
-- projects
-- hardware
-- tracking
-- open source
+  - projects
+  - hardware
+  - tracking
+  - open source
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mymuq3vjw27f
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mymuq3vjw27f
+  - https://fosstodon.org/@hacdias/117496425506845999
 ---
 
 Two years ago, we built a little something that we still use quite often: a "Playing Now" shelf for the vinyl sleeve of the currently playing vinyl. But that's not all: this shelf is NFC-enabled and records all vinyls that we play.
