@@ -22,6 +22,12 @@
   image: https://media.hacdias.com/2026-10-23-indielib.svg
   start: 2021-11-22
 
+- name: Eagle
+  description: Adds dynamic features to this website.
+  url: https://github.com/hacdias/eagle
+  image: image:2026-10-24-eagle
+  start: 2019-12-22
+
 - name: webdav
   description: A simple and standalone WebDAV server.
   url: https://github.com/hacdias/webdav
@@ -34,6 +40,13 @@
   image: image:2026-10-23-filebrowser
   start: 2015-09-11
   end: 2026-08-31
+
+- name: OwnYourTrakt
+  description: Your Trakt watch history on your own site, via Micropub.
+  url: https://github.com/hacdias/ownyourtrakt
+  image: https://media.hacdias.com/2026-10-24-ownyourtrakt.svg
+  start: 2020-02-01
+  end: 2022-11-30
 
 - name: BlockLearning
   description: A modular framework for blockchain-based federated learning.
@@ -62,6 +75,13 @@
   image: https://media.hacdias.com/2026-10-23-caddy-plugins.svg
   start: 2016-06-08
   end: 2020-07-18
+
+- name: WordPress Widgets
+  description: Your IMDb, GitHub and HackerRank profiles on your WordPress site.
+  url: /projects/wordpress-widgets/
+  image: https://media.hacdias.com/2026-10-23-wordpress-widgets.svg
+  start: 2015-04-11
+  end: 2020-07-17
 
 - name: Aprenda a Programar
   description: A 60-page e-book, in Portuguese, on programming in C for beginners.
