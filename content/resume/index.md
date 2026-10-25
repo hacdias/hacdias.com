@@ -1,7 +1,6 @@
 ---
 title: Resume
 description: My resume.
-noIndex: true
 ---
 
 <!--more-->
