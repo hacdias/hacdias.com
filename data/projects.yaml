@@ -68,12 +68,12 @@
   start: 2021-04-05
   end: 2021-07-02
 
-- name: mapgen
-  description: Random maps from OpenSimplex noise.
-  url: https://github.com/hacdias/mapgen
-  image: image:2026-10-23-mapgen
-  start: 2018-11-27
-  end: 2020-07-18
+# - name: mapgen
+#   description: Random maps from OpenSimplex noise.
+#   url: https://github.com/hacdias/mapgen
+#   image: image:2026-10-23-mapgen
+#   start: 2018-11-27
+#   end: 2020-07-18
 
 - name: Caddy Plugins
   description: Six plugins for Caddy v1, from WebDAV support to running Caddy as a system service.
