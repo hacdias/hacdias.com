@@ -64,7 +64,6 @@ html {
 body {
   color: var(--text);
   background-color: var(--bg);
-  background-attachment: fixed;
 }
 
 @view-transition {
