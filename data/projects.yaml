@@ -31,7 +31,7 @@
 - name: Eagle
   description: Adds dynamic features to this website.
   url: https://github.com/hacdias/eagle
-  image: image:2026-10-24-eagle
+  image: image:2026-10-25-eagle
   start: 2019-12-22
 
 - name: webdav
