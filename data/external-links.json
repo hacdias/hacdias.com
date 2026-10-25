@@ -1,7 +1,7 @@
 [
   {
     "domain": "github.com",
-    "count": 115,
+    "count": 125,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/08/22/papers-we-love-um-dos-melhores-repositorios-github/",
@@ -408,6 +408,10 @@
         "targetUrl": "https://github.com/hacdias/indielib/releases/tag/v0.6.0"
       },
       {
+        "sourceUrl": "https://hacdias.com/2026/10/24/vinyl-shelf/",
+        "targetUrl": "https://github.com/ChrisB2351/vinyl-scanner"
+      },
+      {
         "sourceUrl": "https://hacdias.com/2026/10/27/command-execution/",
         "targetUrl": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-x8jc-jvqm-pm3f"
       },
@@ -458,6 +462,42 @@
       {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://github.com/hacdias/eagle"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://github.com/filebrowser/filebrowser"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://github.com/hacdias/caddy-v1-minify"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://github.com/tdewolff/minify"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://github.com/hacdias/caddy-v1-webdav"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://github.com/hacdias/caddy-v1-service"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://github.com/kardianos/service"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/wordpress-widgets/",
+        "targetUrl": "https://github.com/refactors/imdb-widget"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/wordpress-widgets/",
+        "targetUrl": "https://github.com/refactors/github-profile-widget"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/wordpress-widgets/",
+        "targetUrl": "https://github.com/refactors/hackerrank-profile-widget"
       },
       {
         "sourceUrl": "https://hacdias.com/uses/",
@@ -1012,6 +1052,60 @@
     ]
   },
   {
+    "domain": "archive.org",
+    "count": 12,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
+        "targetUrl": "https://web.archive.org/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/03/25/my-website-before-indieweb/",
+        "targetUrl": "https://web.archive.org/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
+        "targetUrl": "https://web.archive.org/web/20230627165311/https://cohost.org/mcc/post/325362-a-one-person-oral-hi"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
+        "targetUrl": "https://web.archive.org/web/20230610234800/https://annas-blog.org/putting-5,998,794-books-on-ipfs.html"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
+        "targetUrl": "https://web.archive.org/web/20231112182024/https://arne.me/articles/archive-your-old-projects"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
+        "targetUrl": "https://web.archive.org/web/20230605015058/https://sadgrl.online/cyberspace/webrings"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://web.archive.org/web/20170720055750/https://caddyserver.com/docs/http.hugo"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://web.archive.org/web/20170918165507/https://caddyserver.com/docs/http.jekyll"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://web.archive.org/web/20190131202115/https://caddyserver.com/docs/http.filebrowser"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://web.archive.org/web/20190131202114/https://caddyserver.com/docs/http.minify"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://web.archive.org/web/20190131202114/https://caddyserver.com/docs/http.webdav"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://web.archive.org/web/https://caddyserver.com/docs/hook.service"
+      }
+    ]
+  },
+  {
     "domain": "seblog.nl",
     "count": 11,
     "links": [
@@ -1062,6 +1156,48 @@
     ]
   },
   {
+    "domain": "gohugo.io",
+    "count": 9,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
+        "targetUrl": "http://gohugo.io/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
+        "targetUrl": "http://gohugo.io/themes/overview/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
+        "targetUrl": "https://gohugo.io/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2019/12/28/url-structure/",
+        "targetUrl": "https://gohugo.io"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
+        "targetUrl": "https://gohugo.io"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/01/02/dynamic-static/",
+        "targetUrl": "https://discourse.gohugo.io/t/use-hugo-watch-in-production/22599/14"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
+        "targetUrl": "https://gohugo.io/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
+        "targetUrl": "http://gohugo.io/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://gohugo.io"
+      }
+    ]
+  },
+  {
     "domain": "jim-nielsen.com",
     "count": 9,
     "links": [
@@ -1104,44 +1240,6 @@
     ]
   },
   {
-    "domain": "gohugo.io",
-    "count": 8,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
-        "targetUrl": "http://gohugo.io/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2015/08/12/farewell-wordpress-hello-hugo/",
-        "targetUrl": "http://gohugo.io/themes/overview/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2019/08/07/decentralizing-my-website-with-ipfs/",
-        "targetUrl": "https://gohugo.io/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2019/12/28/url-structure/",
-        "targetUrl": "https://gohugo.io"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/01/building-micropub/",
-        "targetUrl": "https://gohugo.io"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/02/dynamic-static/",
-        "targetUrl": "https://discourse.gohugo.io/t/use-hugo-watch-in-production/22599/14"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
-        "targetUrl": "https://gohugo.io/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2021/11/19/farewell-hugo-hello-eagle/",
-        "targetUrl": "http://gohugo.io/"
-      }
-    ]
-  },
-  {
     "domain": "tue.nl",
     "count": 8,
     "links": [
@@ -1180,32 +1278,28 @@
     ]
   },
   {
-    "domain": "archive.org",
-    "count": 6,
+    "domain": "caddyserver.com",
+    "count": 5,
     "links": [
       {
-        "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
-        "targetUrl": "https://web.archive.org/"
+        "sourceUrl": "https://hacdias.com/2020/01/23/bye-filebrowser/",
+        "targetUrl": "https://caddyserver.com/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2022/03/25/my-website-before-indieweb/",
-        "targetUrl": "https://web.archive.org/"
+        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
+        "targetUrl": "https://caddyserver.com/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
-        "targetUrl": "https://web.archive.org/web/20230627165311/https://cohost.org/mcc/post/325362-a-one-person-oral-hi"
+        "sourceUrl": "https://hacdias.com/2026/03/11/filebrowser/",
+        "targetUrl": "https://caddyserver.com/"
       },
       {
-        "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
-        "targetUrl": "https://web.archive.org/web/20230610234800/https://annas-blog.org/putting-5,998,794-books-on-ipfs.html"
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://caddyserver.com"
       },
       {
-        "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
-        "targetUrl": "https://web.archive.org/web/20231112182024/https://arne.me/articles/archive-your-old-projects"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
-        "targetUrl": "https://web.archive.org/web/20230605015058/https://sadgrl.online/cyberspace/webrings"
+        "sourceUrl": "https://hacdias.com/uses/",
+        "targetUrl": "https://caddyserver.com/"
       }
     ]
   },
@@ -1384,28 +1478,6 @@
       {
         "sourceUrl": "https://hacdias.com/about/",
         "targetUrl": "https://bsky.app/profile/hacdias.com"
-      }
-    ]
-  },
-  {
-    "domain": "caddyserver.com",
-    "count": 4,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/01/23/bye-filebrowser/",
-        "targetUrl": "https://caddyserver.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2023/12/24/irc-bouncer-setup-soju-gamja-caddy-docker/",
-        "targetUrl": "https://caddyserver.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2026/03/11/filebrowser/",
-        "targetUrl": "https://caddyserver.com/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/uses/",
-        "targetUrl": "https://caddyserver.com/"
       }
     ]
   },
@@ -2126,6 +2198,20 @@
       {
         "sourceUrl": "https://hacdias.com/2020/02/22/trakt-analysis/",
         "targetUrl": "https://trakt.docs.apiary.io/"
+      }
+    ]
+  },
+  {
+    "domain": "christiaanbloo.com",
+    "count": 2,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/24/vinyl-shelf/",
+        "targetUrl": "https://christiaanbloo.com/projects/vinyl-shelf/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/24/vinyl-shelf/",
+        "targetUrl": "https://christiaanbloo.com/vinyl/"
       }
     ]
   },
@@ -3384,6 +3470,16 @@
     ]
   },
   {
+    "domain": "familysearch.org",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/11/02/family-tree/",
+        "targetUrl": "https://www.familysearch.org"
+      }
+    ]
+  },
+  {
     "domain": "fediring.net",
     "count": 1,
     "links": [
@@ -3790,6 +3886,16 @@
       {
         "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
         "targetUrl": "https://jeffhuang.com/designed_to_last/"
+      }
+    ]
+  },
+  {
+    "domain": "jekyllrb.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://jekyllrb.com/"
       }
     ]
   },
@@ -4610,6 +4716,16 @@
       {
         "sourceUrl": "https://hacdias.com/logs/places/",
         "targetUrl": "https://www.swarmapp.com/"
+      }
+    ]
+  },
+  {
+    "domain": "syniumsoftware.com",
+    "count": 1,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2026/11/02/family-tree/",
+        "targetUrl": "https://www.syniumsoftware.com/macfamilytree"
       }
     ]
   },

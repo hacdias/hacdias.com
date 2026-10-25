@@ -2,13 +2,13 @@
 title: Digging Through Parish Records
 date: 2026-11-02T09:00:00+02:00
 categories:
-- writings
+  - writings
 tags:
-- identity
-- portugal
-- alentejo
-- archival
-- projects
+  - identity
+  - portugal
+  - alentejo
+  - archival
+  - projects
 ---
 
 Not long ago, I decided to build my genealogy tree. I had started it once when I was a teen, but I didn't put that much effort into it. It probably stopped around my great-grandparents' generation and that was it. But this time I decided to dig deeper!
