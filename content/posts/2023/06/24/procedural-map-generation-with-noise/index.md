@@ -9,6 +9,7 @@ tags:
   - javascript
   - art
   - algorithms
+  - interactive
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3jyvfokzho2cd
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jyvfokzho25c
