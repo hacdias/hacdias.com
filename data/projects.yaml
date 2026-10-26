@@ -22,11 +22,46 @@
   image: image:2026-10-23-flowfit
   start: 2023-10-12
 
+- name: BlockLearning
+  description: A modular framework for blockchain-based federated learning.
+  url: https://github.com/hacdias/blocklearning
+  image: https://media.hacdias.com/2026-10-24-blocklearning-bricks.svg
+  start: 2022-07-05
+  end: 2022-11-09
+
 - name: indielib
   description: An IndieWeb toolkit in Go.
   url: https://github.com/hacdias/indielib
   image: https://media.hacdias.com/2026-10-23-indielib.svg
   start: 2021-11-22
+
+- name: Egg Tart Emoji
+  description: A proposal to Unicode. It was rejected.
+  url: https://nata.cafe/docs/proposal_v2.pdf
+  image: image:2026-10-24-egg-tart
+  start: 2021-04-05
+  end: 2021-07-02
+
+- name: Interactive Posts
+  description: Creative coding experiments, written as posts you can play with.
+  url: /tags/interactive/
+  image: image:2023-06-24-procedural-map-generation-with-noise
+  start: 2021-02-15
+  end: 2023-06-24
+
+- name: OwnYourTrakt
+  description: Your Trakt watch history on your own site, via Micropub.
+  url: https://github.com/hacdias/ownyourtrakt
+  image: https://media.hacdias.com/2026-10-24-ownyourtrakt.svg
+  start: 2020-02-01
+  end: 2022-11-30
+
+# - name: XKCD Archive
+#   description: Automated archival of xkcd comics.
+#   url: /2019/07/05/mirrorring-xkcd-ipfs/
+#   image: image:2019-07-05-2165-thumb-social
+#   start: 2019-04-27
+#   end: 2024-05-07
 
 - name: Eagle
   description: Adds dynamic features to this website.
@@ -40,40 +75,26 @@
   image: https://media.hacdias.com/2026-10-23-webdav.svg
   start: 2017-08-03
 
-- name: File Browser
-  description: A lightweight, single binary web file browser.
-  url: https://github.com/filebrowser/filebrowser
-  image: image:2026-10-23-filebrowser
-  start: 2015-09-11
-  end: 2026-08-31
-
-- name: OwnYourTrakt
-  description: Your Trakt watch history on your own site, via Micropub.
-  url: https://github.com/hacdias/ownyourtrakt
-  image: https://media.hacdias.com/2026-10-24-ownyourtrakt.svg
-  start: 2020-02-01
-  end: 2022-11-30
-
-- name: BlockLearning
-  description: A modular framework for blockchain-based federated learning.
-  url: https://github.com/hacdias/blocklearning
-  image: https://media.hacdias.com/2026-10-24-blocklearning-bricks.svg
-  start: 2022-07-05
-  end: 2022-11-09
-
-- name: Egg Tart Emoji
-  description: A proposal to Unicode. It was rejected.
-  url: https://nata.cafe/docs/proposal_v2.pdf
-  image: image:2026-10-24-egg-tart
-  start: 2021-04-05
-  end: 2021-07-02
-
 - name: Caddy Plugins
   description: Six plugins for Caddy v1, from WebDAV support to running Caddy as a system service.
   url: /projects/caddy-plugins/
   image: https://media.hacdias.com/2026-10-23-caddy-plugins.svg
   start: 2016-06-08
   end: 2020-07-18
+
+- name: Project Lifie
+  description: A daily selfie for seven years, compiled into a video.
+  url: /2023/10/20/project-lifie-the-video/
+  image: image:2026-10-24-project-lifie
+  start: 2016-05-01
+  end: 2023-10-20
+
+- name: File Browser
+  description: A lightweight, single binary web file browser.
+  url: https://github.com/filebrowser/filebrowser
+  image: image:2026-10-23-filebrowser
+  start: 2015-09-11
+  end: 2026-08-31
 
 - name: WordPress Widgets
   description: Your IMDb, GitHub and HackerRank profiles on your WordPress site.
@@ -88,24 +109,3 @@
   image: https://media.hacdias.com/2026-10-24-aprenda-a-programar.jpeg
   start: 2015-02-27
   end: 2015-02-27
-
-- name: Project Lifie
-  description: A daily selfie for seven years, compiled into a video.
-  url: /2023/10/20/project-lifie-the-video/
-  image: image:2026-10-24-project-lifie
-  start: 2016-05-01
-  end: 2023-10-20
-
-# - name: Interactive Posts
-#   description: Creative coding experiments, written as posts you can play with.
-#   url: /tags/interactive/
-#   image: image:2023-06-24-procedural-map-generation-with-noise
-#   start: 2021-02-15
-#   end: 2023-06-24
-
-# - name: XKCD Archive
-#   description: Archived every xkcd comic, mirrored at xkcd.hacdias.com
-#   url: /2019/07/05/mirrorring-xkcd-ipfs/
-#   image: image:2019-07-05-2165-thumb-social
-#   start: 2019-04-27
-#   end: 2024-05-07
