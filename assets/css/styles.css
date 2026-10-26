@@ -758,7 +758,11 @@ ul.tb > li:not(.tbm) > *:first-child,
   margin: 0;
 }
 
-.tb details summary.tbi:hover > *:first-child {
+.tb a.tbi:hover {
+  color: inherit;
+}
+
+.tb .tbi:hover > *:first-child {
   color: var(--c);
 }
 
@@ -932,8 +936,8 @@ figure,
     text-wrap: wrap;
   }
 
-  .tb .nl,
-  .tb summary > *:first-child {
+  .tb .nl:not(.tbi),
+  .tb .tbi > *:first-child {
     text-decoration: underline;
   }
 }
