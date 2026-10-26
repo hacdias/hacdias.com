@@ -2,7 +2,7 @@
 title: What Else Can I Find?
 ---
 
-Here you can find a list of every page that did not fit in the main navigation bar. There is a chance that not everything is listed here, and those are up for you to <span id='trigger'>discover</span>!
+Here you can find a list of every page that does not fit in the main navigation bar. There is a chance that not everything is listed here, and those are up to you to <span id='trigger'>discover</span>!
 
 <!--more-->
 
@@ -14,7 +14,7 @@ Here you can find a list of every page that did not fit in the main navigation b
 - [🎁 Support Me](/support/)
 {.buttons #more-list}
 
-I track - maybe too many - things. Over the years, I've been replacing [silos](https://indieweb.org/silo) with this website. Below are all the things I log around here. In the future, I might use some [AT Protocol](/2026/02/08/atmosphere/) based tools for some of these things, but integrating, not siloing.
+I track many -- maybe too many -- things. Over the years, I've been replacing [silos](https://indieweb.org/silo) with this website. Below are all the things I log around here. In the future, I might use some [AT Protocol](/2026/02/08/atmosphere/)-based tools for some of these things, but integrating, not siloing.
 
 - [📚 Readings](/logs/readings/)
 - [☕️ Coffee](/logs/coffee/)
@@ -26,7 +26,7 @@ I track - maybe too many - things. Over the years, I've been replacing [silos](h
 
 ## 📡 Feeds {#feeds}
 
-If you're interested in following my content, there's Atom and JSON feeds available. You can choose to either get writings, photos, or both! Your feed reader should automatically pick up the feed from the page URL. If it doesn't, you can use the following URLs:
+If you're interested in following my content, there are Atom and JSON feeds available. You can choose to either get writings, photos, or both! Your feed reader should automatically pick up the feed from the page URL. If it doesn't, you can use the following URLs:
 
 - **Home** <span>[Atom](/feed.xml), [JSON](/feed.json)</span>
 - **Writings** <span>[Atom](/writings/feed.xml), [JSON](/writings/feed.json)</span>
