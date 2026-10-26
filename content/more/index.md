@@ -39,7 +39,6 @@ A [digital shoebox](/2024/01/13/making-a-digital-shoebox/) is a place where unho
 
 - [🔵 Blue Screen of Death](/minisites/bsod/)
 - [✉️ Carta de Uma Mãe Alentejana](/minisites/carta-mae-alentejana/)
-- [🦙 DeviantArt Archive](/minisites/deviantart/)
 - [🌈 Pixel-color-mania](/minisites/pixelcolormania/)
 - [🌩️ Thunderstorm](/minisites/thunderstorm/)
 - [📺 TV Noise](/minisites/tv-noise/)

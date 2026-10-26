@@ -1,6 +1,7 @@
 ---
 title: Drawing Experiments
 date: 2021-04-14T12:00:00Z
+lastmod: 2026-10-26T16:42:27+01:00
 categories:
   - writings
 tags:
@@ -11,7 +12,7 @@ syndication:
 thumbnail: image:2021-04-14-starry-sky
 ---
 
-Sometimes I like trying to do something more creative, even if it doesn't work out. A few years ago, I decided that *thing* would be drawing. Since I was into using an iPad at the time, I decided installing [Procreate](https://procreate.com/) and trying some things.
+Sometimes I like trying to do something more creative, even if it doesn't work out. A few years ago, I decided that *thing* would be drawing. Since I was into using an iPad at the time, I decided to install [Procreate](https://procreate.com/) and trying some things.
 
 <!--more-->
 
@@ -58,5 +59,7 @@ Well, the results were far from good, but at least I tried. I tried making a wid
 
 ![](image:2020-10-15-infinite-tree "Infinite Tree")
 {width="3000" height="3750"}
-  
+
 </div>
+
+When I was younger, I used to have an account on DeviantArt. I have deactivated my account since, but before I did so, I downloaded all of the things that I had there and built this [archive](/minisites/deviantart/) you can visit!
