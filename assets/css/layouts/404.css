@@ -1,0 +1,52 @@
+.glitch {
+  position: relative;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .glitch::before,
+  .glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    inset: 0;
+    background: var(--bg);
+    animation: glitch 3s infinite linear alternate-reverse;
+  }
+
+  .glitch::before {
+    transform: translateX(-2px);
+    text-shadow: 1px 0 blue;
+  }
+
+  .glitch::after {
+    transform: translateX(2px);
+    text-shadow: -1px 0 red;
+    animation-duration: 2s;
+    animation-direction: alternate;
+  }
+}
+
+@keyframes glitch {
+  0% {
+    clip-path: inset(20% 0 75% 0);
+  }
+
+  20% {
+    clip-path: inset(60% 0 30% 0);
+  }
+
+  40% {
+    clip-path: inset(5% 0 80% 0);
+  }
+
+  60% {
+    clip-path: inset(80% 0 5% 0);
+  }
+
+  80% {
+    clip-path: inset(40% 0 50% 0);
+  }
+
+  100% {
+    clip-path: inset(10% 0 60% 0);
+  }
+}

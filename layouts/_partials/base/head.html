@@ -31,7 +31,7 @@
 
 {{ partialCached "assets/css.html" . }}
 
-{{- with cond .IsHome "home" .Layout }}
+{{- with or .Layout .Kind }}
   {{- with resources.Get (printf "css/layouts/%s.css" .) }}
     <style>{{ .Content | safeCSS }}</style>
   {{- end }}
