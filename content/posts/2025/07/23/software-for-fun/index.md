@@ -1,6 +1,7 @@
 ---
 title: Building Software For Fun
 date: 2025-07-23T18:46:59+02:00
+lastmod: 2026-10-26T17:08:36+01:00
 location:
   latitude: 51.44588
   longitude: 5.46071
@@ -25,7 +26,7 @@ Time and time again, I have come across articles about [writing "useless" softwa
 
 <!--more-->
 
-They remind me of the time I made a few experiments for fun. I should do that kind of programming again: fun programming. I have some of those linked in my [more](/more/#shoebox) page. And it doesn’t necessarily have to be web programming either. Just fun, with fun things.
+They remind me of the time I made a few experiments for fun. I should do that kind of programming again: fun programming. I have some of those linked across relevant posts. And it doesn't necessarily have to be web programming either. Just fun, with fun things.
 
 Here's a list of some of these things I have come across that are just fun:
 

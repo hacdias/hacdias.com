@@ -33,16 +33,6 @@ If you're interested in following my content, there's Atom and JSON feeds availa
 - **Photos** <span>[Atom](/photos/feed.xml), [JSON](/photos/feed.json)</span>
 {.tb}
 
-## 📦 Shoebox {#shoebox}
-
-A [digital shoebox](/2024/01/13/making-a-digital-shoebox/) is a place where unhoused things go to find a home. These are mostly old experiments from small things I did, or small things I wanted to keep available to share.
-
-- [🔵 Blue Screen of Death](/minisites/bsod/)
-- [✉️ Carta de Uma Mãe Alentejana](/minisites/carta-mae-alentejana/)
-- [📺 TV Noise](/minisites/tv-noise/)
-- [🚦 Uma História de Trânsito](/minisites/historia-transito/)
-{.buttons}
-
 <audio id="music" loop>
   <source src="https://media.hacdias.com/2021-09-21-nyan-cat.mp3" type="audio/mpeg">
 </audio>
