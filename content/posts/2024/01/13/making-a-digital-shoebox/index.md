@@ -7,6 +7,7 @@ categories:
 tags:
   - meta
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3kiu45w22hgen
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kiu45w22hgf4
   - https://news.indieweb.org/en
 ---
