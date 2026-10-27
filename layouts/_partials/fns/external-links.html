@@ -1,0 +1,14 @@
+{{- $s := newScratch -}}
+{{- $pages := where site.Pages "Kind" "in" (slice "page" "home" "section") -}}
+{{- range where $pages "Params.noIndex" "!=" true -}}
+  {{- $_ := .Content -}}
+  {{- $source := .Permalink -}}
+  {{- range uniq (.Store.Get "externalLinks") -}}
+    {{- $s.Add (strings.TrimPrefix "www." (urls.Parse .).Hostname) (slice (dict "sourceUrl" $source "targetUrl" .)) -}}
+  {{- end -}}
+{{- end -}}
+{{- $links := slice -}}
+{{- range $domain, $l := $s.Values -}}
+  {{- $links = $links | append (dict "domain" $domain "count" (len $l) "links" (sort $l "sourceUrl")) -}}
+{{- end -}}
+{{- return sort (sort $links "domain") "count" "desc" -}}

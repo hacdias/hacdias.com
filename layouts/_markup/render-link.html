@@ -1,4 +1,9 @@
-{{- $url := urls.Parse ( .Destination | safeURL ) -}}
+{{ $url := urls.Parse ( .Destination | safeURL ) }}
+{{- if not $url.IsAbs }}
+  {{- .Page.Store.Add "internalLinks" (slice .Destination) }}
+{{- else if in (slice "http" "https") $url.Scheme }}
+  {{- .Page.Store.Add "externalLinks" (slice .Destination) }}
+{{- end -}}
 <a href="{{ .Destination | safeURL }}" {{ with .Title }}title="{{ . }}"{{ end }} {{ if $url.IsAbs }}rel='noopener noreferrer'{{ end }}>
   {{- .Text | safeHTML -}}
 </a>

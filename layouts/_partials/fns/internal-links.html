@@ -1,0 +1,18 @@
+{{- $s := newScratch -}}
+{{- $pages := where site.Pages "Kind" "in" (slice "page" "home" "section") -}}
+{{- range where $pages "Params.noIndex" "!=" true -}}
+  {{- $_ := .Content -}}
+  {{- $source := .Permalink -}}
+  {{- $targets := slice -}}
+  {{- range .Store.Get "internalLinks" -}}
+    {{- $targets = $targets | append (index (split ((urls.Parse $source).ResolveReference (urls.Parse .)).String "#") 0) -}}
+  {{- end -}}
+  {{- range complement (slice $source) (uniq $targets) -}}
+    {{- $s.Add . (slice (dict "sourceUrl" $source "targetUrl" .)) -}}
+  {{- end -}}
+{{- end -}}
+{{- $links := slice -}}
+{{- range $target, $l := $s.Values -}}
+  {{- $links = $links | append (dict "target" $target "count" (len $l) "links" (sort $l "sourceUrl")) -}}
+{{- end -}}
+{{- return sort (sort $links "target") "count" "desc" -}}
