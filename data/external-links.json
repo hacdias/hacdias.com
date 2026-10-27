@@ -996,6 +996,64 @@
     ]
   },
   {
+    "domain": "archive.org",
+    "count": 13,
+    "links": [
+      {
+        "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
+        "targetUrl": "https://web.archive.org/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2022/03/25/my-website-before-indieweb/",
+        "targetUrl": "https://web.archive.org/"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2024/01/13/making-a-digital-shoebox/",
+        "targetUrl": "https://web.archive.org/web/20230922082552/https://gilest.org/shoebox.html"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
+        "targetUrl": "https://web.archive.org/web/20230627165311/https://cohost.org/mcc/post/325362-a-one-person-oral-hi"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
+        "targetUrl": "https://web.archive.org/web/20230610234800/https://annas-blog.org/putting-5,998,794-books-on-ipfs.html"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
+        "targetUrl": "https://web.archive.org/web/20231112182024/https://arne.me/articles/archive-your-old-projects"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
+        "targetUrl": "https://web.archive.org/web/20230605015058/https://sadgrl.online/cyberspace/webrings"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://web.archive.org/web/20170720055750/https://caddyserver.com/docs/http.hugo"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://web.archive.org/web/20170918165507/https://caddyserver.com/docs/http.jekyll"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://web.archive.org/web/20190131202115/https://caddyserver.com/docs/http.filebrowser"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://web.archive.org/web/20190131202114/https://caddyserver.com/docs/http.minify"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://web.archive.org/web/20190131202114/https://caddyserver.com/docs/http.webdav"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
+        "targetUrl": "https://web.archive.org/web/https://caddyserver.com/docs/hook.service"
+      }
+    ]
+  },
+  {
     "domain": "fosdem.org",
     "count": 13,
     "links": [
@@ -1108,60 +1166,6 @@
       {
         "sourceUrl": "https://hacdias.com/2014/09/13/php-wordpress-comandos-printf-sprintf/",
         "targetUrl": "http://php.net/manual/en/function.sprintf.php"
-      }
-    ]
-  },
-  {
-    "domain": "archive.org",
-    "count": 12,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2020/05/31/back-90s/",
-        "targetUrl": "https://web.archive.org/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2022/03/25/my-website-before-indieweb/",
-        "targetUrl": "https://web.archive.org/"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
-        "targetUrl": "https://web.archive.org/web/20230627165311/https://cohost.org/mcc/post/325362-a-one-person-oral-hi"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
-        "targetUrl": "https://web.archive.org/web/20230610234800/https://annas-blog.org/putting-5,998,794-books-on-ipfs.html"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
-        "targetUrl": "https://web.archive.org/web/20231112182024/https://arne.me/articles/archive-your-old-projects"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/2025/07/22/discover-blogs/",
-        "targetUrl": "https://web.archive.org/web/20230605015058/https://sadgrl.online/cyberspace/webrings"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
-        "targetUrl": "https://web.archive.org/web/20170720055750/https://caddyserver.com/docs/http.hugo"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
-        "targetUrl": "https://web.archive.org/web/20170918165507/https://caddyserver.com/docs/http.jekyll"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
-        "targetUrl": "https://web.archive.org/web/20190131202115/https://caddyserver.com/docs/http.filebrowser"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
-        "targetUrl": "https://web.archive.org/web/20190131202114/https://caddyserver.com/docs/http.minify"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
-        "targetUrl": "https://web.archive.org/web/20190131202114/https://caddyserver.com/docs/http.webdav"
-      },
-      {
-        "sourceUrl": "https://hacdias.com/projects/caddy-plugins/",
-        "targetUrl": "https://web.archive.org/web/https://caddyserver.com/docs/hook.service"
       }
     ]
   },
@@ -3664,16 +3668,6 @@
       {
         "sourceUrl": "https://hacdias.com/2025/07/21/internet-nooks/",
         "targetUrl": "https://gifcities.org/"
-      }
-    ]
-  },
-  {
-    "domain": "gilest.org",
-    "count": 1,
-    "links": [
-      {
-        "sourceUrl": "https://hacdias.com/2024/01/13/making-a-digital-shoebox/",
-        "targetUrl": "https://gilest.org/shoebox.html"
       }
     ]
   },
