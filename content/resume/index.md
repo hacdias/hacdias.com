@@ -36,7 +36,7 @@ Senior Software Engineer building open source systems and products in Go and Typ
   location="Paradym (Animo Solutions)" href="https://paradym.id/"
   from="06/2025" to="present" >}}
 
-- Own features end to end across the SaaS platform for digital credentials and its React Native [wallet](https://paradym.id/products/paradym-mobile-wallet), from protocol libraries to API and dashboard. Co-maintain [Credo](https://github.com/openwallet-foundation/credo-ts) and the OpenWallet Foundation libraries underneath.
+- Own features end to end across the TypeScript SaaS platform for digital credentials and its React Native [wallet](https://paradym.id/products/paradym-mobile-wallet), from protocol libraries to API and dashboard. Co-maintain [Credo](https://github.com/openwallet-foundation/credo-ts) and the OpenWallet Foundation libraries underneath.
 - Implemented OpenID4VC 1.0, the protocol behind the EU Digital Identity Wallet, and W3C VCDM 2.0 across Credo, Paradym, and Paradym Wallet as the specifications were finalized, making them interoperable with EU pilots.
 - Designed and built the key and trust infrastructure: hardware-backed key storage behind a provider-agnostic API (Google Cloud HSM), X.509 certificate management and revocation, and EU Trusted List validation<span class="hide-print"> ([▶ demo](https://www.youtube.com/watch?v=sr3Z1uCDHK4))</span>.
 - Integrated with customers' own infrastructure: issuance through their identity provider and data sources<span class="hide-print"> ([▶ demo](https://www.youtube.com/watch?v=6NJCTI9LpIQ))</span>, so Paradym never stores personal data, and an on-premise Admin API secured by their authorization server.
@@ -50,7 +50,7 @@ Senior Software Engineer building open source systems and products in Go and Typ
   location="Ver.iD" href="https://ver.id/"
   from="06/2024" to="05/2025" >}}
 
-- Developed authentication and verification products that let businesses accept multiple identity wallets through a single OAuth integration, abstracting over proprietary APIs and open standards (OpenID4VP, SD-JWT, mdoc). Used in pilots, including one with the Municipality of Nijmegen.
+- Developed TypeScript authentication and verification products that let businesses accept multiple identity wallets through a single OAuth integration, abstracting over proprietary APIs and open standards (OpenID4VP, SD-JWT, mdoc). Used in pilots, including one with the Municipality of Nijmegen.
 - Owned the integrations with NL Wallet (the Dutch government's identity wallet), ReadID Ready, and Nect, and maintained integrations with other wallets, including Digidentity and Yivi.
 
 {{</ resume-position >}}
