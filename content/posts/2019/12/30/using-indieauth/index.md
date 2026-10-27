@@ -14,7 +14,7 @@ syndication:
 
 This is going to be a quick post — I hope. 
 
-After updating the [structure of the URLs](/2019/12/28/url-structure) on my website, I felt like the next step would be to implement [IndieAuth](https://indieauth.net/) because almost everything on the IndieWeb needs that.
+After updating the [structure of the URLs](/2019/12/28/url-structure/) on my website, I felt like the next step would be to implement [IndieAuth](https://indieauth.net/) because almost everything on the IndieWeb needs that.
 
 <!--more-->
 

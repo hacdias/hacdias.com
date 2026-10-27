@@ -28,6 +28,6 @@ During this past year and a half, I've made many changes in my website, from vis
 
 After quite some frustration, I started noting down every time I had the thought: "maybe I should go back to Hugo". In addition, I removed quite a lot of the interactive things of my website that were made easier by Eagle, namely showing Webmentions, ActivityPub, Micropub, etc. With the list of thoughts increasing, and the removal of features increasing, I decided to go back to Hugo.
 
-Do I regret it? No. I have an almost-static website. I still have Eagle. Eagle still provides some functionality that is completely integrated in the website via some special templating I did with my Hugo templates. I can edit posts directly on the website, I can moderate entries on my [guestbook](/guestbook), and create new posts. I also still support IndieAuth, which I wish to see more widespread.
+Do I regret it? No. I have an almost-static website. I still have Eagle. Eagle still provides some functionality that is completely integrated in the website via some special templating I did with my Hugo templates. I can edit posts directly on the website, I can moderate entries on my [guestbook](/guestbook/), and create new posts. I also still support IndieAuth, which I wish to see more widespread.
 
 I am happy I moved from my rendering system back to Hugo. I still use Eagle for some special handlings. The only thing I could perhaps say I might miss is the live preview of draft posts. But I can always run `hugo watch --build-drafts` on my laptop if that's important.

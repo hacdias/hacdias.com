@@ -26,6 +26,6 @@ If you're interested in backend or front-end development, building yourself your
 
 Having your own website is also an opportunity for you to free yourself a bit from the social media and showing a bit of yourself to the world.
 
-You can check some other people's personal websites on my [blogroll](/blogroll), on this post on [Lobste.rs](https://lobste.rs/s/h9xgpv/rate_my_homepage). Another interesting place is [the whimsical web](https://whimsical.club/), where you can find a curated list of awesome personal websites.
+You can check some other people's personal websites on my [blogroll](/blogroll/), on this post on [Lobste.rs](https://lobste.rs/s/h9xgpv/rate_my_homepage). Another interesting place is [the whimsical web](https://whimsical.club/), where you can find a curated list of awesome personal websites.
 
 I see this subject working better as a discussion. So, please comment with your own opinion. Do you have a website? What's the link? Don't you? Why is that so?

@@ -54,7 +54,7 @@ The winter is coming and I'm pretty sure there's some Covid coming with it. I fe
 
 No, I'm not talking about Metaforum, the central building at my university. I'm talking about this website! I made quite a few design updates over the last days. Hope you enjoyed them. I feel they made the website cleaner and better looking while keeping a 90s-inspired look.
 
-In the meanwhile, I also automated the [blogroll](/blogroll) page... finally! Now, it's always up to date! I recommend you to check it. There's a lot of good content in there!
+In the meanwhile, I also automated the [blogroll](/blogroll/) page... finally! Now, it's always up to date! I recommend you to check it. There's a lot of good content in there!
 
 Newsletters... I'm considering. I really want to try to write at least one post per week. If not, at least once per month. But per week would be much better, and much nicer. I want to force myself to write and I think that writing about what I'm learning at university or some other hot tech thing I'm working on could be very valuable, for me and for my readers.
 

@@ -25,16 +25,16 @@ January, the infamous first month of the year, is reaching an end. It was a very
 
 During January, I did not make large changes to this website. In general, they were rather small even though they may seem large. In addition to fixing some bugs, as usual, I also removed my checkins 📍 and itineraries 🗺️. I decided to do so as I felt like they did not add much to the website.
 
-Finally, I made my [Trips 🚆](/logs/places) page better. I think it displays the trips in a better way and it is slightly inspired by [Tim's](https://timharek.no/) logs. I still want to backup my Swarm checkins and I still have to write a script to do so. I will probably try Deno 🦖, as I have been slightly curious about it for a while!
+Finally, I made my [Trips 🚆](/logs/places/) page better. I think it displays the trips in a better way and it is slightly inspired by [Tim's](https://timharek.no/) logs. I still want to backup my Swarm checkins and I still have to write a script to do so. I will probably try Deno 🦖, as I have been slightly curious about it for a while!
 
 ## 🍄 Life {#life}
 
 ![In Engelberg](image:2023-01-31-engelberg-01)
 {.right}
 
-In terms of life events, not a lot happened, but I went to Switzerland for a small company trip. It was quite nice to see some of my coworkers again and enjoy some time with them. Besides, I went there by train which was quite an [interesting experience](/2023/02/26/a-deutsche-bahn-tale-on-ice).
+In terms of life events, not a lot happened, but I went to Switzerland for a small company trip. It was quite nice to see some of my coworkers again and enjoy some time with them. Besides, I went there by train which was quite an [interesting experience](/2023/02/26/a-deutsche-bahn-tale-on-ice/).
 
-I took quite some pictures, but I have yet to go over them. However, I leave you one here, one of my favourites. I have been thinking about printing some of my [photos 📸](/photos) and framing them to use as decoration in the entrance hall and living room of my apartment. I think that could turn out nicely.
+I took quite some pictures, but I have yet to go over them. However, I leave you one here, one of my favourites. I have been thinking about printing some of my [photos 📸](/photos/) and framing them to use as decoration in the entrance hall and living room of my apartment. I think that could turn out nicely.
 
 ## 📚 Reading {#reading}
 

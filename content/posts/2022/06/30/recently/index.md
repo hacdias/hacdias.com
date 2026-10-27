@@ -15,7 +15,7 @@ I have recently noticed I have been writing 'recently' posts since September 202
 
 <!--more-->
 
-- Had the [opening](/2022/06/07/dm-lustrum-exhibition) of the Dekate Mousa Lustrum Exhibition with pictures that the members took during the school year. I was very happy to see 3 of my pictures there.
+- Had the [opening](/2022/06/07/dm-lustrum-exhibition/) of the Dekate Mousa Lustrum Exhibition with pictures that the members took during the school year. I was very happy to see 3 of my pictures there.
 - Went to a concert of Lorde in AFAS Live. This was my third concert in 2 months. It’s funny because I don’t think I can say I’ve been to an actual concert before last month… ever. Lorde was phenomenal. Vocals were very good and she sang quite some older songs. And the staging… uff.
 - Went bowling and had dinner with the members from the committees at Dekate Mousa. It was my first time bowling and I enjoyed it a lot. The time and the conversations were equally nice.
 - Had a very nice BBQ with some people from Dekate Mousa. It's always fascinating to me that students here live in student houses with 8/9 students. And the best is that they're actually houses with 3 floors and a garden. Incredible.

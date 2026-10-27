@@ -24,7 +24,7 @@ After a long conversation with [Sebastiaan](https://seblog.nl/) and after seeing
 
 From now on, I will have a canonical page for a certain book at `/reads/isbn/{isbn}`. It can easily be expanded to other formats, such as `/reads/{doi|isbn|issn}/{id}`. This way, I can have a canonical version of a specific book edition that holds its information. Then, on the `read-of` field, I simply write `/reads/{doi|isbn|issn}/{id}` and my blog system directly fetches the information.
 
-For example, if you access [`/reads/isbn/9789720048820`](/2022/01/17/o-ano-da-morte-de-ricardo-reis), you will see information about the book (*The year of death of Ricardo Reis*) and then all posts regarding that same book.
+For example, if you access [`/reads/isbn/9789720048820`](/2022/01/17/o-ano-da-morte-de-ricardo-reis/), you will see information about the book (*The year of death of Ricardo Reis*) and then all posts regarding that same book.
 
 At the same time, the website still supports the old format where the reading post itself accepts an object with the information about the book. This is useful for books I want to read, but that I do not own yet. Therefore, I don't know which edition and details to add about the book.
 

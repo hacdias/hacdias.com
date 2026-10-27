@@ -20,7 +20,7 @@ The week after, classes started. I had my first class on campus ever at TU/e and
 
 I also started mentoring new master's students on that same first week. It's been quite a nice experience to meet new people that have never studied here and come from all different backgrounds and places. I might write about it more extensively in the future.
 
-During the second week, there was the Open Cultural Week on campus, where all cultural associations have open activities for non-members. Even though I'm a member of [Dekate Mousa](https://dekatemousa.nl/) - the photography & film association - I went to the activities and it was quite nice. I really enjoyed the opportunity to take [fire breathing](/2021/09/16/fire-breathing) and [steelwool](/2021/09/16/fire-steelwool) pictures. 
+During the second week, there was the Open Cultural Week on campus, where all cultural associations have open activities for non-members. Even though I'm a member of [Dekate Mousa](https://dekatemousa.nl/) - the photography & film association - I went to the activities and it was quite nice. I really enjoyed the opportunity to take [fire breathing](/2021/09/16/fire-breathing/) and [steelwool](/2021/09/16/fire-steelwool/) pictures. 
 
 ![Fire Breathing 101](image:2021-09-16-fire-02)
 

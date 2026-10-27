@@ -18,7 +18,7 @@ Today I have been thinking about the possibility of writing my own CMS. A very s
 
 ## Let's talk about features!
 
-Right now, my ["CMS"](/2020/10/12/rebuilding-eagle-cms) is, in fact, a simple wrapper around Hugo with a few bells and whistles. Also, besides wanting to have a simple CMS, I also want to build a simple CLI that allows me to locally search, list, add and edit files, as if it was my own notebook. For that, I am taking some inspirations from [nb](https://github.com/xwmx/nb), which the authors perfectly describe as:
+Right now, my ["CMS"](/2020/10/12/rebuilding-eagle-cms/) is, in fact, a simple wrapper around Hugo with a few bells and whistles. Also, besides wanting to have a simple CMS, I also want to build a simple CLI that allows me to locally search, list, add and edit files, as if it was my own notebook. For that, I am taking some inspirations from [nb](https://github.com/xwmx/nb), which the authors perfectly describe as:
 
 > CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
 

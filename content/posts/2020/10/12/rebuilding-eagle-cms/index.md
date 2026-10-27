@@ -40,4 +40,4 @@ In the future, I want to fully support ActivityPub though. I still need to imple
 
 [goblog]: https://git.jlel.se/jlelse/GoBlog
 [arewewebrust]: https://www.arewewebyet.org/
-[dynamic]: /2020/01/02/dynamic-static
+[dynamic]: /2020/01/02/dynamic-static/

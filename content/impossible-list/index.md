@@ -97,7 +97,7 @@ This list is inspired by Thomas Frank's and Jade Bowler's impossible lists. It i
 ## 💼 Professional Goals {#professional}
 
 - [x] Write a self-published eBook <small>[February 2015, [Aprenda a Programar](https://media.hacdias.com/2015-02-27-aprenda-a-programar.pdf)]</small>
-- [x] Give a talk <small>[[November 2019](/2019/12/20/quick-dive-into-dweb-ipfs)]</small>
+- [x] Give a talk <small>[[November 2019](/2019/12/20/quick-dive-into-dweb-ipfs/)]</small>
    - [ ] Give a talk to over 100 people
 - [x] Learn more about 🧠 neuroscience <small>[June 2020, [MCB80x](https://credentials.edx.org/credentials/7a9cfe11e16c41be9649a1c2f9398cbc/)]</small>
 - [x] Finish my 🎓 bachelor's degree <small>[July 2020]</small>

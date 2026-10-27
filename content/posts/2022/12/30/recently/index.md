@@ -28,20 +28,20 @@ In terms of content, I split the "Food & Drinks" section again. Now I have a sec
 
 Inspired by [Tim's Logs](https://timharek.no/logs/), I updated my [📚 Readings](/logs/readings/), [🎬 Watches](/logs/movies/) and [✏️ Articles](/writings/) pages. In addition, I created a new section, called [🚀 Trips](/logs/places/). Each trip shows a listing of all the posts published during the trip. How neat is that?
 
-Finally, I updated the way the [🗞️ Blogroll](/blogroll) is displayed to include the favicon of each website that I follow. This was inspired by Jim's [External Links](https://blog.jim-nielsen.com/about/external-links) page. Sadly, it uses an API from Google. However, I may end up proxying it and caching the results in the future.
+Finally, I updated the way the [🗞️ Blogroll](/blogroll/) is displayed to include the favicon of each website that I follow. This was inspired by Jim's [External Links](https://blog.jim-nielsen.com/about/external-links) page. Sadly, it uses an API from Google. However, I may end up proxying it and caching the results in the future.
 
 ## 🍄 Life {#life}
 
 ![Faro Airport](image:2022-12-30-faro-airport)
 {.right}
 
-Life-wise, quite a few things happened, but I'm going to be quicker on this section. For once, we finished most of the construction in the apartment. We have almost all furniture and everything is mostly settled in. In addition, we went to [Aachen's Christmas Market](/2022/12/22/aachen-weihnachtsmarkt), where we had a lot of fun. I love Christmas Markets 🎄! In the end of the month, I spent a week at my parent's in Portugal and it was a very nice time to meet with a lot of family that I haven't seen in a while.
+Life-wise, quite a few things happened, but I'm going to be quicker on this section. For once, we finished most of the construction in the apartment. We have almost all furniture and everything is mostly settled in. In addition, we went to [Aachen's Christmas Market](/2022/12/22/aachen-weihnachtsmarkt/), where we had a lot of fun. I love Christmas Markets 🎄! In the end of the month, I spent a week at my parent's in Portugal and it was a very nice time to meet with a lot of family that I haven't seen in a while.
 
 Sadly, I'm still "suffering" from my Achilles tendinitis, or tendinopathy, as I think it actually is. I will ask the physiotherapist next time. It bothers me quite a lot and I feel extremely limited. If I walk a bit more, it will hurt, the day after. That's the thing about tendons: you never know if you're over-exerting them. And on top of all of it: I've lived all my life in hilly areas and never have I had a problem like this. I move to a flat country and this happens... Let's hope this will get fixed during the first months of 2023!
 
 ## 📚 Reading {#reading}
 
-I finally finished reading "The Island of Missing Trees". I had started this book back in June, so this took a long time. Mostly because I procrastinated a while since then and basically took a months long break of reading, which is sad. Nevertheless, it was a very good book, which you can read more about in my [little review](/2022/12/25/the-island-of-missing-trees).
+I finally finished reading "The Island of Missing Trees". I had started this book back in June, so this took a long time. Mostly because I procrastinated a while since then and basically took a months long break of reading, which is sad. Nevertheless, it was a very good book, which you can read more about in my [little review](/2022/12/25/the-island-of-missing-trees/).
 
 ## 🍿 Watching {#watching}
 

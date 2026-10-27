@@ -20,7 +20,7 @@ March is almost gone and here we are again, at one more recap of what has happen
 
 ## ✍️ Website {#website}
 
-Very little has happened on this website since last month. I had many articles - and still do - in my drafts, but haven't had the time, or want, to get back to them. However, I wrote [an article](/2023/03/26/the-day-i-hacked-my-schools-library-computers) about the time I "hacked" my high school's library computers. 
+Very little has happened on this website since last month. I had many articles - and still do - in my drafts, but haven't had the time, or want, to get back to them. However, I wrote [an article](/2023/03/26/the-day-i-hacked-my-schools-library-computers/) about the time I "hacked" my high school's library computers. 
 
 Writing that article reminded me that I have always been somewhat interested in security, but never did much about it. At my bachelor's university there was a security club and I almost decided to join. Sadly, I didn't. Now, I decided to join [TryHackMe](https://tryhackme.com/). I hope I can learn a few nice things, mostly related to networking.
 

@@ -1,6 +1,8 @@
 ---
 title: Movies That I've Watched
 description: An extensive list of movies I have watched.
+aliases:
+  - /watched/
 ---
 
 ![](https://media.hacdias.com/2026-02-23-popcorn.gif "Popcorn")

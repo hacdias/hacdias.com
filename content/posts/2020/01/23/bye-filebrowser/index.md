@@ -31,7 +31,7 @@ At this time, File Manager was not only just a program to edit, create, upload a
 
 In addition, due to the move from my GitHub user to an organisation, we had to rename the project File Browser because the org ‘File Manager’ was not available on GitHub. However, that wasn’t such a big problem.
 
-The project evolved and I started university and I also started working at [Protocol Labs](/2018/10/27/working-at-protocol-labs), which has been a terrific opportunity. However, that’s not why I’m here today.
+The project evolved and I started university and I also started working at [Protocol Labs](/2018/10/27/working-at-protocol-labs/), which has been a terrific opportunity. However, that’s not why I’m here today.
 
 I saw I didn’t have much time for the project, so I opened an issue [looking for maintainers](https://github.com/filebrowser/filebrowser/issues/532). Even though a lot of people commented saying that they could maintain the project or fix some bugs, not even a 1/10 of them opened a PR. I waited a year and I decided to archive the repository. No one was maintaining it. I didn’t have time. There were bug reports everywhere.
 

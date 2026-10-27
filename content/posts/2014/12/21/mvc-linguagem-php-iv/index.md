@@ -16,7 +16,7 @@ A pedido de um leitor, decidimos escrever um artigo em que exemplificamos este m
 
 <!--more-->
 
-A [primeira](/2014/12/18/mvc-linguagem-php), [segunda](/2014/12/19/mvc-linguagem-php-ii) e [terceira](/2014/12/20/mvc-linguagem-php-iii) partes já foram publicadas. Hoje, trago a quarta e última parte desta mini-série de artigos.
+A [primeira](/2014/12/18/mvc-linguagem-php/), [segunda](/2014/12/19/mvc-linguagem-php-ii/) e [terceira](/2014/12/20/mvc-linguagem-php-iii/) partes já foram publicadas. Hoje, trago a quarta e última parte desta mini-série de artigos.
 
 O que vamos fazer hoje é, simplesmente, criar uma página dinâmica que liste diversos _posts_ que estão na base de dados da aplicação.
 

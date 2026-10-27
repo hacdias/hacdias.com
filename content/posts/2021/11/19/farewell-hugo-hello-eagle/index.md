@@ -10,11 +10,11 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3il5vhbakp5ct
 ---
 
-In 2015, I posted an [article](/2015/08/12/farewell-wordpress-hello-hugo) with a very similar name to this one. At the time, I was saying goodbye to WordPress and welcoming Hugo. As with everything in life, there are cycles and things change. It's time to turn a new page on this website's life cycle.
+In 2015, I posted an [article](/2015/08/12/farewell-wordpress-hello-hugo/) with a very similar name to this one. At the time, I was saying goodbye to WordPress and welcoming Hugo. As with everything in life, there are cycles and things change. It's time to turn a new page on this website's life cycle.
 
 <!--more-->
 
-Around a year ago, I [explained](/2020/10/12/rebuilding-eagle-cms) why I was rebuilding my website's CMS, Eagle. At the time, I decided against completely replacing [Hugo](http://gohugo.io/), the static website generator I've been using for years, because it worked. However, a year has passed and I've [thought](/tags/meta) many [times](/2021/02/04/is-it-time-build-cms) about replacing Hugo and I finally did it.
+Around a year ago, I [explained](/2020/10/12/rebuilding-eagle-cms/) why I was rebuilding my website's CMS, Eagle. At the time, I decided against completely replacing [Hugo](http://gohugo.io/), the static website generator I've been using for years, because it worked. However, a year has passed and I've [thought](/tags/meta/) many [times](/2021/02/04/is-it-time-build-cms/) about replacing Hugo and I finally did it.
 
 Since November 15th, I have been running the new version of Eagle. Hopefully, you didn't notice as nothing broke for you. If it did, please [let me know](/about/#contact)! In this new system, completely powered by Eagle, there's no Hugo or static page building anymore.
 
@@ -26,7 +26,7 @@ With v2, I have feature parity with what I had with Hugo. I also added yearly, m
 
 More importantly, I brought back Micropub support, which I removed around a year ago for no reason. I also implemented IndieAuth and now I don't need to use [IndieAuth.com](https://indieauth.com/) to login anymore.
 
-If you look at my [more](/more) page, you'll notice that there's a lot of different content categories (or "sections") now. I brought back the ~~checkins~~ and [watches](/logs/movies/), which I had removed before because they were slowing down the Hugo build process.
+If you look at my [more](/more/) page, you'll notice that there's a lot of different content categories (or "sections") now. I brought back the ~~checkins~~ and [watches](/logs/movies/), which I had removed before because they were slowing down the Hugo build process.
 
 Everything is stored as markdown files. However, there's a PostgreSQL instance running to index my posts and help me generate indexes and the [nice](/logs/movies/) [summaries](/logs/readings/) for some of the sections.
 

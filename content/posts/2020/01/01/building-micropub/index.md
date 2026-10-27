@@ -11,7 +11,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gv5lucjnk2ct
 ---
 
-Recently, I have talked about [restructuring the URLs](/2019/12/28/url-structure) of my website and [adding IndieAuth](/2019/12/30/using-indieauth) so I could use my domain as my main  online identity to login into services. Along those lines, I came across [Micropub](https://www.w3.org/TR/micropub/). In their own words:
+Recently, I have talked about [restructuring the URLs](/2019/12/28/url-structure/) of my website and [adding IndieAuth](/2019/12/30/using-indieauth/) so I could use my domain as my main  online identity to login into services. Along those lines, I came across [Micropub](https://www.w3.org/TR/micropub/). In their own words:
 
 <!--more-->
 
@@ -30,7 +30,7 @@ Apart from that, I’m mostly calling APIs directly: I’m relying a lot on some
 
 The current status is that I pass almost all the tests provided by [micropub.rocks](https://micropub.rocks) even though I’m not satisfied with the solution I’ve come across. Why?
 
-First of all, if you’ve been following me for more time, you might’ve come across an [old blog post](/2015/08/12/farewell-wordpress-hello-hugo) talking about how I am using [Hugo](https://gohugo.io) to generate my website. But that is not the only “problem” of this: I’m also using IPFS to store my website for the folks using it. So there’s quite a few constraints.
+First of all, if you’ve been following me for more time, you might’ve come across an [old blog post](/2015/08/12/farewell-wordpress-hello-hugo/) talking about how I am using [Hugo](https://gohugo.io) to generate my website. But that is not the only “problem” of this: I’m also using IPFS to store my website for the folks using it. So there’s quite a few constraints.
 
 ## Problems
 ### Build Speed and Complexity

@@ -38,7 +38,7 @@ Around the same time we got the keys, the [GLOW Festival](https://gloweindhoven.
 
 Then, my parents visited me in The Netherlands for the first time. It was actually their first time flying internationally, and only second time flying. It was quite nice of them to come and I hope that now the "ice" is broken, that they will come more often.
 
-While my parents were here, I had my graduation 🎓 ceremony, where I dressed some slightly more fancy clothes to [receive](/2022/11/25/msc-graduation-ceremony) my diploma. During the graduation, my supervisor also made a little speech that left me... speechless - pun intended. I also had the opportunity to [engrave](/2022/11/23/engraving-name-alumni-avenue) my name in glass, which I never expected to do in my life. It was quite an experience 🥽.
+While my parents were here, I had my graduation 🎓 ceremony, where I dressed some slightly more fancy clothes to [receive](/2022/11/25/msc-graduation-ceremony/) my diploma. During the graduation, my supervisor also made a little speech that left me... speechless - pun intended. I also had the opportunity to [engrave](/2022/11/23/engraving-name-alumni-avenue/) my name in glass, which I never expected to do in my life. It was quite an experience 🥽.
 
 <div class="fg" style="grid-template-columns: repeat(3, 1fr);">
   

@@ -17,7 +17,7 @@ aliases:
   - /2020/10/01/september-2020/
 ---
 
-Today's the first day of a new month, so here's a new "recently" post. Since I decided to start this series after [mid-september](/2020/09/21/recently), there's not that many news since. However, I'm more than happy to write a few words about what's been happening lately.
+Today's the first day of a new month, so here's a new "recently" post. Since I decided to start this series after [mid-september](/2020/09/21/recently/), there's not that many news since. However, I'm more than happy to write a few words about what's been happening lately.
 
 <!--more-->
 
@@ -25,11 +25,11 @@ First of all, I decided to create a ~newsletter~ even though all posts I will se
 
 ## Darkroom
 
-Regarding photography I have two updates. The first one is related to this website. I decided to give my photography its own beautiful page instead of just a tag (remember #lifethroughlenses?). From now on, you can visit my photography in the [darkroom](/photos). It's obviously not a darkroom, but I thought it would be a great name for that page.
+Regarding photography I have two updates. The first one is related to this website. I decided to give my photography its own beautiful page instead of just a tag (remember #lifethroughlenses?). From now on, you can visit my photography in the [darkroom](/photos/). It's obviously not a darkroom, but I thought it would be a great name for that page.
 
 Over the years I have had many photos pages on this website but always ended up removing them in order to simplify the website. However, I'm in that point where I no longer think that "less is more" regarding this website. Not saying more is better though! I don't want to solely rely on Instagram for my photography and this way I have flexibility over its presentation.
 
-![["Silhouette"](/2020/09/27/silhouette)](image:2020-09-27-silhouette)
+![["Silhouette"](/2020/09/27/silhouette/)](image:2020-09-27-silhouette)
 
 The second update is as simple as this: I decided to join the Eindhoven Film and Photography association. It's called [Dekate Mousa](http://dekatemousa.nl/) and there's activities all Tuesdays at night related to either photography or film.
 

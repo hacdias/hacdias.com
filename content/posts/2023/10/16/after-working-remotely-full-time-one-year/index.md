@@ -17,7 +17,7 @@ My first full year mark working full time just passed by, and so did my first ye
 
 <!--more-->
 
-I joined Protocol Labs way back in 2017, not long after I started my bachelor's degree in Lisbon. I also wrote a [small post](/2018/10/27/working-at-protocol-labs) about a year after I joined sharing my experience. At the time, I was part of the IPFS GUI and the JavaScript teams. Since then, a lot has changed and that has definitely not been the case over the past year.
+I joined Protocol Labs way back in 2017, not long after I started my bachelor's degree in Lisbon. I also wrote a [small post](/2018/10/27/working-at-protocol-labs/) about a year after I joined sharing my experience. At the time, I was part of the IPFS GUI and the JavaScript teams. Since then, a lot has changed and that has definitely not been the case over the past year.
 
 ## What have I been doing?
 

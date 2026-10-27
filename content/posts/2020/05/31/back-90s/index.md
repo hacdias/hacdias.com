@@ -62,12 +62,12 @@ A more subtle change I made was to change the dates on this website to use the [
 
 [archive]: https://web.archive.org/
 [neocities]: https://neocities.org/
-[own-your-data]: /2019/12/24/own-your-data
+[own-your-data]: /2019/12/24/own-your-data/
 [hugo]: https://gohugo.io/
 [meta]: /tags/meta/
 [indieweb]: https://indieweb.org/
 [now]: /tags/now/
-[watches]: /watched/
+[watches]: /logs/movies/
 [twemoji]: https://github.com/twitter/twemoji
 [guestbook]: /guestbook/
 [webmentions]: https://indieweb.org/Webmention

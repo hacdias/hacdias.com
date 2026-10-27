@@ -27,4 +27,4 @@ Just finished reading "Before the coffee gets cold" by Toshikazu Kawaguchi. It i
 
 Traveling in time comes with many rules. Among them, you must drink the coffee before it gets cold and nothing will ever change. The book follows a few characters that end up traveling and the story behind it and their reasons.
 
-It is a very intriguing, yet fascinating concept that the author brings us. It was quite an enjoyable read and I'm [hoping to read](/2022/03/02/tales-from-the-cafe) the second volume sometime soon.
+It is a very intriguing, yet fascinating concept that the author brings us. It was quite an enjoyable read and I'm [hoping to read](/2022/03/02/tales-from-the-cafe/) the second volume sometime soon.

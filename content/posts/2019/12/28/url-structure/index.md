@@ -11,7 +11,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gusp6cufk2ct
 ---
 
-I’m now working on making my website more IndieWeb friendly, which was triggered by my searches after writing my last post about [owning our own data](/2019/12/24/own-your-data). It has been… harder than I thought. But in a positive way!
+I’m now working on making my website more IndieWeb friendly, which was triggered by my searches after writing my last post about [owning our own data](/2019/12/24/own-your-data/). It has been… harder than I thought. But in a positive way!
 
 <!--more-->
 

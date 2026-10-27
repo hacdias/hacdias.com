@@ -21,7 +21,7 @@ Back in 2014, I wasn't using Git or any other version control systems. Also, whi
 
 ## 2015
 
-In 2015, however, I [ditched WordPress](/2015/08/12/farewell-wordpress-hello-hugo) and replaced it by Hugo. Since I started using Hugo, I have also kept a repository in which I track all the changes of my website over the years. Therefore, this is the first year where I can actually show you how the website looked, at least in the beginning.
+In 2015, however, I [ditched WordPress](/2015/08/12/farewell-wordpress-hello-hugo/) and replaced it by Hugo. Since I started using Hugo, I have also kept a repository in which I track all the changes of my website over the years. Therefore, this is the first year where I can actually show you how the website looked, at least in the beginning.
 
 At the time, I was very into the [parallax](https://en.wikipedia.org/wiki/Parallax) effect. Unfortunately, you can't see it on the images below. For the home page, the images would stay in the same position while scrolling. On the articles page, the image would scroll slowly than the article, giving a depth effect. This was the first version of the website.
 

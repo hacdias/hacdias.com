@@ -12,7 +12,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cekpyq4dg2ct
 ---
 
-No último artigo publicado, foi falado acerca do [**Modelo MVC**](/2014/11/22/mvc-uma-breve-explicacao) e sobre aquilo em que este consiste. O Modelo _Model-View-Controller_ é amplamente utilizado nos dias de hoje.
+No último artigo publicado, foi falado acerca do [**Modelo MVC**](/2014/11/22/mvc-uma-breve-explicacao/) e sobre aquilo em que este consiste. O Modelo _Model-View-Controller_ é amplamente utilizado nos dias de hoje.
 
 <!--more-->
 

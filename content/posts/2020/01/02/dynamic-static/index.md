@@ -11,7 +11,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gva4v46x22ct
 ---
 
-After digressing a bit about [building a Micropub](/2020/01/01/building-micropub) endpoint for my website, I’ve been thinking about the next steps: if I should keep Hugo or move to some other system.
+After digressing a bit about [building a Micropub](/2020/01/01/building-micropub/) endpoint for my website, I’ve been thinking about the next steps: if I should keep Hugo or move to some other system.
 
 <!--more-->
 

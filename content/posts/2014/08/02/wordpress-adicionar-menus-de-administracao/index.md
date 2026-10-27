@@ -12,7 +12,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3bzoj7jor42ct
 ---
 
-O **WordPress** é, como vocês sabem, um dos mais populares CMS do mundo. Isto, se não o for. Um dos nossos primeiros artigos foi referente ao WordPress e ensinámos a [remover a hash dos links "Ler mais"](/2014/07/14/remover-hash-dos-links-continuar-a-ler).
+O **WordPress** é, como vocês sabem, um dos mais populares CMS do mundo. Isto, se não o for. Um dos nossos primeiros artigos foi referente ao WordPress e ensinámos a [remover a hash dos links "Ler mais"](/2014/07/14/remover-hash-dos-links-continuar-a-ler/).
 
 <!--more-->
 
@@ -113,6 +113,6 @@ add_action("admin_menu", "themeslug_admin_menus");
 
 Agora, quando voltarem à *dashboard* do WordPress, já lá deverão ter o novo menu.
 
-Se abrirem a página vão ver que ainda não existe nada nessa página. Como este tutorial está a ficar um pouco extenso, deixarei a criação de uma opção e a sua aplicação para a segunda parte deste tutorial que <del>deve chegar dentro de dois ou três dias</del> podes encontrar [aqui](/2014/08/04/wordpress-adicionar-menus-de-administracao-parte-2).
+Se abrirem a página vão ver que ainda não existe nada nessa página. Como este tutorial está a ficar um pouco extenso, deixarei a criação de uma opção e a sua aplicação para a segunda parte deste tutorial que <del>deve chegar dentro de dois ou três dias</del> podes encontrar [aqui](/2014/08/04/wordpress-adicionar-menus-de-administracao-parte-2/).
 
 Esperamos que o tutorial vos tenha sido útil.

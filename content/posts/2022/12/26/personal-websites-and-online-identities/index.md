@@ -19,9 +19,9 @@ Online services. We all have accounts on those. Be it Instagram, Facebook, ~~Twi
 
 Then come the personal websites. For those who have one, we usually use it as the centrepiece of our online identity. For those that, just like myself, enjoy dabbling in the depths of the [IndieWeb](https://indieweb.org/), we go even further: we make our website the one and only source of truth and then we [POSSE](https://indieweb.org/POSSE).
 
-Since two years ago, I started putting a lot of things on this website: checkins, itineraries, bookmarks, etc. Some times I wondered if I should remove some posts, some times I actually removed them. As we say in Portuguese, "I change my mind as someone changes underwear". And I keep [wondering](/2022/08/14/should-every-update-be-a-post).
+Since two years ago, I started putting a lot of things on this website: checkins, itineraries, bookmarks, etc. Some times I wondered if I should remove some posts, some times I actually removed them. As we say in Portuguese, "I change my mind as someone changes underwear". And I keep [wondering](/2022/08/14/should-every-update-be-a-post/).
 
-One of the reasons I [moved](/2021/10/31/eagle-move-away-from-hugo) [away](/2021/11/19/farewell-hugo-hello-eagle) from Hugo was to seek flexibility. Instead of finding what I was looking for, I now feel myself looking for simplicity again. The simplicity of a static website. And it's complicated. There is no definite answer. [Martin](https://mew.tv/) said something interesting: "try to imagine yourself 15 years from now, looking back". That is a very interesting thought: what do I want to see in my website in 15 years?
+One of the reasons I [moved](/2021/10/31/eagle-move-away-from-hugo/) [away](/2021/11/19/farewell-hugo-hello-eagle/) from Hugo was to seek flexibility. Instead of finding what I was looking for, I now feel myself looking for simplicity again. The simplicity of a static website. And it's complicated. There is no definite answer. [Martin](https://mew.tv/) said something interesting: "try to imagine yourself 15 years from now, looking back". That is a very interesting thought: what do I want to see in my website in 15 years?
 
 ![Art Installation in Glow](image:2022-12-26-glow "A random photo of GLOW to distract you for a bit")
 
@@ -31,7 +31,7 @@ The same thing goes for likes and reposts. I have, in multiple instances, delete
 
 Then there's the safety 🔒 aspect of it. Anyone checking my website can easily see where I was at any given point in time, almost. I don't think that's good. On the other hand, seeing where I was a year ago doesn't pose a big threat. Not that I can think of, at least. Either way, I think there is a trade-off here: either you have more data, but there's safety concerns; or you have less data.
 
-What do I want? I really don't know. A few months ago I posted about if every [update should be a post](/2022/08/14/should-every-update-be-a-post). And I agree with the answer: no, not all updates need to be a post. But at the same time, I would like to be able to display the update. Making every update a post is the easiest way to display the update though.
+What do I want? I really don't know. A few months ago I posted about if every [update should be a post](/2022/08/14/should-every-update-be-a-post/). And I agree with the answer: no, not all updates need to be a post. But at the same time, I would like to be able to display the update. Making every update a post is the easiest way to display the update though.
 
 During this past year, I've made quite a few changes to this website. Perhaps less than in the year before. But let's make a quick recap of the most important changes, as well as some other thoughts I just want to get out there.
 
