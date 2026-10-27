@@ -1,0 +1,43 @@
+#noise {
+  background: black;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  position: relative;
+}
+
+#noise canvas {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+#noise #power {
+  position: absolute;
+  bottom: 0.5rem;
+  right: 0.5rem;
+  height: 3rem;
+  width: 3rem;
+  border-radius: 50%;
+}
+
+#noise #power[aria-pressed='true'] {
+  border-color: var(--c);
+  color: var(--c);
+}
+
+#controls {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+  text-align: center;
+  margin: 1rem auto;
+}
+
+#controls label {
+  font-weight: 700;
+  display: block;
+}
+
+#controls input {
+  width: 80%;
+}
