@@ -1,6 +1,6 @@
 ---
 title: Ants on the Screen
-date: 2026-10-30T09:00:00+01:00
+date: 2026-10-29T08:00:00+01:00
 categories:
   - writings
 tags:
