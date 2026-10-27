@@ -138,4 +138,4 @@ require_once('i18n.php');
 </html>
 ```
 
-De momento, ainda não existe nada de extraordinário a acontecer. Na próxima parte deste tutorial iremos falar em como criar as traduções!
+De momento, ainda não existe nada de extraordinário a acontecer. Na [próxima parte](/2014/09/28/php-como-utilizar-o-gettext-para-traducoes-parte-2/) deste tutorial iremos falar em como criar as traduções!

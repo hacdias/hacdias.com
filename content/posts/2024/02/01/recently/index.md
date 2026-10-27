@@ -29,7 +29,7 @@ During January I've also created a [digital shoebox](/2024/01/13/making-a-digita
 
 ## 🍄 Life {#life}
 
-I started my new Dutch course, for level B1-. I have classes twice a week, on Mondays and Wednesdays, from 12:00 to 14:00. The timing is far from ideal, as it kind of cuts through the middle of the day. I'm lucky I can take these classes, but for the next course I will try the 9:30 on Tuesdays and Thursdays. I will likely write more about classes and my "Dutch-learning" plan in another post.
+I started my new Dutch course, for level B1-. I have classes twice a week, on Mondays and Wednesdays, from 12:00 to 14:00. The timing is far from ideal, as it kind of cuts through the middle of the day. I'm lucky I can take these classes, but for the next course I will try the 9:30 on Tuesdays and Thursdays. I will likely write more about classes and my "Dutch-learning" plan in [another post](/2024/02/08/inchecken/).
 
 I have met with quite a few people during different occasions during this month. I have also joined a Homebrew Website Club Europe call for the first time. Unfortunately, I haven't had time to join any other events, as I'm either too tired or I have something else already planned.
 

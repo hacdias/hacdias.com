@@ -16,7 +16,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lelwzxhrk2f4
 ---
 
-December is now coming to an end. It's time to recap about what has happened during this last month, before writing my final Year in Review. This month was quite of a rollercoaster, I visited a few places, met with people a few times and watched a lot of stuff.
+December is now coming to an end. It's time to recap about what has happened during this last month, before writing my final [Year in Review](/2024/12/31/year-in-review/). This month was quite of a rollercoaster, I visited a few places, met with people a few times and watched a lot of stuff.
 
 <!--more-->
 

@@ -33,7 +33,7 @@ January started with a beautiful blanket of snow, which I've made sure to [share
 
 Fortunately, the snow cleared up before it was time to go [vote](/2026/01/12/portuguese-presidential-elections/) in the Portuguese presidential elections, because the trains in the Netherlands are snowflakes - you see what I did there? As expected, none of the 11 *valid* candidates had a majority, so a second round is coming next weekend. My desire to go and spend around five hours of my life is not that high, but I'm planning to do it anyways.
 
-Other than that, no other major event happened this month. Some other things I will mention below. I've also visited friends in other cities, and also had a friend visiting us from the UK. And last weekend I also went to FOSDEM, but a post about that will come later!
+Other than that, no other major event happened this month. Some other things I will mention below. I've also visited friends in other cities, and also had a friend visiting us from the UK. And last weekend I also went to FOSDEM, but [a post](/2026/02/04/fosdem/) about that will come later!
 
 ## 💪 Health {#health}
 

@@ -14,7 +14,7 @@ aliases:
   - /2024/02/08/vergeet-niet-om-in-te-checken-nieuwe-lessen/
 ---
 
-Welkom bij de derde deel van deze serie: vergeet niet om in te checken. Vandaag ga ik een beetje hebben over mijn nieuwe Nederlandse lessen, mijn kleine reis naar Brussel, en ook alle media in het Nederlands die ik de afgelopen maand heb geconsumeerd. 
+Welkom bij de derde deel van [deze serie](/tags/inchecken/): vergeet niet om in te checken. Vandaag ga ik een beetje hebben over mijn nieuwe Nederlandse lessen, mijn kleine reis naar Brussel, en ook alle media in het Nederlands die ik de afgelopen maand heb geconsumeerd. 
 
 <!--more-->
 
@@ -30,7 +30,7 @@ In vergelijk met mijn vorige cursus praten we heel veel meer nu. Maar dat is ook
 
 ## 🗣️ Nederlands praten
 
-Maandag heb ik over FOSDEM geschreven. FOSDEM was een hele leuke plek waarin ik kon oefenen, vooral met Sebastiaan. Maar ook met sommige Vlaamse mensen! We hebben ook Thor ontmoet, en dat was ook heel leuk.
+Maandag heb ik over [FOSDEM](/2024/02/05/fosdem/) geschreven. FOSDEM was een hele leuke plek waarin ik kon oefenen, vooral met Sebastiaan. Maar ook met sommige Vlaamse mensen! We hebben ook Thor ontmoet, en dat was ook heel leuk.
 
 Tijdens de afgelopen maand ben ik ook begonnen met Nederlands praten met mensen die ik normaal gesproken in het Engels spreek. En het is niet zo eng. Ik denk dat de afgelopen maanden waren heel goed om mijn Nederlands te verbeteren en om meer zelfvertrouw te krijgen.
 

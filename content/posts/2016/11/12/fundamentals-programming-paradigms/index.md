@@ -14,8 +14,8 @@ syndication:
 Every single programming language has its own characteristics
 that distinguish them from each other. One of those characteristics is the
 paradigms they follow. That is something very important to understand how some
-programming languages work. This is part of The Fundamentals of Programming
-Using C series.
+programming languages work. This is part of The [Fundamentals of Programming
+Using C](/tags/fundamentals-of-programming/) series.
 
 <!--more-->
 

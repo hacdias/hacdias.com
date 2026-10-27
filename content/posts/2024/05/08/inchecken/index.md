@@ -12,7 +12,7 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3krxnn3aec2f4
 ---
 
-Welkom bij de zesde deel van deze serie: vergeet niet om in te checken. In deze serie probeer ik om een beetje over mijn leven in het Nederlands te schrijven. Vandaag wil ik over examens, boeken en Eurovisie hebben.
+Welkom bij de zesde deel van [deze serie](/tags/inchecken/): vergeet niet om in te checken. In deze serie probeer ik om een beetje over mijn leven in het Nederlands te schrijven. Vandaag wil ik over examens, boeken en Eurovisie hebben.
 
 <!--more-->
 
@@ -38,7 +38,7 @@ Nou, sinds gisteren kan ik zeggen dat ik geslaagd voor het inburgeringsexamen be
 
 ## 📚 Lezen {#lezen}
 
-Als het om boeken gaat, was april wat exotisch. En ik bedoel dat niet letterlijk, maar figuurlijk. In de vorige post zei ik dat ik met het vijfde boek van Harry Potter was begonnen. Dit was in het begin van april. Inmiddels is dit boek al uitgelezen. Niet alleen dit boek, maar ook alle andere.
+Als het om boeken gaat, was april wat exotisch. En ik bedoel dat niet letterlijk, maar figuurlijk. In de [vorige post](/2024/04/10/inchecken/) zei ik dat ik met het vijfde boek van Harry Potter was begonnen. Dit was in het begin van april. Inmiddels is dit boek al uitgelezen. Niet alleen dit boek, maar ook alle andere.
 
 Misschien werd ik verslaafd aan lezen tijdens april, maar de waarheid is dat ik vijf boeken van de Harry Potter serie heb gelezen. Ik ben met deze serie in december begonnen en toch heb ik meer dan 50% van de boeken in één maand uitgelezen.
 

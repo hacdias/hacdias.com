@@ -39,4 +39,4 @@ Another series that we've watched was *3 Body Problem*. It was very nice. I will
 
 <hr>
 
-Looking forward for March. There are some news I want to share with you, but I will do that in due course! Enjoy the sun, which - at least here - has started to shine more often!
+Looking forward for March. There are [some news](/2024/05/06/leaving-the-interplanetary-journey/) I want to share with you, but I will do that in due course! Enjoy the sun, which - at least here - has started to shine more often!

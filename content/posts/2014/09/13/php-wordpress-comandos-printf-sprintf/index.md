@@ -98,7 +98,7 @@ echo __( "Ready to publish your first post? <a href="{$url}">Get started here</a
 
 A forma que coloquei com echo poderia variar. Mas, como pode visualizar, o printf é mais simples de ler.
 
-Vou deixar esta parte para um outro artigo ;) Deixo já nos rascunhos. Em breve poderei fazer um artigo sobre o Gettext, como ativar e usar! =D
+Vou deixar esta parte para um outro artigo ;) Deixo já nos rascunhos. Em breve poderei fazer um [artigo sobre o Gettext](/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/), como ativar e usar! =D
 
 * * *
 

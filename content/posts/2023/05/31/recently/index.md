@@ -48,7 +48,7 @@ by a local that volunteers. The weather ☀️ was nice and I definitely recomme
 
 In the reading department, I started and finished ["The Culture Map"](/2023/05/21/the-culture-map/).
 I wrote a review about it, so I'm not going to talk more about it here. In addition,
-I received a copy of "The Creative Programmer" from [Wouter Groeneveld](https://brainbaking.com/).
+I received a copy of "[The Creative Programmer](/2023/06/12/the-creative-programmer/)" from [Wouter Groeneveld](https://brainbaking.com/).
 He kindly gave away a few copies, and I was one of the lucky ones to receive one.
 I'm almost half-way the book and it's been positively interesting. Once I finish,
 I will write a review.

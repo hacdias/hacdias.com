@@ -13,9 +13,9 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3e3fz2kqs22ct
 ---
 
-In our beginning articles, we mentioned that there are some
+In our [beginning articles](/2016/11/11/fundamentals-programming-constants-variables/), we mentioned that there are some
 types of variables and constants and that is what we are going to talk today.
-This is part of our Fundamentals of Programming Using C series.
+This is part of our [Fundamentals of Programming Using C](/tags/fundamentals-of-programming/) series.
 
 <!--more-->
 

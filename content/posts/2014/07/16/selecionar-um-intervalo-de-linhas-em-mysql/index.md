@@ -47,6 +47,6 @@ SELECT * FROM `mytable` LIMIT 15,15
 
 Estes comandos podem ser utilizados com outros como o WHERE .
 
-Em breve irei lançar um tutorial que explique como criar uma listagem de uma tabela, com páginas utilizando PHP, HTML e MySQL. Este sistema irá contar com um número fixo de linhas por página, botões de navegação e forma de impedir que o utilizador tente aceder páginas inexistentes.
+Em breve irei lançar um tutorial que explique como criar uma [listagem de uma tabela](/2014/07/17/listagem-web-de-uma-tabela-mysql/), com páginas utilizando PHP, HTML e MySQL. Este sistema irá contar com um número fixo de linhas por página, botões de navegação e forma de impedir que o utilizador tente aceder páginas inexistentes.
 
 Espero que esta explicação vos tenha sido útil e que voltem a visitar o blog :)

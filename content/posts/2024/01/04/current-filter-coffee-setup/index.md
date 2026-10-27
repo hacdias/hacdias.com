@@ -36,4 +36,4 @@ Regarding coffee beans 🫘, which are probably the most important piece, I have
 
 Something I'm looking forward to adding to my setup is a pouring kettle. Since I use the Clever Dripper the most, the pouring kettle isn't the most important addition, so I've been pushing it off from time to time. If you have a recommendation, feel free to share.
 
-I hope that you enjoyed this post. I also updated my uses page to include a section [about coffee](/uses/#coffee). For now, it only includes filter coffee related material. Once I release the espresso post, I shall update it and include a "coffee station" photo.
+I hope that you enjoyed this post. I also updated my uses page to include a section [about coffee](/uses/#coffee). For now, it only includes filter coffee related material. Once I release the [espresso post](/2024/01/06/current-espresso-setup/), I shall update it and include a "coffee station" photo.

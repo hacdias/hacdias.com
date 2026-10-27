@@ -80,7 +80,7 @@ Well... after creating lots of frames and moving the car forward in different sp
 and shared it on Twitter, where I received some positive feedback ❤️.
 
 **tl;dr** I've really enjoyed this experience and I'm looking forward to learn a bit
-more about this world and sharing the results here. What do you think?
+more about this world and sharing [the results](/2020/04/08/witchs-hut/) here. What do you think?
 
 [0]: https://en.wikipedia.org/wiki/Pixel_art
 [1]: https://www.aseprite.org/

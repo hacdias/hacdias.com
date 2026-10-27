@@ -137,4 +137,4 @@ Isto pode ser, obviamente, feito também em _linux_ e _OS X_ porém não sei co
 
 ## Saindo da dica...
 
-Como pode ver pela estrutura da aplicação, ainda há muito a fazer. Em breve lançarei a segunda parte desta mini-série de artigos. Esperemos que tenham gostado deste e que gostem dos próximos artigos.
+Como pode ver pela estrutura da aplicação, ainda há muito a fazer. Em breve lançarei a [segunda parte](/2014/12/19/mvc-linguagem-php-ii/) desta mini-série de artigos. Esperemos que tenham gostado deste e que gostem dos próximos artigos.

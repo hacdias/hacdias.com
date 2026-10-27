@@ -13,7 +13,7 @@ syndication:
 
 Today we are going to discuss about constants and variables,
 which are the "things" that can hold data for us. This is part of The
-Fundamentals of Programming Using C series.
+[Fundamentals of Programming Using C](/tags/fundamentals-of-programming/) series.
 
 <!--more-->
 
@@ -113,4 +113,4 @@ variable (or constant) name. If you try to do it, you will receive an error.
 
 Variables and constants can be of different data types. There are some basic
 data types that are available in almost every language. But it can vary from
-language to language. Later, we will talk about the available data types in C.
+language to language. Later, we will talk about the available [data types in C](/2016/11/15/fundamentals-programming-data-types-i/).

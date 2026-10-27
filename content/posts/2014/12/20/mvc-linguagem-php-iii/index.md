@@ -260,4 +260,4 @@ E o ficheiro da sua _view_ deverá ter qualquer coisa que deseje. Eu, por exemp
 
 Coloque o que queira. De momento, se aceder à página inicial deverá visualizar a página inicial propriamente dita e se tentar, eventualmente, abrir qualquer outra possível página, irá ver a página de erro 404.
 
-**No próximo tutorial iremos ver a criação de uma página dinâmica com um modelo**. Pode, entretanto, experimentar criar mais páginas ou até mesmo criar mais métodos para sub-páginas.
+**No [próximo tutorial](/2014/12/21/mvc-linguagem-php-iv/) iremos ver a criação de uma página dinâmica com um modelo**. Pode, entretanto, experimentar criar mais páginas ou até mesmo criar mais métodos para sub-páginas.

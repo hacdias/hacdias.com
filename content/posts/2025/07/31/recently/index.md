@@ -61,7 +61,7 @@ My wrist is feeling better. I am now working on wearing the brace less and less 
 
 Also visited the dentist, but that's not very interesting. Just the usual: a few places to be monitored - I feel like they've been in monitoring for years -, and a bit of cleaning between my permanent retainer. Other than that, it's good.
 
-We also started running again, but I may write a bit more on that later.
+We also started [running again](/2025/08/17/running/), but I may write a bit more on that later.
 
 ## 📚 Reading {#reading}
 

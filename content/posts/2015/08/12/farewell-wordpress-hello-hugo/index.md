@@ -16,7 +16,7 @@ Firstly, a little bit of history - when I began this blog, I've already been usi
 
 <!--more-->
 
-After deciding I was going to use WordPress, I bought a domain on [GoDaddy][1] (which I recommend) and paid for hosting on [PTServidor][2]. With the blog set up, I started writing posts in portuguese. I did it for some time.
+After deciding I was going to use WordPress, I bought a domain on [GoDaddy][1] (which I recommend) and paid for hosting on [PTServidor][2]. With the blog set up, I started writing [posts in Portuguese](/2014/07/12/apresentacao/). I did it for some time.
 
 Less than a year afterwards, I moved my blog to [DigitalOcean][3] (which I recommend too). I had 100$ from GitHub Education for free to use on DigitalOcean and I gave it a try. It was a nice and useful experience: I learned how to set up a server, apache and some of other things in a production environment.
 

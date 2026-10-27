@@ -18,7 +18,7 @@ Time flies and now it's June that is coming to an end. This was the first month,
 
 ## 🍄 Life {#life}
 
-As I [mentioned](/2024/05/06/leaving-the-interplanetary-journey/) last month, I started a new job and June was my first month. And what a start! On my second work day we drove to Berlin to attend the largest conference around the topic of identity. The weeks that followed have been challenging on its own ways, but I'm overall happy. I will likely write a bit more about it during July.
+As I [mentioned](/2024/05/06/leaving-the-interplanetary-journey/) last month, I started a new job and June was my first month. And what a start! On my second work day we drove to Berlin to attend the largest conference around the topic of identity. The weeks that followed have been challenging on its own ways, but I'm overall happy. I will likely [write a bit more](/2024/07/09/thoughts-after-one-month-working-on-site/) about it during July.
 
 On another positive note, Chris has finally permission to walk. The healing of the ankle has been going great, and he's been walking without crutches for a few weeks already. It's surely not fully healed, but the progress has been great to see.
 
@@ -34,6 +34,6 @@ We have also watched maybe too many series this month. I want to highlight Sever
 
 <hr>
 
-July will mark the 10th anniversary of this website, and I don't have any plans to celebrate it, but maybe I will make the homepage a bit more festive. Or at least write a post. I will try not to forget.
+July will mark the [10th anniversary](/2024/07/12/a-decade-of-blogging/) of this website, and I don't have any plans to celebrate it, but maybe I will make the homepage a bit more festive. Or at least write a post. I will try not to forget.
 
 Happy July!

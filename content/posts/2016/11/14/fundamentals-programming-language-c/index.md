@@ -14,8 +14,8 @@ syndication:
 
 The years between 1969 and 1973 were very exciting for the
 AT&T Bell Labs because it was when the programming language C was mostly
-developed. This is part of The Fundamentals of Programming Using
-C series.
+developed. This is part of The [Fundamentals of Programming Using
+C](/tags/fundamentals-of-programming/) series.
 
 <!--more-->
 

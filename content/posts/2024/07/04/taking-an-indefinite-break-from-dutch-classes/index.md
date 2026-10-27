@@ -24,4 +24,4 @@ Classes time consuming, yet very good. In these few months I started speaking Du
 
 I think I'm in a position where the improvements will now come from other things, such as exposure, especially to written and spoken material. That's where I'm going to focus next. From now on I'll have a few more hours per week available: no more exams, no more homework, no more biking to the lesson, no more lesson.
 
-I'm not sure whether or not I will continue writing posts in Dutch. I think that is something *I should* do from the perspective of learning, but so far they've been focused on my learning experience and progress. I will have to see whether or not I can somehow repurpose them. What do you think?
+I'm not sure whether or not I will continue writing [posts in Dutch](/2023/12/07/inchecken/). I think that is something *I should* do from the perspective of learning, but so far they've been focused on my learning experience and progress. I will have to see whether or not I can somehow repurpose them. What do you think?

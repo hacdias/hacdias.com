@@ -35,7 +35,7 @@ On that same Sunday, Chris and I bought a birthday calendar! For those who don't
 
 ## 💪 Health {#health}
 
-I've been going to the gym twice a week consistently. I don't recall to which point I shared this here, but I started going to the gym right before the summer started. At the time I was going once a week, but now I'm going twice a week. I definitely feel stronger and better.
+I've been going to the gym twice a week consistently. I don't recall to which point I shared this here, but I started [going to the gym](/2023/03/31/recently/) right before the summer started. At the time I was going once a week, but now I'm going twice a week. I definitely feel stronger and better.
 
 ![Walking Through The Forest](image:2023-10-02-ardennes)
 
@@ -45,7 +45,7 @@ Finally, Chris and I went to Spa, in Belgium. Spa is known for its water brand..
 
 In the movie department, I watched Downsizing. It was nice, but I feel like they could've gone so much further, or in depth, with the story line. So many questions unanswered, so many seemingly unnecessary things. I would be up for a second movie though.
 
-In the series department, we finished season 3 of Ragnarok, a Norwegian series that follows some of the events of the Gods and Giants in the modern society. I really enjoy this series, and as I've said before, there are quite a few series made in Europe that I've quite enjoyed. It's refreshing to not watch something in English.
+In the series department, we finished season 3 of Ragnarok, a Norwegian series that follows some of the events of the Gods and Giants in the modern society. I really enjoy this series, and as I've [said before](/2023/06/30/recently/), there are quite a few series made in Europe that I've quite enjoyed. It's refreshing to not watch something in English.
 
 I've also finished watching the fourth and last season of Sex Education. Despite being set in quite an odd, and I would say irrealistic school, I think it gave the series a good ending.
 

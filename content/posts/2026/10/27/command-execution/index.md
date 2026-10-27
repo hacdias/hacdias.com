@@ -24,7 +24,7 @@ When you hear that, bells start ringing immediately, since it sounds way too muc
 
 ## How It Started
 
-As I've mentioned in previous posts, File Browser did not start as a file manager. It started as a Caddy plugin for editing Hugo websites in the browser. In March 2016 I added a small box to its admin page where you could type a `git` command. You'd be able to edit a post and then very easily commit and push it without having to open your own terminal.
+As I've mentioned in [previous posts](/2026/03/11/filebrowser/), File Browser did not start as a file manager. It started as a Caddy plugin for editing Hugo websites in the browser. In March 2016 I added a small box to its admin page where you could type a `git` command. You'd be able to edit a post and then very easily commit and push it without having to open your own terminal.
 
 A few months later, that box became a more general terminal-like feature with a list of allowed commands. At the time, the defaults were `git`, `svn` and `hg`, which says a lot about what the feature was meant to do!
 

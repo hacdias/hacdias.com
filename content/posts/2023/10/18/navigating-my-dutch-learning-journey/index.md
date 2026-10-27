@@ -30,7 +30,7 @@ I think books is quite hard to make a consistent habit out of for me, so I'm try
 
 Practice! Practicing by talking is very important and, even though I live in The Netherlands, I find that the hardest. I think a lot of foreigners have a similar experience, including [those with Dutch partners](https://www.dutchnews.nl/2023/04/theyll-just-throw-in-wvttkje-i-find-it-really-funny/). Nowadays I always try to speak Dutch in stores, cafés, restaurants, or any other place where a little interaction might be necessary. I also try practicing with my partner, but that doesn't always last very long.
 
-Something that I want to try is to write more in Dutch, but where? I could write in my little notebook, or something just for myself, but I feel like if it's something to publish online, I would force myself to ensure that things actually make sense. My fear of making mistakes in public is the worst part in all of this. That's something I have to work on.
+Something that I want to try is to write more [in Dutch](/2023/12/07/inchecken/), but where? I could write in my little notebook, or something just for myself, but I feel like if it's something to publish online, I would force myself to ensure that things actually make sense. My fear of making mistakes in public is the worst part in all of this. That's something I have to work on.
 
 **2023-10-19**: I had forgotten, but also listen to music, whether or not it is passive or active listening. It will help you nevertheless. I have this [Spotify playlist](https://open.spotify.com/playlist/7zkrS7OaA5BVS1dvVwL1Ri?si=d6c5ff7aae2f43fd) in Dutch that I frequently listen to, and sometimes I find myself singing those songs.
 {.box}

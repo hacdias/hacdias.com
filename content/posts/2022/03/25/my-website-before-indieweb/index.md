@@ -143,4 +143,4 @@ Some months after I released version 9 where I went back to the 2018 design, but
 
 </div>
 
-I hope you enjoyed this post. I wanted to document and have images of the previous versions of this website to be able to revisit them. Soon, I will release a new post showcasing all the remaining versions that I developed after getting into the IndieWeb community.
+I hope you enjoyed this post. I wanted to document and have images of the previous versions of this website to be able to revisit them. Soon, I will release [a new post](/2022/06/18/my-website-after-indieweb/) showcasing all the remaining versions that I developed after getting into the IndieWeb community.

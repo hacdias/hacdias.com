@@ -43,7 +43,7 @@ In the beginning of the month, I had an interesting train experience: I traveled
 
 Later, I visited my friend [Sebastiaan](https://seblog.nl/) in Amsterdam, which was nice, and I "forced" him to finally watch the Barbie movie. In addition, I took my Dutch intake exam for the next classes, which I should begin by the end of October. Exciting.
 
-I don't remember if I've mentioned it here, but at some point I ordered an electric bike. After weeks and weeks of waiting, I canceled the order, and instead ordered a [Gazelle](https://www.gazelle.nl/). That one took less than 2 weeks to arrive and I'm extremely satisfied. I can also say I took a few bike rides this month. I might write a post about this bike at some point in the future. 
+I don't remember if I've mentioned it here, but at some point I ordered an electric bike. After weeks and weeks of waiting, I canceled the order, and instead ordered a [Gazelle](https://www.gazelle.nl/). That one took less than 2 weeks to arrive and I'm extremely satisfied. I can also say I took a few bike rides this month. I might write [a post](/2023/10/11/processing-bosch-ebike-flow-fit-files/) about this bike at some point in the future. 
 
 We also visited Zwolle, which was a surprisingly nice city. I do highly recommend it to everyone if they stay a little longer in the Netherlands. Perhaps it's a hidden gem. Finally, and perhaps less exciting, I got my last two wisdom teeth 🦷 removed two days ago. It's been an experience!
 

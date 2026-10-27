@@ -428,6 +428,6 @@ Temos também a função render  que é aquela que vai incluir (ou requerer) to
 
 Temos, por fim, a função setData que será utilizada para definir a variável da vista. Utilizei uma função para não haver manipulação direta das variáveis da classe.
 
-> Provavelmente reparou que coloquei vários comentários em Inglês. No final desta saga de artigos vou colocar esta *framework* simples no GitHub de forma a que todos os que queiram possam contribuir ou até mesmo utilizar. :)
+> Provavelmente reparou que coloquei vários comentários em Inglês. No [final desta saga](/2014/12/21/mvc-linguagem-php-iv/) de artigos vou colocar esta *framework* simples no GitHub de forma a que todos os que queiram possam contribuir ou até mesmo utilizar. :)
 
-Até ao próximo artigo. O principal já está feito. Faltam os dois ficheiros que iniciarão tudo (e mais algumas coisinhas).
+Até ao [próximo artigo](/2014/12/20/mvc-linguagem-php-iii/). O principal já está feito. Faltam os dois ficheiros que iniciarão tudo (e mais algumas coisinhas).

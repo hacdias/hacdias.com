@@ -38,7 +38,7 @@ Lastly, visited Maastricht and the caves there. I had no idea Maastricht had cav
  
 ## 💪 Health {#health}
 
-Repeating what I said last month: not many updates. Still going to the gym, and doing a few new exercises that finally involve my wrists. I think they are improving, albeit slower than I expected. There's still some way to go. It's quite annoying.
+Repeating what I [said last month](/2024/11/02/recently/): not many updates. Still going to the gym, and doing a few new exercises that finally involve my wrists. I think they are improving, albeit slower than I expected. There's still some way to go. It's quite annoying.
 
 ## 📚 Reading {#reading}
 

@@ -16,7 +16,7 @@ aliases:
   - /2023/12/07/vergeet-niet-om-in-te-checken-het-begin/
 ---
 
-Vandaag ga ik met iets nieuws op deze website beginnen: een post series in het Nederlands waarin ik over mijn ervaring met leren van het Nederlands schrijf. Vergelijkbaar met mijn “Recently” series, ga ik een post per maand schrijven. Dat is niet te veel, maar ik hoop dat genoeg is om met mijn Nederlands te helpen verbeteren.
+Vandaag ga ik met iets nieuws op deze website beginnen: een [post series](/tags/inchecken/) in het Nederlands waarin ik over mijn ervaring met leren van het Nederlands schrijf. Vergelijkbaar met mijn “Recently” series, ga ik een post per maand schrijven. Dat is niet te veel, maar ik hoop dat genoeg is om met mijn Nederlands te helpen verbeteren.
 
 <!--more-->
 
@@ -40,4 +40,4 @@ Nu zit ik bij een A2+ cursus. En misschien vraag je af: wat is A2+? Ik weet het 
 
 ---
 
-Oké, dit is het einde van dit artikel. Het werd een beetje langer dan ik verwachte, maar dat is prima. Ik heb andere dingen die ik wilde hierover schrijven, maar dan heb ik niets voor volgende maand. Tot volgende keer!
+Oké, dit is het einde van dit artikel. Het werd een beetje langer dan ik verwachte, maar dat is prima. Ik heb andere dingen die ik wilde hierover schrijven, maar dan heb ik niets voor [volgende maand](/2024/01/07/inchecken/). Tot volgende keer!

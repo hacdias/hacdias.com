@@ -16,13 +16,13 @@ aliases:
   - /2024/03/07/vergeet-niet-om-in-te-checken-deel-try-lingual/
 ---
 
-Welkom bij de vierde deel van deze serie: vergeet niet om in te checken. Vandaag ga ik een beetje hebben over mijn afgelopen cursus Nederlands, de toekomstige cursussen en mijn plannen, en ook over het proces om hoopelijk drietalig te worden.
+Welkom bij de vierde deel van [deze serie](/tags/inchecken/): vergeet niet om in te checken. Vandaag ga ik een beetje hebben over mijn afgelopen cursus Nederlands, de toekomstige cursussen en mijn plannen, en ook over het proces om hoopelijk drietalig te worden.
 
 <!--more-->
 
 ## 📚 Lessen {#lessen}
 
-In de afgelopen maand heb ik een beetje geschreven over mijn nieuwe cursus Nederlands, waar ik toen mee begonnen was. Fast forward[^1] naar deze maand en het is al afgelopen. Ik neem intensief cursussen waarin ik twee keer per week lessen heb, en ze duren maar 8 weken.
+In de afgelopen maand heb ik een beetje geschreven over mijn [nieuwe cursus](/2024/02/08/inchecken/) Nederlands, waar ik toen mee begonnen was. Fast forward[^1] naar deze maand en het is al afgelopen. Ik neem intensief cursussen waarin ik twee keer per week lessen heb, en ze duren maar 8 weken.
 
 Op de laatste dag van de cursus, dus twee weken geleden, gingen mijn medecursisten, ik en één van de docente bowlen. Het was een hele gezellige ervaring. Tot nu vind ik deze groep medecursisten de beste. Ik hoop dat ik sommige van hun in de volgende cursussen zal zien.
 

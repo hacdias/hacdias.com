@@ -48,7 +48,7 @@ During this year post-university, I've opted for working in a co-working space c
 
 Something else I would like to note is how many train rides I took this year. Specifically, special 🚂 train rides, not ordinary ones. I've ridden the new [ICNG](/2023/06/30/recently/), a [steam train in Germany](/2023/07/31/recently/), a [Dinner Train](/2023/08/31/recently/), and a [steam lunch train](/2023/10/31/recently/). I think that was all for this year. It might not sound like much, but it was a lot of fun.
 
-Regarding my *Nederlands* skills, I would say that there have been quite a lot of improvements. I do feel more comfortable talking, even if I make mistakes. It is still not enough for what I want to achieve, but it is progress. I think it was the year that I had the most progress with my Dutch so far. I'm not going to elongate myself here, as I want to talk a bit more about it in my Dutch post next month.
+Regarding my *Nederlands* skills, I would say that there have been quite a lot of improvements. I do feel more comfortable talking, even if I make mistakes. It is still not enough for what I want to achieve, but it is progress. I think it was the year that I had the most progress with my Dutch so far. I'm not going to elongate myself here, as I want to talk a bit more about it in my [Dutch post](/2024/01/07/inchecken/) next month.
 
 **In 2024**, I hope I can tick a few more items off my [impossible list](/impossible-list/), specially when it comes to traveling to new places, and train trips. I am also hoping to see friends more often. I think I always see some people every month, but I feel like the frequency could be adjusted a bit more.
 
@@ -72,4 +72,4 @@ That likely comes from the fact that lots of [changes](https://protocol.ai/blog/
 
 <hr>
 
-Thus, this is it. Maybe there's something else I'd to talk about, but I can't remember it now. I will now do a reflection for myself, perhaps more structured. Maybe I'll write about it on this website next month? Who knows. In the meanwhile, I wish you a 🎇 Happy New Year, and that good things come on your way!
+Thus, this is it. Maybe there's something else I'd to talk about, but I can't remember it now. I will now do a reflection for myself, perhaps more structured. Maybe I'll [write about it](/2024/01/09/reflecting-on-what-i-want-to-learn-next/) on this website next month? Who knows. In the meanwhile, I wish you a 🎇 Happy New Year, and that good things come on your way!

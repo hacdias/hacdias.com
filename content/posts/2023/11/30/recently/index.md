@@ -43,4 +43,4 @@ In the series category there is more than I want to admit! We finished season 7 
 
 <hr>
 
-That was all. Probably one of my first recently posts without pictures in some time. But I did not really take that many this month, and the ones I took are not post worthy. Maybe I'll have some next month from a Christmas market! Happy December!
+That was all. Probably one of my first recently posts without pictures in some time. But I did not really take that many this month, and the ones I took are not post worthy. Maybe I'll have some next month from [a Christmas market](/2023/12/05/koln-christmas-markets/)! Happy December!

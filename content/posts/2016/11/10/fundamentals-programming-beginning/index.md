@@ -12,11 +12,11 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3e2wwazyc22ct
 ---
 
-This is the first article of The Fundamentals of Programming Using
-C series. In this article,
+This is the first article of The [Fundamentals of Programming Using
+C](/tags/fundamentals-of-programming/) series. In this article,
 we are going to show you some useful concepts about the programming world. We
 will start by using pseudocode (explained below), advancing gradually until we
-reach the desired language: C.
+reach the desired [language: C](/2016/11/14/fundamentals-programming-language-c/).
 
 <!--more-->
 
@@ -35,7 +35,7 @@ There are numerous programming languages: some with a general purpose, it means,
 without having a specific purpose. The language C is one example of that kind of
 languages. But there are also languages created inside a specific domain like
 the [Wolfram Language](http://www.wolfram.com/language/), which is a domain
-specific language, multi-paradigm (we will talk about this later) language,
+specific language, [multi-paradigm](/2016/11/12/fundamentals-programming-paradigms/) (we will talk about this later) language,
 dedicated to math field.
 
 ## Algorithms

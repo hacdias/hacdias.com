@@ -38,4 +38,4 @@ grid:
   - b c d
 ---
 
-The past few days, we have been graced with snow. For those who've been reading my posts for a long time, you know that I absolutely love it. We went for a walk yesterday and today again. It's still snowing. So pretty!
+The past few days, we have been graced with snow. For those who've been reading my posts for a long time, you know that I absolutely [love it](/2021/02/15/magic-fractal-snowflakes/). We went for a walk yesterday and today again. It's still snowing. So pretty!

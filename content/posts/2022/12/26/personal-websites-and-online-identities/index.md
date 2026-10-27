@@ -43,7 +43,7 @@ I have, however, considered another option: simply POSSE to a Mastodon account. 
 
 **❤️ Likes and Reposts**: This is one of those kinds of content that I feel like they'll have little value for me in the future. If I want to remember something, I will make a bookmark. A like, or a repost, is just a temporary agreement with something that someone else said. I decided that, from now on, to keep likes as unlisted, and possibly reposts. They will show up on their platforms, but will not be listed on my website.
 
-**🎶 Scrobbles**: I recently ditched the scrobble posts. Instead, I am planning on writing a "Year In Music" during January. If there are any albums, or any songs that, for some reason, I feel like writing about, then I will write a post about it. But I won't be posting individual scrobbles anymore. That was an easy decision though: scrobbles are, after all, quick actions, they don't last long and they won't make an impact just by themselves.
+**🎶 Scrobbles**: I recently ditched the scrobble posts. Instead, I am planning on writing a "[Year In Music](/2023/01/02/year-in-music/)" during January. If there are any albums, or any songs that, for some reason, I feel like writing about, then I will write a post about it. But I won't be posting individual scrobbles anymore. That was an easy decision though: scrobbles are, after all, quick actions, they don't last long and they won't make an impact just by themselves.
 
 **📚 Reads**: For each book I read, I write a post about it with a small review, some notes and quotes, and a rating. That is what I've done lately. Unfortunately, I have no notes or ratings from books I read years ago. Some don't even have dates! I just know I read them. When? Who knows?
 

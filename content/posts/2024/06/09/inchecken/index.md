@@ -12,13 +12,13 @@ syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kuihhr5do2f4
 ---
 
-Welkom bij de zevende deel van deze serie: vergeet niet om in te checken. In deze serie schrijf ik een beetje over mijn leven in het Nederlands. Vandaag gaan we het over mei en een beetje van het begin van juni hebben.
+Welkom bij de zevende deel van [deze serie](/tags/inchecken/): vergeet niet om in te checken. In deze serie schrijf ik een beetje over mijn leven in het Nederlands. Vandaag gaan we het over mei en een beetje van het begin van juni hebben.
 
 <!--more-->
 
 ## 🎓 Lessen {#lessen}
 
-Net zoals vorige keer heb ik hier niet zo veel updates over. Mijn B1 cursus is beëindigd net zoals gepland en nu ben ik met een B1+ cursus begonnen. Dit is mijn laatste cursus, tenminste voor de voorzienbare toekomst.
+Net zoals [vorige keer](/2024/05/08/inchecken/) heb ik hier niet zo veel updates over. Mijn B1 cursus is beëindigd net zoals gepland en nu ben ik met een B1+ cursus begonnen. Dit is mijn laatste cursus, tenminste voor de voorzienbare toekomst.
 
 Ik denk dat mijn Nederlands nu op een redelijk niveau is. Bovendien vind ik dat vanaf een bepaald moment het beter is om de taal gewoon te blijven gebruiken zonder de druk van de lessen. Lessen zijn zeker nuttiger in lagere niveaus wanneer je nog steeds geen goed greep op de grammatica hebt. Daarna moet je de taal gewoon blijven gebruiken: met mensen praten, naar muziek luisteren, naar Tv-programma’s kijken, enzovoort.
 

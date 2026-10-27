@@ -13,7 +13,7 @@ syndication:
 ![](https://media.hacdias.com/2026-02-23-popcorn.gif "Popcorn")
 {.right .pixelated style="max-width: 4rem"}
 
-Now that the last year has ended, I can finally collect all the data from the different services. This year, we started with the "Year in Music", now followed by the "Year in Popcorn". It's a bit shorter than [last year's](/2025/01/01/year-in-popcorn/) due to some fuzzy data, but let's quickly recap.
+Now that the last year has ended, I can finally collect all the data from the different services. This year, we started with the "[Year in Music](/2026/01/11/year-in-music/)", now followed by the "Year in Popcorn". It's a bit shorter than [last year's](/2025/01/01/year-in-popcorn/) due to some fuzzy data, but let's quickly recap.
 
 <!--more-->
 

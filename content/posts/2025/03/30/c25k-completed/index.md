@@ -23,7 +23,7 @@ A few days ago, I completed the *Couch to 5K* program, which is a running progra
 
 <!--more-->
 
-It's crazy to think how I went from a very annoying Achilles tendinitis that has been following me the past few years, to running 5 kilometers. If you've been reading my posts for some time, you may know I have had an Achilles tendinitis in both of my legs and it was a struggle to get them to improve. When I started this running program, that was my #1 fear: that these complaints would come back! The truth is that if it happens once, you're just more prone to get it again.
+It's crazy to think how I went from a very annoying Achilles tendinitis that has been following me the past few years, to running 5 kilometers. If you've been reading my posts for some time, you may know I have had an [Achilles tendinitis](/2024/06/29/reflections-after-a-year-at-the-gym/) in both of my legs and it was a struggle to get them to improve. When I started this running program, that was my #1 fear: that these complaints would come back! The truth is that if it happens once, you're just more prone to get it again.
 
 Either way, I'm very glad I managed the whole program with very minimal complaints. I've actually only had Achilles complaints one time after the first run on the second week. I immediately introduced foam rolling in my post-run routine and never had issues again. Before each run, I do a few minutes of dynamic stretching, and after the run a few minutes of dynamic and static stretching, ending with foam rolling my calves. So far, so good.
 

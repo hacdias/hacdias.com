@@ -35,4 +35,4 @@ The second update is as simple as this: I decided to join the Eindhoven Film and
 
 ## Thesis?
 
-Since I'm already in the first year of my Master's degree, which is just two years, I have been reading, investigating and thinking a lot more what's going to happen next year: the project/thesis. I should pick an area and a specific topic soon and try to contact a professor regarding this. Or just see what the professors at my uni are looking for, but that might not be as exciting. Next Monday I will be bringing a post specifically about this. So... if you're curious, please wait for it!
+Since I'm already in the first year of my Master's degree, which is just two years, I have been reading, investigating and thinking a lot more what's going to happen next year: the project/thesis. I should pick an area and a specific topic soon and try to contact a professor regarding this. Or just see what the professors at my uni are looking for, but that might not be as exciting. Next Monday I will be bringing [a post](/2020/10/05/thinking-out-loud-master-project/) specifically about this. So... if you're curious, please wait for it!
