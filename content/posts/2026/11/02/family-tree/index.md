@@ -1,6 +1,6 @@
 ---
 title: Digging Through Parish Records
-date: 2026-11-02T09:00:00+02:00
+date: 2026-11-02T08:00:00+01:00
 categories:
   - writings
 tags:

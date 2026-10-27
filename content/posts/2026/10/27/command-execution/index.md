@@ -1,6 +1,6 @@
 ---
 title: Post-Mortem on Command Execution in File Browser
-date: 2026-10-27T09:00:00+02:00
+date: 2026-10-27T08:00:00+01:00
 categories:
   - writings
 tags:
@@ -10,6 +10,10 @@ tags:
   - open source
   - go
   - reflections
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mytnzfhr22ae
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mytnzfhr22ae
+  - https://fosstodon.org/@hacdias/117511582771100194
 ---
 
 Back [in July](/2026/07/28/filebrowser/), I made the decision to finally archive File Browser, and I won't go over it again. In this post I want to address one category of features of File Browser that was the root of many of the security advisories that have been disclosed in the past year: command execution.
