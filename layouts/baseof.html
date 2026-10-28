@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang='{{ .Site.Language.Locale }}'>
 <head>
+  {{ block "pagination" . }}{{ end }}
   {{ partial "base/head" . }}
 </head>
 <body>

@@ -1,12 +1,23 @@
 <meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <title>{{ partialCached "fns/title" . .Title .Data.Singular }} - {{ .Site.Title }}</title>
+{{- $canonical := .Permalink }}
+{{- $paginated := false }}
+{{- /* Set by the "pagination" block of templates that paginate. */}}
+{{- with .Store.Get "paginator" }}
+  {{- if gt .PageNumber 1 }}
+    {{- $canonical = absURL .URL }}
+    {{- $paginated = true }}
+  {{- end }}
+{{- end }}
 {{- if .Params.noIndex }}
   <meta name='robots' content='noindex'>
+{{- else if $paginated }}
+  <meta name='robots' content='noindex, follow'>
 {{- end }}
 <meta name='description' content='{{ partial "fns/description" .}}'>
 {{- if ne .Kind "404" }}
-<link rel='canonical' href='{{ .Permalink }}'>
+<link rel='canonical' href='{{ $canonical }}'>
 {{- end }}
 <link rel='icon' href='{{ relURL "/favicon.png" }}' type='image/png'>
 <link rel='apple-touch-icon' href='{{ relURL "/favicon.png" }}'>

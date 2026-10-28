@@ -1,3 +1,7 @@
+{{ define "pagination" }}
+  {{- .Store.Set "paginator" (.Paginate (partialCached "fns/pages" . .Permalink)) }}
+{{ end }}
+
 {{ define "main" }}
   <header {{ if .Params.archivePage }}class="header-link"{{ end }}>
     <h1>{{ if eq .Data.Singular "tag" }}<span style='color: var(--c);'>#</span>{{ end }}{{ partialCached "fns/title" . .Title .Data.Singular }}</h1>
