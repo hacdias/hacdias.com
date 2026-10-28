@@ -795,6 +795,10 @@ figure,
   margin: var(--s2) 0;
 }
 
+.tr {
+  text-align: right;
+}
+
 .half-star {
   position: relative;
 }
@@ -924,15 +928,15 @@ figure,
     border-block: var(--border);
   }
 
-  .tb,
-  ul.tb > li:not(.tbm),
-  .tb .tbi {
+  .tb:not(.nw),
+  ul.tb:not(.nw) > li:not(.tbm),
+  .tb:not(.nw) .tbi {
     display: flow-root;
     line-height: 1.5;
   }
 
-  ul.tb > li:not(.tbm) > *,
-  .tb .tbi > * {
+  ul.tb:not(.nw) > li:not(.tbm) > *,
+  .tb:not(.nw) .tbi > * {
     text-wrap: wrap;
   }
 

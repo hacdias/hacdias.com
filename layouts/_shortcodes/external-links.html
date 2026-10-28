@@ -1,10 +1,12 @@
-{{ $links := index hugo.Data "external-links" }}
+{{ $links := partialCached "fns/external-links" . }}
+{{ $json := $links | jsonify (dict "indent" "  ") }}
+{{ $_ := (resources.FromString ".well-known/links" $json).Publish }}
 
-<ul class='tb'>
+<ul class='tb nw'>
   {{ range $links }}
     <li>
-      <small>{{ partialCached "favicon" .domain .domain }} {{ .domain }}</small>
-      <small class='lg count'>{{ .count }}</small>
+      <span>{{ partialCached "favicon" .domain .domain }} {{ .domain }}</span>
+      <span class='tab lg small tr'>{{ .count }}</span>
     </li>
   {{ end }}
 </ul>

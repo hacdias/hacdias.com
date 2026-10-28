@@ -1,10 +1,16 @@
+{{- $suffixes := slice "com.br" "github.io" "gov.pt" -}}
 {{- $s := newScratch -}}
 {{- $pages := where site.Pages "Kind" "in" (slice "page" "home" "section") -}}
 {{- range where $pages "Params.noIndex" "!=" true -}}
   {{- $_ := .Content -}}
   {{- $source := .Permalink -}}
   {{- range uniq (.Store.Get "externalLinks") -}}
-    {{- $s.Add (strings.TrimPrefix "www." (urls.Parse .).Hostname) (slice (dict "sourceUrl" $source "targetUrl" .)) -}}
+    {{- $labels := split (urls.Parse .).Hostname "." -}}
+    {{- $n := cond (in $suffixes (delimit (last 2 $labels) ".")) 3 2 -}}
+    {{- $domain := delimit (last $n $labels) "." -}}
+    {{- if ne $domain (urls.Parse site.BaseURL).Hostname -}}
+      {{- $s.Add $domain (slice (dict "sourceUrl" $source "targetUrl" .)) -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
 {{- $links := slice -}}
