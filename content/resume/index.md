@@ -18,7 +18,7 @@ description: My resume.
 
   </div>
 
-  - [hacdias.com](https://hacdias.com)
+  - [hacdias.com](/)
   - [github.com/hacdias](https://github.com/hacdias)
   - [linkedin.com/in/hacdias](https://www.linkedin.com/in/hacdias/)
 
