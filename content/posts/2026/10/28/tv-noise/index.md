@@ -1,6 +1,6 @@
 ---
 title: Ants on the Screen
-date: 2026-10-29T08:00:00+01:00
+date: 2026-10-28T08:32:55+01:00
 categories:
   - writings
 tags:
@@ -9,6 +9,8 @@ tags:
   - art
   - algorithms
   - interactive
+aliases:
+  - /minisites/tv-noise/
 feedContentWarning: true
 ---
 
