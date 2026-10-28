@@ -56,6 +56,11 @@ function draw(time) {
 }
 
 function createAudio() {
+  // iOS mutes Web Audio in silent mode unless the session is 'playback'.
+  if (navigator.audioSession) {
+    navigator.audioSession.type = 'playback'
+  }
+
   audio = new AudioContext()
 
   const buffer = audio.createBuffer(1, 2 * audio.sampleRate, audio.sampleRate)
