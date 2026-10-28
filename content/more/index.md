@@ -24,11 +24,11 @@ I track many -- maybe too many -- things. Over the years, I've been replacing [s
 - [🎟️ Performances](/logs/performances/)
 {.buttons #more-list}
 
-## 📡 Feeds {#feeds}
+## 📡 Subscribe {#subscribe}
 
-If you're interested in following my content, there are Atom and JSON feeds available. You can choose to either get writings, photos, or both! Your feed reader should automatically pick up the feed from the page URL. If it doesn't, you can use the following URLs:
+You can subscribe to this website using [feeds](https://aboutfeeds.com/), for writings, photos, or both. Your feed reader should automatically pick up the feed from the right page. If it doesn't, you can use the following URLs:
 
-- **Home** <span>[Atom](/feed.xml), [JSON](/feed.json)</span>
+- **All Posts** <span>[Atom](/feed.xml), [JSON](/feed.json)</span>
 - **Writings** <span>[Atom](/writings/feed.xml), [JSON](/writings/feed.json)</span>
 - **Photos** <span>[Atom](/photos/feed.xml), [JSON](/photos/feed.json)</span>
 {.tb}
