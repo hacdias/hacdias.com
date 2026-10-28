@@ -559,7 +559,7 @@
   },
   {
     "domain": "wikipedia.org",
-    "count": 63,
+    "count": 68,
     "links": [
       {
         "sourceUrl": "https://hacdias.com/2014/09/21/php-como-utilizar-o-gettext-para-traducoes/",
@@ -796,6 +796,26 @@
       {
         "sourceUrl": "https://hacdias.com/2026/01/07/app-defaults/",
         "targetUrl": "https://en.wikipedia.org/wiki/Z_shell"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/29/tv-noise/",
+        "targetUrl": "https://en.wikipedia.org/wiki/White_noise"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/29/tv-noise/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Low-pass_filter"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/29/tv-noise/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Sine_wave"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/29/tv-noise/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Digital_biquad_filter"
+      },
+      {
+        "sourceUrl": "https://hacdias.com/2026/10/29/tv-noise/",
+        "targetUrl": "https://en.wikipedia.org/wiki/Low-pass_filter#Discrete-time_realization"
       },
       {
         "sourceUrl": "https://hacdias.com/impossible-list/",
