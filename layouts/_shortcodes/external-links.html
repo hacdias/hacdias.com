@@ -3,7 +3,7 @@
 {{ $_ := (resources.FromString ".well-known/links" $json).Publish }}
 
 <ul class='tb nw'>
-  {{ range $links }}
+  {{ range first 25 $links }}
     <li>
       <span>{{ partialCached "favicon" .domain .domain }} {{ .domain }}</span>
       <span class='tab lg small tr'>{{ .count }}</span>
