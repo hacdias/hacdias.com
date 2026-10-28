@@ -105,6 +105,8 @@ printPathWarnings = true
   suffixes = ['xml']
 [mediaTypes.'text/xsl']
   suffixes = ['xsl']
+[mediaTypes.'application/feed+json']
+  suffixes = ['json']
 
 [outputFormats]
   [outputFormats.atom]
@@ -116,7 +118,7 @@ printPathWarnings = true
     permalinkable = false
   [outputFormats.json]
     baseName = 'feed'
-    mediaType = 'application/json'
+    mediaType = 'application/feed+json'
     isPlainText = true
     rel = 'alternate'
     noUgly = true
