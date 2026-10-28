@@ -9,6 +9,10 @@ tags:
   - art
   - algorithms
   - interactive
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mywad6gpy2lj
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mywad6gpy2lj
+  - https://fosstodon.org/@hacdias/117517379695246981
 aliases:
   - /minisites/tv-noise/
 feedContentWarning: true
