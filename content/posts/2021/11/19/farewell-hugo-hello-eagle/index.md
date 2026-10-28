@@ -16,7 +16,7 @@ In 2015, I posted an [article](/2015/08/12/farewell-wordpress-hello-hugo/) with 
 
 Around a year ago, I [explained](/2020/10/12/rebuilding-eagle-cms/) why I was rebuilding my website's CMS, Eagle. At the time, I decided against completely replacing [Hugo](http://gohugo.io/), the static website generator I've been using for years, because it worked. However, a year has passed and I've [thought](/tags/meta/) many [times](/2021/02/04/is-it-time-build-cms/) about replacing Hugo and I finally did it.
 
-Since November 15th, I have been running the new version of Eagle. Hopefully, you didn't notice as nothing broke for you. If it did, please [let me know](/about/#contact)! In this new system, completely powered by Eagle, there's no Hugo or static page building anymore.
+Since November 15th, I have been running the new version of Eagle. Hopefully, you didn't notice as nothing broke for you. If it did, please [let me know](/more/#contact)! In this new system, completely powered by Eagle, there's no Hugo or static page building anymore.
 
 ## Building v2
 

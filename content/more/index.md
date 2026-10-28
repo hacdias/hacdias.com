@@ -1,5 +1,7 @@
 ---
 title: What Else Can I Find?
+aliases:
+  - /contact/
 ---
 
 Here you can find a list of every page that does not fit in the main navigation bar. There is a chance that not everything is listed here, and those are up to you to <span id='trigger'>discover</span>!
@@ -28,11 +30,22 @@ I track many -- maybe too many -- things. Over the years, I've been replacing [s
 
 You can subscribe to this website using [feeds](https://aboutfeeds.com/), for writings, photos, or both. Your feed reader should automatically pick up the feed from the right page. If it doesn't, you can use the following URLs:
 
-- **All Posts** <span>[Atom](/feed.xml), [JSON](/feed.json)</span>
-- **Writings** <span>[Atom](/writings/feed.xml), [JSON](/writings/feed.json)</span>
-- **Photos** <span>[Atom](/photos/feed.xml), [JSON](/photos/feed.json)</span>
-{.tb}
+- <span>All Posts</span> <span>[Atom](/feed.xml), [JSON](/feed.json)</span>
+- <span>Writings</span> <span>[Atom](/writings/feed.xml), [JSON](/writings/feed.json)</span>
+- <span>Photos</span> <span>[Atom](/photos/feed.xml), [JSON](/photos/feed.json)</span>
+{.tb style="grid-template-columns: max-content 1fr;"}
 
 <audio id="music" loop>
   <source src="https://media.hacdias.com/2021-09-21-nyan-cat.mp3" type="audio/mpeg">
 </audio>
+
+## 👋 Contact {#contact}
+
+You can reach out to me by email at [**mail@hacdias.com**](mailto:mail@hacdias.com) ([PGP key](/pubkey.asc)), or by messaging me on [**{{< favicon "signal.org" >}} Signal**](https://signal.me/#eu/NpDa7rvcj4CAXsiOpHqM2ADYyxXXmGTKr3HBXNPZXDPJ2JEgvBVPyJJah27RJe66). I can also be found [elsewhere](https://indieweb.org/elsewhere), usually as `@hacdias`. Here are some relevant places:
+
+- [🦋 Bluesky](https://bsky.app/profile/hacdias.com "@hacdias.com")
+- [🐙 GitHub](https://github.com/hacdias "@hacdias")
+- [👔 LinkedIn](https://linkedin.com/in/hacdias "/in/hacdias")
+- [🐘 Mastodon](https://fosstodon.org/@hacdias "@hacdias@fosstodon.org")
+- [📷 Instagram](https://instagram.com/hacdias "@hacdias")
+{.buttons}

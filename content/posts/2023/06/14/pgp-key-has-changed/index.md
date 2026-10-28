@@ -13,7 +13,7 @@ syndication:
 This is just a quick post to alert that I have changed my PGP key. It doesn't
 receive much use, but in the eventuality that someone may want to send me something
 potentially encrypted, I think it's reasonably good to keep the record that I
-updated the key at some point. The [contact](/about/#contact) page has been updated accordingly.
+updated the key at some point. The [contact](/more/#contact) page has been updated accordingly.
 
 <!--more-->
 

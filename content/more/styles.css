@@ -1,7 +1,3 @@
-.tb {
-  grid-template-columns: max-content 1fr;
-}
-
 .buttons.nyan a {
   transition: none;
 }

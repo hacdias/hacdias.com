@@ -1,6 +1,7 @@
 ---
 title: Sobering Up My Website's Design
 date: 2026-10-13T20:35:30+02:00
+lastmod: 2026-10-28T13:00:51+01:00
 categories:
   - writings
 tags:
@@ -46,7 +47,7 @@ The previous design replaced the cute little avatar I used to have in the header
 
 I also removed the emojis from the navigation bar, which had been there for a very long time. With the photo, the emojis, and the accent color all sitting together, the header felt far too colorful. Only after removing the emojis did I realize how much presence they had: they grabbed way too much attention when the rest of the page should be the focus.
 
-One thing I kept from the sidebar design was having my contacts easy to reach. They're now in the header too, in a lighter color. I trimmed them down to the ones I think are more relevant to have easily accessible and moved the rest to the [About](/about/#contact) page and the footer. Since I'm looking for my next role, there's also a small "Open to work" indicator right alongside them. On mobile they're still there, either at the top or at the bottom of the page, depending on which page you're on.
+One thing I kept from the sidebar design was having my contacts easy to reach. They're now in the header too, in a lighter color. I trimmed them down to the ones I think are more relevant to have easily accessible and moved the rest to the [More](/more/#contact) page and the footer. Since I'm looking for my next role, there's also a small "Open to work" indicator right alongside them. On mobile they're still there, either at the top or at the bottom of the page, depending on which page you're on.
 
 ## New Accent Color
 

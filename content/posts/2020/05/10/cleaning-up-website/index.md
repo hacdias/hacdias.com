@@ -61,4 +61,4 @@ I also made sure I set up the redirects for the feeds so no one gets broken feed
 
 ---
 
-Did you find a broken link? Just [contact me](/about/#contact)!
+Did you find a broken link? Just [contact me](/more/#contact)!
