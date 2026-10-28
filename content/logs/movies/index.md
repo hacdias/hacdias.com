@@ -2,6 +2,7 @@
 title: Movies That I've Watched
 description: An extensive list of movies I have watched.
 aliases:
+  - /watches/
   - /watched/
 ---
 

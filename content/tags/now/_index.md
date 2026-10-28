@@ -2,7 +2,7 @@
 title: Now
 layout: tabular
 aliases:
-- /now
+  - /now/
 ---
 
 ⏰ Monthly life updates inspired by the [NowNowNow](https://nownownow.com/) movement.

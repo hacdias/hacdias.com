@@ -1,6 +1,10 @@
 ---
 title: Support Me
 noIndex: true
+aliases:
+  - /pay/
+  - /donate/
+  - /tip/
 ---
 
 Have I ever somehow affected you in a positive way? Then feel free to support me. It can either be a one-time donation or recurring support. This will help me keep working on my [open source](https://github.com/hacdias) projects, as well as blogging. 

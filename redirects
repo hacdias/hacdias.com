@@ -1,8 +1,8 @@
-/2022/10/20/hwmxnwcycu/ /2022/10/20/dabbling-with-the-idea-of-a-second-brain
+# Old Posts (301)
+/2022/10/20/hwmxnwcycu/ /2022/10/20/dabbling-with-the-idea-of-a-second-brain/
 /2020/03/30/masters/ /2020/03/30/a-new-adventure/
-/2022/06/05/ceyyxyudqi/ /2022/06/05/trying-matrix-decentralized-messaging
+/2022/06/05/ceyyxyudqi/ /2022/06/05/trying-matrix-decentralized-messaging/
 /2022/04/27/vkrcxmzfem/ /2022/04/27/crossed-the-english-channel-by-train/
-/now /tags/now
 /2023/06/12/the-creating-programmer/ /2023/06/12/the-creative-programmer/
 /articles/2019/08/decentralizing-my-website-with-ipfs/ /2019/08/07/decentralizing-my-website-with-ipfs/
 /articles/2020/05/back-90s/ /2020/05/31/back-90s/
@@ -55,25 +55,41 @@
 /2024/01/07/vergeet-niet-om-in-te-checken-nederlands-praten/ /2024/01/07/inchecken/
 /2024/02/08/vergeet-niet-om-in-te-checken-nieuwe-lessen/ /2024/02/08/inchecken/
 /2024/03/07/vergeet-niet-om-in-te-checken-deel-try-lingual/ /2024/03/07/inchecken/
-/articles/feed.json /writings/feed.json
-/articles/feed.xml /writings/feed.xml
-/readings/feed.json /writings/feed.json
-/readings/feed.xml /writings/feed.xml
-/fragments/feed.json /writings/feed.json
-/fragments/feed.xml /writings/feed.xml
+
+# Old Pages
+/about/external-links/ /external-links/
+/minisites/tv-noise/ /2026/10/28/tv-noise/
+/minisites/mapgen/ /2023/06/24/procedural-map-generation-with-noise/
 /readings/ /logs/readings/
 /attended/ /logs/performances/
 /watches/ /logs/movies/
 /watched/ /logs/movies/
 /trips/ /logs/places/
 /coffee/ /logs/coffee/
-/donate /support/
-/donate/ /support/
-/notes /writings/
+
+# Old Sections
 /notes/ /writings/
 /micro/ /writings/
 /articles/ /writings/
 /fragments/ /writings/
-/about/external-links/ /external-links/
-/minisites/tv-noise/ /2026/10/28/tv-noise/
-/contact/ /more/#contact
+
+# Old Sections Feeds
+/articles/feed.json /writings/feed.json
+/articles/feed.xml /writings/feed.xml
+/readings/feed.json /writings/feed.json
+/readings/feed.xml /writings/feed.xml
+/fragments/feed.json /writings/feed.json
+/fragments/feed.xml /writings/feed.xml
+
+# Aliases
+/now/ /tags/now/ 302
+/donate/ /support/ 302
+/pay/ /support/ 302
+/tip/ /support/ 302
+/contact/ /more/#contact 302
+/hello/ /more/#contact 302
+/follow/ /more/#subscribe 302
+/subscribe/ /more/#subscribe 302
+/feeds/ /more/#subscribe 302
+/slashes/ /more/ 302
+/someday/ /impossible-list/ 302
