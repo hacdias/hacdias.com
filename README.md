@@ -15,14 +15,16 @@ I designed my website and templates such that:
 
 - A section is nothing more than a signal to Hugo to build nested pages.
 - Section templates are treated as single page templates.
-- Only taxonomy term pages are presented as lists.
+- Only taxonomy term pages are presented as lists. Archive pages are exceptions.
 
 Other important notes:
 
-- The taxonomy "category" is a root-level taxonomy, e.g., `/articles/`.
+- The taxonomy "category" is a root-level taxonomy, e.g., `/writings/`.
 - The page `/categories/` does not get rendered.
+- Pages inside a category's folder are built under it, e.g., `/writings/archive/`.
 - All posts go into the `/posts/` section, which does not get rendered.
 - All posts are built to `/yyyy/mm/dd/title/` URL.
+- The `/logs/` section does not get rendered either, only its pages, e.g., `/logs/movies/`.
 
 ## License
 
