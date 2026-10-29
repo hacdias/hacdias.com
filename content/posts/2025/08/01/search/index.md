@@ -55,6 +55,6 @@ Et voilà! Maybe not that creative, but it works quite well. By default, the sea
 </eagle-page>
 ```
 
-This means that, if I stop using Eagle, or if I do need to serve my website without Eagle backing it, the search page will just work normally, but now powered by DuckDuckGo. I provide Eagle with a custom [template](https://github.com/hacdias/hacdias.com/blob/f2abd04cbcede3f58c098dd16aa56d4ddaf1ee34/eagle/search.html) to render the search results, which matches the way I display posts elsewhere.
+This means that, if I stop using Eagle, or if I do need to serve my website without Eagle backing it, the search page will just work normally, but now powered by DuckDuckGo. I provide Eagle with a custom [template](https://github.com/hacdias/hacdias.com/blob/1d4b1c964ae0d03eb03e936957c1660d6768aae5/eagle/search.html) to render the search results, which matches the way I display posts elsewhere.
 
 I use the same technique for error pages, which allows Eagle to provide more suitable errors when it is possible. An example of this is the never ending list of "gone" posts I have. Or if some other error happens for one or other reason - for example if you fail the guestbook [anti-bot mechanism](/2024/05/10/mitigating-guestbook-spam/) - you also get a page showing the error that fits into the rest of the website.
