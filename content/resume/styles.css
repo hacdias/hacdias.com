@@ -18,6 +18,10 @@
   text-align: right;
 }
 
+#resume-header a {
+  text-decoration: none;
+}
+
 #resume-header * {
   margin: 0;
   padding: 0;
@@ -96,6 +100,10 @@
   .resume-position ul {
     font-size: var(--f5);
     margin-top: 0.25rem;
+  }
+
+  .resume-position ul a {
+    text-decoration: none;
   }
 
   #resume-header {
