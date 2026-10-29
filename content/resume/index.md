@@ -39,7 +39,7 @@ Senior Software Engineer building open source systems and products in Go and Typ
 - Own features end to end across the TypeScript SaaS platform for digital credentials and its React Native [wallet](https://paradym.id/products/paradym-mobile-wallet), from protocol libraries to API and dashboard. Co-maintain [Credo](https://github.com/openwallet-foundation/credo-ts) and the OpenWallet Foundation libraries underneath.
 - Implemented OpenID4VC 1.0, the protocol behind the EU Digital Identity Wallet, and W3C VCDM 2.0 across Credo, Paradym, and Paradym Wallet as the specifications were finalized, making them interoperable with EU pilots.
 - Designed and built the key and trust infrastructure: hardware-backed key storage behind a provider-agnostic API (Google Cloud HSM and OpenBao), X.509 certificate management and revocation, and EU Trusted List validation<span class="hide-print"> ([▶ demo](https://www.youtube.com/watch?v=sr3Z1uCDHK4))</span>.
-- Integrated with customers' own infrastructure: issuance through their identity provider and data sources<span class="hide-print"> ([▶ demo](https://www.youtube.com/watch?v=6NJCTI9LpIQ))</span>, so Paradym never stores personal data, and an on-premise Admin API secured by their authorization server.
+- Integrated with customers' own infrastructure: issuance through their identity provider and data sources<span class="hide-print"> ([▶ demo](https://www.youtube.com/watch?v=6NJCTI9LpIQ))</span>, so Paradym never stores personal data; verification through OpenID Connect; and an on-premise Admin API secured by their authorization server.
 
 <!-- Employed by Animo Solutions, the company behind Paradym. -->
 
