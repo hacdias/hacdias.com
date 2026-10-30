@@ -2,13 +2,13 @@
 title: Swimming, Second Diploma, and Summer
 date: 2026-07-09T11:45:07+02:00
 location:
-  latitude: 51.44546
-  longitude: 5.46167
+  latitude: 51.4765013
+  longitude: 5.4545685
+  name: Ir. Ottenbad
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
   countryCode: NL
-  postalCode: 5617 AS
 categories:
   - writings
 tags:

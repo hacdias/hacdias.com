@@ -2,8 +2,9 @@
 title: Swimming Lessons Check-in
 date: 2026-02-24T17:01:33.74823975+01:00
 location:
-  latitude: 51.44595
-  longitude: 5.4619
+  latitude: 51.4765013
+  longitude: 5.4545685
+  name: Ir. Ottenbad
   locality: Eindhoven
   region: North Brabant
   country: Netherlands

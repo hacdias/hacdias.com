@@ -1,6 +1,13 @@
 ---
 title: Green Camper
 date: 2026-04-27T19:42:34.108925574+02:00
+location:
+  latitude: 51.44797
+  longitude: 5.45797
+  locality: Eindhoven
+  region: North Brabant
+  country: Netherlands
+  countryCode: NL
 photos:
   - url: image:2026-04-27-green-camper
     title: Green Camper

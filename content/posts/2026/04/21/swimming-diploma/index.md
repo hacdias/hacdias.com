@@ -2,13 +2,13 @@
 title: Getting My First Swimming Diploma
 date: 2026-04-21T16:11:48.015067798+02:00
 location:
-  latitude: 51.44594
-  longitude: 5.46159
+  latitude: 51.4765013
+  longitude: 5.4545685
+  name: Ir. Ottenbad
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
   countryCode: NL
-  postalCode: 5617AS
 categories:
   - writings
 tags:

@@ -2,8 +2,9 @@
 title: Back Into The Swimming Pool
 date: 2026-01-16T17:39:07.033006264+01:00
 location:
-  latitude: 51.44595
-  longitude: 5.46158
+  latitude: 51.4765013
+  longitude: 5.4545685
+  name: Ir. Ottenbad
   locality: Eindhoven
   region: North Brabant
   country: Netherlands

@@ -2,8 +2,9 @@
 title: Swimming On The Deep End
 date: 2026-03-31T09:38:04.731296019+02:00
 location:
-  latitude: 51.44592
-  longitude: 5.46165
+  latitude: 51.4765013
+  longitude: 5.4545685
+  name: Ir. Ottenbad
   locality: Eindhoven
   region: North Brabant
   country: Netherlands
