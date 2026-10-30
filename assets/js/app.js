@@ -5,7 +5,7 @@ function addEmoji() {
   let emoji = null
   let title = ''
 
-  if (month === 1 && day <= 2) {
+  if ((month === 12 && day === 31) || (month === 1 && day <= 2)) {
     emoji = '🥂'
     title = 'Happy New Year!'
   } else if (month === 5 && day === 17) {
@@ -15,17 +15,21 @@ function addEmoji() {
     emoji = '🏳️‍🌈'
     title = 'Happy Pride Month!'
   } else if (month === 7 && day === 12) {
-    emoji = '🎈'
-    title = `Happy ${today.getFullYear() - 2014}th Birthday to This Website!`
-  } else if (month === 10 && day === 22) {
     emoji = '🎂'
+    const age = today.getFullYear() - 2014
+    const suffix = { one: 'st', two: 'nd', few: 'rd', other: 'th' }[
+      new Intl.PluralRules('en', { type: 'ordinal' }).select(age)
+    ]
+    title = `Happy ${age}${suffix} Cake Day, Website!`
+  } else if (month === 10 && day === 22) {
+    emoji = '🥳'
     title = 'Happy Birthday to Me!'
   } else if (month === 10 && day >= 30) {
     emoji = '🎃'
     title = 'Happy Halloween!'
   } else if (month === 11 && day === 1) {
-    emoji = '👻'
-    title = `Happy All Saint's Day!`
+    emoji = '🍞'
+    title = `Happy All Saints' Day!`
   } else if (month === 12 && day === 5) {
     emoji = '🍪'
     title = 'Prettige Sinterklaas!'
