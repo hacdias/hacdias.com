@@ -1,10 +1,10 @@
 ---
-title: "Recently in October '26"
+title: Recently in October '26
 date: 2026-10-31T09:00:00+01:00
 categories:
-- writings
+  - writings
 tags:
-- now
+  - now
 ---
 
 October has been incredibly hectic. I've redesigned this website, I've been to two concerts and one comedy show, spent a few days in Amsterdam, I've written maybe way too many posts, and there's so much more happening. Let's recap!
