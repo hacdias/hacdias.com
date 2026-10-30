@@ -1,14 +1,11 @@
-{{ $isLong := strings.Contains .RawContent "<!--more-->" }}
 <article class='h-entry'>
   <a href='{{ .RelPermalink }}' class='u-url card'>
     <header>
       {{- if not .Date.IsZero -}}
         <p class='lg small'>
-          {{- if not .Date.IsZero -}}
-            <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-              {{- .Date.Format "2 January 2006" -}}
-            </time>
-          {{- end -}}
+          <time class='dt-published' datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+            {{- .Date.Format "2 January 2006" -}}
+          </time>
         </p>
       {{- end -}}
 

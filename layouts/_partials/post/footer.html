@@ -84,8 +84,7 @@
         <strong>💬 Reply</strong>
         <span>
         <a href="mailto:{{ .Site.Params.author.email }}?subject=Re: {{ .Page.Title }}" rel='noopener noreferrer'>E-Mail</a>,
-        {{ range $s := $syndication -}}
-          {{ $url := urls.Parse $s }}
+        {{ range $s := $syndication }}
           <a class='u-syndication' rel="noopener noreferrer" href="{{ . }}">
             {{- $domain := (urls.Parse $s).Host -}}
             {{ or (index hugo.Data.syndications $domain) $domain -}}

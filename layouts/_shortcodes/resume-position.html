@@ -6,7 +6,7 @@
     {{ with .Get "location" }}
       <a rel='noopener noreferrer' href='{{ $.Get "href" | safeURL }}'>{{ . }}</a>
     {{ else }}
-      <a href='#'></a>
+      <span></span>
     {{ end }}
     <small class='lg'>
       <span>{{ .Get "from" }}</span>

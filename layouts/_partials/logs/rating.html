@@ -1,5 +1,5 @@
 {{ with . }}
   <span>{{ partialCached "helpers/stars" . . }}</span>
 {{ else }}
-  <span class="ah" alt="No rating">☆☆☆☆☆</span>
+  <span class="ah" role="img" aria-label="No rating">☆☆☆☆☆</span>
 {{ end }}

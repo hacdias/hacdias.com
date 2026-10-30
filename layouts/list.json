@@ -1,10 +1,8 @@
-{{ $pageTitle := partialCached "fns/title" . .Title .Data.Singular }}
-{{- $pages := .Pages }}
-{{ if .IsHome }}{{ $pages = partialCached "fns/pages" . .Permalink }}{{ end }}
+{{- $pages := partialCached "fns/pages" . .Permalink }}
 {{- $pages = $pages | first .Site.Config.Services.RSS.Limit }}
 {
   "version": "https://jsonfeed.org/version/1",
-  "title": "{{ printf "%s - %s" $pageTitle .Site.Title }}",
+  "title": "{{ printf "%s - %s" .Title .Site.Title }}",
   "home_page_url": "{{ .Permalink }}",
   "feed_url": "{{ .Permalink }}feed.json",
   "author": {
@@ -17,7 +15,7 @@
     {{ if ge $index 1 }}, {{end}}{
       "id": {{ .Permalink | jsonify }},
       "url": {{ .Permalink | jsonify }},
-      "title": {{ partialCached "fns/title" . .Title .Data.Singular | jsonify }},
+      "title": {{ .Title | jsonify }},
       "summary": {{ .Summary | jsonify }},
       "date_published": {{ dateFormat "2006-01-02T15:04:05-07:00" .Date | jsonify }},
       "date_modified": {{ dateFormat "2006-01-02T15:04:05-07:00" .Lastmod | jsonify }},

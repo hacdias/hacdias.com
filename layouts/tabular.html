@@ -9,7 +9,7 @@
       <p class='lg small'><a href='{{ $page.RelPermalink }}' class='nl'>← {{ $page.Title }}</a></p>
       <h1>Archive</h1>
     {{ else }}
-      <h1>{{ partialCached "fns/title" . .Title .Data.Singular }}</h1>
+      <h1>{{ .Title }}</h1>
     {{ end }}
   </header>
 

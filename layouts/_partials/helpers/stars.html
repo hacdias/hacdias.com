@@ -1,5 +1,5 @@
 {{ $rating := cast.ToInt . }}
-<span alt="{{ math.Div (cast.ToFloat $rating) 2 }} stars">
+<span role="img" aria-label="{{ math.Div (cast.ToFloat $rating) 2 }} stars">
   {{- range seq 2 2 10 }}
     {{- if eq $rating (math.Sub . 1) }}<span class='half-star'>☆</span>
     {{- else if le . $rating }}★{{ else }}☆{{ end -}}

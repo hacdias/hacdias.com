@@ -1,6 +1,6 @@
 <form id='search-form' class='inline-form'>
   <input {{ if eq (len .Query) 0 }}autofocus{{ end }} aria-label="Search terms" required type='text' name='query' placeholder="Search…" value="{{ .Query }}" />
-  <button/>Search</button>
+  <button>Search</button>
 </form>
 {{ if eq (len .Query) 0 }}
   <div class='box'>

@@ -1,6 +1,6 @@
 <meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
-<title>{{ partialCached "fns/title" . .Title .Data.Singular }} - {{ .Site.Title }}</title>
+<title>{{ .Title }} - {{ .Site.Title }}</title>
 {{- $canonical := .Permalink }}
 {{- $paginated := false }}
 {{- /* Set by the "pagination" block of templates that paginate. */}}
@@ -29,7 +29,7 @@
 
 <meta property='og:type' content='{{ if or .IsBranch .IsHome }}website{{ else }}article{{ end }}' />
 <meta property='og:site_name' content='{{ .Site.Title }}' />
-{{- with cond .IsHome .Site.Title (partialCached "fns/title" . .Title .Data.Singular) }}
+{{- with cond .IsHome .Site.Title .Title }}
 <meta property='og:title' content='{{ . }}' />
 {{- end }}
 <meta property='og:description' content='{{ $description }}' />
