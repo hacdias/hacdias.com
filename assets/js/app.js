@@ -42,7 +42,7 @@ function addEmoji() {
   if (emoji) {
     const span = document.createElement('span')
     span.title = title
-    span.innerText = emoji
+    span.textContent = emoji
     el.innerHTML += ' '
     el.appendChild(span)
   }
