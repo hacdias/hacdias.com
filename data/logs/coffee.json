@@ -1,5 +1,18 @@
 [
   {
+    "name": "Mango Tango",
+    "origin": "Gedeb, Ethiopia",
+    "roast": "Medium",
+    "process": "Natural",
+    "variety": "Heirloom",
+    "roaster": {
+      "name": "DAK Coffee Roasters",
+      "location": "Amsterdam, NL",
+      "website": "https://www.dakcoffeeroasters.com/"
+    },
+    "date": "2026-10-29"
+  },
+  {
     "name": "Banko On It",
     "origin": "Banko Chelchele, Gedeb, Ethiopia",
     "process": "Super Natural",
