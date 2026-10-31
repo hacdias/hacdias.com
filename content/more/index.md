@@ -47,7 +47,7 @@ You can subscribe to this website using a [feed](https://aboutfeeds.com/) reader
 
 ## 👋 Contact {#contact}
 
-You can reach out to me by email at [**mail@hacdias.com**](mailto:mail@hacdias.com), or by messaging me on [**{{< favicon "signal.org" >}} Signal**](https://signal.me/#eu/NpDa7rvcj4CAXsiOpHqM2ADYyxXXmGTKr3HBXNPZXDPJ2JEgvBVPyJJah27RJe66). I can also be found [elsewhere](https://indieweb.org/elsewhere), usually as `@hacdias`. Here are some relevant places:
+You can reach out to me by email at [**mail@hacdias.com**](mailto:mail@hacdias.com) or by messaging me on [**{{< favicon "signal.org" >}} Signal**](https://signal.me/#eu/NpDa7rvcj4CAXsiOpHqM2ADYyxXXmGTKr3HBXNPZXDPJ2JEgvBVPyJJah27RJe66), where my username is `hacdias.2026`. I can also be found elsewhere, usually as `@hacdias`. Here are some of the places where you can find me:
 
 - [🦋 Bluesky](https://bsky.app/profile/hacdias.com "@hacdias.com")
 - [🐙 GitHub](https://github.com/hacdias "@hacdias")
