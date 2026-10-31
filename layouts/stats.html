@@ -1,0 +1,271 @@
+{{ define "main" }}
+  {{- $posts := where site.RegularPages "Section" "posts" }}
+  {{- $posts = $posts.ByDate }}
+  {{- $first := index $posts 0 }}
+  {{- $firstYear := $first.Date.Year }}
+  {{- $firstMonth := int ($first.Date.Format "1") }}
+  {{- $thisMonth := int (now.Format "1") }}
+  {{- $yearsOnline := div (now.Sub $first.Date).Hours 8766 }}
+  {{- $monthNames := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" }}
+  {{- $dayNames := slice "Monday" "Tuesday" "Wednesday" "Thursday" "Friday" "Saturday" "Sunday" }}
+
+  {{- /* Counters: "writings", "photos", "y2014:writings", "m2014-07", "dMon", ... */}}
+  {{- $s := newScratch }}
+
+  {{- range $p := $posts }}
+    {{- $kind := "" }}
+    {{- if in .Params.categories "writings" }}
+      {{- $kind = "writings" }}
+    {{- else if in .Params.categories "photos" }}
+      {{- $kind = "photos" }}
+    {{- end }}
+    {{- with $kind }}
+      {{- $s.Add . 1 }}
+      {{- $s.Add (printf "y%d:%s" $p.Date.Year .) 1 }}
+    {{- end }}
+    {{- $s.Add (printf "m%s" (.Date.Format "2006-01")) 1 }}
+    {{- $s.Add (printf "d%s" (.Date.Format "Mon")) 1 }}
+    {{- $s.Add "words" .WordCount }}
+    {{- $s.Add "titleWords" (countwords .Title) }}
+    {{- if eq $kind "writings" }}
+      {{- $s.Add "writingWords" .WordCount }}
+    {{- end }}
+
+    {{- /* Count in the rendered HTML: it includes shortcodes and raw HTML,
+      and leaves out examples inside code blocks. Photos and book covers
+      come from front matter and are rendered outside of .Content. Each
+      fenced or indented code block renders as one <pre>. */}}
+    {{- $images := len (findRE `<img\b` .Content) }}
+    {{- with .Params.photos }}{{ $images = add $images (len .) }}{{ end }}
+    {{- with .Params.read }}{{ with .cover }}{{ $images = add $images 1 }}{{ end }}{{ end }}
+    {{- $s.Add "images" $images }}
+    {{- if $images }}{{ $s.Add "imagePosts" 1 }}{{ end }}
+
+    {{- $codeBlocks := len (findRE `<pre\b` .Content) }}
+    {{- $s.Add "codeBlocks" $codeBlocks }}
+    {{- if $codeBlocks }}{{ $s.Add "codePosts" 1 }}{{ end }}
+
+    {{- if .Params.tags }}{{ $s.Add "tagPosts" 1 }}{{ end }}
+  {{- end }}
+
+  {{- $writings := $s.Get "writings" | default 0 }}
+  {{- $photos := $s.Get "photos" | default 0 }}
+  {{- $words := $s.Get "words" }}
+  {{- $longest := where $posts "Params.categories" "intersect" (slice "writings") }}
+  {{- $longest = index (sort $longest "WordCount" "desc") 0 }}
+
+  {{- $maxMonth := 0 }}
+  {{- $busiestMonth := "" }}
+  {{- range $y := seq $firstYear now.Year }}
+    {{- range $m := seq 12 }}
+      {{- $count := $s.Get (printf "m%d-%02d" $y $m) | default 0 }}
+      {{- if gt $count $maxMonth }}
+        {{- $maxMonth = $count }}
+        {{- $busiestMonth = printf "%s %d" (index $monthNames (sub $m 1)) $y }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+
+  {{- $maxDay := 0 }}
+  {{- $busiestDay := "" }}
+  {{- range $dayNames }}
+    {{- $count := $s.Get (printf "d%s" (substr . 0 3)) | default 0 }}
+    {{- if gt $count $maxDay }}
+      {{- $maxDay = $count }}
+      {{- $busiestDay = . }}
+    {{- end }}
+  {{- end }}
+
+  {{- $sites := partialCached "fns/external-links" . }}
+  {{- $externalLinks := 0 }}
+  {{- range $sites }}{{ $externalLinks = add $externalLinks .count }}{{ end }}
+
+  {{- $targets := partialCached "fns/internal-links" . }}
+  {{- $internalLinks := 0 }}
+  {{- range $targets }}{{ $internalLinks = add $internalLinks .count }}{{ end }}
+
+  {{- partialCached "post/header" (dict "Listing" false "Page" .) .Permalink false -}}
+  {{- partialCached "post/content" . .Permalink }}
+
+  <dl class='tiles'>
+    <div class='tile'>
+      <dt>Posts</dt>
+      <dd class='num'>{{ lang.FormatNumber 0 (len $posts) }}</dd>
+      <dd class='sub'>{{ $writings }} writings, {{ $photos }} photos</dd>
+    </div>
+    <div class='tile'>
+      <dt>Years Online</dt>
+      <dd class='num'>{{ int (math.Floor $yearsOnline) }}</dd>
+      <dd class='sub'>since {{ $first.Date.Format "January 2006" }}</dd>
+    </div>
+    <div class='tile'>
+      <dt>Words</dt>
+      <dd class='num'>{{ printf "%.1fk" (div (float $words) 1000) }}</dd>
+      <dd class='sub'>across all posts</dd>
+    </div>
+    <div class='tile'>
+      <dt>Images</dt>
+      <dd class='num'>{{ lang.FormatNumber 0 ($s.Get "images") }}</dd>
+      <dd class='sub'>in {{ $s.Get "imagePosts" }} posts</dd>
+    </div>
+    <div class='tile'>
+      <dt>Code Blocks</dt>
+      <dd class='num'>{{ lang.FormatNumber 0 ($s.Get "codeBlocks") }}</dd>
+      <dd class='sub'>in {{ $s.Get "codePosts" }} posts</dd>
+    </div>
+    <div class='tile'>
+      <dt>Tags</dt>
+      <dd class='num'>{{ len site.Taxonomies.tags }}</dd>
+      <dd class='sub'>on {{ $s.Get "tagPosts" }} posts</dd>
+    </div>
+    <div class='tile'>
+      <dt>External Links</dt>
+      <dd class='num'>{{ lang.FormatNumber 0 $externalLinks }}</dd>
+      <dd class='sub'>to {{ len $sites }} domains</dd>
+    </div>
+    <div class='tile'>
+      <dt>Internal Links</dt>
+      <dd class='num'>{{ lang.FormatNumber 0 $internalLinks }}</dd>
+      <dd class='sub'>to {{ len $targets }} pages</dd>
+    </div>
+  </dl>
+
+  <header class='header-link'>
+    <h2 id='posts-per-year'>Posts Per Year</h2>
+    <ul class='legend lg small'>
+      <li><span class='key writings'></span>Writings</li>
+      <li><span class='key photos'></span>Photos</li>
+    </ul>
+  </header>
+
+  {{- $years := slice }}
+  {{- $maxYear := 0 }}
+  {{- range $y := seq $firstYear now.Year }}
+    {{- $w := $s.Get (printf "y%d:writings" $y) | default 0 }}
+    {{- $p := $s.Get (printf "y%d:photos" $y) | default 0 }}
+    {{- if gt (add $w $p) $maxYear }}{{ $maxYear = add $w $p }}{{ end }}
+    {{- $label := printf "%d%s: %d %s, %d %s" $y (cond (eq $y now.Year) " so far" "") $w (cond (eq $w 1) "writing" "writings") $p (cond (eq $p 1) "photo" "photos") }}
+    {{- $years = $years | append (dict "year" $y "writings" $w "photos" $p "label" $label) }}
+  {{- end }}
+
+  <div class='bars' role='img' aria-label='Posts per year. {{ delimit (apply $years "index" "." "label") "; " }}.'>
+    {{- range $years }}
+      <div title='{{ .label }}'>
+        <div class='plot'>
+          <span class='total'>{{ add .writings .photos }}</span>
+          {{- with .photos }}<span class='photos' style='--n: {{ printf "%.3f" (div (float .) $maxYear) }}'></span>{{ end }}
+          {{- with .writings }}<span class='writings' style='--n: {{ printf "%.3f" (div (float .) $maxYear) }}'></span>{{ end }}
+        </div>
+        <span class='year'><span class='long'>{{ .year }}</span><span class='short'>'{{ substr (string .year) 2 }}</span>{{ if eq .year now.Year }}*{{ end }}</span>
+      </div>
+    {{- end }}
+  </div>
+
+  <p class='lg small'>* {{ now.Year }} so far.</p>
+
+  <h2 id='posts-per-month'>Posts Per Month</h2>
+
+  <div class='scroll' tabindex='0' role='region' aria-labelledby='posts-per-month'>
+    <div class='heatmap' role='img' aria-label='Posts per month from {{ $first.Date.Format "January 2006" }} to {{ now.Format "January 2006" }}. The busiest month was {{ $busiestMonth }} with {{ $maxMonth }} posts.'>
+      <span></span>
+      {{- range $monthNames }}<span class='head'>{{ substr . 0 3 }}</span>{{ end }}
+      {{- range $y := seq now.Year -1 $firstYear }}
+        <span class='head year'>{{ $y }}</span>
+        {{- range $m := seq 12 }}
+          {{- $label := printf "%s %d" (index $monthNames (sub $m 1)) $y }}
+          {{- $count := $s.Get (printf "m%d-%02d" $y $m) | default 0 }}
+          {{- if and (eq $y $firstYear) (lt $m $firstMonth) }}
+            <span class='out' title='{{ $label }}: before the first post'></span>
+          {{- else if and (eq $y now.Year) (gt $m $thisMonth) }}
+            <span class='out' title='{{ $label }}: still to come'></span>
+          {{- else if $count }}
+            {{- $alpha := add 15 (mul 85 (div (float $count) $maxMonth)) }}
+            <span class='{{ if ge $alpha 85 }}high{{ else if ge $alpha 70 }}mid{{ end }}' style='--a: {{ printf "%.0f%%" $alpha }}' title='{{ $label }}: {{ $count }} {{ cond (eq $count 1) "post" "posts" }}'>{{ $count }}</span>
+          {{- else }}
+            <span class='empty' title='{{ $label }}: no posts'></span>
+          {{- end }}
+        {{- end }}
+      {{- end }}
+    </div>
+  </div>
+
+  <div class='cols'>
+    <section>
+      <h2 id='trivia'>Trivia</h2>
+      <ul class='tb nw trivia'>
+        <li><span>Posts Per Year</span><span>{{ lang.FormatNumber 1 (div (float (len $posts)) $yearsOnline) }}</span></li>
+        <li><span>Words Per Writing</span><span>{{ lang.FormatNumber 0 (div (float ($s.Get "writingWords")) $writings) }}</span></li>
+        <li><span>Words Per Title</span><span>{{ lang.FormatNumber 1 (div (float ($s.Get "titleWords")) (len $posts)) }}</span></li>
+        <li><span>Busiest Month</span><span>{{ $busiestMonth }}, {{ $maxMonth }} posts</span></li>
+        <li><span>Longest Writing</span><span><a href='{{ $longest.RelPermalink }}' title='{{ $longest.Title }}'>{{ lang.FormatNumber 0 $longest.WordCount }} words</a></span></li>
+        <li><span>First Post</span><span><a href='{{ $first.RelPermalink }}'>{{ $first.Title }}, {{ $first.Date.Format "January 2006" }}</a></span></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2 id='weekdays'>Weekdays</h2>
+      <ul class='weekdays' aria-label='Posts per weekday. The busiest day is {{ $busiestDay }} with {{ $maxDay }} posts.'>
+        {{- range $dayNames }}
+          {{- $count := $s.Get (printf "d%s" (substr . 0 3)) | default 0 }}
+          <li{{ if eq . $busiestDay }} class='busiest'{{ end }} title='{{ . }}: {{ $count }} posts'>
+            <span>{{ substr . 0 3 }}</span>
+            <span class='track'><span style='--n: {{ printf "%.3f" (div (float $count) $maxDay) }}'></span></span>
+            <span class='count'>{{ $count }}</span>
+          </li>
+        {{- end }}
+      </ul>
+    </section>
+  </div>
+
+  <div class='cols'>
+    <section>
+      <header class='header-link'>
+        <h2 id='top-tags'>Top Tags</h2>
+        <a href='{{ (site.GetPage "/tags").RelPermalink }}' class='nl lg small'>All Tags →</a>
+      </header>
+      <ul class='tb nw'>
+        {{- range first 10 site.Taxonomies.tags.ByCount }}
+          <li><a href='{{ .Page.RelPermalink }}'>{{ .Page.Title }}</a><span class="tab lg small tr">{{ .Count }}</span></li>
+        {{- end }}
+      </ul>
+    </section>
+
+    <section>
+      <header class='header-link'>
+        <h2 id='most-linked-sites'>Most Linked Sites</h2>
+        <a href='{{ (site.GetPage "/external-links/").RelPermalink }}' class='nl lg small'>All Links →</a>
+      </header>
+      <ul class='tb nw'>
+        {{- range first 10 $sites }}
+          <li><span>{{ .domain }}</span><span class='tab lg small tr'>{{ .count }}</span></li>
+        {{- end }}
+      </ul>
+    </section>
+  </div>
+
+  <h2 id='logs'>Logs</h2>
+
+  {{- $reviews := where $posts "Params.tags" "intersect" (slice "book reviews") }}
+  {{- $logs := slice
+    (dict "title" "Movies" "page" "/logs/movies" "entries" hugo.Data.logs.movies)
+    (dict "title" "Shows" "page" "/logs/shows" "entries" hugo.Data.logs.shows)
+    (dict "title" "Books" "page" "/logs/readings" "entries" ((partial "fns/pages-as-logs" $reviews) | append hugo.Data.logs.readings))
+    (dict "title" "Performances" "page" "/logs/performances" "entries" hugo.Data.logs.performances)
+    (dict "title" "Coffee" "page" "/logs/coffee" "entries" hugo.Data.logs.coffee)
+    (dict "title" "Places" "page" "/logs/places" "entries" hugo.Data.logs.places)
+  }}
+
+  <div class='tiles logs'>
+    {{- range $logs }}
+      {{- $thisYear := 0 }}
+      {{- range .entries }}
+        {{- with .date }}{{ if eq (dateFormat "2006" .) (now.Format "2006") }}{{ $thisYear = add $thisYear 1 }}{{ end }}{{ end }}
+      {{- end }}
+      <a class='tile nl' href='{{ (site.GetPage .page).RelPermalink }}'>
+        <span class='label'>{{ .title }}</span>
+        <span class='num'>{{ lang.FormatNumber 0 (len .entries) }}</span>
+        <span class='sub'>{{ $thisYear }} in {{ now.Year }}</span>
+      </a>
+    {{- end }}
+  </div>
+{{ end }}

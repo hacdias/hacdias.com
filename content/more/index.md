@@ -17,6 +17,7 @@ Here you can find a list of every page that does not fit in the main navigation 
 - [🗞️ Blogroll](/blogroll/)
 - [🛠 Uses](/uses/)
 - [🗣️ Appearances](/appearances/)
+- [📊 Statistics](/stats/)
 - [💼 Resume](/resume/)
 - [🎁 Support Me](/support/)
 {.buttons #more-list}

@@ -1,0 +1,264 @@
+#main {
+  --tint: color-mix(in srgb, var(--c) 50%, var(--bg));
+  font-variant-numeric: tabular-nums;
+}
+
+.tiles {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1px;
+  padding: 0;
+  margin: var(--s2) 0;
+  background: var(--fg);
+  border: var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.logs {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.tile {
+  display: flex;
+  flex-direction: column;
+  padding: var(--s2);
+  background: var(--bg);
+}
+
+.tile > * {
+  margin: 0;
+}
+
+.tile dt,
+.tile .label {
+  font-weight: 600;
+}
+
+.tile .num {
+  order: -1;
+  font-size: var(--f1);
+  font-weight: 900;
+  line-height: 1.2;
+}
+
+.tile .sub {
+  color: var(--light-text);
+  font-size: var(--f5);
+}
+
+a.tile:hover {
+  color: inherit;
+  background: var(--mg);
+}
+
+a.tile:hover .num {
+  color: var(--c);
+}
+
+.legend,
+.weekdays {
+  padding: 0;
+  list-style: none;
+}
+
+:is(.legend, .weekdays) li {
+  margin: 0;
+}
+
+.legend {
+  display: flex;
+  gap: var(--s2);
+  margin: 0;
+}
+
+.legend li {
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+}
+
+.legend .key {
+  width: 0.75em;
+  height: 0.75em;
+  border-radius: 2px;
+}
+
+.writings {
+  background: var(--c);
+}
+
+.photos {
+  background: var(--tint);
+}
+
+.bars {
+  --h: 10rem;
+  --plot: calc(var(--h) + 1.5rem);
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(0, 1fr);
+  column-gap: var(--s1);
+  margin: var(--s2) 0;
+  color: var(--light-text);
+  font-size: var(--f5);
+  line-height: 1.2;
+  text-align: center;
+  /* Baseline, drawn here so it also runs through the gaps between bars. */
+  background: linear-gradient(var(--fg) 0 0) 0 var(--plot) / 100% 1px
+    no-repeat;
+}
+
+.bars .plot {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: var(--plot);
+}
+
+.bars .plot > :not(.total) {
+  height: calc(var(--n) * var(--h));
+}
+
+.bars .total {
+  margin-bottom: 0.25rem;
+}
+
+.bars .total + * {
+  border-radius: 3px 3px 0 0;
+}
+
+.bars .year {
+  display: block;
+  padding-top: var(--s1);
+}
+
+.bars .short {
+  display: none;
+}
+
+.scroll {
+  overflow-x: auto;
+  margin: var(--s2) 0;
+}
+
+.heatmap {
+  display: grid;
+  grid-template-columns: auto repeat(12, minmax(2.25rem, 1fr));
+  gap: 2px;
+  font-size: var(--f5);
+}
+
+.heatmap > span {
+  display: grid;
+  place-items: center;
+  height: 2rem;
+  border-radius: 3px;
+  background: color-mix(in srgb, var(--c) var(--a), transparent);
+}
+
+.heatmap .head {
+  height: auto;
+  color: var(--light-text);
+}
+
+.heatmap .year {
+  justify-items: end;
+  padding-right: var(--s1);
+}
+
+.heatmap .high {
+  color: var(--bg);
+}
+
+.heatmap .empty {
+  background: var(--mg);
+}
+
+.heatmap .out {
+  border: 1px dashed color-mix(in srgb, var(--light-text) 40%, transparent);
+}
+
+.cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 var(--s3);
+}
+
+.cols > * {
+  min-width: 0;
+}
+
+.trivia > li > :last-child {
+  color: var(--light-text);
+  text-align: right;
+}
+
+.weekdays {
+  display: grid;
+  grid-template-columns: max-content 1fr 3ch;
+  gap: 0 var(--s2);
+}
+
+.weekdays li {
+  display: grid;
+  grid-column: 1 / -1;
+  grid-template-columns: subgrid;
+  align-items: center;
+  padding: 0.25rem 0;
+}
+
+.weekdays li > :first-child {
+  font-weight: 600;
+}
+
+.weekdays .track {
+  height: 0.75rem;
+  border-radius: 3px;
+  background: color-mix(in srgb, var(--fg) 50%, var(--bg));
+}
+
+.weekdays .track > span {
+  display: block;
+  width: calc(var(--n) * 100%);
+  height: 100%;
+  border-radius: inherit;
+  background: var(--tint);
+}
+
+.weekdays .busiest .track > span {
+  background: var(--c);
+}
+
+.weekdays .count {
+  color: var(--light-text);
+  text-align: end;
+}
+
+@media (prefers-color-scheme: dark) {
+  .heatmap .mid {
+    color: var(--bg);
+  }
+}
+
+@media screen and (max-width: 50rem) {
+  .tiles {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .bars {
+    column-gap: 2px;
+  }
+
+  .bars .long {
+    display: none;
+  }
+
+  .bars .short {
+    display: inline;
+  }
+
+  .cols {
+    grid-template-columns: 1fr;
+  }
+}
