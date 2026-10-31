@@ -5,6 +5,14 @@ categories:
   - writings
 tags:
   - now
+  - meta
+  - entertainment
+  - life
+  - health
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mz5uvz5ok23j
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mz5uvz5ok23j
+  - https://fosstodon.org/@hacdias/117534583033769380
 ---
 
 October has been incredibly hectic. I've redesigned this website, I've been to two concerts and one comedy show, spent a few days in Amsterdam, I've written maybe way too many posts, and there's so much more happening. Let's recap!
