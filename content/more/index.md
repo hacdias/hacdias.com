@@ -34,7 +34,7 @@ I track many -- maybe too many -- things. Over the years, I've been replacing [s
 
 ## 📡 Subscribe {#subscribe}
 
-You can subscribe to this website using [feeds](https://aboutfeeds.com/), for writings, photos, or both. Your feed reader should automatically pick up the feed from the right page. If it doesn't, you can use the following URLs:
+You can subscribe to this website using a [feed](https://aboutfeeds.com/) reader, for writings, photos, or both. Personally, I use Miniflux and NetNewsWire, but there's hundreds of alternatives. Your feed reader should automatically pick up the feed from the right page. If it doesn't, you can use the following URLs:
 
 - <span>All Posts</span> <span>[Atom](/feed.xml), [JSON](/feed.json)</span>
 - <span>Writings</span> <span>[Atom](/writings/feed.xml), [JSON](/writings/feed.json)</span>

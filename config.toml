@@ -103,8 +103,6 @@ printPathWarnings = true
 
 [mediaTypes.'application/atom+xml']
   suffixes = ['xml']
-[mediaTypes.'text/xsl']
-  suffixes = ['xsl']
 [mediaTypes.'application/feed+json']
   suffixes = ['json']
 
@@ -123,23 +121,11 @@ printPathWarnings = true
     rel = 'alternate'
     noUgly = true
     permalinkable = false
-  [outputFormats.feedXsl]
-    baseName = 'feed'
-    mediaType = 'text/xsl'
-    isPlainText = true
-    notAlternative = true
-    noUgly = true
-  [outputFormats.sitemapXsl]
-    baseName = 'sitemap'
-    mediaType = 'text/xsl'
-    isPlainText = true
-    notAlternative = true
-    noUgly = true
 
 [outputs]
   taxonomy = ['HTML']
   term = ['HTML', 'ATOM', 'JSON']
-  home = ['HTML', 'ATOM', 'JSON', 'FEEDXSL', 'SITEMAPXSL']
+  home = ['HTML', 'ATOM', 'JSON']
   section = ['HTML']
   page = ['HTML']
 

@@ -15,6 +15,9 @@ Styling my RSS feeds is something that has been on my infinitely long list of th
 
 <!--more-->
 
+ℹ️ XSLT is being deprecated and removed from the web platform. [Read my update.](/2026/10/31/xslt/)
+{.box}
+
 Styling RSS feeds is simpler than one may think. There's just one thing you actually need: an [XSL file](https://www.w3.org/Style/XSL/WhatIsXSL.html). An XSL file can use XSLT to transform an XML file into HTML, and also apply inline styles. But by transforming the XML into HTML, you can also just link to a regular CSS stylesheet.
 
 The first step is to add a `xml-stylesheet` line to the top of the XML file you want to style, in this case, my feed. The `href` must point to a valid XSL file, otherwise browsers will fail to render the file.
@@ -27,7 +30,7 @@ The first step is to add a `xml-stylesheet` line to the top of the XML file you 
 </feed>
 ```
 
-I would recommend checking both Darek's [blog post](https://darekkay.com/blog/rss-styling/) for more details and for an example of his XSL file. In my case, you can find it [here](/feed.xsl). To give an example of what an XSL file looks like, here's an excerpt of mine, without some parts that are in all remaining webpages (header, navigation, footer, etc):
+I would recommend checking both Darek's [blog post](https://darekkay.com/blog/rss-styling/) for more details and for an example of his XSL file. ~~In my case, you can find it here.~~ To give an example of what an XSL file looks like, here's an excerpt of mine, without some parts that are in all remaining webpages (header, navigation, footer, etc):
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
