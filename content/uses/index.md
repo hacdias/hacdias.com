@@ -17,7 +17,7 @@ This page is inspired in the [uses.tech](https://uses.tech/) movement and its ma
 - **e-Reader** <span>[Kobo Clara BW](/2022/06/16/few-weeks-with-kobo/)</span>
 - **Console** <span>Nintendo Switch, PlayStation 5</span>
 - **Tracking Device** <span>AirTags</span>
-- **Auth Device** <span>YubiKeys for 2FA, GPG and SSH</span>
+- **Auth Device** <span>YubiKeys for 2FA and SSH</span>
 - **Wallet** <span>Secrid</span>
 - **Keychain** <span>Orbitkey Key Organizer</span>
 {.tb}
