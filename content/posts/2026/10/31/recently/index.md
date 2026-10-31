@@ -1,6 +1,6 @@
 ---
 title: Recently in October '26
-date: 2026-10-31T09:00:00+01:00
+date: 2026-10-31T11:00:00+01:00
 categories:
   - writings
 tags:
