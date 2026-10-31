@@ -68,7 +68,6 @@
   <link rel='indieauth-metadata' href='{{ absURL "/.well-known/oauth-authorization-server" }}'>
   <link rel='authorization_endpoint' href='{{ absURL "/auth" }}'>
   <link rel='token_endpoint' href='{{ absURL "/token" }}'>
-  <link rel='me pgpkey' href='{{ absURL "/pubkey.asc" }}'>
   <link rel="me" href="https://sifa.id/p/hacdias.com">
   {{ range .Site.Params.author.identities -}}
     <link rel='me' href='{{ . }}' />
