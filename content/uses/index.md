@@ -33,7 +33,7 @@ At home, we have two desks: one in our bedroom, and one in the guest bedroom. I 
 - **Monitor Stand** <span>IKEA SIGFINN</span>
 - **Monitor** <span>Dell U2723QE</span>
 - **Keyboard** <span>[NuPhy Air75 V2](/2024/09/29/long-term-review-nuphy-air-keyboards/)</span>
-- **Mouse** <span>Asus Strix Impact, Logitech MX Vertical</span>
+- **Mouse** <span>Asus Strix Impact</span>
 - **Laptop Stand** <span>Roost V3</span>
 - **Wireless Charger** <span>Twelve South HiRise 3 Deluxe</span>
 {.tb}

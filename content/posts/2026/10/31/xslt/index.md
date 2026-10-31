@@ -7,6 +7,12 @@ tags:
   - meta
   - rss
   - standards
+  - browsers
+  - web
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mz5ym3md623j
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mz5ym3md623j
+  - https://fosstodon.org/@hacdias/117534847035977182
 ---
 
 <abbr title="Extensible Stylesheet Language Transformations">XSLT</abbr> is being [deprecated](https://developer.chrome.com/docs/web-platform/deprecating-xslt) from the browser platform, and is planned to be fully removed in the coming year. I had already seen some posts [come by](https://janlukas.blog/micro/2026/10/2026-10-19-ydlop) that mentioned that they were replacing XSLT with something else, but I completely missed the gist. [RIP XSLT](https://xslt.rip/).

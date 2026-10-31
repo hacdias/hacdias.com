@@ -20,7 +20,7 @@ A few years later, in 2020, in the midst of the pandemic, I [moved](/2020/03/30/
 
 After finishing university, in 2022, I joined Protocol Labs full-time. About a year and a half in, I decided to say goodbye to the interplanetary journey, and join [Ver.iD](https://ver.id/), where I worked on building a platform to verify and issue verifiable credentials.
 
-Now, I work at [Animo Solutions](https://animo.id) on [Paradym](https://paradym.id), a SaaS for issuing and verifying digital credentials, as well as on the open-source identity libraries that power it. On the side, I work on multiple [open source](https://github.com/hacdias) projects, usually related to the IndieWeb and the AT Protocol.
+Now, I work at [Animo Solutions](https://animo.id) on [Paradym](https://paradym.id), a developer platform for issuing and verifying digital credentials, as well as on the open-source identity libraries that power it. On the side, I work on multiple [open source](https://github.com/hacdias) projects, usually related to the IndieWeb and the AT Protocol.
 
 ## Colophon {#colophon}
 
