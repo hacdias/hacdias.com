@@ -1,6 +1,6 @@
 ---
 title: Recently in October '26
-date: 2026-10-31T11:00:00+01:00
+date: 2026-10-31T09:30:00+01:00
 categories:
   - writings
 tags:
@@ -15,7 +15,7 @@ October has been incredibly hectic. I've redesigned this website, I've been to t
 
 After a dormant summer, this website is now seeing much more activity. Earlier this month, I introduced a new [design](/2026/10/13/redesign/), which I've tweaked slightly here and there since: less on-the-nose link underlines, improved inline code rendering, and some other things here and there. I am much happier with this design than with the previous iteration!
 
-I've also released a few more posts than usual. Some of them had been sitting as ideas in my drafts, so I just thought: why not? I've also updated Eagle to allow for scheduling posts, so that's nice. I've also revisited the existing pages to make sure everything was up to date, and re-introduced the [projects](/projects/) page, which had been gone for years.
+I've also released a few more posts than usual. Some of them had been sitting as ideas in my drafts, so I just thought: why not? I've also updated Eagle to allow for scheduling posts, so that's nice. I've also revisited the existing pages to make sure everything was up to date, and re-introduced the [projects](/projects/) page, which had been gone for years; as well as a [statistics](/stats/) page!
 
 If you end up lurking in my website's [repository](https://github.com/hacdias/hacdias.com), you may notice that the history now extends back to the original commit. When I re-open-sourcered my website [back in 2023](/2023/11/18/open-sourcering-my-website/) I had decided to only have the Git history since the moment I started using Hugo again. But after a bit of back and forth with Claude, I managed to get a copy of the history without any private posts or unmoderated comments, so that's nice.
 
