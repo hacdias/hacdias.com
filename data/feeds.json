@@ -197,7 +197,7 @@
     },
     {
       "title": "Robb Knight",
-      "site": "https://rknight.me/subscribe/posts/atom.xml",
+      "site": "https://rknight.me/",
       "feed": "https://rknight.me/subscribe/posts/atom.xml"
     },
     {
@@ -212,7 +212,7 @@
     },
     {
       "title": "Sebastiaan Andeweg",
-      "site": "https://seblog.nl/feed",
+      "site": "https://seblog.nl/",
       "feed": "https://seblog.nl/feed.rss"
     },
     {
@@ -244,6 +244,11 @@
       "title": "Volker Mische",
       "site": "http://vmx.cx/cgi-bin/blog/index.cgi",
       "feed": "https://vmx.cx/cgi-bin/blog/index.cgi/feed/"
+    },
+    {
+      "title": "Widdershins",
+      "site": "https://widdershins.verja.net/",
+      "feed": "https://widdershins.verja.net/feed/"
     },
     {
       "title": "Xe",
