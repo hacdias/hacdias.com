@@ -47,6 +47,7 @@
       <outline xmlUrl="https://rknight.me/subscribe/posts/atom.xml" text="Robb Knight" htmlUrl="https://rknight.me/" type="rss"></outline>
       <outline xmlUrl="https://berjon.com/feed.atom" text="Robin Berjon" htmlUrl="https://berjon.com/" type="rss"></outline>
       <outline xmlUrl="https://seirdy.one/atom.xml" text="Rohan Kumar" htmlUrl="https://seirdy.one" type="rss"></outline>
+      <outline xmlUrl="https://sals.place/index.xml" text="Sal" htmlUrl="https://sals.place/" type="rss"></outline>
       <outline xmlUrl="https://seblog.nl/feed.rss" text="Sebastiaan Andeweg" htmlUrl="https://seblog.nl/" type="rss"></outline>
       <outline xmlUrl="https://simonsafar.com/index.xml" text="Simon Safar" htmlUrl="https://simonsafar.com" type="rss"></outline>
       <outline xmlUrl="https://stanislas.blog/atom.xml" text="Stanislas" htmlUrl="https://stanislas.blog/" type="rss"></outline>

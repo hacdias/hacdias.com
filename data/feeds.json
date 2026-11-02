@@ -211,6 +211,11 @@
       "feed": "https://seirdy.one/atom.xml"
     },
     {
+      "title": "Sal",
+      "site": "https://sals.place/",
+      "feed": "https://sals.place/index.xml"
+    },
+    {
       "title": "Sebastiaan Andeweg",
       "site": "https://seblog.nl/",
       "feed": "https://seblog.nl/feed.rss"
