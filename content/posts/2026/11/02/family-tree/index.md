@@ -9,6 +9,10 @@ tags:
   - alentejo
   - archival
   - projects
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mzcqswab223j
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mzcqswab223j
+  - https://fosstodon.org/@hacdias/117545553431140232
 ---
 
 Not long ago, I decided to build my genealogy tree. I had started it once when I was a teen, but I didn't put that much effort into it. It probably stopped around my great-grandparents' generation and that was it. But this time I decided to dig deeper!
