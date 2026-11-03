@@ -24,6 +24,11 @@ printPathWarnings = true
 
 [markup]
   [markup.goldmark]
+    [markup.goldmark.extensions.passthrough]
+      enable = true
+      [markup.goldmark.extensions.passthrough.delimiters]
+        block = [['$$', '$$'], ['\[', '\]']]
+        inline = [['\(', '\)']]
     [markup.goldmark.renderer]
       unsafe = true
     [markup.goldmark.parser]

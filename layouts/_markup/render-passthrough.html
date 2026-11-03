@@ -1,0 +1,4 @@
+{{- $opts := dict "output" "mathml" "displayMode" (eq .Type "block") }}
+{{- with try (transform.ToMath .Inner $opts) }}
+  {{- with .Err }}{{ errorf "KaTeX: %s (%s)" . $.Position }}{{ else }}{{ .Value }}{{ end }}
+{{- end -}}
