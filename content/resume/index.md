@@ -132,7 +132,7 @@ Senior Software Engineer building open source systems and products in Go and Typ
   location="Pplware" href="https://pplware.sapo.pt"
   from="06/2013" to="09/2016" >}}
 
-- Wrote 400+ tutorials and tech articles for [Pplware](https://pplware.sapo.pt/author/henrique_dias/) and [Pplware Kids](https://kids.pplware.sapo.pt/author/henrique_dias/).
+- Wrote 400+ tutorials and tech articles for [Pplware](https://pplware.sapo.pt/author/henrique_dias/) and [Pplware Kids](https://web.archive.org/web/20260510090029/kids.pplware.sapo.pt/author/henrique_dias/).
 - Published a 60-page [e-book](https://media.hacdias.com/2015-02-27-aprenda-a-programar.pdf) on how to program in C for beginners at the age of 15.
 
 {{</ resume-position >}}
