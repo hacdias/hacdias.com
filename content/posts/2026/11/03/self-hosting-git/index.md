@@ -10,6 +10,10 @@ tags:
   - open source
   - self-hosting
   - infrastructure
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mzfoggvlm23e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mzfoggvlm23e
+  - https://fosstodon.org/@hacdias/117552156687329814
 ---
 
 Over the years, I've considered self-hosting a Git service multiple times. At the moment, virtually all of my code lives on GitHub, both private and public repositories. However, I never ended up doing it, and always because of some half-arsed excuse. But maybe I'm closer to doing it now.
