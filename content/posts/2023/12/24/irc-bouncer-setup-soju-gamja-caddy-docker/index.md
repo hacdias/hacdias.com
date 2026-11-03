@@ -11,6 +11,7 @@ tags:
   - caddy
   - self-hosting
 syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3khc4o33i423e
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3khc4o33i425c
   - https://fosstodon.org/@hacdias/111635436784320724
 ---
