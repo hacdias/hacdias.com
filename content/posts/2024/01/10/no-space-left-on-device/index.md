@@ -8,6 +8,7 @@ tags:
   - infrastructure
   - maintenance
   - tips
+  - self-hosting
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kimdrcorbg5c
 ---

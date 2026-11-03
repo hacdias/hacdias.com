@@ -8,6 +8,7 @@ tags:
   - infrastructure
   - automation
   - tracking
+  - self-hosting
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kji3b7pq2rf4
   - https://fosstodon.org/@hacdias/111805226174007741

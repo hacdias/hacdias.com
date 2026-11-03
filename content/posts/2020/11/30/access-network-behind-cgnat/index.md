@@ -8,6 +8,7 @@ tags:
   - networking
   - wireguard
   - infrastructure
+  - self-hosting
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hpdtmthc22ct
 ---
