@@ -28,7 +28,7 @@ That had a big impact on my next choice: an on-site job. I did not want to have 
 
 At that time, I found Animo Solutions, which worked in the same space, but with a much larger open-source focus. While the platform is closed-source, all of the underlying libraries that actually do the work, implement the specifications, and so forth, are open-source, and under the [OpenWallet Foundation](https://openwallet.foundation/). It's been a joy, from the people I met, to the work we do, to the projects and pilots we did.
 
-I've been working on and building so many features end to end, from reading the specifications and implementing the protocols, to designing how the full flow should work, the backend, the API and the UI, to writing changelogs and docs. This is definitely something I really enjoy. I don't want to fully be confined to a tiny piece of code, or, for example, just the backend and never have the opportunity to touch other areas. I like being able to see the whole process.
+I've been working on and building so many features end to end, from reading the specifications and implementing the protocols, to designing how the full flow should work, the backend, the API and the UI, to writing changelogs and docs. This is definitely something I really enjoy. I don't want to be fully confined to a single component, or, for example, to just the backend, without ever having the opportunity to touch other areas. I like being able to see the whole process.
 
 On the side, I've also been maintaining open-source projects for almost a decade now. It's crazy to me that File Browser recently reached 10 years, more than 35K stars and over 100M downloads. While I stand behind [archiving the project](/2026/07/28/filebrowser/), it's still something I'm proud of.
 
