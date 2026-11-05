@@ -6,6 +6,10 @@ categories:
 tags:
   - work
   - reflections
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mzij7rqq223e
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mzij7rqq223e
+  - https://fosstodon.org/@hacdias/117558529518111791
 ---
 
 I'm looking for a new role. Despite having mentioned it in a few blog posts over the past month, and adding a little ["Open to Work" notice](/2026/10/13/redesign/) in my website's header, I haven't really talked much about it here. Until now.
