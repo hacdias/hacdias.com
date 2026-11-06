@@ -1,5 +1,5 @@
 ---
-title: "TIL: Drop Columns a Release Later"
+title: 'TIL: Drop Columns a Release Later'
 date: 2026-11-12T09:00:00+01:00
 categories:
   - writings
