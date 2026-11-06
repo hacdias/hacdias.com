@@ -13,11 +13,11 @@ The past year I've been working a lot with certificates and trust management, wh
 
 <!--more-->
 
-For those who've worked with X.509 certificate management, you know what the problem is, and feel free to skip the whole post. However, I wanted to write a short post on why you can't just trust a leaf certificate. X.509 works with certificate chains.
+For those who've worked with [X.509](https://en.wikipedia.org/wiki/X.509) certificate management, you know what the problem is, and feel free to skip the whole post. However, I wanted to write a short post on why you can't just trust a leaf certificate. X.509 works with certificate chains.
 
-A certificate chain is a... chain of certificates where each certificate is signed by its issuer, the certificate above it. Usually, a CA has a root certificate, and issues intermediate CA certificates, which in turn issue leaf certificates from there on. You trust the CA, and therefore, trust all the certificates under it.
+A certificate chain is a... chain of certificates where each certificate is signed by its issuer, the certificate above it. Usually, a <abbr title="Certificate Authority">CA</abbr> has a root certificate, and issues intermediate CA certificates, which in turn issue leaf certificates from there on. You trust the CA, and therefore, trust all the certificates under it.
 
-The first problem with trusting a leaf certificate is that you can never check for its revocation. A leaf's revocation status is in a CRL (or OCSP response) which is signed by its issuer, which can either be the root, or an intermediate. If you trust the leaf but not its issuer, you can't trust the CRL either, so you can never find out whether the leaf is revoked or not.
+The first problem with trusting a leaf certificate is that you can never check for its revocation. A leaf's revocation status is in a <abbr title="Certificate Revocation List">CRL</abbr> (or <abbr title="Online Certificate Status Protocol">OCSP</abbr> response) which is signed by its issuer, which can either be the root, or an intermediate. If you trust the leaf but not its issuer, you can't trust the CRL either, so you can never find out whether the leaf is revoked or not.
 
 The second problem with trusting a leaf certificate is that leaves are made to be rotated fast. At least, fast in comparison to the root certificates. A root certificate usually lives for 10 to 25 years. A leaf certificate, on the other hand, can be much shorter, just a few months, for example. Trust would break on every single renewal, and you'd need to once again go update the trust anchors.
 
