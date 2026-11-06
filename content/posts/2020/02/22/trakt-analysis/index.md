@@ -7,6 +7,7 @@ categories:
 tags:
   - year in popcorn
   - meta
+  - tracking
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqmyexrv42b
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gza7e6qys2ct

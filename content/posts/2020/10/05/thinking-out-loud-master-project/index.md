@@ -6,7 +6,6 @@ categories:
   - writings
 tags:
   - masters
-  - thesis
   - university
   - reflections
   - decentralization

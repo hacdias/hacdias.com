@@ -16,6 +16,9 @@ location:
   countryCode: NL
 categories:
   - photos
+tags:
+  - eindhoven
+  - netherlands
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mkimlw6jzxvi
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3mkimlw6jzxvi

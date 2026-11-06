@@ -17,6 +17,7 @@ tags:
   - london
   - health
   - entertainment
+  - meta
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mncmeeegu2li
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mncmeeegu2li

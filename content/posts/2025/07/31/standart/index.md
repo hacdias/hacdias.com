@@ -13,7 +13,6 @@ categories:
 tags:
   - coffee
   - reviews
-  - magazine reviews
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lvahv4f4zc2d
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lvahh2gq22f4

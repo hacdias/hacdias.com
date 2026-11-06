@@ -6,7 +6,6 @@ categories:
 tags:
   - docker
   - infrastructure
-  - maintenance
   - tips
   - self-hosting
 syndication:

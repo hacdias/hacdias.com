@@ -5,7 +5,6 @@ categories:
   - writings
 tags:
   - programming
-  - software
   - terminal
   - tips
 syndication:

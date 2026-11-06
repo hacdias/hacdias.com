@@ -5,7 +5,6 @@ date: 2023-10-20T09:05:20+02:00
 categories:
   - writings
 tags:
-  - life
   - milestones
   - personal growth
 syndication:

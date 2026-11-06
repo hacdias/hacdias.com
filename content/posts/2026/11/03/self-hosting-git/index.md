@@ -10,6 +10,7 @@ tags:
   - open source
   - self-hosting
   - infrastructure
+  - social web
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mzfoggvlm23e
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mzfoggvlm23e

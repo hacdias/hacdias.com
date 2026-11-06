@@ -5,7 +5,6 @@ categories:
   - writings
 tags:
   - coffee
-  - filter coffee
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ki63evg4s25c
   - https://fosstodon.org/@hacdias/111699023046664660

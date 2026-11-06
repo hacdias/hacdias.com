@@ -5,7 +5,7 @@ date: 2016-11-25T00:00:00Z
 categories:
   - writings
 tags:
-  - computers
+  - computer science
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3e44natvk22ct
 ---

@@ -7,7 +7,7 @@ tags:
   - now
   - meta
   - entertainment
-  - life
+  - work
   - health
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mz5uvz5ok23j

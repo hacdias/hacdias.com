@@ -5,8 +5,6 @@ categories:
   - writings
 tags:
   - coffee
-  - espresso coffee
-  - workshops
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3l5y6tws3eg24
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l5y4wuei62f4

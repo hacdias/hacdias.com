@@ -7,7 +7,6 @@ categories:
 tags:
   - programming
   - javascript
-  - nodejs
   - terminal
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3cmncmty7u2ct

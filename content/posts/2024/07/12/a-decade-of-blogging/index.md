@@ -7,6 +7,7 @@ tags:
   - personal website
   - milestones
   - personal growth
+  - meta
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kx3f2oqosdf4
 ---

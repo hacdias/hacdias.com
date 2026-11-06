@@ -5,11 +5,12 @@ categories:
   - writings
 tags:
   - fosdem
-  - conference
   - open source
   - belgium
   - at protocol
   - infrastructure
+  - social web
+  - dns
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3me2lw26g7k2z
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3me2lqhtoy2f4

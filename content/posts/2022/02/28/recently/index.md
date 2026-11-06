@@ -9,6 +9,7 @@ tags:
   - travel
   - museums
   - covid19
+  - masters
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3it42kw7qwxct
 aliases:

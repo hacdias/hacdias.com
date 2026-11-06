@@ -6,8 +6,7 @@ categories:
   - writings
 tags:
   - programming
-  - mysql
-  - sql
+  - databases
   - portugues
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3byenwnrqq2ct

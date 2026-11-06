@@ -5,7 +5,6 @@ categories:
   - writings
 tags:
   - hardware
-  - keyboards
   - reviews
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l5bxykokk2f4

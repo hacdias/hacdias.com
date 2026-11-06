@@ -6,7 +6,7 @@ categories:
 tags:
   - now
   - university
-  - thesis
+  - masters
   - milestones
   - travel
   - italy

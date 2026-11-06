@@ -5,6 +5,7 @@ categories:
   - writings
 tags:
   - app defaults
+  - tools
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3merb5e2u4f2h
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kdocesoma25c

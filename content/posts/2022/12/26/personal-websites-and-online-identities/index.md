@@ -7,7 +7,7 @@ tags:
   - personal website
   - meta
   - indieweb
-  - fediverse
+  - social web
   - reflections
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jkr7zynqnbln

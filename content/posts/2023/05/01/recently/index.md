@@ -11,6 +11,7 @@ tags:
   - france
   - dutch
   - entertainment
+  - language learning
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3juo2vcfkc25c
 aliases:

@@ -8,6 +8,7 @@ tags:
   - entertainment
   - health
   - university
+  - masters
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jiqdszqaguln
 aliases:

@@ -13,7 +13,6 @@ categories:
 tags:
   - artificial intelligence
   - programming
-  - nodejs
   - tools
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqcyr7bytn23

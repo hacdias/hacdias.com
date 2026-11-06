@@ -17,6 +17,7 @@ tags:
   - portugal
   - health
   - entertainment
+  - at protocol
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mpjfckwd62p7
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mpjfckwd62p7

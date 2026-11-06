@@ -5,6 +5,7 @@ categories:
   - writings
 tags:
   - year in music
+  - spotify wrapped
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3ki3jxcmry25c
 ---

@@ -33,6 +33,8 @@ tags:
   - eindhoven
   - forest
   - netherlands
+  - heathland
+  - nature
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3myop5rmcw27f
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/social.grain.gallery/3myop5rmcw27f

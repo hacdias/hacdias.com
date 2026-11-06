@@ -5,7 +5,6 @@ categories:
   - writings
 tags:
   - email
-  - backup
   - infrastructure
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hn5gl2kc22ct

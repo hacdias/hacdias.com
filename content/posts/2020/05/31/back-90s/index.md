@@ -7,7 +7,6 @@ categories:
 tags:
   - personal website
   - meta
-  - small web
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3meqmz7ttbz2s
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3haz37zdz22ct

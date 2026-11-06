@@ -11,7 +11,6 @@ location:
 categories:
   - writings
 tags:
-  - small web
   - personal website
   - fun
 syndication:

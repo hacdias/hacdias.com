@@ -7,7 +7,6 @@ tags:
   - programming
   - testing
   - javascript
-  - time zones
   - story time
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3myc2qxaj2272

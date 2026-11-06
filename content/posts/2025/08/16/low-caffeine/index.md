@@ -12,7 +12,6 @@ categories:
   - writings
 tags:
   - coffee
-  - espresso coffee
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lwjxtpqaww23
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lwjxowzk62f4

@@ -5,7 +5,6 @@ categories:
   - writings
 tags:
   - fosdem
-  - conference
   - open source
   - belgium
 syndication:

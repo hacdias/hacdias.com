@@ -7,7 +7,6 @@ tags:
   - programming
   - c
   - cpp
-  - csharp
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3e2ac2qtk22ct
 ---

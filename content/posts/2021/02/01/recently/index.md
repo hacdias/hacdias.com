@@ -8,6 +8,7 @@ tags:
   - masters
   - university
   - covid19
+  - dutch
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hucaytik22ct
 aliases:

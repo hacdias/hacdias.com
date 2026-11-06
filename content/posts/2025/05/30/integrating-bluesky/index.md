@@ -14,6 +14,7 @@ tags:
   - meta
   - indieweb
   - at protocol
+  - social web
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lqftbiddfi2x
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lqftbcwh6kf4

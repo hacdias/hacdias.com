@@ -7,7 +7,6 @@ tags:
   - now
   - meta
   - photography
-  - thesis
   - university
   - masters
 syndication:

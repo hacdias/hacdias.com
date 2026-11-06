@@ -13,6 +13,7 @@ categories:
 tags:
   - running
   - sports
+  - health
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lwlkszxrdx2t
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lwlks4biu2f4

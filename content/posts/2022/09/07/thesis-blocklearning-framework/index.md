@@ -6,11 +6,10 @@ categories:
   - writings
 tags:
   - masters
-  - thesis
   - university
   - publications
   - milestones
-  - machine learning
+  - artificial intelligence
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3jc4ycrxfjnnj
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3jc4ycrxfjnln

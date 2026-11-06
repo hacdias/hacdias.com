@@ -5,8 +5,6 @@ lastmod: 2021-05-30T13:00:19.480977071Z
 categories:
   - writings
 tags:
-  - networking
-  - wireguard
   - infrastructure
   - self-hosting
 syndication:

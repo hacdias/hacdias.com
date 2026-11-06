@@ -12,7 +12,6 @@ categories:
   - writings
 tags:
   - reflections
-  - life
   - friends
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lw4zn5eltsf4

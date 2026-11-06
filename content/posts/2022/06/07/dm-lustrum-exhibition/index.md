@@ -29,6 +29,7 @@ categories:
 tags:
   - milestones
   - art
+  - photography
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3j2uvh6wrsect
 grid:

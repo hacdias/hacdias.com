@@ -8,6 +8,7 @@ tags:
   - meta
   - indieweb
   - tracking
+  - reading
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3gxdzzttqk2nj
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3gxdzzttqk2ct

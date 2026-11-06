@@ -10,6 +10,7 @@ tags:
   - spain
   - reading
   - entertainment
+  - health
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3l7xgqj5nal2l
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3l7xgmeqba2f4

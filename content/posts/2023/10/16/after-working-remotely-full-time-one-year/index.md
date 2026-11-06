@@ -7,7 +7,7 @@ tags:
   - work
   - reflections
   - personal growth
-  - life
+  - ipfs
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kbtvyfoxu25c
   - https://fosstodon.org/@hacdias/111243133168425921

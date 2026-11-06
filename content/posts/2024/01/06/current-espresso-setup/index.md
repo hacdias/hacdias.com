@@ -5,7 +5,6 @@ categories:
   - writings
 tags:
   - coffee
-  - espresso coffee
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3kicjceyci25c
 ---

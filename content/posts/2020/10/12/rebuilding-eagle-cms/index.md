@@ -7,7 +7,7 @@ categories:
 tags:
   - meta
   - go
-  - fediverse
+  - social web
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3hlijggnb22ct
 ---

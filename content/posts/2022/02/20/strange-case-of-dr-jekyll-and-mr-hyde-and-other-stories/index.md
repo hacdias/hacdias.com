@@ -7,7 +7,6 @@ tags:
   - reviews
   - book reviews
   - fiction
-  - literature
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3isivxiu4ifct
 rating: 6

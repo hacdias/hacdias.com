@@ -12,6 +12,7 @@ categories:
   - writings
 tags:
   - at protocol
+  - social web
   - tools
   - links
 syndication:

@@ -8,6 +8,7 @@ tags:
   - work
   - reflections
   - personal growth
+  - ipfs
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3krtdwsigo2f4
 ---

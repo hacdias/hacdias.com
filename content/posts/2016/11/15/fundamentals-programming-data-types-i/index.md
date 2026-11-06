@@ -7,7 +7,6 @@ tags:
   - c
   - programming
   - computer science
-  - data types
   - fundamentals of programming
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3e3dilnc222ct

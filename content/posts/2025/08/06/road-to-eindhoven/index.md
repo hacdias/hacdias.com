@@ -16,6 +16,7 @@ tags:
   - netherlands
   - eindhoven
   - masters
+  - university
 syndication:
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3lvpyi73vjc2q
   - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3lvpyeu5yk2f4

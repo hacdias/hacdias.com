@@ -12,7 +12,6 @@ location:
 categories:
   - writings
 tags:
-  - software
   - programming
   - fun
   - links
