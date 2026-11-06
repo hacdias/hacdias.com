@@ -1,12 +1,12 @@
 ---
 title: You Can't Trust a Leaf Certificate
-date: 2026-11-11T09:00:00+01:00
+date: 2026-11-08T09:00:00+01:00
+categories:
+  - writings
 tags:
   - work
   - security
   - standards
-categories:
-  - writings
 ---
 
 The past year I've been working a lot with certificates and trust management, which can, sometimes, yield its own fun stories and learnings. Here's one: say you're given a leaf certificate and its intermediate, but not the root. Which one do you trust? Trusting the leaf may look reasonable, since that is the certificate they sign with, but it defeats the whole purpose of a trust anchor.

@@ -1,6 +1,6 @@
 ---
 title: Archive Web Pages You Care About
-date: 2026-11-09T14:00:00+01:00
+date: 2026-11-06T14:00:00+01:00
 categories:
   - writings
 tags:

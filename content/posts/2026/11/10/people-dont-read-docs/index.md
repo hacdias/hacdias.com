@@ -1,14 +1,14 @@
 ---
 title: People Don't Read Docs
-date: 2026-11-13T09:00:00+01:00
+date: 2026-11-10T09:00:00+01:00
+categories:
+  - writings
 tags:
   - programming
   - open source
   - reflections
   - file browser
   - ipfs
-categories:
-  - writings
 ---
 
 Through the years, I've learned many things, and one of them is that people don't read documentation. And even when they do, there can always be misunderstandings. But today I want to focus on one specific part of documentation that people don't read: changelogs, news, upgrade notices, all of those little things you should pay attention to when updating software.
