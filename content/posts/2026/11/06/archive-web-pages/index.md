@@ -8,6 +8,10 @@ tags:
   - web
   - self-hosting
   - tools
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mzngsdgx22ke
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mzngsdgx22ke
+  - https://fosstodon.org/@hacdias/117569618210920846
 ---
 
 While cleaning up my resumé for my [current job search](/2026/10/31/recently/), I noticed one single link was no longer working. The offender was a blog I wrote almost 400 posts for, a few years back. This blog, Pplware Kids, was a branch of [Pplware](/2017/07/12/how-did-i-start-working-remotely-at-a-startup/), a Portuguese tech blog. There, I wrote many explainer posts, tutorials, and tech news. Now, it is gone.
