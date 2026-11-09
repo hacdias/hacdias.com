@@ -7,6 +7,10 @@ tags:
   - work
   - security
   - standards
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mzrwxqa222ke
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mzrwxqa222ke
+  - https://fosstodon.org/@hacdias/117579763614223840
 ---
 
 The past year I've been working a lot with certificates and trust management, which can, sometimes, yield its own fun stories and learnings. Here's one: say you're given a leaf certificate and its intermediate, but not the root. Which one do you trust? Trusting the leaf may look reasonable, since that is the certificate they sign with, but it defeats the whole purpose of a trust anchor.
