@@ -58,24 +58,111 @@ function parseEmojis() {
 
 function setupPreview() {
   const preview = document.createElement('div')
-
   preview.id = 'preview'
   preview.className = 'dn'
-  preview.addEventListener('click', () => {
-    preview.classList.add('dn')
-    preview.innerHTML = ''
-  })
-
   document.body.appendChild(preview)
+
+  let thumb = null
+
+  const animate = (update) => {
+    if (
+      !document.startViewTransition ||
+      matchMedia('(prefers-reduced-motion: reduce)').matches
+    ) {
+      update()
+      return Promise.resolve()
+    }
+    return document.startViewTransition(update).finished
+  }
+
+  // Largest resized candidate in the same format the browser picked for the
+  // thumbnail, or the original upload if the screen can show more than that.
+  const largestSrc = (img, ratio) => {
+    const sources = Array.from(
+      img.closest('picture')?.querySelectorAll('source') ?? [],
+    )
+    const source =
+      sources.find((s) => s.srcset.includes(img.currentSrc)) ?? sources[0]
+
+    if (!source) {
+      return img.src
+    }
+
+    const [src, w] = source.srcset
+      .split(',')
+      .map((c) => c.trim().split(/\s+/))
+      .sort((a, b) => parseInt(b[1]) - parseInt(a[1]))[0]
+    const largest = parseInt(w)
+    const needed = Math.min(innerWidth, innerHeight * ratio) * devicePixelRatio
+
+    if (
+      img.dataset.original &&
+      needed > largest &&
+      img.getAttribute('width') > largest
+    ) {
+      return img.dataset.original
+    }
+
+    return src
+  }
+
+  const open = async (img) => {
+    const ratio =
+      img.naturalWidth / img.naturalHeight ||
+      img.getAttribute('width') / img.getAttribute('height')
+
+    const full = new Image()
+    full.alt = img.alt
+    full.src = img.currentSrc || img.src // Already downloaded for thumbnail
+    full.style.setProperty('--ratio', ratio)
+    await full.decode().catch(() => {})
+
+    thumb = img
+    img.style.viewTransitionName = 'lightbox'
+    animate(() => {
+      img.style.viewTransitionName = ''
+      full.style.viewTransitionName = 'lightbox'
+      preview.replaceChildren(full)
+      preview.classList.remove('dn')
+    })
+
+    // Swap in the high-resolution version once it's ready.
+    const hi = largestSrc(img, ratio)
+    if (hi !== full.src) {
+      const big = new Image()
+      big.src = hi
+      big.decode().then(
+        () => {
+          if (preview.contains(full)) full.src = hi
+        },
+        () => {},
+      )
+    }
+  }
+
+  const close = () => {
+    if (!thumb) return
+    const img = thumb
+    thumb = null
+    animate(() => {
+      img.style.viewTransitionName = 'lightbox'
+      preview.classList.add('dn')
+      preview.replaceChildren()
+    }).finally(() => {
+      img.style.viewTransitionName = ''
+    })
+  }
+
+  preview.addEventListener('click', close)
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') close()
+  })
 
   const images = document.querySelectorAll('article figure img')
   Array.from(images).forEach((img) => {
     if (img.closest('.card, a')) return
     img.style.cursor = 'zoom-in'
-    img.addEventListener('click', () => {
-      preview.classList.remove('dn')
-      preview.innerHTML = `<img src="${img.src}">`
-    })
+    img.addEventListener('click', () => open(img))
   })
 }
 

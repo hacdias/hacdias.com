@@ -653,8 +653,22 @@ main pre {
   font-size: var(--f5);
 }
 
+#preview {
+  container-type: size;
+}
+
 #preview img {
-  max-height: 100%;
+  /* Fit the viewport and keep the box fixed when the high-res src swaps in. */
+  width: min(100cqw, 100cqh * var(--ratio));
+  height: auto;
+  aspect-ratio: var(--ratio);
+}
+
+/* Grid thumbnails are cropped (object-fit: cover), so uncrop during the morph. */
+::view-transition-old(lightbox),
+::view-transition-new(lightbox) {
+  height: 100%;
+  object-fit: cover;
 }
 
 .fg {
@@ -769,7 +783,7 @@ ul.tb > li:not(.tbm) > *:first-child,
   width: 100%;
 }
 
-.tb summary::marker, /* Latest Chrome, Edge, Firefox */
+.tb summary::marker /* Latest Chrome, Edge, Firefox */,
 .tb summary::-webkit-details-marker /* Safari */ {
   display: none;
 }

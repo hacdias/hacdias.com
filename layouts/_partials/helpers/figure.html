@@ -34,7 +34,8 @@
 		{{ with .Class }}class="{{ . }}"{{ end }}
 		{{ with .Style }}style="{{ . | safeCSS }}"{{ end }}
 	{{ end }}
-	{{- with .Title }} title="{{ . }}"{{ end }} loading="lazy" >
+	{{- with .Title }} title="{{ . }}"{{ end }}
+	{{- with $id }} data-original="https://media.hacdias.com/{{ . }}.jpeg"{{ end }} loading="lazy" >
 
 {{- if .IsBlock }}
 		</picture>
