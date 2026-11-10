@@ -21,8 +21,8 @@
 		<picture>
 		{{- if $id }}
 			{{ $sizes := or .Sizes (slice 600 900 1800) }}
-			<source srcset="{{ range $i, $s := $sizes }}{{ if ne $i 0 }}, {{ end }}{{ printf "https://media.hacdias.com/image/%d/%s.webp" $s $id }} {{ $s }}w{{ end }}" type="image/webp">
-			<source srcset="{{ range $i, $s := $sizes }}{{ if ne $i 0 }}, {{ end }}{{ printf "https://media.hacdias.com/image/%d/%s.jpeg" $s $id }} {{ $s }}w{{ end }}" type="image/jpeg">
+			<source srcset="{{ range $i, $s := $sizes }}{{ if ne $i 0 }}, {{ end }}{{ printf "https://media.hacdias.com/image/%d/%s.webp" $s $id }} {{ $s }}w{{ end }}"{{ with .SizesAttr }} sizes="{{ . }}"{{ end }} type="image/webp">
+			<source srcset="{{ range $i, $s := $sizes }}{{ if ne $i 0 }}, {{ end }}{{ printf "https://media.hacdias.com/image/%d/%s.jpeg" $s $id }} {{ $s }}w{{ end }}"{{ with .SizesAttr }} sizes="{{ . }}"{{ end }} type="image/jpeg">
 		{{- end }}
 {{- end }}
 

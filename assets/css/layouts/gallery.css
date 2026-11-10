@@ -1,18 +1,83 @@
+/* Columns at least 10rem wide, at most 4 of them. */
 .archive {
-  grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+  grid-template-columns: repeat(
+    auto-fill,
+    minmax(max(10rem, (100% - 3rem) / 4), 1fr)
+  );
 }
 
-.archive img {
-  aspect-ratio: 1;
-  object-fit: cover;
+/* Fallback masonry layout for browsers that don't support grid-lanes */
+@supports not (display: grid-lanes) {
+  /* Containers don't collapse margins, so take .fg's margin here. */
+  .archive-container {
+    container-type: inline-size;
+    margin-block: var(--s2);
+  }
+
+  .archive {
+    --n: 1;
+    --h: var(--h1);
+    --w: calc((100cqw - (var(--n) - 1) * 1rem) / var(--n));
+    display: block;
+    position: relative;
+    height: var(--h);
+    margin: 0;
+  }
+
+  .archive > a {
+    --x: var(--x1, 0);
+    --y: var(--y1, 0);
+    --m: var(--m1, 0);
+    position: absolute;
+    top: calc(var(--y) * var(--w) + var(--m) * 1rem);
+    left: calc(var(--x) * (var(--w) + 1rem));
+    width: var(--w);
+    height: calc(var(--r) * var(--w));
+    transition: none;
+  }
+
+  @container (min-width: 21rem) {
+    .archive {
+      --n: 2;
+      --h: var(--h2);
+    }
+
+    .archive > a {
+      --x: var(--x2, 0);
+      --y: var(--y2, 0);
+      --m: var(--m2, 0);
+    }
+  }
+
+  @container (min-width: 32rem) {
+    .archive {
+      --n: 3;
+      --h: var(--h3);
+    }
+
+    .archive > a {
+      --x: var(--x3, 0);
+      --y: var(--y3, 0);
+      --m: var(--m3, 0);
+    }
+  }
+
+  @container (min-width: 43rem) {
+    .archive {
+      --n: 4;
+      --h: var(--h4);
+    }
+
+    .archive > a {
+      --x: var(--x4, 0);
+      --y: var(--y4, 0);
+      --m: var(--m4, 0);
+    }
+  }
 }
 
 @supports (display: grid-lanes) {
   .archive {
     display: grid-lanes;
-  }
-
-  .archive img {
-    aspect-ratio: auto;
   }
 }

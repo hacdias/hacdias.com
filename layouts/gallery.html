@@ -8,22 +8,90 @@
 
   {{ partialCached "post/content" . .Permalink }}
 
-  <div class='fg archive wide'>
-    {{ range $page := $page.Pages }}
-      {{ range $photo := .Params.photos }}
-        <a href='{{ $page.RelPermalink }}'>
+  {{- /*
+    Masonry fallback for browsers without grid-lanes. For each column count N (1 to $maxCols, which must match the columns and container queries in
+    gallery.css), photos go into the shortest column, scored at a width in the middle of the container widths (rem) that give N columns. Items get
+    --r (height/width) plus, per N, column --xN, ratio sum above --yN and photo count above --mN; the grid gets its height --hN. gallery.css picks N with
+    container queries.
+  */}}
+  {{- $maxCols := 4 }}
+  {{- $cols := newScratch }}
+  {{- range $n := seq $maxCols }}
+    {{- range $c := seq 0 (sub $n 1) }}
+      {{- $cols.SetInMap "s" (printf "%d-%d" $n $c) 0 }}
+      {{- $cols.SetInMap "m" (printf "%d-%d" $n $c) 0 }}
+    {{- end }}
+  {{- end }}
+
+  {{- $items := slice }}
+  {{- range $page := $page.Pages }}
+    {{- range $photo := .Params.photos }}
+      {{- if not (and $photo.width $photo.height) }}
+        {{- errorf "gallery: photo %s in %s has no width/height" $photo.url $page.File.Path }}
+      {{- end }}
+      {{- /* Ratios and sums are kept as integers in units of 1e-4. */}}
+      {{- $r := int (math.Round (mul 10000 (div (float $photo.height) $photo.width))) }}
+      {{- $style := printf "--r: %v" (div (float $r) 10000) }}
+      {{- range $n := seq $maxCols }}
+        {{- $W := div (add (sub (mul 11 $n) 1) (cond (eq $n $maxCols) 80 (add (mul 11 $n) 10))) 2.0 }}
+        {{- $w := div (sub $W (sub $n 1)) $n }}
+        {{- $best := 0 }}
+        {{- $bestH := 0.0 }}
+        {{- range $c := seq 0 (sub $n 1) }}
+          {{- $k := printf "%d-%d" $n $c }}
+          {{- $h := add (mul (index ($cols.Get "s") $k) $w 0.0001) (index ($cols.Get "m") $k) }}
+          {{- if or (eq $c 0) (lt $h $bestH) }}
+            {{- $best = $c }}
+            {{- $bestH = $h }}
+          {{- end }}
+        {{- end }}
+        {{- $k := printf "%d-%d" $n $best }}
+        {{- $s := index ($cols.Get "s") $k }}
+        {{- $m := index ($cols.Get "m") $k }}
+        {{- with $best }}{{ $style = printf "%s; --x%d: %d" $style $n . }}{{ end }}
+        {{- with $s }}{{ $style = printf "%s; --y%d: %v" $style $n (div (float .) 10000) }}{{ end }}
+        {{- with $m }}{{ $style = printf "%s; --m%d: %d" $style $n . }}{{ end }}
+        {{- $cols.SetInMap "s" $k (add $s $r) }}
+        {{- $cols.SetInMap "m" $k (add $m 1) }}
+      {{- end }}
+      {{- $items = $items | append (dict "page" $page "photo" $photo "style" $style) }}
+    {{- end }}
+  {{- end }}
+
+  {{- $heights := slice }}
+  {{- range $n := seq $maxCols }}
+    {{- $terms := slice }}
+    {{- range $c := seq 0 (sub $n 1) }}
+      {{- $k := printf "%d-%d" $n $c }}
+      {{- with index ($cols.Get "m") $k }}
+        {{- $terms = $terms | append (printf "calc(%v * var(--w) + %drem)" (div (float (index ($cols.Get "s") $k)) 10000) (sub . 1)) }}
+      {{- end }}
+    {{- end }}
+    {{- $heights = $heights | append (printf "--h%d: max(%s)" $n (delimit $terms ", ")) }}
+  {{- end }}
+
+  {{- /*
+    Column width per viewport for sizes: the grid is min(100vw - 2rem, 80rem) wide and changes column count at the container widths in gallery.css.
+  */}}
+  {{- $colSizes := "(min-width: 82rem) 20rem, (min-width: 45rem) 25vw, (min-width: 34rem) 34vw, (min-width: 23rem) 50vw, 100vw" }}
+
+  <div class='wide archive-container'>
+    <div class='fg archive' data-preview-links style='{{ delimit $heights "; " | safeCSS }}'>
+      {{ range $items }}
+        <a href='{{ .page.RelPermalink }}' data-title='{{ .page.Title }}' data-date='{{ .page.Date.Format "2 January 2006" }}' style='{{ .style | safeCSS }}'>
           {{ partial "helpers/figure" (dict
-              "Destination" $photo.url 
-              "Title" $photo.title
-              "Alt" (or $photo.alt $photo.title)
-              "Width" $photo.width
-              "Height" $photo.height 
-              "IsBlock" true 
-              "Sizes" (slice 600 900) 
-              "Page" $page
+              "Destination" .photo.url
+              "Title" .photo.title
+              "Alt" (or .photo.alt .photo.title)
+              "Width" .photo.width
+              "Height" .photo.height
+              "IsBlock" true
+              "Sizes" (slice 600 900 1800)
+              "SizesAttr" $colSizes
+              "Page" .page
             )}}
         </a>
       {{ end }}
-    {{ end }}
+    </div>
   </div>
 {{ end }}
