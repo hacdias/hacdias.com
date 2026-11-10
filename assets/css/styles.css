@@ -632,29 +632,107 @@ main pre {
 }
 
 #preview {
+  --bottom: 72px; /* Height of the bottom area, which also bounds the image. */
+  --edge: 24px; /* Distance of the bar and the arrows from the sides. */
   position: fixed;
   inset: 0;
   z-index: 9999;
-  padding: 2.5rem var(--s3);
-  background: rgba(255, 255, 255, 0.9);
-  color: black;
+  padding: 72px 96px var(--bottom);
+  background: var(--bg);
+  font-size: 13px;
+  color: var(--light-text);
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: zoom-out;
+  container-type: size;
 }
 
-#preview::after {
-  content: 'tap anywhere to close';
+#preview .bar {
+  position: absolute;
+  inset: 0 0 auto;
+  height: 72px;
+  padding: 0 var(--edge);
+  display: flex;
+  align-items: center;
+}
+
+#preview button {
+  width: 44px;
+  height: 44px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+}
+
+#preview button:disabled {
+  opacity: 0.3;
+  cursor: default;
+  border-color: var(--fg);
+  color: var(--text);
+}
+
+#preview .close {
+  margin-left: auto;
+}
+
+#preview :is(.prev, .next) {
+  position: absolute;
+  z-index: 1; /* Above .info, which spans the mobile bottom row. */
+  top: calc(50% - 22px);
+}
+
+#preview .prev {
+  left: var(--edge);
+}
+
+#preview .next {
+  right: var(--edge);
+}
+
+#preview .info {
   position: absolute;
   inset: auto 0 0;
-  text-align: center;
-  line-height: 2.5rem;
-  font-size: var(--f5);
+  height: var(--bottom);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-#preview {
-  container-type: size;
+#preview .caption {
+  display: none;
+  align-items: baseline;
+  gap: 12px;
+  max-width: 100%;
+  padding: 0 16px;
+  white-space: nowrap;
+  cursor: default;
+}
+
+#preview.captioned .caption {
+  display: flex;
+}
+
+#preview .caption strong {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--text);
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#preview .caption :empty {
+  display: none;
+}
+
+#preview .post {
+  font-weight: 600;
+  color: var(--c);
+  text-decoration: none;
+}
+
+#preview.single :is(.count, .prev, .next) {
+  display: none;
 }
 
 #preview img {
@@ -662,6 +740,7 @@ main pre {
   width: min(100cqw, 100cqh * var(--ratio));
   height: auto;
   aspect-ratio: var(--ratio);
+  cursor: default;
 }
 
 /* Grid thumbnails are cropped (object-fit: cover), so uncrop during the morph. */
@@ -891,11 +970,6 @@ figure,
     --h-c: hsl(205 55% 70%);
   }
 
-  #preview {
-    background: rgba(0, 0, 0, 0.9);
-    color: white;
-  }
-
   .available .dot {
     background: #40c057;
   }
@@ -954,6 +1028,44 @@ figure,
   .tb .nl:not(.tbi),
   .tb .tbi > *:first-child {
     text-decoration: underline;
+  }
+
+  /* Previous, the post link and next share a 112px bottom row, centred
+     68px from the bottom; the caption sits in a line above it. */
+  #preview {
+    --bottom: 112px;
+    --edge: 16px;
+    padding-inline: 16px;
+  }
+
+  #preview.captioned {
+    --bottom: 152px;
+  }
+
+  /* No arrows, so no bottom row. */
+  #preview.single {
+    --bottom: 72px;
+  }
+
+  #preview :is(.prev, .next) {
+    top: auto;
+    bottom: 46px;
+  }
+
+  #preview .info {
+    padding-bottom: 112px;
+  }
+
+  #preview .post {
+    position: absolute;
+    bottom: 68px;
+    left: 50%;
+    translate: -50% 50%;
+    white-space: nowrap;
+    font-size: 15px;
+    padding: 10px 16px;
+    border-radius: 22px;
+    border: 1px solid var(--fg);
   }
 }
 
