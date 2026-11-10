@@ -1,6 +1,7 @@
 ---
 title: You Can't Trust a Leaf Certificate
 date: 2026-11-08T09:00:00+01:00
+lastmod: 2026-11-09T15:00:00+01:00
 categories:
   - writings
 tags:
@@ -16,6 +17,8 @@ syndication:
 The past year I've been working a lot with certificates and trust management, which can, sometimes, yield its own fun stories and learnings. Here's one: say you're given a leaf certificate and its intermediate, but not the root. Which one do you trust? Trusting the leaf may look reasonable, since that is the certificate they sign with, but it defeats the whole purpose of a trust anchor.
 
 <!--more-->
+
+**Update**: I got asked on Mastodon what do I mean by "you can't trust the leaf certificate" if when you trust the root, you inherently trust the leaf. I thought I had been clear, but probably not enough. When I say "trust" in this post, I almost always mean "trust as _anchor_". So yes, you can and should trust a leaf certificate, but a leaf certificate shouldn't the the trust anchor.
 
 For those who've worked with [X.509](https://en.wikipedia.org/wiki/X.509) certificate management, you know what the problem is, and feel free to skip the whole post. However, I wanted to write a short post on why you can't just trust a leaf certificate. X.509 works with certificate chains.
 
