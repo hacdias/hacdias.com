@@ -9,6 +9,10 @@ tags:
   - reflections
   - file browser
   - ipfs
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3mzwxvl5k22ke
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3mzwxvl5k22ke
+  - https://fosstodon.org/@hacdias/117591087904589127
 ---
 
 Through the years, I've learned many things, and one of them is that people don't read documentation. And even when they do, there can always be misunderstandings. But today I want to focus on one specific part of documentation that people don't read: changelogs, news, upgrade notices, all of those little things you should pay attention to when updating software.
