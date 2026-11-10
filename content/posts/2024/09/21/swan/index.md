@@ -3,8 +3,14 @@ title: Swan
 date: 2024-09-21T11:49:21+02:00
 photos:
   - url: image:2024-09-21-swan
-    width: 3000
-    height: 2000
+    width: 4298
+    height: 2865
+    camera: FUJIFILM X-T5
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 5.6
+    shutterSpeed: 1/400
+    iso: 125
 categories:
   - photos
 tags:

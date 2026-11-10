@@ -5,6 +5,12 @@ photos:
   - url: image:2025-11-04-libery
     width: 2861
     height: 3815
+    camera: Apple iPhone 16 Pro
+    lens: iPhone 16 Pro back triple camera 15.66mm f/2.8
+    focalLength: 15.7
+    aperture: 2.8
+    shutterSpeed: 1/144
+    iso: 50
 categories:
   - photos
 tags:

@@ -4,11 +4,23 @@ date: 2025-03-02T14:29:19+01:00
 lastmod: 2025-03-02T14:32:19+01:00
 photos:
   - url: image:2025-03-02-sint-annatunnel-02
-    width: 3000
-    height: 2400
+    width: 5336
+    height: 4268
+    camera: Apple iPhone 16 Pro
+    lens: iPhone 16 Pro back triple camera 6.765mm f/1.78
+    focalLength: 6.76
+    aperture: 1.78
+    shutterSpeed: 1/50
+    iso: 400
   - url: image:2025-03-02-sint-annatunnel-01
-    width: 3000
-    height: 2400
+    width: 5204
+    height: 4163
+    camera: Apple iPhone 16 Pro
+    lens: iPhone 16 Pro back triple camera 6.765mm f/1.78
+    focalLength: 6.76
+    aperture: 1.78
+    shutterSpeed: 1/50
+    iso: 250
 location:
   latitude: 51.44593
   longitude: 5.46159

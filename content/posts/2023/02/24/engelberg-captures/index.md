@@ -6,14 +6,26 @@ photos:
     width: 3000
     height: 4500
   - url: image:2023-01-31-engelberg-01
-    width: 3000
-    height: 4500
+    width: 3973
+    height: 5959
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 55
+    aperture: 4.5
+    shutterSpeed: 1/320
+    iso: 160
   - url: image:2023-02-24-engelberg-train-02
     width: 3000
     height: 4500
   - url: image:2023-02-24-engelberg-02
-    width: 3000
-    height: 2000
+    width: 5649
+    height: 3766
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 8
+    shutterSpeed: 1/200
+    iso: 1250
 categories:
   - photos
 tags:

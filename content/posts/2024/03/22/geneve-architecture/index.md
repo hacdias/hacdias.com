@@ -3,14 +3,32 @@ title: Genève Architecture
 date: 2024-03-22T15:45:10+01:00
 photos:
   - url: image:2024-03-22-geneve-architecture-2
-    width: 3000
-    height: 4500
+    width: 5152
+    height: 7728
+    camera: FUJIFILM X-T5
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 5.6
+    shutterSpeed: 1/250
+    iso: 200
   - url: image:2024-03-22-geneve-architecture-1
-    width: 3000
-    height: 4500
+    width: 5152
+    height: 7728
+    camera: FUJIFILM X-T5
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 5.6
+    shutterSpeed: 1/250
+    iso: 400
   - url: image:2024-03-22-geneve-architecture-3
-    width: 3000
-    height: 2000
+    width: 7728
+    height: 5152
+    camera: FUJIFILM X-T5
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 5.6
+    shutterSpeed: 1/400
+    iso: 125
 categories:
   - photos
 tags:

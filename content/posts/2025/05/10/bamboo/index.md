@@ -3,8 +3,14 @@ title: Bamboo
 date: 2025-05-10T10:28:32+02:00
 photos:
   - url: image:2025-05-10-bamboo
-    width: 3000
-    height: 2250
+    width: 5712
+    height: 4284
+    camera: Apple iPhone 16 Pro
+    lens: iPhone 16 Pro back triple camera 6.765mm f/1.78
+    focalLength: 6.76
+    aperture: 1.78
+    shutterSpeed: 1/813
+    iso: 80
 categories:
   - photos
 tags:

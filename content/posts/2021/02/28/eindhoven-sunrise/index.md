@@ -3,11 +3,23 @@ title: Eindhoven Sunrise
 date: 2021-02-28T09:00:00Z
 photos:
   - url: image:2021-02-28-eindhoven-sunrise-church
-    width: 3000
-    height: 4500
+    width: 3925
+    height: 5887
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 50.5
+    aperture: 8
+    shutterSpeed: 1/75
+    iso: 400
   - url: image:2021-02-28-eindhoven-sunrise
-    width: 3000
-    height: 2000
+    width: 5959
+    height: 3973
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 55
+    aperture: 7.1
+    shutterSpeed: 1/80
+    iso: 250
 categories:
   - photos
 tags:

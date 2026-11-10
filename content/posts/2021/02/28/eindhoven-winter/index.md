@@ -6,20 +6,50 @@ photos:
     width: 2588
     height: 3882
   - url: image:2021-02-28-eindhoven-snow-02
-    width: 3000
-    height: 2000
+    width: 5788
+    height: 3859
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 50.5
+    aperture: 7.1
+    shutterSpeed: 1/320
+    iso: 160
   - url: image:2021-02-28-eindhoven-snow-03
-    width: 3000
-    height: 2000
+    width: 5959
+    height: 3973
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 55
+    aperture: 8
+    shutterSpeed: 1/240
+    iso: 160
   - url: image:2021-02-28-eindhoven-snow-04
-    width: 3000
-    height: 2000
+    width: 6054
+    height: 4036
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 39
+    aperture: 9
+    shutterSpeed: 1/70
+    iso: 160
   - url: image:2021-02-28-eindhoven-snow-05
-    width: 3000
-    height: 2000
+    width: 6240
+    height: 4160
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 18
+    aperture: 9
+    shutterSpeed: 1/180
+    iso: 640
   - url: image:2021-02-28-eindhoven-snow-06
-    width: 3000
-    height: 2000
+    width: 6240
+    height: 4160
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 18
+    aperture: 10
+    shutterSpeed: 1/52
+    iso: 320
 categories:
   - photos
 tags:

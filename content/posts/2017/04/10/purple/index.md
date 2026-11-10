@@ -3,8 +3,14 @@ title: Purple Mushrooms
 date: 2017-04-10T00:15:10Z
 photos:
   - url: image:2017-04-10-purple
-    width: 3000
-    height: 2250
+    width: 4032
+    height: 3024
+    camera: Apple iPhone 7
+    lens: iPhone 7 back camera 3.99mm f/1.8
+    focalLength: 3.99
+    aperture: 1.8
+    shutterSpeed: 1/27
+    iso: 40
 location:
   latitude: 51.497348485382446
   longitude: -0.1766961152474624

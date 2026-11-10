@@ -3,8 +3,14 @@ title: Torii
 date: 2025-05-10T10:30:47+02:00
 photos:
   - url: image:2025-05-10-torii
-    width: 3000
-    height: 4000
+    width: 4284
+    height: 5712
+    camera: Apple iPhone 16 Pro
+    lens: iPhone 16 Pro back triple camera 6.765mm f/1.78
+    focalLength: 6.76
+    aperture: 1.78
+    shutterSpeed: 1/121
+    iso: 64
 categories:
   - photos
 tags:

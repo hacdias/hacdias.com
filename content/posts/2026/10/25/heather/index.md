@@ -6,18 +6,42 @@ photos:
     title: Pathway Through Blooming Heather
     width: 4000
     height: 2667
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 32.3
+    aperture: 8
+    shutterSpeed: 1/640
+    iso: 320
   - url: image:2026-10-25-heather-02
     title: Pathway Through Blooming Heather
     width: 4000
     height: 2667
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 18
+    aperture: 6.4
+    shutterSpeed: 1/640
+    iso: 320
   - url: image:2026-10-25-heather-03
     title: Blooming Heather
     width: 4000
     height: 2667
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 20.2
+    aperture: 4.5
+    shutterSpeed: 1/640
+    iso: 160
   - url: image:2026-10-25-heather-04
     title: A Bit of Blooming Heather
     width: 4000
     height: 2667
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 29.6
+    aperture: 8
+    shutterSpeed: 1/640
+    iso: 320
 location:
   latitude: 51.4109133
   longitude: 5.5083152

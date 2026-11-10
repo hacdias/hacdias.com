@@ -7,6 +7,12 @@ photos:
     alt: A small green and white vintage camper van parked on a grassy median between two tree-lined roads
     width: 4000
     height: 2667
+    camera: FUJIFILM X-T5
+    lens: Fujifilm Fujinon XF23mmF2 R WR
+    focalLength: 23
+    aperture: 8
+    shutterSpeed: 1/480
+    iso: 500
 location:
   latitude: 51.44797
   longitude: 5.45797

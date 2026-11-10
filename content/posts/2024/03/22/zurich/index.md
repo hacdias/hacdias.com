@@ -5,23 +5,47 @@ photos:
   - url: image:2024-03-22-zurich-boat
     title: Misty Boat
     alt: A passenger ferry docked at a pier on a lake under a heavy, misty sky with mountains in the background
-    width: 3000
-    height: 2000
+    width: 7728
+    height: 5152
+    camera: FUJIFILM X-T5
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 5.6
+    shutterSpeed: 1/400
+    iso: 125
   - url: image:2024-03-22-zurich-frozen-car
     title: Unfocused
     alt: A white SUV in motion blur passing a yellow crosswalk in front of a grand cream-coloured building with a Nachtcafé sign
-    width: 3000
-    height: 4500
+    width: 5065
+    height: 7597
+    camera: FUJIFILM X-T5
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 5.6
+    shutterSpeed: 1/160
+    iso: 125
   - url: image:2024-03-22-zurich-train
     title: Train Up In The Mountains
     alt: People walking along a sunlit train platform next to a red Swiss train, with a Swiss flag and tall pine trees
-    width: 3000
-    height: 4500
+    width: 4693
+    height: 7039
+    camera: FUJIFILM X-T5
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 5.6
+    shutterSpeed: 1/400
+    iso: 125
   - url: image:2024-03-22-zurich
     title: Skyfall
     alt: A wide view over Zürich's rooftops at dusk, with the lake and snow-capped Alps stretching across the horizon
-    width: 3000
-    height: 1688
+    width: 5651
+    height: 3179
+    camera: FUJIFILM X-T5
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 5.6
+    shutterSpeed: 1/100
+    iso: 320
 categories:
   - photos
 tags:

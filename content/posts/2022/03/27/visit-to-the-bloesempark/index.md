@@ -3,44 +3,122 @@ title: "\U0001F338 A Visit to the Bloesempark"
 date: 2022-03-27T11:03:07.069215+02:00
 photos:
   - url: image:2022-03-27-cherry-blossoms-06
-    width: 3000
-    height: 2000
+    width: 5959
+    height: 3973
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 55
+    aperture: 4
+    shutterSpeed: 1/1600
+    iso: 500
   - url: image:2022-03-27-cherry-blossoms-01
-    width: 3000
-    height: 2000
+    width: 6088
+    height: 4059
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 32.9
+    aperture: 5
+    shutterSpeed: 1/600
+    iso: 160
   - url: image:2022-03-27-cherry-blossoms-02
-    width: 3000
-    height: 2000
+    width: 6088
+    height: 4059
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 34.3
+    aperture: 5
+    shutterSpeed: 1/500
+    iso: 320
   - url: image:2022-03-27-cherry-blossoms-03
-    width: 3000
-    height: 2000
+    width: 5861
+    height: 3907
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 46.3
+    aperture: 4
+    shutterSpeed: 1/500
+    iso: 160
   - url: image:2022-03-27-cherry-blossoms-04
-    width: 3000
-    height: 2000
+    width: 5959
+    height: 3973
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 55
+    aperture: 9
+    shutterSpeed: 1/500
+    iso: 800
   - url: image:2022-03-27-cherry-blossoms-05
-    width: 3000
-    height: 2000
+    width: 6018
+    height: 4012
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 50.5
+    aperture: 4.5
+    shutterSpeed: 1/600
+    iso: 160
   - url: image:2022-03-27-cherry-blossoms-07
-    width: 3000
-    height: 2000
+    width: 5959
+    height: 3973
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 55
+    aperture: 4
+    shutterSpeed: 1/750
+    iso: 160
   - url: image:2022-03-27-cherry-blossoms-08
-    width: 3000
-    height: 2000
+    width: 6054
+    height: 4036
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 39
+    aperture: 4
+    shutterSpeed: 1/500
+    iso: 400
   - url: image:2022-03-27-cherry-blossoms-09
-    width: 3000
-    height: 2000
+    width: 6018
+    height: 4012
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 48.4
+    aperture: 4
+    shutterSpeed: 1/900
+    iso: 160
   - url: image:2022-03-27-cherry-blossoms-10
-    width: 3000
-    height: 2000
+    width: 5959
+    height: 3973
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 55
+    aperture: 4
+    shutterSpeed: 1/500
+    iso: 200
   - url: image:2022-03-27-cherry-blossoms-11
-    width: 3000
-    height: 2000
+    width: 6054
+    height: 4036
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 37.4
+    aperture: 4
+    shutterSpeed: 1/750
+    iso: 160
   - url: image:2022-03-27-cherry-blossoms-12
-    width: 3000
-    height: 2000
+    width: 5861
+    height: 3907
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 46.3
+    aperture: 4
+    shutterSpeed: 1/640
+    iso: 160
   - url: image:2022-03-27-cherry-blossoms-group
-    width: 3000
-    height: 2000
+    width: 6018
+    height: 4012
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 48.4
+    aperture: 4
+    shutterSpeed: 1/500
+    iso: 250
 categories:
   - photos
 tags:

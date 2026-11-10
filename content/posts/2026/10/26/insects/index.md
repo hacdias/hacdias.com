@@ -6,6 +6,12 @@ photos:
     title: Insect looking out from a log
     width: 4000
     height: 2667
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 50
+    aperture: 4.8
+    shutterSpeed: 1/640
+    iso: 320
 location:
   latitude: 51.41221823185088
   longitude: 5.507907455997542

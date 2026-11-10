@@ -5,8 +5,14 @@ photos:
   - url: image:2021-09-14-the-student-hotel-ehv
     title: The Student Hotel
     alt: A tall narrow tower with a vertical sign rising above an industrial rooftop at dusk, with pink-tinted clouds above
-    width: 3000
-    height: 2000
+    width: 3345
+    height: 2230
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 55
+    aperture: 4
+    shutterSpeed: 1/500
+    iso: 1250
   - url: image:2021-09-14-staircase-holes
     title: Staircase Phobia
     alt: Three horizontal black bands perforated with small white dots, forming an abstract pattern

@@ -3,32 +3,86 @@ title: Capturing Leiden
 date: 2022-10-19T11:46:09.317883773+02:00
 photos:
   - url: image:2022-10-19-capturing-leiden-01
-    width: 3000
-    height: 2000
+    width: 6199
+    height: 4132
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 2.8
+    shutterSpeed: 1/2000
+    iso: 160
   - url: image:2022-10-19-capturing-leiden-02
-    width: 3000
-    height: 2000
+    width: 6240
+    height: 4160
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 5.6
+    shutterSpeed: 1/2000
+    iso: 250
   - url: image:2022-10-19-capturing-leiden-03
-    width: 3000
-    height: 2000
+    width: 6240
+    height: 4160
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 2.8
+    shutterSpeed: 1/2500
+    iso: 160
   - url: image:2022-10-19-capturing-leiden-04
-    width: 3000
-    height: 2000
+    width: 6240
+    height: 4160
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 2.8
+    shutterSpeed: 1/80
+    iso: 3200
   - url: image:2022-10-19-capturing-leiden-05
-    width: 3000
-    height: 2000
+    width: 6240
+    height: 4160
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 2.8
+    shutterSpeed: 1/640
+    iso: 640
   - url: image:2022-10-19-capturing-leiden-06
-    width: 3000
-    height: 2000
+    width: 6240
+    height: 4160
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 2.8
+    shutterSpeed: 1/500
+    iso: 800
   - url: image:2022-10-19-capturing-leiden-07
-    width: 3000
-    height: 2000
+    width: 6240
+    height: 4160
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 2.8
+    shutterSpeed: 1/1600
+    iso: 320
   - url: image:2022-10-19-capturing-leiden-08
-    width: 3000
-    height: 2000
+    width: 6240
+    height: 4160
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 2.8
+    shutterSpeed: 1/500
+    iso: 1600
   - url: image:2022-10-19-capturing-leiden-09
-    width: 3000
-    height: 2000
+    width: 6240
+    height: 4160
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 2.8
+    shutterSpeed: 1/80
+    iso: 1250
 categories:
   - photos
 tags:

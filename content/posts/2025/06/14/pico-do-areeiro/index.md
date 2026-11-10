@@ -3,14 +3,32 @@ title: Pico do Areeiro
 date: 2025-06-14T08:04:11.826029887+02:00
 photos:
   - url: image:2025-06-14-pico-do-areeiro
-    width: 3000
-    height: 2000
+    width: 7276
+    height: 4850
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 47.2
+    aperture: 11
+    shutterSpeed: 1/1250
+    iso: 160
   - url: image:2025-06-14-pico-do-areeiro-02
-    width: 3000
-    height: 1687
+    width: 7760
+    height: 4365
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 16.5
+    aperture: 5.6
+    shutterSpeed: 1/1000
+    iso: 125
   - url: image:2025-06-14-pico-do-areeiro-03
-    width: 3000
-    height: 2000
+    width: 7712
+    height: 5141
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 44.5
+    aperture: 7.1
+    shutterSpeed: 1/1000
+    iso: 125
 location:
   latitude: 32.7355731
   longitude: -16.9391887

@@ -3,8 +3,14 @@ title: Welcome to Eindhoven
 date: 2020-09-21T23:30:50.893Z
 photos:
   - url: image:2020-09-21-eindhoven-tsh
-    width: 3000
-    height: 2000
+    width: 4413
+    height: 2942
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 55
+    aperture: 22
+    shutterSpeed: 1/80
+    iso: 640
 categories:
   - photos
 tags:

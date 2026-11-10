@@ -3,17 +3,41 @@ title: Strijp-S Nacht
 date: 2024-03-07T19:11:35+01:00
 photos:
   - url: image:2024-03-07-strijps-nacht-vershal
-    width: 3000
-    height: 4500
+    width: 5152
+    height: 7728
+    camera: FUJIFILM X-T5
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 2.8
+    shutterSpeed: 1/60
+    iso: 1250
   - url: image:2024-03-07-strijps-nacht-chris
-    width: 3000
-    height: 4501
+    width: 5099
+    height: 7649
+    camera: FUJIFILM X-T5
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 2.8
+    shutterSpeed: 1/40
+    iso: 1000
   - url: image:2024-03-07-strijps-nacht-toren
-    width: 3000
-    height: 4500
+    width: 4652
+    height: 6978
+    camera: FUJIFILM X-T5
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 2.8
+    shutterSpeed: 1/40
+    iso: 2000
   - url: image:2024-03-07-strijps-nacht-varkens
-    width: 3000
-    height: 4500
+    width: 4848
+    height: 7271
+    camera: FUJIFILM X-T5
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 2.8
+    shutterSpeed: 1/60
+    iso: 1250
 categories:
   - photos
 tags:

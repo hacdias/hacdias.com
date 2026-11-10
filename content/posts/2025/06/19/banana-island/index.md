@@ -5,6 +5,12 @@ photos:
   - url: image:2025-06-19-banana-island
     width: 7555
     height: 5037
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 36.3
+    aperture: 8
+    shutterSpeed: 1/320
+    iso: 125
 categories:
   - photos
 tags:

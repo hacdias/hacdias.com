@@ -5,33 +5,69 @@ photos:
   - url: image:2021-01-31-strijps
     title: Strijp-S
     alt: An industrial complex with a steel walkway connecting an old factory building with rows of windows to a red brick tower
-    width: 3000
-    height: 2000
+    width: 5504
+    height: 3669
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 55
+    aperture: 8
+    shutterSpeed: 1/140
+    iso: 160
   - url: image:2021-01-31-strijps-colors
     title: Strijp-S Colors
     alt: An art installation of brightly coloured neon-style tubes shaped like outlines, suspended above a steel mesh between industrial pipes
-    width: 3000
-    height: 2000
+    width: 4410
+    height: 2940
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 46.3
+    aperture: 8
+    shutterSpeed: 1/60
+    iso: 640
   - url: image:2021-01-31-eindhoven-center-01
     title: Industrial Strijp-S
     alt: A red and white tram passing in front of large modern white office buildings on a wide street with bare trees
-    width: 3000
-    height: 2000
+    width: 5756
+    height: 3838
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 37.4
+    aperture: 8
+    shutterSpeed: 1/85
+    iso: 160
   - url: image:2021-01-31-strijps-train
     title: Passing By
     alt: A blue and white commuter train crossing a graffiti-covered concrete bridge against a clear blue sky
-    width: 3000
-    height: 2000
+    width: 5959
+    height: 3973
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 55
+    aperture: 8
+    shutterSpeed: 1/500
+    iso: 160
   - url: image:2021-01-31-strijps-stadium
     title: PSV Stadium
     alt: The exterior of the Philips Stadium with its white steel cantilevered roof, viewed from a quiet street with bike paths
-    width: 3000
-    height: 2000
+    width: 6018
+    height: 4012
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 50.5
+    aperture: 8
+    shutterSpeed: 1/200
+    iso: 320
   - url: image:2021-01-31-philips
     title: Old Philips
     alt: The historic white Philips tower in Eindhoven topped with Dutch flags and a Philips sign, at dusk
-    width: 3000
-    height: 2000
+    width: 4670
+    height: 3113
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 55
+    aperture: 8
+    shutterSpeed: 1/1000
+    iso: 160
 categories:
   - photos
 tags:

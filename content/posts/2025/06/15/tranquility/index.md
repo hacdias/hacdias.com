@@ -3,8 +3,14 @@ title: Tranquility
 date: 2025-06-15T16:31:37+02:00
 photos:
   - url: image:2025-06-15-tranquility
-    width: 3000
-    height: 2207
+    width: 6849
+    height: 5039
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 50
+    aperture: 6.4
+    shutterSpeed: 1/800
+    iso: 125
 location:
   latitude: 32.6474273
   longitude: -16.9775258

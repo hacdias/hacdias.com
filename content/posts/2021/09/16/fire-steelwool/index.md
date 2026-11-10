@@ -15,11 +15,23 @@ photos:
     width: 3000
     height: 2000
   - url: image:2021-09-16-steelwool-08
-    width: 3000
-    height: 2000
+    width: 6240
+    height: 4160
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 24.3
+    aperture: 5
+    shutterSpeed: "3"
+    iso: 160
   - url: image:2021-09-16-steelwool-01
-    width: 3000
-    height: 2000
+    width: 6088
+    height: 4058
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 34.3
+    aperture: 9
+    shutterSpeed: "11"
+    iso: 160
   - url: image:2021-09-16-steelwool-03
     width: 3000
     height: 2000
@@ -27,8 +39,14 @@ photos:
     width: 3000
     height: 2000
   - url: image:2021-09-16-steelwool-02
-    width: 3000
-    height: 2000
+    width: 6088
+    height: 4059
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 34.3
+    aperture: 7.1
+    shutterSpeed: "13"
+    iso: 160
 categories:
   - photos
 tags:

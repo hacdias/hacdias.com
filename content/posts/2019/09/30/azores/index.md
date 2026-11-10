@@ -3,14 +3,17 @@ title: Azores
 date: 2019-09-30T07:58:31Z
 photos:
   - url: image:2019-09-30-azores-01
-    width: 3000
-    height: 1055
+    width: 8029
+    height: 2823
+    camera: Apple iPhone 7
   - url: image:2019-09-30-azores-02
-    width: 3000
-    height: 1157
+    width: 6535
+    height: 2520
+    camera: Apple iPhone 7
   - url: image:2019-09-30-azores-03
-    width: 3000
-    height: 1068
+    width: 9225
+    height: 3283
+    camera: Apple iPhone 7
 categories:
   - photos
 tags:

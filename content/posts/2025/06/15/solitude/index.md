@@ -3,8 +3,14 @@ title: Solitude
 date: 2025-06-15T07:38:25+02:00
 photos:
   - url: image:2025-06-15-solitude
-    width: 3000
-    height: 2000
+    width: 7715
+    height: 5143
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 50
+    aperture: 7.1
+    shutterSpeed: 1/800
+    iso: 125
 location:
   latitude: 32.6601534
   longitude: -17.0093357

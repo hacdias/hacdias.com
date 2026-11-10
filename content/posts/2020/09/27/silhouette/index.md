@@ -3,8 +3,14 @@ title: Stroboscopic
 date: 2020-09-27T09:04:28Z
 photos:
   - url: image:2020-09-27-silhouette
-    width: 3000
-    height: 2000
+    width: 4139
+    height: 2759
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 18.8
+    aperture: 9
+    shutterSpeed: "30"
+    iso: 640
 categories:
   - photos
 tags:

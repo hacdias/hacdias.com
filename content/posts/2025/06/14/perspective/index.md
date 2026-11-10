@@ -3,8 +3,14 @@ title: Perspective
 date: 2025-06-14T15:56:04.029558573+02:00
 photos:
   - url: image:2025-06-14-perspective
-    width: 3000
-    height: 2000
+    width: 5971
+    height: 3981
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 50
+    aperture: 5
+    shutterSpeed: 1/800
+    iso: 125
 location:
   latitude: 32.6555151
   longitude: -17.0145458

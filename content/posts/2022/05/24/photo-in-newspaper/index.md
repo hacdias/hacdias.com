@@ -3,8 +3,14 @@ title: Photo in Newspaper
 date: 2022-05-24T21:58:43.727383096+02:00
 photos:
   - url: image:2022-05-24-behind-the-camera
-    width: 3000
-    height: 2000
+    width: 5861
+    height: 3907
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 42.5
+    aperture: 4
+    shutterSpeed: 1/125
+    iso: 3200
 location:
   latitude: 51.43243
   longitude: 5.48617

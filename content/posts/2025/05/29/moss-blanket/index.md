@@ -3,8 +3,14 @@ title: Moss Blanket
 date: 2025-05-29T19:52:17.207006356+02:00
 photos:
   - url: image:2025-05-29-moss-blanket
-    width: 3000
-    height: 2250
+    width: 5712
+    height: 4284
+    camera: Apple iPhone 16 Pro
+    lens: iPhone 16 Pro back triple camera 6.765mm f/1.78
+    focalLength: 6.76
+    aperture: 1.78
+    shutterSpeed: 1/543
+    iso: 80
 categories:
   - photos
 tags:

@@ -4,17 +4,35 @@ date: 2023-08-27T17:28:53+02:00
 photos:
   - url: image:2023-08-27-mushrooms-nest
     title: Mushrooms nest laying next to a tree trunk
-    width: 3000
-    height: 2000
+    width: 5959
+    height: 3973
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 55
+    aperture: 7.1
+    shutterSpeed: 1/125
+    iso: 5000
   - url: image:2023-08-27-mushroom
     title: Lonely mushroom with a bit of water from the rain
-    width: 3000
-    height: 2000
+    width: 6130
+    height: 4087
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 30.2
+    aperture: 4.5
+    shutterSpeed: 1/45
+    iso: 640
   - url: image:2023-08-27-slugs
     title: Slugs
     alt: Two brown slugs intertwined on the forest floor among pine needles, fallen leaves, and twigs
-    width: 3000
-    height: 2000
+    width: 5959
+    height: 3973
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 55
+    aperture: 4
+    shutterSpeed: 1/125
+    iso: 2000
 categories:
   - photos
 tags:

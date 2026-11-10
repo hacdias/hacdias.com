@@ -4,32 +4,74 @@ description: Trip to Italy in Photos
 date: 2022-11-16T14:28:29.381987946+01:00
 photos:
   - url: image:2022-11-16-trip-to-italy-in-photos-01
-    width: 3000
-    height: 2000
+    width: 6240
+    height: 4160
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 2.8
+    shutterSpeed: 1/2500
+    iso: 320
   - url: image:2022-11-16-trip-to-italy-in-photos-02
-    width: 3000
-    height: 2000
+    width: 4121
+    height: 2747
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 2.8
+    shutterSpeed: 1/2000
+    iso: 160
   - url: image:2022-11-16-trip-to-italy-in-photos-03
     width: 2485
     height: 3727
   - url: image:2022-11-16-trip-to-italy-in-photos-04
-    width: 3000
-    height: 4500
+    width: 3907
+    height: 5861
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 44.4
+    aperture: 4.5
+    shutterSpeed: 1/250
+    iso: 125
   - url: image:2022-11-16-trip-to-italy-in-photos-05
-    width: 3000
-    height: 4500
+    width: 3645
+    height: 5467
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 2.8
+    shutterSpeed: 1/1600
+    iso: 320
   - url: image:2022-11-16-trip-to-italy-in-photos-06
-    width: 3000
-    height: 2000
+    width: 6240
+    height: 4160
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF27mmF2.8 R WR
+    focalLength: 27
+    aperture: 4.5
+    shutterSpeed: 1/1000
+    iso: 160
   - url: image:2022-11-16-trip-to-italy-in-photos-07
     width: 2790
     height: 4185
   - url: image:2022-11-16-trip-to-italy-in-photos-08
-    width: 3000
-    height: 4500
+    width: 4087
+    height: 6130
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 30.2
+    aperture: 4.5
+    shutterSpeed: 1/1600
+    iso: 160
   - url: image:2022-11-16-trip-to-italy-in-photos-09
-    width: 3000
-    height: 2000
+    width: 6240
+    height: 4160
+    camera: FUJIFILM X-T4
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 18.8
+    aperture: 5
+    shutterSpeed: 1/800
+    iso: 160
 categories:
   - photos
 tags:

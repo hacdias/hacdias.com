@@ -5,15 +5,39 @@ photos:
   - url: image:2026-01-03-wielewaal-01
     width: 3848
     height: 2886
+    camera: Apple iPhone 16 Pro
+    lens: iPhone 16 Pro back triple camera 15.66mm f/2.8
+    focalLength: 15.66
+    aperture: 2.8
+    shutterSpeed: 1/714
+    iso: 64
   - url: image:2026-01-03-wielewaal-02
     width: 3024
     height: 4032
+    camera: Apple iPhone 16 Pro
+    lens: iPhone 16 Pro back triple camera 15.66mm f/2.8
+    focalLength: 15.66
+    aperture: 2.8
+    shutterSpeed: 1/204
+    iso: 50
   - url: image:2026-01-03-wielewaal-03
     width: 3024
     height: 4032
+    camera: Apple iPhone 16 Pro
+    lens: iPhone 16 Pro back triple camera 6.765mm f/1.78
+    focalLength: 6.76
+    aperture: 1.78
+    shutterSpeed: 1/962
+    iso: 80
   - url: image:2026-01-03-wielewaal-04
     width: 3024
     height: 4032
+    camera: Apple iPhone 16 Pro
+    lens: iPhone 16 Pro back triple camera 15.66mm f/2.8
+    focalLength: 15.66
+    aperture: 2.8
+    shutterSpeed: 1/244
+    iso: 50
 location:
   latitude: 51.44592
   longitude: 5.4616

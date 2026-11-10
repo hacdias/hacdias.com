@@ -6,30 +6,72 @@ photos:
     alt: An elevated view of a quiet lake with small islets, surrounded by pine forest, with wind turbines on the horizon
     width: 7722
     height: 5148
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 42
+    aperture: 8
+    shutterSpeed: 1/450
+    iso: 500
   - url: image:2026-05-04-lommelse-water-2
     alt: A panoramic view from above of winding lakes weaving through a green forest, with wind turbines silhouetted in the distance
     width: 5994
     height: 3996
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 16
+    aperture: 9
+    shutterSpeed: 1/450
+    iso: 500
   - url: image:2026-05-04-lommelse-water-3
     alt: A fallen birch trunk on a sandy lake shore with another half-submerged tree branch reaching out into still water
     width: 7263
     height: 4086
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 16
+    aperture: 8
+    shutterSpeed: 1/800
+    iso: 500
   - url: image:2026-05-04-lommelse-water-4
     alt: A sandy beach at the edge of a calm lake, with the rippled water leading to a green tree line on the far shore
     width: 7953
     height: 4473
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 16
+    aperture: 8
+    shutterSpeed: 1/680
+    iso: 500
   - url: image:2026-05-04-lommelse-water-5
     alt: A still lake reflecting fluffy clouds and a lush bank of pine and birch trees on the opposite shore
     width: 7724
     height: 5149
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 50
+    aperture: 9
+    shutterSpeed: 1/280
+    iso: 500
   - url: image:2026-05-04-lommelse-water-6
     alt: A wide panorama of a calm lake with rippled water, fronted by a sandy bank and bordered by a long line of trees
     width: 8023
     height: 2962
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 16
+    aperture: 8
+    shutterSpeed: 1/680
+    iso: 500
   - url: image:2026-05-04-lommelse-water-7
     alt: A bird's-eye view of a forest-encircled lake with a small islet in the centre, under a soft cloudy sky
     width: 7964
     height: 4480
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 16
+    aperture: 8
+    shutterSpeed: 1/350
+    iso: 500
 location:
   latitude: 51.2475946
   longitude: 5.2883714

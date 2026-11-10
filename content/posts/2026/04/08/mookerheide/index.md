@@ -7,16 +7,34 @@ photos:
     alt: A long-haired brown Highland cow standing under the sprawling bare branches of a tree
     width: 4000
     height: 3000
+    camera: Apple iPhone 16 Pro
+    lens: iPhone 16 Pro back triple camera 15.66mm f/2.8
+    focalLength: 15.66
+    aperture: 2.8
+    shutterSpeed: 1/178
+    iso: 64
   - url: image:2026-04-08-mookerheide-02
     title: Mookerheide
     alt: Two people walking along a forest path between leafless trees on a grey day
     width: 4000
     height: 3000
+    camera: Apple iPhone 16 Pro
+    lens: iPhone 16 Pro back triple camera 6.765mm f/1.78
+    focalLength: 6.76
+    aperture: 1.78
+    shutterSpeed: 1/665
+    iso: 100
   - url: image:2026-04-08-mookerheide-03
     title: Mookerheide
     alt: A person walking along a sandy path through dry heathland under a cloudy sky
     width: 4000
     height: 3000
+    camera: Apple iPhone 16 Pro
+    lens: iPhone 16 Pro back triple camera 6.765mm f/1.78
+    focalLength: 6.76
+    aperture: 1.78
+    shutterSpeed: 1/2232
+    iso: 80
 location:
   latitude: 51.7515619
   longitude: 5.8920346

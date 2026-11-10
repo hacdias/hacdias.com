@@ -3,17 +3,41 @@ title: Laurissilva
 date: 2025-06-13T21:41:49.503835201+02:00
 photos:
   - url: image:2025-06-13-laurissilva-01
-    width: 3000
-    height: 2000
+    width: 6916
+    height: 4611
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 47.2
+    aperture: 4.7
+    shutterSpeed: 1/100
+    iso: 500
   - url: image:2025-06-13-laurissilva-02
-    width: 3000
-    height: 4500
+    width: 5152
+    height: 7728
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 23.4
+    aperture: 3.4
+    shutterSpeed: 1/250
+    iso: 250
   - url: image:2025-06-13-laurissilva-03
-    width: 3000
-    height: 4500
+    width: 5148
+    height: 7722
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 43.2
+    aperture: 4.5
+    shutterSpeed: 1/100
+    iso: 320
   - url: image:2025-06-13-laurissilva-04
-    width: 3000
-    height: 2000
+    width: 7716
+    height: 5144
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 43.2
+    aperture: 4.5
+    shutterSpeed: 1/100
+    iso: 500
 location:
   latitude: 32.77959
   longitude: -16.8990296

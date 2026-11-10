@@ -3,8 +3,14 @@ title: Magical Mist
 date: 2025-06-13T21:37:40.818290273+02:00
 photos:
   - url: image:2025-06-13-magical-mist
-    width: 3000
-    height: 2000
+    width: 7719
+    height: 5146
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 45.8
+    aperture: 4.6
+    shutterSpeed: 1/200
+    iso: 500
 location:
   latitude: 32.77959
   longitude: -16.8990296

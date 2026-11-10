@@ -6,6 +6,12 @@ photos:
     title: Insect walking on a log
     width: 4000
     height: 2668
+    camera: FUJIFILM X-T5
+    lens: Fujifilm Fujinon XF70-300mmF4-5.6 R LM OIS WR
+    focalLength: 300
+    aperture: 9
+    shutterSpeed: 1/450
+    iso: 1600
 location:
   latitude: 51.4582
   longitude: 5.4435

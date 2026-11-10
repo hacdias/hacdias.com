@@ -3,8 +3,14 @@ title: Greenland
 date: 2025-04-27T16:18:39+02:00
 photos:
   - url: image:2025-04-27-greenland
-    width: 3000
-    height: 2250
+    width: 5656
+    height: 4242
+    camera: Apple iPhone 16 Pro
+    lens: iPhone 16 Pro back triple camera 6.765mm f/1.78
+    focalLength: 6.76
+    aperture: 1.78
+    shutterSpeed: 1/6711
+    iso: 80
 categories:
   - photos
 tags:

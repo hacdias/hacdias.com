@@ -7,41 +7,89 @@ photos:
     alt: A sandy path flanked by two rows of vertical wooden posts marking the entrance to a forest trail
     width: 7728
     height: 5152
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 16
+    aperture: 7.1
+    shutterSpeed: 1/680
+    iso: 500
   - url: image:2026-05-03-lommelse-land-2
     title: Lush landscape
     alt: A grassy meadow with a faint dirt track running through it, framed by green trees on either side
     width: 8018
     height: 2961
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 16
+    aperture: 8
+    shutterSpeed: 1/1600
+    iso: 500
   - url: image:2026-05-03-lommelse-land-3
     title: Lommelse Sahara
     alt: An open heathland with dry grasses and small pines, backed by a row of dense pine trees under a partly cloudy sky
     width: 8022
     height: 4512
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 16
+    aperture: 9
+    shutterSpeed: 1/200
+    iso: 500
   - url: image:2026-05-03-lommelse-land-4
     title: Sunlit pine forest with tall, slender trunks
     alt: Tall slender pine trunks in a sunlit forest casting long shadows across a mossy green floor
     width: 7728
     height: 5152
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 16
+    aperture: 8
+    shutterSpeed: 1/56
+    iso: 500
   - url: image:2026-05-03-lommelse-land-5
     title: Sunlit pine forest with tall, slender trunks
     alt: A pine forest on a sandy dune slope with sunlight filtering between the slim trunks
     width: 7728
     height: 5152
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 16
+    aperture: 8
+    shutterSpeed: 1/70
+    iso: 500
   - url: image:2026-05-03-lommelse-land-6
     title: Sunlit pine forest with tall, slender trunks
     alt: A clearing in a pine forest with a sandy floor and softly rolling dunes between the trees
     width: 7728
     height: 5152
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 16
+    aperture: 8
+    shutterSpeed: 1/90
+    iso: 500
   - url: image:2026-05-03-lommelse-land-7
     title: Sunlit pine forest with tall, slender trunks
     alt: A sunlit forest clearing with a fallen pine trunk lying on the sandy ground in the foreground
     width: 7728
     height: 5152
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 16
+    aperture: 8
+    shutterSpeed: 1/300
+    iso: 500
   - url: image:2026-05-03-lommelse-land-8
     title: Lush landscape
     alt: A panoramic view of an open grass field with a long line of pine trees on the horizon
     width: 4843
     height: 1788
+    camera: FUJIFILM X-T5
+    lens: XF16-50mmF2.8-4.8 R LM WR
+    focalLength: 16
+    aperture: 9
+    shutterSpeed: 1/340
+    iso: 500
 location:
   latitude: 51.2475946
   longitude: 5.2883714

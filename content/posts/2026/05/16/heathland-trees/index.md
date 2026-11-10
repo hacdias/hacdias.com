@@ -6,6 +6,12 @@ photos:
     title: Tree Standing in the Heathland
     width: 7429
     height: 4953
+    camera: FUJIFILM X-T5
+    lens: Fujifilm Fujinon XF70-300mmF4-5.6 R LM OIS WR
+    focalLength: 222.5
+    aperture: 5.6
+    shutterSpeed: 1/950
+    iso: 500
 location:
   latitude: 52.078716
   longitude: 5.8299143

@@ -3,20 +3,44 @@ title: Maastricht II
 date: 2021-06-01T00:00:00Z
 photos:
   - url: image:2021-06-01-maastricht-07
-    width: 3000
-    height: 2000
+    width: 4537
+    height: 3025
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 18
+    aperture: 9
+    shutterSpeed: 1/300
+    iso: 160
   - url: image:2021-06-01-maastricht-11
     width: 2648
     height: 3972
   - url: image:2021-06-01-maastricht-08
-    width: 3000
-    height: 2000
+    width: 5456
+    height: 3637
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 46.3
+    aperture: 8
+    shutterSpeed: 1/110
+    iso: 160
   - url: image:2021-06-01-maastricht-09
-    width: 3000
-    height: 2000
+    width: 6088
+    height: 4059
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 35.8
+    aperture: 8
+    shutterSpeed: 1/140
+    iso: 160
   - url: image:2021-06-01-maastricht-12
-    width: 3000
-    height: 2000
+    width: 5867
+    height: 3912
+    camera: FUJIFILM X-T30
+    lens: Fujifilm Fujinon XF18-55mmF2.8-4 R LM OIS
+    focalLength: 35.8
+    aperture: 10
+    shutterSpeed: 1/220
+    iso: 160
 categories:
   - photos
 tags:

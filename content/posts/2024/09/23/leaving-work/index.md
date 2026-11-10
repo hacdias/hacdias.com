@@ -3,8 +3,14 @@ title: Leaving Work
 date: 2024-09-23T20:17:24+02:00
 photos:
   - url: image:2024-09-23-klokgebouw-stairs
-    width: 3000
-    height: 4500
+    width: 5152
+    height: 7728
+    camera: FUJIFILM X100VI
+    lens: 23 mm f/2
+    focalLength: 23
+    aperture: 5.6
+    shutterSpeed: 1/320
+    iso: 200
 categories:
   - photos
 tags:
