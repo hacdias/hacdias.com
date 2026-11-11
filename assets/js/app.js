@@ -109,9 +109,10 @@ function setupPreview() {
     return document.startViewTransition(update).finished
   }
 
-  // Largest resized candidate in the same format the browser picked for the
-  // thumbnail, or the original upload if the screen can show more than that.
-  const largestSrc = (img, ratio) => {
+  // Smallest resized candidate that fills the screen, in the same format the
+  // browser picked for the thumbnail, or the original upload if the screen can
+  // show more than the largest.
+  const previewSrc = (img, ratio) => {
     const sources = Array.from(
       img.closest('picture')?.querySelectorAll('source') ?? [],
     )
@@ -122,10 +123,11 @@ function setupPreview() {
       return img.src
     }
 
-    const [src, w] = source.srcset
+    const candidates = source.srcset
       .split(',')
       .map((c) => c.trim().split(/\s+/))
-      .sort((a, b) => parseInt(b[1]) - parseInt(a[1]))[0]
+      .sort((a, b) => parseInt(a[1]) - parseInt(b[1]))
+    const [src, w] = candidates.at(-1)
     const largest = parseInt(w)
     const needed = Math.min(innerWidth, innerHeight * ratio) * devicePixelRatio
 
@@ -137,7 +139,7 @@ function setupPreview() {
       return img.dataset.original
     }
 
-    return src
+    return candidates.find((c) => parseInt(c[1]) >= needed)?.[0] ?? src
   }
 
   // Lazy-loaded thumbnails that haven't loaded yet have no natural size.
@@ -147,7 +149,7 @@ function setupPreview() {
 
   // Preview image for img, named for the morph, decoded and ready to show.
   const load = async (img) => {
-    const hi = largestSrc(img, ratioOf(img))
+    const hi = previewSrc(img, ratioOf(img))
 
     const full = new Image()
     full.alt = img.alt
@@ -193,7 +195,7 @@ function setupPreview() {
     // Load the thumbnail too, so closing can morph into it.
     img.loading = 'eager'
     for (const n of [group[i - 1], group[i + 1]]) {
-      if (n) new Image().src = largestSrc(n, ratioOf(n))
+      if (n) new Image().src = previewSrc(n, ratioOf(n))
     }
   }
 

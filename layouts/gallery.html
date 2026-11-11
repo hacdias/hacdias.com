@@ -70,9 +70,7 @@
     {{- $heights = $heights | append (printf "--h%d: max(%s)" $n (delimit $terms ", ")) }}
   {{- end }}
 
-  {{- /*
-    Column width per viewport for sizes: the grid is min(100vw - 2rem, 80rem) wide and changes column count at the container widths in gallery.css.
-  */}}
+  {{- /* Column width per viewport for sizes */}}
   {{- $colSizes := "(min-width: 82rem) 20rem, (min-width: 45rem) 25vw, (min-width: 34rem) 34vw, (min-width: 23rem) 50vw, 100vw" }}
 
   <div class='wide archive-container'>
@@ -86,8 +84,7 @@
               "Width" .photo.width
               "Height" .photo.height
               "IsBlock" true
-              "Sizes" (slice 600 900 1800)
-              "SizesAttr" $colSizes
+              "Sizes" $colSizes
               "Page" .page
             )}}
         </a>

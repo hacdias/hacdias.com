@@ -12,13 +12,14 @@
     {{- end }}
     {{- $caption := printf "<strong>%s</strong> %s %s" (htmlEscape .name) (htmlEscape .description) $years }}
 
+    {{- /* One column below 39rem, at most 28rem wide above. */ -}}
     <a href='{{ .url }}' class='nl'{{ if (urls.Parse .url).IsAbs }} rel='noopener noreferrer'{{ end }}>
       {{ partial "helpers/figure" (dict
           "Destination" .image
           "Alt" $p.name
           "Text" $caption
           "IsBlock" true
-          "Sizes" (slice 600 900)
+          "Sizes" "(max-width: 39rem) calc(100vw - 2rem), 28rem"
           "Page" $.Page
         )}}
     </a>
