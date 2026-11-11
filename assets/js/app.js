@@ -238,7 +238,7 @@ function setupPreview() {
   prev.addEventListener('click', () => go(-1))
   next.addEventListener('click', () => go(1))
   preview.addEventListener('click', (e) => {
-    if (!e.target.closest('img, button, a, .caption')) close()
+    if (!e.target.closest('button, a, .caption')) close()
   })
 
   // One-finger swipe, mostly horizontal.

@@ -748,7 +748,6 @@ main pre {
   width: min(100cqw, 100cqh * var(--ratio));
   height: auto;
   aspect-ratio: var(--ratio);
-  cursor: default;
 }
 
 /* Grid thumbnails are cropped (object-fit: cover), so uncrop during the morph. */
