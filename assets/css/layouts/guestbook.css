@@ -2,14 +2,14 @@
   display: grid;
   display: grid-lanes;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: var(--s2);
-  margin-block: 2rem;
+  gap: var(--flow);
+  margin-block: var(--section);
 }
 
 .entry {
   --fold: 1.5rem;
   margin: 0;
-  padding: 0 var(--s2);
+  padding: 0 var(--gutter);
   background: var(--mg);
   transform: rotate(-0.5deg);
   position: relative;
@@ -52,7 +52,7 @@
 }
 
 #guestbook-form {
-  margin: 1rem 0;
+  margin: var(--flow) 0;
 }
 
 #guestbook-form > * {

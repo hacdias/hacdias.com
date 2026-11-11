@@ -36,12 +36,11 @@
             "IsBlock" true
             "Width" .width
             "Height" .height
-            "Sizes" "(max-width: 50rem) calc(100vw - 4rem), 44rem"
             "Page" $.Page
           )}}
         {{ end }}
       {{ else }}
-      {{ $sizes := cond (eq $photos 2) "(max-width: 50rem) calc((100vw - 5rem) / 2), 21.5rem" "(max-width: 50rem) calc((100vw - 6rem) / 3), 14rem" }}
+      {{ $sizes := cond (eq $photos 2) "(max-width: 50rem) 50vw, 24rem" "(max-width: 50rem) 33vw, 16rem" }}
       <div class='fg fg-{{ math.Min $photos 3 }}'>
         {{ range $i, $p := (first 3 .Params.photos) }}
           {{ if and (eq $i 2) (gt $photos 3) }}<div class='extra'><span>+{{ math.Max 0 (sub $photos 3) }}</span>{{ end }}

@@ -31,6 +31,13 @@
   --s3: 2rem;
   --s2: 1rem;
   --s1: 0.5rem;
+  --s0: 0.25rem;
+
+  /* Spacing roles */
+  --gutter: var(--s2); /* Page and card padding */
+  --flow: var(--s2); /* Between blocks */
+  --section: var(--s3); /* Above headings */
+  --gap: var(--s2); /* Grid gaps */
 
   /* Others */
   --max-width: 48rem;
@@ -134,7 +141,7 @@ h4,
 h5 {
   font-weight: 900;
   line-height: 1.3;
-  margin: 2rem 0 1rem 0;
+  margin: var(--section) 0 var(--flow) 0;
 }
 
 h1 {
@@ -188,7 +195,7 @@ a:hover {
 }
 
 li {
-  margin: 0.25em 0;
+  margin: var(--s0) 0;
 }
 
 :target {
@@ -226,7 +233,7 @@ mark {
 input,
 select,
 textarea {
-  padding: 0.5rem;
+  padding: var(--s1);
   border: var(--border);
   outline: 0;
   min-width: 0;
@@ -255,7 +262,7 @@ textarea {
 hr {
   border: 0;
   border-top: var(--border);
-  margin: var(--s2) auto;
+  margin: var(--flow) auto;
 }
 
 ul,
@@ -266,7 +273,7 @@ ol {
 figcaption {
   font-size: var(--f5);
   color: var(--light-text);
-  margin: 0.5rem 0 0;
+  margin: var(--s1) 0 0;
   font-style: italic;
   transition: color 0.2s ease;
 }
@@ -289,11 +296,11 @@ main header :is(h1, h2, p) {
 }
 
 .header-link:has(> h2) {
-  margin: 2rem 0 1rem;
+  margin: var(--section) 0 var(--flow);
 }
 
 main footer {
-  margin-top: var(--s3);
+  margin-top: var(--section);
 }
 
 main footer .tb {
@@ -302,7 +309,7 @@ main footer .tb {
 
 table {
   width: 100%;
-  margin: 1rem 0;
+  margin: var(--flow) 0;
   overflow: auto;
   border-collapse: collapse;
 }
@@ -332,7 +339,7 @@ table img {
 
 blockquote {
   font-style: italic;
-  margin-left: 2rem;
+  margin-left: var(--s3);
   margin-right: 0;
 }
 
@@ -343,7 +350,7 @@ summary {
 #container {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 0 var(--s2);
+  padding: 0 var(--gutter);
   display: grid;
   grid-template-columns: 1fr auto;
   grid-template-rows: auto auto 1fr auto;
@@ -462,12 +469,12 @@ summary {
 
 .left {
   float: left;
-  margin-right: 1rem;
+  margin-right: var(--s2);
 }
 
 .right {
   float: right;
-  margin-left: 1rem;
+  margin-left: var(--s2);
 }
 
 .inline-form {
@@ -496,7 +503,7 @@ main pre {
   border: var(--border);
   display: block;
   text-decoration: none;
-  padding: 0 var(--s2);
+  padding: 0 var(--gutter);
 }
 
 .card h2 {
@@ -528,6 +535,7 @@ main pre {
 }
 
 .card .fg {
+  --gap: var(--s1);
   grid-template-columns: repeat(3, 1fr);
 }
 
@@ -540,7 +548,7 @@ main pre {
 }
 
 .box {
-  padding: var(--s1) var(--s2);
+  padding: var(--s1) var(--gutter);
 }
 
 .box > :first-child {
@@ -752,8 +760,13 @@ main pre {
 
 .fg {
   display: grid;
-  gap: 1rem;
+  gap: var(--gap);
   grid-template-columns: repeat(2, 1fr);
+}
+
+/* Keep captions with their photo. */
+.fg:has(figcaption) {
+  row-gap: var(--flow);
 }
 
 .fg figure {
@@ -798,7 +811,7 @@ figure > .fg {
   list-style-type: none;
   line-height: 1.25;
   display: grid;
-  column-gap: 1rem;
+  column-gap: var(--s2);
   grid-template-columns: 1fr min-content;
 }
 
@@ -882,7 +895,7 @@ ul.tb > li:not(.tbm) > *:first-child,
 main header,
 figure,
 .media {
-  margin: var(--s2) 0;
+  margin: var(--flow) 0;
 }
 
 .tr {
@@ -904,7 +917,7 @@ figure,
 }
 
 #pagination {
-  margin: 1rem 0;
+  margin: var(--flow) 0;
   display: flex;
   font-weight: 700;
   overflow: hidden;
@@ -977,7 +990,7 @@ figure,
 
 @media screen and (max-width: 50rem) {
   :root {
-    --s3: 1rem;
+    --gap: var(--s1);
     --max-width: 100%;
     --f1: 1.728rem;
     --f2: 1.44rem;
@@ -992,7 +1005,7 @@ figure,
   }
 
   #container > * {
-    padding-inline: var(--s2);
+    padding-inline: var(--gutter);
   }
 
   #navbar,
@@ -1071,7 +1084,7 @@ figure,
 
 @media screen and (min-width: 50rem) {
   .wide {
-    margin-inline: calc(50% - min(50vw - 1rem, 40rem));
+    margin-inline: calc(50% - min(50vw - var(--gutter), 40rem));
   }
 }
 

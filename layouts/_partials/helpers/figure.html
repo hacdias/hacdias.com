@@ -21,7 +21,7 @@
 		<picture>
 		{{- if $id }}
 			{{- /* Default is width of content column */}}
-			{{- $sizes := or .Sizes "(max-width: 50rem) calc(100vw - 2rem), 46rem" }}
+			{{- $sizes := or .Sizes "(max-width: 50rem) 100vw, 48rem" }}
 			{{- range $f := slice "webp" "jpeg" }}
 			<source srcset="{{ range $i, $w := slice 600 900 1800 3000 }}{{ if $i }}, {{ end }}{{ printf "https://media.hacdias.com/image/%d/%s.%s" $w $id $f }} {{ $w }}w{{ end }}" sizes="{{ $sizes }}" type="image/{{ $f }}">
 			{{- end }}

@@ -12,7 +12,7 @@
     Masonry fallback for browsers without grid-lanes. For each column count N (1 to $maxCols, which must match the columns and container queries in
     gallery.css), photos go into the shortest column, scored at a width in the middle of the container widths (rem) that give N columns. Items get
     --r (height/width) plus, per N, column --xN, ratio sum above --yN and photo count above --mN; the grid gets its height --hN. gallery.css picks N with
-    container queries.
+    container queries. Scoring assumes 1rem gaps; positions use --gap.
   */}}
   {{- $maxCols := 4 }}
   {{- $cols := newScratch }}
@@ -64,7 +64,7 @@
     {{- range $c := seq 0 (sub $n 1) }}
       {{- $k := printf "%d-%d" $n $c }}
       {{- with index ($cols.Get "m") $k }}
-        {{- $terms = $terms | append (printf "calc(%v * var(--w) + %drem)" (div (float (index ($cols.Get "s") $k)) 10000) (sub . 1)) }}
+        {{- $terms = $terms | append (printf "calc(%v * var(--w) + %d * var(--gap))" (div (float (index ($cols.Get "s") $k)) 10000) (sub . 1)) }}
       {{- end }}
     {{- end }}
     {{- $heights = $heights | append (printf "--h%d: max(%s)" $n (delimit $terms ", ")) }}

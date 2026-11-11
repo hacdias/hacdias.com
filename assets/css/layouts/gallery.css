@@ -2,7 +2,7 @@
 .archive {
   grid-template-columns: repeat(
     auto-fill,
-    minmax(max(10rem, (100% - 3rem) / 4), 1fr)
+    minmax(max(10rem, (100% - 3 * var(--gap)) / 4), 1fr)
   );
 }
 
@@ -11,13 +11,13 @@
   /* Containers don't collapse margins, so take .fg's margin here. */
   .archive-container {
     container-type: inline-size;
-    margin-block: var(--s2);
+    margin-block: var(--flow);
   }
 
   .archive {
     --n: 1;
     --h: var(--h1);
-    --w: calc((100cqw - (var(--n) - 1) * 1rem) / var(--n));
+    --w: calc((100cqw - (var(--n) - 1) * var(--gap)) / var(--n));
     display: block;
     position: relative;
     height: var(--h);
@@ -29,13 +29,14 @@
     --y: var(--y1, 0);
     --m: var(--m1, 0);
     position: absolute;
-    top: calc(var(--y) * var(--w) + var(--m) * 1rem);
-    left: calc(var(--x) * (var(--w) + 1rem));
+    top: calc(var(--y) * var(--w) + var(--m) * var(--gap));
+    left: calc(var(--x) * (var(--w) + var(--gap)));
     width: var(--w);
     height: calc(var(--r) * var(--w));
     transition: none;
   }
 
+  /* N 10rem columns with gaps up to 1rem; can't use --gap here. */
   @container (min-width: 21rem) {
     .archive {
       --n: 2;

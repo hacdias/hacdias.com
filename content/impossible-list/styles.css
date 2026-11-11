@@ -1,11 +1,11 @@
 ul.checklist,
 ul.checklist ul {
   list-style: none;
-  padding-left: 0.5rem;
+  padding-left: var(--s1);
 }
 
 ul.checklist input {
-  margin-right: 0.5rem;
+  margin-right: var(--s1);
 }
 
 ul.checklist li > ul {
@@ -16,8 +16,8 @@ ul.checklist li > ul {
   margin: 0;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
-  grid-column-gap: 1rem;
-  grid-row-gap: 0.25rem;
+  grid-column-gap: var(--s2);
+  grid-row-gap: var(--s0);
 }
 
 .trips li {

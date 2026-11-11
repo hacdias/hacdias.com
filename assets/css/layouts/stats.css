@@ -8,7 +8,7 @@
   grid-template-columns: repeat(4, 1fr);
   gap: 1px;
   padding: 0;
-  margin: var(--s2) 0;
+  margin: var(--flow) 0;
   background: var(--fg);
   border: var(--border);
   border-radius: var(--radius);
@@ -99,7 +99,7 @@ a.tile:hover .num {
   grid-auto-flow: column;
   grid-auto-columns: minmax(0, 1fr);
   column-gap: var(--s1);
-  margin: var(--s2) 0;
+  margin: var(--flow) 0;
   color: var(--light-text);
   font-size: var(--f5);
   line-height: 1.2;
@@ -121,7 +121,7 @@ a.tile:hover .num {
 }
 
 .bars .total {
-  margin-bottom: 0.25rem;
+  margin-bottom: var(--s0);
 }
 
 .bars .total + * {
@@ -139,7 +139,7 @@ a.tile:hover .num {
 
 .scroll {
   overflow-x: auto;
-  margin: var(--s2) 0;
+  margin: var(--flow) 0;
 }
 
 .heatmap {
@@ -205,7 +205,7 @@ a.tile:hover .num {
   grid-column: 1 / -1;
   grid-template-columns: subgrid;
   align-items: center;
-  padding: 0.25rem 0;
+  padding: var(--s0) 0;
 }
 
 .weekdays li > :first-child {
