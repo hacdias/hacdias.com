@@ -1,5 +1,18 @@
 [
   {
+    "name": "The Forager",
+    "origin": "Halo Beriti, Gedeb, Gedio, Ethiopia",
+    "roast": "Medium",
+    "process": "Washed",
+    "variety": "Heirloom",
+    "roaster": {
+      "name": "Sprout Coffee Roasters",
+      "location": "Eindhoven, NL",
+      "website": "https://sproutcoffeeroasters.art/"
+    },
+    "date": "2026-11-10"
+  },
+  {
     "name": "Mango Tango",
     "origin": "Gedeb, Ethiopia",
     "roast": "Medium",
@@ -36,6 +49,7 @@
       "location": "Eindhoven, NL",
       "website": "https://sproutcoffeeroasters.art/"
     },
+    "rating": 7,
     "date": "2026-10-06"
   },
   {
@@ -164,7 +178,7 @@
   },
   {
     "name": "Lush Lemons",
-    "origin": "Fredi \u0026 Jaime Ortega, El Bosquecito, Bruselas, Huila, Colombia",
+    "origin": "Fredi & Jaime Ortega, El Bosquecito, Bruselas, Huila, Colombia",
     "roast": "Medium-Light",
     "process": "Washed",
     "variety": "Pink Bourbon",
@@ -192,7 +206,7 @@
   },
   {
     "name": "Ethiopia Elto Coffee Sama Washed",
-    "origin": "Eliyas Dukamo \u0026 Atiklit Dejene, Elto Sama Station, Anasora, Guji, Ethiopia",
+    "origin": "Eliyas Dukamo & Atiklit Dejene, Elto Sama Station, Anasora, Guji, Ethiopia",
     "roast": "Medium",
     "process": "Washed",
     "variety": "74158",
@@ -419,7 +433,7 @@
   },
   {
     "name": "Qalaa",
-    "origin": "Haro Sorsa, Ethiopia (Glitter Trading \u0026 Logistics)",
+    "origin": "Haro Sorsa, Ethiopia (Glitter Trading & Logistics)",
     "roast": "Medium-Light",
     "process": "Natural",
     "variety": "Heirloom",
