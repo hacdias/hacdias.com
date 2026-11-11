@@ -14,11 +14,11 @@ syndication:
   - https://fosstodon.org/@hacdias/117579763614223840
 ---
 
-The past year I've been working a lot with certificates and trust management, which can, sometimes, yield its own fun stories and learnings. Here's one: say you're given a leaf certificate and its intermediate, but not the root. Which one do you trust? Trusting the leaf may look reasonable, since that is the certificate they sign with, but it defeats the whole purpose of a trust anchor.
+The past year I've been working a lot with certificates and trust management, which can, sometimes, yield its own fun stories and learnings. Here's one: say you're given a leaf certificate and its intermediate, but not the root. Which one do you use as trust anchor? Using the leaf as trust anchor may look reasonable, since that is the certificate they sign with, but it defeats the whole purpose of a trust anchor.
 
 <!--more-->
 
-**Update**: I got asked on Mastodon what do I mean by "you can't trust the leaf certificate" if when you trust the root, you inherently trust the leaf. I thought I had been clear, but probably not enough. When I say "trust" in this post, I almost always mean "trust as _anchor_". So yes, you can and should trust a leaf certificate, but a leaf certificate shouldn't the the trust anchor.
+**Update**: I got asked on Mastodon what do I mean by "you can't trust the leaf certificate" if when you trust the root, you inherently trust the leaf. I thought I had been clear, but probably not enough. When I say "trust" in this post, I almost always mean "trust as _anchor_". So yes, you can and should trust a leaf certificate, but a leaf certificate shouldn't be the trust anchor. I've also reworked the introduction to make that clearer.
 
 For those who've worked with [X.509](https://en.wikipedia.org/wiki/X.509) certificate management, you know what the problem is, and feel free to skip the whole post. However, I wanted to write a short post on why you can't just trust a leaf certificate. X.509 works with certificate chains.
 
