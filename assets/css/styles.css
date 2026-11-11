@@ -653,6 +653,7 @@ main pre {
   align-items: center;
   justify-content: center;
   cursor: zoom-out;
+  touch-action: manipulation; /* No double-tap zoom when tapping through photos. */
   container-type: size;
 }
 
