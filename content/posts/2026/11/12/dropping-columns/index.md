@@ -8,6 +8,10 @@ tags:
   - programming
   - databases
   - infrastructure
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3n23ytg3222le
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3n23ytg3222le
+  - https://fosstodon.org/@hacdias/117602412447863610
 ---
 
 Recently, I worked on a database migration at work where I had to plan a database migration rollout across releases to avoid downtime. For this, I applied the expand and contract pattern, even though, at the time, I didn't know there was a name for it. I now realize, though, that the contract phase should've gone out in two phases.
