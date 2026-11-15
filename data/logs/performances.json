@@ -1,5 +1,16 @@
 [
   {
+    "name": "ESTRUS Tour",
+    "author": "Tove Lo",
+    "rating": 8,
+    "date": "2026-11-12T20:00:00+01:00",
+    "location": "AFAS Live, Amsterdam, NL",
+    "category": "concert",
+    "supportingAct": [
+      "Rose Gray"
+    ]
+  },
+  {
     "name": "Big Disgrace Tour",
     "author": "Haute & Freddy",
     "rating": 9,
