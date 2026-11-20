@@ -43,8 +43,6 @@ Senior Software Engineer building open source systems and products in Go and Typ
 
 <small>Role is ending in December 2026 as Animo Solutions scales back to its founding team.</small>
 
-<!-- Employed by Animo Solutions, the company behind Paradym. -->
-
 {{</ resume-position >}}
 
 {{< resume-position 
