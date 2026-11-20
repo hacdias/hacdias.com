@@ -41,6 +41,8 @@ Senior Software Engineer building open source systems and products in Go and Typ
 - Designed and built the key and trust infrastructure: hardware-backed key storage behind a provider-agnostic API (Google Cloud HSM and OpenBao), X.509 certificates and revocation, and issuer validation against EU Trusted Lists<span class="hide-print"> ([▶ demo](https://www.youtube.com/watch?v=sr3Z1uCDHK4))</span>.
 - Integrated with customers' own infrastructure: issuance through their identity provider and data sources<span class="hide-print"> ([▶ demo](https://www.youtube.com/watch?v=6NJCTI9LpIQ))</span>, so Paradym never stores personal data; verification through OpenID Connect; and an on-premise Admin API secured by their authorization server.
 
+<small>Role is ending in December 2026 as Animo Solutions scales back to its founding team.</small>
+
 <!-- Employed by Animo Solutions, the company behind Paradym. -->
 
 {{</ resume-position >}}
