@@ -9,6 +9,10 @@ tags:
   - photography
   - web
   - browsers
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3n2y6pybp22ts
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3n2y6pybp22ts
+  - https://fosstodon.org/@hacdias/117665877508284711
 ---
 
 A week or two ago, I decided to finally improve some small things around this website when it comes to photos. There were two things that were bugging me but, due to time constraints, I hadn't done them yet. But what are these things, you may ask. The first one is a pre-computed masonry layout for my photo archive, and the other one is improved photo lightboxes.
