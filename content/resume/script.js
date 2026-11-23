@@ -1,11 +1,5 @@
 const params = new URL(document.location).searchParams
 
-if (params.get('photo') === 'false') {
-  const header = document.getElementById('resume-header')
-  header.style['grid-template-columns'] = '1fr max-content'
-  header.querySelector('figure').classList.add('dn')
-}
-
 for (const id of params.getAll('hide')) {
   let el = document.getElementById(id)
   el?.classList.add('dn')

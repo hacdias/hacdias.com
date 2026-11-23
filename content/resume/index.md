@@ -7,27 +7,14 @@ description: My resume.
 
 <div id="resume-header">
 
-  <!-- Using ![]() produces a "lazy" loading picture, which doesn't load when printing in some browsers -->
-  <figure><img src="/avatar/512.jpg" alt="Henrique Dias"></figure>
+  ## Henrique Dias
 
-  <div>
-
-  Henrique Dias
-
-  Eindhoven, NL - [mail@hacdias.com](mailto:mail@hacdias.com)
-
-  </div>
-
-  - [hacdias.com](/)
-  - [github.com/hacdias](https://github.com/hacdias)
-  - [linkedin.com/in/hacdias](https://www.linkedin.com/in/hacdias/)
+  Eindhoven, The Netherlands | [github.com/hacdias](https://github.com/hacdias) | [linkedin.com/in/hacdias](https://www.linkedin.com/in/hacdias/) | [mail@hacdias.com](mailto:mail@hacdias.com) | [hacdias.com](/)
+  {.lg .small}
 
 </div>
 
 Senior Software Engineer building open source systems and products in Go and TypeScript. Spent six and a half years at Protocol Labs on IPFS, from high-traffic Go services to a widely used desktop app. Created File Browser (35K+ GitHub stars, 100M+ downloads). Now building digital identity products.
-
-<small>**Skills**: Go, TypeScript, Node.js, React, PostgreSQL, Redis, Docker, OAuth, OpenID4VC, X.509, OpenTelemetry<br>
-**Languages** (fluent): English, Dutch, Portuguese</small>
 
 ## Experience {#experience}
 
@@ -36,12 +23,12 @@ Senior Software Engineer building open source systems and products in Go and Typ
   location="Paradym (Animo Solutions)" href="https://paradym.id/"
   from="06/2025" to="present" >}}
 
+<small>Role is ending in December 2026 as Animo Solutions scales back to its founding team.</small>
+
 - Own features end to end across the TypeScript developer platform for digital credentials and its React Native [wallet](https://paradym.id/products/paradym-mobile-wallet), from protocol libraries to API and dashboard. Co-maintain [Credo](https://github.com/openwallet-foundation/credo-ts) and the OpenWallet Foundation libraries underneath.
 - Implemented OpenID4VC 1.0, the protocol behind the EU Digital Identity Wallet, and W3C VCDM 2.0 across Credo, Paradym, and Paradym Wallet as the specifications were finalized, making them interoperable with EU pilots.
 - Designed and built the key and trust infrastructure: hardware-backed key storage behind a provider-agnostic API (Google Cloud HSM and OpenBao), X.509 certificates and revocation, and issuer validation against EU Trusted Lists<span class="hide-print"> ([▶ demo](https://www.youtube.com/watch?v=sr3Z1uCDHK4))</span>.
 - Integrated with customers' own infrastructure: issuance through their identity provider and data sources<span class="hide-print"> ([▶ demo](https://www.youtube.com/watch?v=6NJCTI9LpIQ))</span>, so Paradym never stores personal data; verification through OpenID Connect; and an on-premise Admin API secured by their authorization server.
-
-<small>Role is ending in December 2026 as Animo Solutions scales back to its founding team.</small>
 
 {{</ resume-position >}}
 
@@ -136,6 +123,15 @@ Senior Software Engineer building open source systems and products in Go and Typ
 - Published a 60-page [e-book](https://media.hacdias.com/2015-02-27-aprenda-a-programar.pdf) on how to program in C for beginners at the age of 15.
 
 {{</ resume-position >}}
+
+## Skills {#skills}
+
+- **Languages** <span>Go, TypeScript, JavaScript</span>
+- **Frameworks** <span>Node.js, React, React Native</span>
+- **Infrastructure** <span>PostgreSQL, Redis, Docker, OpenTelemetry, Prometheus</span>
+- **Protocols** <span>OAuth, OpenID Connect, OpenID4VC, X.509, IPFS</span>
+- **Spoken Languages** <span>Portuguese (native), English (fluent), Dutch (fluent)</span>
+{.tb .small style="grid-template-columns: max-content 1fr;"}
 
 <p id='printing-hint' style='text-align: center'>
   <a class='button' href="javascript:print()">

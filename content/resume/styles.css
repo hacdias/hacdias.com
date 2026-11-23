@@ -1,32 +1,13 @@
 #resume-header {
   display: none;
-  grid-template-columns: 3.2rem 1fr max-content;
-  grid-gap: 0.5rem;
-  border-bottom: 1px dashed var(--c);
-  padding-bottom: 1rem;
-  align-items: center;
-  font-size: var(--f5);
 }
 
-#resume-header div p:first-of-type {
-  font-size: 2.2rem;
-  font-weight: 700;
-  line-height: 1;
-  margin-bottom: 0.1rem;
-}
-
-#resume-header ul {
-  list-style: none;
-  text-align: right;
-}
-
-#resume-header a {
-  text-decoration: none;
-}
-
-#resume-header * {
+#resume-header h2 {
   margin: 0;
-  padding: 0;
+  font-size: 2rem;
+  line-height: 30px;
+  color: var(--c);
+  border-bottom: 0;
 }
 
 .resume-position > div {
@@ -51,6 +32,11 @@
   margin-top: var(--s1);
 }
 
+.resume-position p {
+  margin: var(--s1) 0;
+  font-size: var(--f5);
+}
+
 @media screen and (max-width: 50rem) {
   .resume-position > div {
     grid-template-columns: 1fr max-content;
@@ -62,6 +48,10 @@
 }
 
 @media print {
+  @page {
+    size: A4;
+  }
+
   :root {
     --c-h: 220;
     --c-s: 50%;
@@ -73,12 +63,26 @@
     --light-text: #555555;
   }
 
+  /* Whole-pixel line heights and spacing: Chrome snaps fractional ones unevenly. */
+  html {
+    line-height: 20px;
+  }
+
+  #resume-header p {
+    margin-top: 4px;
+    line-height: 16px;
+  }
+
+  #resume-header + p {
+    margin-top: 16px;
+  }
+
   h2 {
     color: var(--c);
     break-after: avoid-page;
-    line-height: 1.5;
+    line-height: 24px;
     border-bottom: 0.5px solid var(--fg);
-    margin: 1rem 0 0.5rem;
+    margin: 16px 0 8px;
     font-size: 1.25rem;
   }
 
@@ -88,20 +92,45 @@
   }
 
   .resume-position > div {
-    margin: 1rem 0 0.25rem;
+    margin: 16px 0 4px;
+  }
+
+  .resume-position > div small {
+    line-height: 16px;
   }
 
   .resume-position h4 {
     font-size: var(--f4);
+    line-height: inherit;
   }
 
-  .resume-position {
+  .resume-position > :is(div, p) {
+    break-after: avoid;
+  }
+
+  .resume-position :is(p, ul) {
+    font-size: var(--f5);
+    line-height: 16px;
+    margin: 4px 0 0;
+  }
+
+  .resume-position li {
+    margin: 2px 0;
     break-inside: avoid;
   }
 
-  .resume-position ul {
-    font-size: var(--f5);
-    margin-top: 0.25rem;
+  #skills + .tb {
+    margin-top: 16px;
+    row-gap: 2px;
+    line-height: 16px;
+  }
+
+  #skills + .tb > li {
+    border: 0;
+  }
+
+  #skills + .tb > li > * {
+    margin: 0;
   }
 
   .resume-position ul a {
@@ -109,7 +138,7 @@
   }
 
   #resume-header {
-    display: grid;
+    display: block;
   }
 
   h2 .emoji,
