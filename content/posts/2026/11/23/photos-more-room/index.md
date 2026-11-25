@@ -19,7 +19,7 @@ A week or two ago, I decided to finally improve some small things around this we
 
 <!--more-->
 
-# Pre-Computed Masonry Layouts
+## Pre-Computed Masonry Layouts
 
 The first improvement was tackling the [photo archive](/photos/archive/) in order to properly show the full photos. Before, I was using `grid-lanes` where available, otherwise defaulting to a grid of squares, just like the apps we know. Unfortunately, the only browser that supports `grid-lanes` out of the box is Safari, so most users were seeing cropped photos.
 
@@ -38,7 +38,7 @@ There are some disadvantages to this approach compared to just doing the square 
 
 I do hope that this is no longer needed in the near future and that `grid-lanes` becomes Baseline, but this sort of browser update happens quite slowly. The bright side is that Safari already has it officially and Chrome and Firefox have it behind a flag. A year or so ago, that wasn't the case!
 
-# Improved Lightboxes
+## Improved Lightboxes
 
 Another update I made was improving the lightboxes around the photos on this website. Until now, clicking on a photo would show a larger version of it, but it wasn't necessarily a higher-resolution version of the photo. And, when it was, you'd see an empty box until the photo loaded. I fixed some things.
 
