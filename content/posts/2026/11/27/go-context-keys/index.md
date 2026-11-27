@@ -7,9 +7,13 @@ tags:
   - work
   - programming
   - go
+syndication:
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/app.bsky.feed.post/3n3bp4uq462ts
+  - at://did:plc:xsx3bphrwkgeo3qnfjhzmdra/site.standard.document/3n3bp4uq462ts
+  - https://fosstodon.org/@hacdias/117687304110634984
 ---
 
-Today I want to describe a small bug I uncovered a few years ago at work. I was working on a naming system, akin to DNS, which allowed you to provide a TTL when publishing or updating a name. After some attempts at making the TTL larger, it always remained at 0. The flag wasn't being honored!
+Today I want to describe a small bug I uncovered a few years ago at work. I was working on a naming system, akin to DNS, which allowed you to provide a <abbr title="Time To Live">TTL</abbr> when publishing or updating a name. After some attempts at making the TTL larger, it always remained at 0. The flag wasn't being honored!
 
 <!--more-->
 
