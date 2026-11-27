@@ -2,10 +2,10 @@
 title: Name
 date: {{ .Date }}
 categories:
-- writings
+  - writings
 tags:
-- reviews
-- book reviews
+  - reviews
+  - book reviews
 read:
   author: Author
   publisher: Publisher

@@ -2,9 +2,9 @@
 title: Article Title
 date: {{ .Date }}
 categories:
-- writings
+  - writings
 tags:
-- example
+  - example
 ---
 
 Code is poetry...
