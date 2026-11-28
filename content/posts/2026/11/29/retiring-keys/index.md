@@ -1,5 +1,5 @@
 ---
-title: "Retiring a Key Isn't Destroying It"
+title: Retiring a Key Isn't Destroying It
 date: 2026-11-29T09:00:00+01:00
 categories:
   - writings
